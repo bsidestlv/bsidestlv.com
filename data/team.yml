@@ -1,0 +1,178 @@
+- title: Alexia Audevart
+  type: volunteers
+  subtitle: Toulouse Data Science
+  photo: alexia_audevart.jpeg
+  socials:
+    - link: 'https://www.twitter.com/aaudevart'
+      name: Twitter
+    - link: 'https://github.com/aaudevart'
+      name: Github
+    - link: 'https://www.linkedin.com/in/alexia-audevart-450b8a1/'
+      name: Linkedin
+  key: alexia_audevart
+- title: Aurélie Vache
+  type: core
+  subtitle: Duchess France / Toulouse Data Science
+  photo: aurelie_vache.png
+  socials:
+    - link: 'https://www.twitter.com/aurelievache'
+      name: Twitter
+    - link: 'http://scraly.com/'
+      name: Site
+    - link: 'https://www.linkedin.com/in/aurelievache'
+      name: LinkedIn
+    - link: 'https://github.com/scraly'
+      name: Github
+  key: aurelie_vache
+- title: Didier Plaindoux
+  type: volunteers
+  subtitle: Toulouse JUG
+  photo: didier_plaindoux.jpeg
+  socials:
+    - link: 'https://twitter.com/dplaindoux'
+      name: Twitter
+  key: didier_plaindoux
+- title: Elodie Lerare
+  type: core
+  subtitle: ''
+  photo: elodie_lerare.jpg
+  socials:
+    - link: 'https://twitter.com/EloBlou'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/elodie-lerare-223a6b41/'
+      name: LinkedIn
+  key: elodie_lerare
+- title: Emmanuel Vinas
+  type: core
+  subtitle: GDG Toulouse
+  photo: emmanuel_vinas.jpeg
+  socials:
+    - link: 'https://twitter.com/EmmanuelVinas'
+      name: Twitter
+  key: emmanuel_vinas
+- title: Jean Martineau-Figuette
+  type: cfp
+  subtitle: React Meetup
+  photo: euzebe.jpg
+  socials:
+    - link: 'https://www.twitter.com/jeanMartiF'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/jean-martineau-figuette/'
+      name: LinkedIn
+  key: euzebe
+- title: Hadrien Toma
+  type: core
+  subtitle: ''
+  photo: hadrien_toma.jpg
+  socials:
+    - link: 'https://twitter.com/HadrienToma'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/hadrien-toma/'
+      name: LinkedIn
+  key: hadrien_thomas
+- title: Igor Laborie
+  type: core
+  subtitle: Choloepusophile
+  photo: igor_laborie.jpg
+  socials:
+    - link: 'https://twitter.com/ilaborie'
+      name: Twitter
+    - link: 'https://github.com/ilaborie'
+      name: Github
+  key: igor_laborie
+- title: Julien Del Rio
+  type: core
+  subtitle: GDG Toulouse
+  photo: julien_delrio.jpg
+  socials:
+    - link: 'https://twitter.com/JulienDelRio'
+      name: Twitter
+  key: julien_del_rio
+- title: Julien Renaux
+  type: core
+  subtitle: Président GDG Toulouse
+  photo: julien_renaux.jpg
+  socials:
+    - link: 'https://twitter.com/julienrenaux'
+      name: Twitter
+    - link: 'https://github.com/shprink'
+      name: Github
+  key: julien_renaux
+- title: Kevin Davin
+  type: core
+  subtitle: GDG Toulouse & Toulouse JUG
+  photo: kevin_davin.png
+  socials:
+    - link: 'https://twitter.com/davinkevin'
+      name: Twitter
+    - link: 'https://github.com/davinkevin/'
+      name: Github
+    - link: www.linkedin.com/in/davinkevin
+      name: LinkedIn
+  key: kevin_davin
+- title: Lionel Porcheron
+  type: volunteers
+  subtitle: Toulouse DevOps
+  photo: lionel_porcheron.jpg
+  socials:
+    - link: 'https://twitter.com/lporcheron'
+      name: Twitter
+  key: lionel_porcheron
+- title: Maxime Pawlak
+  type: core
+  subtitle: GDG Toulouse
+  photo: maxime_pawlak.jpg
+  socials:
+    - link: 'https://twitter.com/Maxime_Pawlak'
+      name: Twitter
+  key: maxime_pawlak
+- title: Michaël Pailloncy
+  type: core
+  subtitle: Toulouse JAM / JUG
+  photo: michael_pailloncy.jpg
+  socials:
+    - link: 'https://twitter.com/mpailloncy'
+      name: Twitter
+    - link: 'https://github.com/mpailloncy'
+      name: Github
+    - link: 'https://www.linkedin.com/in/michael-pailloncy-21119827/'
+      name: LinkedIn
+  key: michael_pailloncy
+- title: Serge Boucher
+  type: core
+  subtitle: ''
+  photo: serge_boucher.png
+  socials:
+    - link: 'https://twitter.com/sboucher'
+      name: Twitter
+  key: serge_boucher
+- title: Simon Chemouil
+  type: cfp
+  subtitle: Toulouse Rust Meetup
+  photo: simon_chemouil.png
+  socials:
+    - link: 'https://www.twitter.com/simach'
+      name: Twitter
+    - link: 'https://github.com/magnet'
+      name: Github
+  key: simon_chemouil
+- title: Thibault Ducret
+  type: cfp
+  subtitle: Python Toulouse
+  photo: thibault_ducret.jpeg
+  socials:
+    - link: 'https://www.tducret.com'
+      name: Site
+    - link: 'https://www.linkedin.com/in/thibaultducret'
+      name: LinkedIn
+    - link: 'https://github.com/tducret'
+      name: Github
+  key: thibault_ducret
+- title: Vincent Ferries
+  type: core
+  subtitle: Toulouse JUG
+  photo: vincent_ferries.jpg
+  socials:
+    - link: 'https://twitter.com/VincentFERRIES'
+      name: Twitter
+  key: vincent_ferries

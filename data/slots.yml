@@ -1,0 +1,180 @@
+- key: open
+  start: '08:00'
+  duration: 60
+  row:
+    start: 1
+    end: 3
+- key: keynote-open
+  start: '09:00'
+  duration: 40
+  row:
+    start: 3
+    end: 6
+- key: office-hours-0
+  start: '09:40'
+  duration: 30
+  row:
+    start: 6
+    end: 8
+- key: pause-1
+  start: '09:40'
+  duration: 20
+  row:
+    start: 6
+    end: 7
+- key: slot-1
+  start: '10:00'
+  duration: 40
+  row:
+    start: 7
+    end: 10
+- key: office-hours-1
+  start: '10:40'
+  duration: 30
+  row:
+    start: 10
+    end: 12
+- key: pause-2
+  start: '10:40'
+  duration: 20
+  row:
+    start: 10
+    end: 11
+- key: slot-2
+  start: '11:00'
+  duration: 40
+  row:
+    start: 11
+    end: 14
+- key: office-hours-2
+  start: '11:40'
+  duration: 30
+  row:
+    start: 14
+    end: 16
+- key: pause-3
+  start: '11:40'
+  duration: 20
+  row:
+    start: 14
+    end: 15
+- key: slot-3
+  start: '12:00'
+  duration: 40
+  row:
+    start: 15
+    end: 18
+- key: office-hours-3
+  start: '12:40'
+  duration: 30
+  row:
+    start: 18
+    end: 20
+- key: slot-lt-1
+  start: '12:50'
+  duration: 15
+  row:
+    start: 19
+    end: 21
+- key: office-hours-lt-1
+  start: '13:05'
+  duration: 30
+  row:
+    start: 21
+    end: 22
+- key: lunch
+  start: '13:05'
+  duration: 60
+  row:
+    start: 21
+    end: 23
+- key: slot-lt-2
+  start: '14:05'
+  duration: 15
+  row:
+    start: 23
+    end: 25
+- key: office-hours-lt-2
+  start: '14:20'
+  duration: 30
+  row:
+    start: 25
+    end: 27
+- key: slot-4
+  start: '14:30'
+  duration: 40
+  row:
+    start: 26
+    end: 29
+- key: office-hours-4
+  start: '15:10'
+  duration: 30
+  row:
+    start: 29
+    end: 31
+- key: pause-4
+  start: '15:10'
+  duration: 20
+  row:
+    start: 29
+    end: 30
+- key: slot-5
+  start: '15:30'
+  duration: 40
+  row:
+    start: 30
+    end: 33
+- key: office-hours-5
+  start: '16:10'
+  duration: 30
+  row:
+    start: 33
+    end: 35
+- key: pause-5
+  start: '16:10'
+  duration: 20
+  row:
+    start: 33
+    end: 34
+- key: slot-6
+  start: '16:30'
+  duration: 40
+  row:
+    start: 34
+    end: 37
+- key: office-hours-6
+  start: '17:10'
+  duration: 30
+  row:
+    start: 37
+    end: 39
+- key: pause-6
+  start: '17:10'
+  duration: 20
+  row:
+    start: 37
+    end: 38
+- key: slot-7
+  start: '17:30'
+  duration: 40
+  row:
+    start: 38
+    end: 41
+- key: office-hours-7
+  start: '18:10'
+  duration: 30
+  row:
+    start: 41
+    end: 43
+- key: keynote-close
+  start: '18:20'
+  duration: 40
+  row:
+    start: 42
+    end: 45
+- key: party
+  start: '19:30'
+  duration: 240
+  row:
+    start: 46
+    end: 48
