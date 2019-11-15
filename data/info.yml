@@ -1,0 +1,16 @@
+id: HJRThubF4uYPkb7jSUxi
+name: DevFest Toulouse 2019
+address:
+  formattedAddress: '11 Espl. Compans Caffarelli, 31000 Toulouse, France'
+  locality:
+    short_name: Toulouse
+    long_name: Toulouse
+  country:
+    short_name: FR
+    long_name: France
+  latLng:
+    lat: 43.6115538
+    lng: 1.4345827
+dates:
+  start: '2019-10-03T10:00:00.000Z'
+  end: '2019-10-03T10:00:00.000Z'
