@@ -9,15 +9,15 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2019" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2020" %}}
 
-## October 3rd, 2019
-### Pierre Baudis congress center
+## July 2nd, 2020
+### Tel Aviv University
 
 {{% /jumbo %}}
 
 
-{{% home-info what="Participants:1000,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
+{{% home-info what="Participants:1200+,Day:2,Sessions:18,CTF Challenges:42" class="primary" %}}
 ## What is BSides Tel Aviv
 
 Started by a group of hackers, security researchers and people passionate about cyber security, who are keen to share their knowledge and ideas, Security Bsides is a global network of community oriented, grassroots non-profit security events taking place anywhere from Athens, to São Paulo!
@@ -32,22 +32,21 @@ From the Bsides Community Wiki:  “Bsides creates opportunities for individuals
 <!-- ... -->
 
 
+<!-- ..
 
 {{% home-speakers %}}
 ## Featured Speakers
-
-<!--
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
---> 
+
 
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
 
 {{% /home-speakers %}}
-
+-->
 
 <!-- ... -->
 
@@ -59,48 +58,27 @@ From the Bsides Community Wiki:  “Bsides creates opportunities for individuals
 
 <!-- ... -->
 
-<!--
+<!-- .. -->
 {{% home-tickets %}}
 # Tickets
 
-<a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+<!-- <a class="btn primary" href="https://tickets.bsidestlv.com" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a> -->
 
 <ul>
-<li>{{< ticket name="Blind Birds"
-           starts="2019-03-25"
-           ends="2019-04-25"
-           price="40 €"
-           info="50 first places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
-<li>{{< ticket name="Early Birds"
-           starts="2019-04-25"
-           ends="2019-06-22"
-           price="60 €"
-           info="80 first places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 <li>{{< ticket name="Normal"
-           starts="2019-06-22"
-           ends="2019-10-03"
-           price="80 €"
-           info="300 last places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
+           starts="2020-05-01"
+           ends="2020-07-01"
+           price="FREE"
+           info="General admission"
+           soldOut="false"
+           url="https://tickets.bsidestlv.com" >}}</li>
 </ul>
 
-\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
-
 {{% /home-tickets %}}
--->
 
 <!-- ... -->
 
-{{% home-location
-    image="/images/map.jpg"
-    address="Bar Shira Auditorium, Tel Aviv University"
-    latitude="32.1116638"
-    longitude="34.8003584" %}}
+{{% home-location address="Bar Shira Auditorium, Tel Aviv University" %}}
 
 ## The venue
 
@@ -114,7 +92,7 @@ BSidesTLV2019 will take place at Bar Shira Auditorium, Tel Aviv University
 
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
-### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
+### Some pictures of the **BSidesTLV 2019** with the 👾 _retro-gaming_ theme.
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
     See all photos
@@ -123,8 +101,8 @@ BSidesTLV2019 will take place at Bar Shira Auditorium, Tel Aviv University
 
 {{% /album  %}}
 
-<!-- ... --> 
+<!-- ... -->
 
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
-## Partners
+{{% partners categories="venue,titanium,platinum,gold,silver" %}}
+## Sponsors
 {{% /partners %}}
