@@ -1,0 +1,2 @@
+  - Add sponsors
+  - Partners h3 design
