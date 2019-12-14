@@ -2,7 +2,7 @@
 key: icrc
 title: ICRC
 category: venue
-logo: /images/partners/venue/icrc.jpg
+logo: /images/partners/icrc.jpg
 website: 'https://icrc.tau.ac.il/'
 socials: []
 ---

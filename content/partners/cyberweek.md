@@ -2,7 +2,7 @@
 key: cyberweek
 title: TAU Cyberweek 2019
 category: venue
-logo: /images/partners/venue/cyberweek.jpg
+logo: /images/partners/cyberweek.jpg
 website: 'https://cyberweek.tau.ac.il/2019/'
 socials: []
 ---
