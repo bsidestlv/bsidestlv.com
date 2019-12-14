@@ -23,26 +23,27 @@ Be aware that at mid terms, we will select our “early speakers”, so do not w
     </item>
     
     <item>
-      <title>Get ready for DevFest Toulouse 2019!</title>
-      <link>https://bsidestlv.com/blog/get-ready-for-2019/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <title>CTF</title>
+      <link>https://bsidestlv.com/blog/ctf/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/blog/get-ready-for-2019/</guid>
-      <description>Today it is with great pleasure that we announce you that the 4th edition of DevFest Toulouse will take place October 3rd 2019 at the center of congress Pierre Baudis.
-As last year, the event will be right in the city center, in the Compans Cafarelli neighborhood. The center of congress Pierre Baudis is accessible by the subway, bus or even by car. This year we will have more space, more sponsors and more attendees</description>
+      <guid>https://bsidestlv.com/blog/ctf/</guid>
+      <description>Hall of Fame ##2018
+Honorable Mention: @doadam – Adam Donenfeld
+1st place: reclass (Nir Lavi and Intel’s team)
+2nd place: babyr00t (known also as dm0n)
+3rd place : JCTF (@schturdel, @nmontag, @YaakovCohen88 and Israel Erlich)
+2018 CTF One of our volunteers was kind enough to deliver a care package to the person who solved everything first! (Adam Donenfeld) – while not eligeble to win, he did solve everything first. 2018 Challenges    # Challenge Author     1 IAmBrute Tomer Zait and Nimrod Levy   2 Redirect me Tomer Zait and Nimrod Levy   3 IH8emacs Tomer Zait and Nimrod Levy   4 I’m Pickle Rick!</description>
     </item>
     
     <item>
-      <title>[Contest] Find out when is the 2019 edition taking place</title>
-      <link>https://bsidestlv.com/blog/find-out-when-is-edition-2019-contest/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Hiring Ground</title>
+      <link>https://bsidestlv.com/blog/hiring_ground/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/blog/find-out-when-is-edition-2019-contest/</guid>
-      <description>Today we released the following tweet:
-📅 L&amp;#39;édition du DevFest Toulouse 2019 est en cours de préparation. Sois le premier à découvrir la date ! https://t.co/Yo5bR1VNAv?
-La première personne à trouver gagnera une surprise ! 🎁#DevFestToulouse pic.twitter.com/1EGfaJ80DE
-&amp;mdash; DevFest Toulouse (@DevFestToulouse) January 21, 2019  We created this contest to engage our community and it did not take long (around 20 minutes) until we got a winner 😱!
-Bravo à toutes les personnes qui ont décodées la date de la prochaine édition du #DevFestToulouse.</description>
+      <guid>https://bsidestlv.com/blog/hiring_ground/</guid>
+      <description>BSidesTLV 2019 Hiring Ground - 24.6 10:00-16:00 This is the first year we are doing our BSidesTLV “Hiring Ground”. We are doing our best to have a wonderful event, but please make allowances for any mistakes we might make. Our hope is that this part of the event will be focused on helping members of our community find their next positions, and connect them with potential employers.
+Agenda The hiring ground will operate at the 24.</description>
     </item>
     
     <item>
@@ -115,15 +116,6 @@ Au cours de cette session, nous vous proposons de découvrir ARCore, via l’uti
     </item>
     
     <item>
-      <title>Airbus</title>
-      <link>https://bsidestlv.com/partners/platinium/airbus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/platinium/airbus/</guid>
-      <description>Airbus is an international pioneer in the aerospace industry and a leader in designing, manufacturing and delivering aerospace products, services and solutions to customers on a global scale. We believe that it’s not just what we make, but how we make it that counts; promoting responsible, sustainable and inclusive business practices and acting with integrity. Our people work with passion and determination to make the world a more connected, safer and smarter place, on the ground, in the sky and in space.</description>
-    </item>
-    
-    <item>
       <title>Alexia Audevart</title>
       <link>https://bsidestlv.com/team/volunteers/alexia_audevart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -144,15 +136,6 @@ Et avez-vous exploré toutes les possibilités que VS Code offre quand vous util
     </item>
     
     <item>
-      <title>Altran</title>
-      <link>https://bsidestlv.com/partners/soutien/altran/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/altran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Applications de Brainfuck, langage minimaliste mais Turing-complet</title>
       <link>https://bsidestlv.com/sessions/applications_de_brainfuck__langage_minimaliste_mais_turing_complet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -163,41 +146,12 @@ Et en pratique ? Après une explication du langage (avec 8 instructions c’est 
     </item>
     
     <item>
-      <title>APSIDE</title>
-      <link>https://bsidestlv.com/partners/gold/apside/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/apside/</guid>
-      <description>APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l&amp;rsquo;écosystème IT sur leurs projets innovants. Tous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ &amp;hellip; Nous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d&amp;rsquo;architecture, produits complets, sujets porteurs et utiles&amp;hellip; C&amp;rsquo;est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.</description>
-    </item>
-    
-    <item>
       <title>Authentication/Authorization Starters Battle</title>
       <link>https://bsidestlv.com/sessions/authentication_authorization_starters_battle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bsidestlv.com/sessions/authentication_authorization_starters_battle/</guid>
       <description>When you start a brand new app or service, you need to think about how you will manage authentication and permissions. But if you are like everyone else, you genuinely do not want to actually think about this. If someone else could do that for you, life would be great. And this has actually happened, you have the choice between several boilerplate projects or authentication/authorization libraries. In fact, you have a lot of options.</description>
-    </item>
-    
-    <item>
-      <title>AXILEO</title>
-      <link>https://bsidestlv.com/partners/gold/axileo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/axileo/</guid>
-      <description>AXILEO est spécialisée dans l&amp;rsquo;innovation et la transformation digitale des entreprises. La société se distingue par un management innovant, sur le modèle de l&amp;rsquo;entreprise libérée, où les salariés participent et définissent la stratégie de l&amp;rsquo;entreprise.</description>
-    </item>
-    
-    <item>
-      <title>Berger Levrault</title>
-      <link>https://bsidestlv.com/partners/gold/berger_levrault/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/berger_levrault/</guid>
-      <description>Berger-Levrault, éditeur de logiciel international et multisectoriel, accompagne les professionnels privés et publics à répondre aux exigences croissantes de performance dans leurs métiers et les citoyens dans leur vie quotidienne.
-Le Groupe adresse les secteurs suivants : Secteur public local; Social et médico-social; Sanitaire; Entreprises et industrie; Éducation.
-Pour l’ensemble de ses secteurs d’activité, Berger-Levrault a développé une gamme de logiciels et de services adaptée aux besoins spécifiques de chaque métier.</description>
     </item>
     
     <item>
@@ -211,58 +165,12 @@ Durant ce temps, loin de ces vicissitudes, la petite saveur basique vanille fait
     </item>
     
     <item>
-      <title>Capgemini</title>
-      <link>https://bsidestlv.com/partners/platinium/capgemini/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/platinium/capgemini/</guid>
-      <description>Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations.</description>
-    </item>
-    
-    <item>
-      <title>Cenareo</title>
-      <link>https://bsidestlv.com/partners/platinium/cenareo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/platinium/cenareo/</guid>
-      <description>Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone. Created by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees. The company has ambitious targets and a Global outlook.</description>
-    </item>
-    
-    <item>
-      <title>Cirruseo part of Accenture</title>
-      <link>https://bsidestlv.com/partners/gold/cirruseo_part_of_accenture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/cirruseo_part_of_accenture/</guid>
-      <description>Créé en 2011, Cirruseo est l’un des principaux partenaires de Google Cloud en France et l’un des plus importants acteurs français spécialisés exclusivement dans les services Google Cloud. Cirruseo accompagne ses clients dans leur transformation numérique, de l’expérience collaborateur autour des solutions Chrome et G Suite, à celle des métiers avec les services de Google Cloud Platform. Les solutions digitales de Cirruseo sont mobiles, intègrent la Data et l’Analytics by design, et sont conçues pour et par le Cloud.</description>
-    </item>
-    
-    <item>
-      <title>CNES</title>
-      <link>https://bsidestlv.com/partners/soutien/cnes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/cnes/</guid>
-      <description>Le CNES propose aux pouvoirs publics la politique spatiale de la France et la met en oeuvre dans 5 grands domaines stratégiques : Ariane, les Sciences, l’Observation, les Télécommunications et la Défense.</description>
-    </item>
-    
-    <item>
       <title>Code of Conduct</title>
       <link>https://bsidestlv.com/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bsidestlv.com/code-of-conduct/</guid>
       <description>1. Purpose A primary goal of GDG Toulouse is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). GDG Toulouse prides itself on being an open, respectful, and inclusive community. That means the jerky behavior isn’t allowed at GDG meetings.</description>
-    </item>
-    
-    <item>
-      <title>commit42</title>
-      <link>https://bsidestlv.com/partners/soutien/commit42/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/commit42/</guid>
-      <description>Studio d&amp;rsquo;innovation web commit42 est spécialisé dans les technologies React, PHP, NodeJS, Magento et PWA.
-Nos projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques dont des Web App PWA.</description>
     </item>
     
     <item>
@@ -276,12 +184,13 @@ Dans ce talk je présenterai: - L&amp;rsquo;émulateur QEMU - La réalisation d&
     </item>
     
     <item>
-      <title>Continental</title>
-      <link>https://bsidestlv.com/partners/gold/continental/</link>
+      <title>Cybereason</title>
+      <link>https://bsidestlv.com/partners/cybereason/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/partners/gold/continental/</guid>
-      <description>Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. Founded in 1871, the technology company offers safe, efficient, intelligent, and affordable solutions for vehicles, machines, traffic and transportation. In 2018, Continental generated sales of €44.4 billion and currently employs around 245,000 people in 60 countries and markets.</description>
+      <guid>https://bsidestlv.com/partners/cybereason/</guid>
+      <description>Intel is a nice company
+Learn more at https://cyberweek.tau.ac.il/2019/</description>
     </item>
     
     <item>
@@ -293,15 +202,6 @@ Dans ce talk je présenterai: - L&amp;rsquo;émulateur QEMU - La réalisation d&
       <description>Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n&amp;rsquo;était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.
 Plus maintenant.
 Entre en scène Quarkus, une stack Java orientée microservices qui supporte vos composants favoris (Hibernate, Vert.x, Camel, RESTEasy &amp;hellip;) sur GraalVM et HotSpot avec une faible empreinte mémoire et un démarrage rapide.</description>
-    </item>
-    
-    <item>
-      <title>DECASOFT</title>
-      <link>https://bsidestlv.com/partners/soutien/decasoft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/decasoft/</guid>
-      <description>Une société à taille humaine spécialisée en développement web et mobile implantée sur la ville lumière et la ville rose – Paris et Toulouse. Nous assurons l’évolution professionnelle de nos collaborateurs vers de nouvelles technologies afin de calibrer nos postes selon leurs envies. Pour casser la routine, retrouvez-nous au baby-foot et aux soirées afterwork. Nous pouvons par ailleurs vous garantir une ambiance dynamique et 100% conviviale.</description>
     </item>
     
     <item>
@@ -324,15 +224,6 @@ Let&amp;rsquo;s dig in what it takes to achieve DevOps in large companies, with 
     </item>
     
     <item>
-      <title>Duchess FR</title>
-      <link>https://bsidestlv.com/partners/communautes/duchess-fr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/communautes/duchess-fr/</guid>
-      <description>Find Duchess FR on https://www.duchess-france.org/</description>
-    </item>
-    
-    <item>
       <title>Déjeuner</title>
       <link>https://bsidestlv.com/sessions/__lunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -349,24 +240,6 @@ Let&amp;rsquo;s dig in what it takes to achieve DevOps in large companies, with 
       <guid>https://bsidestlv.com/sessions/developpeurs_en_reconversion__developpeurs_quand_meme__/</guid>
       <description>Ces dernières années, les &amp;ldquo;fabriques de dev&amp;rdquo; et autres formations courtes explosent. C&amp;rsquo;est un fait, tout dev a été ou sera amené à travailler avec l&amp;rsquo;un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourquoi une reconversion dans ce genre d&amp;rsquo;organisation ? Qu&amp;rsquo;ont-ils appris lors de leur formation express ? C&amp;rsquo;est fiable ce genre de dev ? Comment puis-je les intégrer au mieux dans ma structure ?
 Autant de questions que vous vous êtes sans doute déjà posées.</description>
-    </item>
-    
-    <item>
-      <title>Elastic</title>
-      <link>https://bsidestlv.com/partners/gold/elastic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/elastic/</guid>
-      <description>Nous sommes les créateurs de la suite Elastic: Elasticsearch, Kibana, Beats et Logstash. Recherchez, analysez et visualisez vos données da façon sécurisée et fiable.</description>
-    </item>
-    
-    <item>
-      <title>Epitech</title>
-      <link>https://bsidestlv.com/partners/soutien/epitech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/epitech/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -390,57 +263,42 @@ One approach to get familiar with a system is a long and intense reading the man
     </item>
     
     <item>
-      <title>GDG Toulouse</title>
-      <link>https://bsidestlv.com/partners/communautes/gdg-toulouse/</link>
+      <title>HackerOne</title>
+      <link>https://bsidestlv.com/partners/hackerone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/partners/communautes/gdg-toulouse/</guid>
-      <description>Find GDG Toulouse on https://www.gdgtoulouse.fr/</description>
+      <guid>https://bsidestlv.com/partners/hackerone/</guid>
+      <description>Intel is a nice company
+Learn more at https://cyberweek.tau.ac.il/2019/</description>
     </item>
     
     <item>
-      <title>GitHub</title>
-      <link>https://bsidestlv.com/partners/gold/github/</link>
+      <title>HackTheBox</title>
+      <link>https://bsidestlv.com/partners/hackthebox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/partners/gold/github/</guid>
-      <description>GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies.</description>
+      <guid>https://bsidestlv.com/partners/hackthebox/</guid>
+      <description>Intel is a nice company
+Learn more at https://cyberweek.tau.ac.il/2019/</description>
     </item>
     
     <item>
-      <title>Google</title>
-      <link>https://bsidestlv.com/partners/soutien/google/</link>
+      <title>ICRC</title>
+      <link>https://bsidestlv.com/partners/icrc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/partners/soutien/google/</guid>
-      <description></description>
+      <guid>https://bsidestlv.com/partners/icrc/</guid>
+      <description>Find ICRC on https://icrc.tau.ac.il/</description>
     </item>
     
     <item>
-      <title>Groupe Pierre Fabre</title>
-      <link>https://bsidestlv.com/partners/gold/groupe_pierre_fabre/</link>
+      <title>Intel</title>
+      <link>https://bsidestlv.com/partners/intel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/partners/gold/groupe_pierre_fabre/</guid>
-      <description>Créé en 1962 par Pierre Fabre, pharmacien d’officine à Castres (Tarn), le Groupe Pierre Fabre est présent depuis plus de 50 ans sur un continuum d’activités allant des médicaments de prescription aux soins dermo-cosmétiques en passant par la santé grand public. 2ème laboratoire dermo-cosmétique mondial et 2ème groupe pharmaceutique privé français, Pierre Fabre emploie près de 11 000 collaborateurs, détient des filiales dans 47 pays et distribue ses produits dans plus de 130 pays.</description>
-    </item>
-    
-    <item>
-      <title>Informatique Banque Populaire</title>
-      <link>https://bsidestlv.com/partners/gold/informatique_banque_populaire/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/informatique_banque_populaire/</guid>
-      <description>Informatique Banque Populaire, filiale du groupe bancaire BPCE, assure le développement informatique du système d’information des Banques Populaires.</description>
-    </item>
-    
-    <item>
-      <title>Infotel</title>
-      <link>https://bsidestlv.com/partners/gold/infotel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/infotel/</guid>
-      <description>Acteur européen de la transformation numérique des entreprises, le groupe Infotel est l’interlocuteur privilégié des directions Informatiques et Métiers de Grands Comptes depuis près de 40 ans. Infotel leur apporte son expertise reconnue dans la gestion et l’évolution de leur patrimoine informatique mais aussi le conseil auprès des métiers et services innovants intégrant les technologies digitales ainsi qu’une expertise Big Data et mobile. Infotel développe son savoir-faire dans les secteurs de la Banque, de l’Assurance, de la Retraite, de l’Industrie et des Transports en s’appuyant sur l’innovation et la R&amp;amp;D.</description>
+      <guid>https://bsidestlv.com/partners/intel/</guid>
+      <description>Intel is a nice company
+Learn more at https://cyberweek.tau.ac.il/2019/</description>
     </item>
     
     <item>
@@ -454,39 +312,12 @@ Quand on souhaite les traiter automatiquement, tous ces problèmes peuvent être
     </item>
     
     <item>
-      <title>Intuiface</title>
-      <link>https://bsidestlv.com/partners/startup/intuiface/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/startup/intuiface/</guid>
-      <description>Intuiface is the world’s premier platform for creating, deploying, measuring and managing deeply interactive digital experiences without writing code. Over 1500 companies across 70+ countries are connecting people to place using interactive options such as touch, RFID/NFC, beacons, Web APIs, Internet of Things, and much more. For any industry – including retail, hospitality, real estate, tourism, education – and for any intent – from digital signs to self-service kiosks and assisted selling.</description>
-    </item>
-    
-    <item>
-      <title>Ippon</title>
-      <link>https://bsidestlv.com/partners/gold/ippon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/ippon/</guid>
-      <description>Ippon est un cabinet de conseil qui accélère les projets innovants de ses clients de la page blanche au Cloud. Nos équipes dans le monde accompagnent les organisations dans la transformation d&amp;rsquo;idées innovantes en solutions logicielles de haute qualité avec un focus particulier sur le Time To Market.</description>
-    </item>
-    
-    <item>
       <title>Jean Martineau-Figuette</title>
       <link>https://bsidestlv.com/team/cfp/euzebe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bsidestlv.com/team/cfp/euzebe/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>JFrog</title>
-      <link>https://bsidestlv.com/partners/gold/jfrog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/jfrog/</guid>
-      <description>JFrog - The Liquid Software Company</description>
     </item>
     
     <item>
@@ -559,15 +390,6 @@ Mais avant d&amp;rsquo;en arriver à ce sommet indépassable, il a tout de même
     </item>
     
     <item>
-      <title>Liberty Rider</title>
-      <link>https://bsidestlv.com/partners/soutien/liberty_rider/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/liberty_rider/</guid>
-      <description>Sauver des vies ! L&amp;rsquo;application Liberty Rider est pensée comme un guide sherpa, un carnet de route, un passeport. Elle permet au motard de gagner sa liberté en toute sérénité. Préparation, accompagnement, suivi, et plus que tout, protection. Nous mettons l’intelligence artificielle au service de l’utilisateur. Grâce à des algorithmes inédits, nous sommes capable d’appeler les secours en cas d’accident et d&amp;rsquo;émettre une alerte à l’approche d’un virage dangereux pour signaler un danger.</description>
-    </item>
-    
-    <item>
       <title>Lionel Porcheron</title>
       <link>https://bsidestlv.com/team/volunteers/lionel_porcheron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -585,16 +407,6 @@ Mais avant d&amp;rsquo;en arriver à ce sommet indépassable, il a tout de même
       <description>Sans nécessiter de formation musicale pointue, tout développeur peut créer des morceaux qui sonnent bien et faire du &amp;ldquo;live coding&amp;rdquo; pour improviser en direct.
 Après un rapide tour d&amp;rsquo;horizon des environnements de codage musical comme Sonic-Pi en Ruby ou FoxDot en Python, on codera/composera en live un morceau de musique électro avec comme seul outil un navigateur web, les API WebAudio et WebMIDI et la librairie Tone.js.
 Quelques samples bien choisis, une pincée de séquences harmonieuses, une bonne dose d&amp;rsquo;aléatoire encadré, et hop, tout le monde se mettra à danser !</description>
-    </item>
-    
-    <item>
-      <title>Lyra Network</title>
-      <link>https://bsidestlv.com/partners/gold/lyra_network/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/lyra_network/</guid>
-      <description>LYRA NETWORK est née en 2001 de la rencontre entre des savoir-faire, la technologie et l’esprit visionnaire de ses fondateurs. Leader en France dans la sécurisation des paiements, Lyra Network offre des services à valeurs ajoutées pour le commerce de proximité et le paiement en ligne (PayZen®).
-Sa présence internationale, fait de cette société 100% Française, un acteur incontournable du marché de la monétique. Nos clients tels que les banques, les collectivités, les e-commerçants et le commerce de détail s’appuient sur nos outils pour connecter, sécuriser et gérer leurs données sensibles.</description>
     </item>
     
     <item>
@@ -632,35 +444,6 @@ Sa présence internationale, fait de cette société 100% Française, un acteur 
       <guid>https://bsidestlv.com/sessions/monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques/</guid>
       <description>Comment faire quand on doit faire le suivi de toute l&amp;rsquo;infrastructure du plus grand fournisseur de cloud Européen ? Comment choisir un outil quand les plus populaires ne tient pas la marée à cette échelle ? Comment construire une plateforme Metrics pour unifier, concilier et remplacer des années de legacy fragmenté et des solutions partielles ?
 Dans ce talk nous racontons notre expérience sur la construction et la maintenance d&amp;rsquo;OVH Metrics, la plateforme utilisée pour monitorer toute l&amp;rsquo;infrastructure OVH.</description>
-    </item>
-    
-    <item>
-      <title>MonkeyPatch</title>
-      <link>https://bsidestlv.com/partners/gold/monkeypatch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/monkeypatch/</guid>
-      <description>MonkeyPatch est avant tout une équipe constituée de développeurs ayant de solides bagages techniques et des références significatives dans les nouvelles technos et les architectures modernes.
-Avec au moins 5 ans d’expérience, chacun de nous souhaite rester au plus près du code et partager sa passion de l&amp;rsquo;informatique avec la communauté de développeurs et les équipes de nos clients. Experts en Web, Mobile, Cloud, DevOps et/ou BigData, nous intervenons en tant qu’architecte et développeur senior sur des stacks modernes pour aider nos clients à relever leurs challenges technologiques.</description>
-    </item>
-    
-    <item>
-      <title>Morning</title>
-      <link>https://bsidestlv.com/partners/soutien/morning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/morning/</guid>
-      <description>Au pied des Pyrénées, Morning et son équipe (ré)inventent les usages financiers. Dans un cadre authentique, l’équipe imagine et développe des solutions innovantes pour gérer son argent, disposer de moyens de paiement innovants et bénéficier de services sur-mesure.
-Aujourd’hui Morning c’est : Plus 150.000 comptes de paiement Morning Plus de 50 millions d’euros collectés sur les cagnottes Plus d’un million de transactions traitées avec succès !</description>
-    </item>
-    
-    <item>
-      <title>NEO-SOFT Groupe</title>
-      <link>https://bsidestlv.com/partners/gold/neo_soft_groupe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/neo_soft_groupe/</guid>
-      <description>Créé en 2005 à Rennes par son PDG actuel Soïg, le Groupe Néo-Soft est aujourd’hui reconnu pour l’expertise de ses 1 300 consultants et ses 16 implantations. Néo-Soft est une société de Conseil en Informatique et Technologies spécialisée dans 5 domaines : - Conseil &amp;amp; Gestion de projet - Domaine applicatif - Infrastructures &amp;amp; Réseaux - Cybersécurité grâce notre filiale dédiée Cogital - Data Intégrer Néo-Soft c&amp;rsquo;est la possibilité de développer son expertise dans une entreprise innovante et responsable où la proximité est une réalité.</description>
     </item>
     
     <item>
@@ -763,25 +546,6 @@ Aujourd’hui Morning c’est : Plus 150.000 comptes de paiement Morning Plus de
     </item>
     
     <item>
-      <title>OneStock</title>
-      <link>https://bsidestlv.com/partners/startup/onestock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/startup/onestock/</guid>
-      <description>Basée en France et au Royaume-Uni, OneStock propose une suite logicielle omnicanale d’Order Management à destination des retailers souhaitant rendre agile la gestion de leurs commandes, offrir la meilleure expérience client et booster leurs ventes.</description>
-    </item>
-    
-    <item>
-      <title>OpenAirlines</title>
-      <link>https://bsidestlv.com/partners/startup/openairlines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/startup/openairlines/</guid>
-      <description>Partant du constat que chaque année près de 660 millions de tonnes de CO2 sont émises par les avions, soit plus de 20 000 kilos de CO2 par seconde, cette clean-tech a décidé d’agir en développant des solutions innovantes pour aider les compagnies aériennes à réduire leurs coûts et leur impact environnemental.
-Fruit de 7 ans de R&amp;amp;D, le logiciel d’éco-pilotage SkyBreathe® Fuel Efficiency sort sur le marché en 2013. S’appuyant sur des algorithmes de Big Data, d’Intelligence Artificielle et de Machine Learning, le logiciel analyse automatiquement les très nombreuses données disponibles dans les boites noires des avions afin d’évaluer l’efficacité énergétique des vols et émettre des recommandations permettant de réduire la consommation de carburant et les émissions de CO2 des avions.</description>
-    </item>
-    
-    <item>
       <title>Party time...</title>
       <link>https://bsidestlv.com/sessions/__party/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -807,24 +571,6 @@ Fruit de 7 ans de R&amp;amp;D, le logiciel d’éco-pilotage SkyBreathe® Fuel E
       <guid>https://bsidestlv.com/sessions/premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core/</guid>
       <description>De nombreux services en ligne existent pour gérer en toute sécurité des appareils IoT à grande échelle : &amp;ldquo;Azure IoT&amp;rdquo; de Microsoft et &amp;ldquo;AWS IoT&amp;rdquo; d&amp;rsquo;Amazon sont parmi les plus connus.
 Google propose également sa solution : &amp;ldquo;Cloud IoT&amp;rdquo; basée sur la plate-forme Google Cloud (GCP). Dans ce talk, nous partirons d&amp;rsquo;un microcontrôleur neuf ultra connu et abordable, et notre but sera tout d&amp;rsquo;abord de découvrir comment écrire du code pour ce composant nous permettant de récupérer des informations sur notre environnement.</description>
-    </item>
-    
-    <item>
-      <title>Programmez</title>
-      <link>https://bsidestlv.com/partners/media/programmez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/media/programmez/</guid>
-      <description>Find Programmez on https://www.programmez.com/</description>
-    </item>
-    
-    <item>
-      <title>Python Toulouse</title>
-      <link>https://bsidestlv.com/partners/communautes/python-toulouse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/communautes/python-toulouse/</guid>
-      <description>Find Python Toulouse on https://www.meetup.com/Python-Toulouse/</description>
     </item>
     
     <item>
@@ -859,30 +605,12 @@ However, all popular managed languages with garbage collection take memory safet
     </item>
     
     <item>
-      <title>Rust Toulouse</title>
-      <link>https://bsidestlv.com/partners/communautes/rust-toulouse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/communautes/rust-toulouse/</guid>
-      <description>Find Rust Toulouse on meetup</description>
-    </item>
-    
-    <item>
       <title>Rust, WebAssembly, and the future of Serverless</title>
       <link>https://bsidestlv.com/sessions/rust__webassembly__and_the_future_of_serverless/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bsidestlv.com/sessions/rust__webassembly__and_the_future_of_serverless/</guid>
       <description>A lot of things have been said about WebAssembly inside of the browser; after all, that&amp;rsquo;s why it was originally created. But a new case is emerging as well, and that&amp;rsquo;s WebAssembly on the server. More specifically, we&amp;rsquo;re seeing a rise of support for WebAssembly in serverless application platforms, combining two brand-new technologies together. We&amp;rsquo;re also seeing a lot of growth of the Rust programming language, and its close alignment with WebAssembly.</description>
-    </item>
-    
-    <item>
-      <title>SII</title>
-      <link>https://bsidestlv.com/partners/platinium/sii/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/platinium/sii/</guid>
-      <description>After 40 years of partnering with corporations for their engineering needs, the SII Group finds itself at the forefront of innovation and digital transformation. It relies on teams of expert engineers and on methods at the cutting-edge of quality standards for its business centered on engineering consulting (information technology, electronics and telecommunications) and digital services (engineering and network information technology). With nine field offices in France, the Group has built close relationships with local firms and offers a wide spectrum of career opportunities.</description>
     </item>
     
     <item>
@@ -895,41 +623,13 @@ However, all popular managed languages with garbage collection take memory safet
     </item>
     
     <item>
-      <title>SMILE</title>
-      <link>https://bsidestlv.com/partners/gold/smile/</link>
+      <title>TAU Cyberweek 2019</title>
+      <link>https://bsidestlv.com/partners/cyberweek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bsidestlv.com/partners/gold/smile/</guid>
-      <description>Avec de l’audace et des beaux projets, ajoutez une pincée de culture visionnaire, une bonne dose d’innovation, saupoudrez le tout d’une expertise technique pluridisciplinaire et vous obtenez Smile, le leader européen de l’intégration et de l’infogérance de solutions open source.
-Agiles, open et engagés, chez Smile, nous adorons avoir un coup d’avance pour garder notre place sur le podium des acteurs majeurs du digital. Pour cela, nous avons développé 4 offres pour vous accompagner dans votre transformation numérique : Digital, Business App, Embedded &amp;amp; IoT et Infra.</description>
-    </item>
-    
-    <item>
-      <title>Squoring Technologies</title>
-      <link>https://bsidestlv.com/partners/soutien/squoring_technologies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/squoring_technologies/</guid>
-      <description>Créé à Toulouse en 2010, Squoring Technologies s’est imposé comme le spécialiste des solutions de pilotage de la qualité et de la performance des développements logiciels. Son tableau de bord d’analyse décisionnelle « Squore for Software Analytics », collecte, analyse et agrège en indicateurs pertinents et exploitables l’ensemble des données produites pendant le cycle de vie de production des logiciels pour évaluer et optimiser la performance des projets, le respect des processus et la qualité des livrables.</description>
-    </item>
-    
-    <item>
-      <title>STACK LABS</title>
-      <link>https://bsidestlv.com/partners/platinium/stack_labs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/platinium/stack_labs/</guid>
-      <description>The new generation tech company. We ❤️ code, and building powerful &amp;amp; secured cloud architectures. We invest in tech watch &amp;amp; work with companies like Google &amp;amp; Amazon as partners.</description>
-    </item>
-    
-    <item>
-      <title>Sycomore Technologies</title>
-      <link>https://bsidestlv.com/partners/gold/sycomore-technologie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/gold/sycomore-technologie/</guid>
-      <description>Sycomore-Technologies offers proprietary and custom software solutions.
-Our seasoned team is experienced in new generation technologies as cloud, microservices architectures as well as big data technologies to transform yours data into smart data.</description>
+      <guid>https://bsidestlv.com/partners/cyberweek/</guid>
+      <description>Cyber Week is a large annual international cybersecurity event, hosted each year at Tel Aviv University in Israel. Over the past eight years, Cyber Week has become internationally acclaimed as one of the top cybersecurity events in the world.
+Cyber Week offers a unique gathering of cybersecurity experts, industry leaders, startups, investors, academics, diplomats, and government officials. With more than 8,000 attendees from more than 80 countries, this conference offers a thought-provoking exchange of knowledge, methods, and ideas that you won’t want to miss.</description>
     </item>
     
     <item>
@@ -961,51 +661,6 @@ C’est ça inspecteur. C’est ça la bonne question.</description>
       
       <guid>https://bsidestlv.com/team/cfp/thibault_ducret/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Toulouse Data Science</title>
-      <link>https://bsidestlv.com/partners/communautes/toulouse-data-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/communautes/toulouse-data-science/</guid>
-      <description>Find Toulouse Data Science on http://www.tlse-data-science.fr/</description>
-    </item>
-    
-    <item>
-      <title>Toulouse Devops</title>
-      <link>https://bsidestlv.com/partners/communautes/toulouse-devops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/communautes/toulouse-devops/</guid>
-      <description>Find Toulouse Devops on http://toulousedevops.org/</description>
-    </item>
-    
-    <item>
-      <title>Toulouse JUG</title>
-      <link>https://bsidestlv.com/partners/communautes/toulouse-jug/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/communautes/toulouse-jug/</guid>
-      <description>Find Toulouse JUG on https://www.toulousejug.org/</description>
-    </item>
-    
-    <item>
-      <title>Toulouse Métropole</title>
-      <link>https://bsidestlv.com/partners/platinium/toulouse_metropole/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/platinium/toulouse_metropole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ToulouseJS</title>
-      <link>https://bsidestlv.com/partners/communautes/toulousejs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/communautes/toulousejs/</guid>
-      <description>Find ToulouseJS on https://twitter.com/ToulouseJS</description>
     </item>
     
     <item>
@@ -1050,15 +705,6 @@ Petit thread complément indispensable à mon talk d&amp;#39;hier au @DevFestTou
     </item>
     
     <item>
-      <title>WeLoveDevs.com</title>
-      <link>https://bsidestlv.com/partners/soutien/welovedevs_com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/welovedevs_com/</guid>
-      <description>WeLoveDevs.com aide les développeurs à définir quelle entreprise leur permettra de s&amp;rsquo;épanouir. Nous pensons qu&amp;rsquo;un développeur devrait pouvoir trouver par lui-même une entreprise où il sera heureux. Aussi WeLoveDevs.com permet aux entreprises de proposer une vitrine sur la vie de leurs collaborateurs. Nos équipes les accompagnent dans le fait de produire du contenu authentique et transparent, qui donne envie d&amp;rsquo;être candidat.</description>
-    </item>
-    
-    <item>
       <title>« 47 ans : ils n’ont toujours pas remarqué … »</title>
       <link>https://bsidestlv.com/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1067,15 +713,6 @@ Petit thread complément indispensable à mon talk d&amp;#39;hier au @DevFestTou
       <description>L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.
 Les « vieux » n’ont décidément pas la cote, le marché de l&amp;rsquo;emploi des softeux cinquantenaires en est la preuve ! Pourtant, codage et sénioritude semblent loin d&amp;rsquo;être incompatibles.
  Alors quels préjugés peuvent en être la cause ? L’avance rapide de la technologie numérique est-elle incompatible avec le ralentissement biologique ? Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info ?</description>
-    </item>
-    
-    <item>
-      <title>Étincelle Coworking</title>
-      <link>https://bsidestlv.com/partners/soutien/etincelle_coworking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bsidestlv.com/partners/soutien/etincelle_coworking/</guid>
-      <description></description>
     </item>
     
     <item>

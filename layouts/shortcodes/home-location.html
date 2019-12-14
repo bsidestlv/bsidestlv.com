@@ -1,0 +1,25 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<section class="location">
+
+	<div class="map">
+		<iframe width="100%" height="100%" frameborder="0" style="border:0"
+		src="https://www.google.com/maps/embed/v1/place?key={{ .Site.Params.googleMapsApiKey }}&q={{ .Get "address" }}" allowfullscreen></iframe></div>
+
+	<div class="description">
+		<div class="inner">
+			{{ .Inner }}
+		</div>
+
+		<div class="direction">
+			{{ .Get "address" }}
+
+			<a href="https://www.google.com/maps/dir/?api=1&destination={{ .Get "address" }}"
+				class="btn btn-icon-only" target="_blank" rel="noreferrer"
+			   aria-label="{{ i18n "home_location_direction" }}">
+				{{ partial "icon.html" "direction" }}
+			</a>
+
+		</div>
+
+	</div>
+</section>
