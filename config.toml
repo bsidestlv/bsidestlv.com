@@ -1,7 +1,6 @@
 baseURL = "https://bsidestlv.com/"
 languageCode = "en"
 title = "BSidesTLV 2020"
-publishDir = "docs"
 
 # Theme
 theme = "devfest-theme-hugo"
