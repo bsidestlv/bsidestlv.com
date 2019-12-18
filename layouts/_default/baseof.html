@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 {{ define "headextra" }}
-	<link rel="stylesheet" href="/bsidestlv.css" media="all">
+	{{ $style := resources.Get "sass/bsidestlv.scss" | toCSS (dict "outputStyle" "compressed" "enableSourceMap" true) | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 {{ end }}
 {{ partial "head.html" . }}
 

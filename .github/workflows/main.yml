@@ -18,9 +18,11 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.59.1'
-        # extended: true
+        extended: true
 
     - name: Build
+      env:
+        HUGO_ENV: production
       run: hugo --minify
 
     - name: Deploy
