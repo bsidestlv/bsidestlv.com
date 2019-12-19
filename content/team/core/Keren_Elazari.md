@@ -1,16 +1,16 @@
 ---
 title: Keren Elazari
 type: core
-subtitle:
+subtitle: Hack The Planet | Founder, BSidesTLV & Leading Cyber Ladies
 photo: keren_elazari.jpg
 socials:
-  - link: 'https://twitter.com/'
+  - link: 'https://twitter.com/k3r3n3'
     name: Twitter
-  - link: ''
+  - link: 'http://www.k3r3n3.com/'
     name: Site
-  - link: ''
+  - link: 'https://www.linkedin.com/in/kerene'
     name: LinkedIn
-  - link: ''
-    name: Github
+#  - link: ''
+#    name: Github
 
 ---
