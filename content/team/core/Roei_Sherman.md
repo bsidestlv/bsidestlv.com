@@ -2,7 +2,7 @@
 title: Roei Sherman
 type: core
 subtitle: Catch ya on the flip side
-photo: aurelie_vache.png
+photo: RS.jpg
 socials:
   - link: 'https://twitter.com/x_Freed0m'
     name: Twitter
