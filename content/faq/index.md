@@ -3,88 +3,88 @@ title: FAQs
 menu:
   main:
     weight: 80
-    
+
 draft: false
 ---
 
-## General
+### What is Security BSides, anyway?
 
-### What is DevFest Toulouse?
+Started by a group of hackers, security researchers and people passionate about cyber security, who are keen to share their knowledge and ideas, Security Bsides is a global network of community oriented, grassroots non-profit security events taking place anywhere from Athens, to São Paulo!
 
-The DevFest, or "Developers Festival", is a technical conference for developers.
-It is aimed at students, professionals or simply curious technophiles.
-Throughout the day, renowned speakers will present a variety of topics: around mobile development, the web, data, connected objects, the cloud, DevOps, etc... as well as good development practices.
-Pauses are used to engage in dialogue and deepen the topics presented.
-
-Software development is a very broad subject and our selection committee is committed to providing a varied and interesting program.
-This day will be an opportunity to meet speakers of international but also national renown, indeed we also aim to make an important place for local speakers.
-
-DevFest is part of an [international event](https://developers.google.com/events/devfest/) and is organised in partnership with Google.
+From the Bsides Community Wiki:  “Bsides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening”.  
+Read more about it at: http://www.securitybsides.com/
 
 
-### Organizing communities
+### What is Cyber Week?
 
-DevFest Toulouse is an event organized by the developer communities of Toulouse, and administratively supported by GDG Toulouse.
-You will find the list of communities at the bottom of the main page.
+Cyber Week, is one of the biggest cyber security events in Israel taking place in Israel, with the Annual International Cybersecurity Conference, at Smolarz Auditorium, Tel Aviv University. The conference is organized jointly by the Blavatnik Interdisciplinary Cyber Research Center (ICRC), the Yuval Ne’eman Workshop for Science, Technology and Security, the Israeli National Cyber Bureau, Prime Minister’s Office and Tel Aviv University.
+Read more at http://cyberweek.tau.ac.il/
 
-To make all this possible, an over-vitaminated team of volunteers is working behind the scenes.
 
-## Conference
+### I see everything is in english - will the talks be in english, too?
 
-### Where and when will DevFest take place?
+Yes! We will consider Hebrew talks, but prefer to keep everything in english so we can share the knowledge and invite international guests to attend. If we accept presentations in Hebrew, we’ll offer simultaneous translation.
 
-Le DevFest Toulouse 2019 takes place on **Thursday, October 3** at the [Congress Centre Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2).
+### How to get to BSidesTLV?
 
-### How to get there?
+[Bar Shira Auditorium, Tel Aviv University](https://www.google.com/maps/place/Bar+Shira+Auditorium/@32.1116683,34.8003584,17z)
 
-The [Centre de Congrés Pierre Baudis](https://goo.gl/maps/vDmHc8mFQtD2) is ideally located in the city centre.
+registration from 8:30, talks start at 09:30AM sharp!
 
-* :airplane: **by plane** : <br>
-From _Blagnac_ airport, two solutions:
-  - The easiest way is to take the airport shuttle to get off at the stop _Compans-Cafarelli_
-  - You can also:
-      1. Take the tram <mark class="t2">T<sub>2</sub></mark> to the station _Arènes_
-      2. Take a connection with the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop
-      3. Take a connection with the <mark class="b">B</mark> line from the metro to the _Compans-Cafarelli_ stop
-* :car: **by car** : <br>
-A parking lot (subject to charge) is located a stone's throw from the conference. <br>
-Feel free to carpool.
-* :train: **by train** : <br>
-From the station _Matabiau_, 
-simply take the <mark class="a">A</mark> line from the metro to the _Jean Jaurès_ stop<br> 
-where you will take a connection with the <mark class="b">B</mark> metro line 
-in order to get off at the _Compans-Cafarelli_ stop.
-* :metro: **en métro** : <br>
-Take the line <mark class="b">B</mark> then get off at the _Compans-Cafarelli_ stop.
+:car:Parking in Tel Aviv University area is very limited during CyberWeek. We recommend public transport:
 
-## Sponsor / Partner?
+:bus:EGED: 126, 271, 274, 572
+
+:bus:DAN: 6, 7, 13, 24, 25, 33, 45, 49, 54, 127, 279, 289
+
+:bus:KAVIM: 137
+
+:train:TRAIN: Tel  Aviv University Station is 15 minutes walk
+
+:taxi: TAXI: TAU Gate #4 near Smolraz or inside the Campus at Bar Shira
+
+:parking:Paid Parking: Smolraz parking lot, next to Smolraz auditorium , then use pedestrian Gate #4
+
 
 ### How to become a sponsor/partner?
 
-The partnership file is currently available [here](https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing).
+For sponsorship details please reach out to us @ info@bsidestlv.com
 
-## CFP: Call for Paper
+### CFP: Call for Paper
 
 All the information in the [CFP Blog post](/blog/cfp/)
 
-## Ticketing
+### How can i participate?
 
-### What are the conditions for refunding your ticket?
+We’re happy you asked – there are many ways to be a part of BsidesTLV:
 
-We allow a refund up to 15 days before the event excluding the processing fee of our ticketing partner.
+* Give a talk [CFP Blog post](/blog/cfp/)
+* Show a cool demo [CFP Blog post](/blog/cfp/)
+* Volunteer ([Sign up](https://signup.com/go/FthrQrc) to be a volunteer)
+* Suggest designs for BsidesTLV Logo, badge and T-shirt! info@bsidestlv.com
+* Engage with speakers , ask interesting questions (Register & show up! that’s easy!)
+* Meet new friends and share the knowledge (this is really the best part of Bsides)
+* Contribute / sponsor a social event after the talks , so we can all party together !
+* DJ during our social events and at breaks between talks
+* Volunteer to run a lockpicking wokrshop or retro video game arcade zone
 
-### Is it necessary to bring an identity document or is there a minimum age to enter the event?
 
-Your ticket is enough, there is no minimum age.
+### Can I talk to you?
 
-### Can I update my registration information?
+You can contact us on twitter or by email at info@bsidestlv.com
 
-Yes, you can change your order information on our ticketing partner's website.
+### Will the talks be filmed and later uploaded online?
 
-### Is it a problem if the name on my ticket or registration does not match the name of the participant?
+Yes, Most Talks were recorded and uploaded to our [youtube channel](https://www.youtube.com/channel/UCKcGZ)
 
-Yes, please contact us if you have any specific questions.
+### Can media\journalists attend?
 
-### I would like an invoice, how do I get it?
+Maybe. We’ll think about it and let you know
 
-Our association is now subject to VAT. It is therefore possible to obtain an invoice from our ticketing partner.
+### What's the conference's code of conduct?
+
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+
+
+
+More details at http://confcodeofconduct.com/

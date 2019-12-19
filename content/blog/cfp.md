@@ -2,7 +2,7 @@
 title: The BSidesTLV 2020 Call for Papers
 brief: The CFP will open on 1/1/2020
 image: /images/blog/cfp.jpg
-date: 2019-03-23
+date: 2019-12-15
 draft: false
 ---
 The 2020 edition of Security BSides in Israel, BSidesTLV 2020, will take place once again during Tel Aviv University’s Cyber Week, on Thursday, July 2.
