@@ -18,6 +18,7 @@ Contact: sponsors@bsidestlv.com
 2019 was a year of growth for BsidesTLV: we filled our space at more than the maximum capacity for a full day of talks, we hosted a pre-day with amazing workshop content and ran a very successful CTF with massive participation! Once again our event brought together record numbers of  participants, speakers, CTF players, volunteers, and sponsors!
 
 **BSidesTLV 2019 By The Numbers:   1500+ Registered, 16 Awesome SPEAKERS, 6 International guests, Training Day, 2 Sold out workshops, Hiring Ground, 35 volunteers, 120 CTF players, 30 CTF challenges and 11 amazing sponsors!**
+
 ![BsidesTLV2016](/images/partners/1.jpeg)
 
 BSidesTLV is currently the largest security community event in Israel. Our audience and speakers include well-known security researchers, friendly hackers, CISOs, nominees and winners of prestigious industry awards and industry bloggers!
@@ -40,6 +41,7 @@ BSides was born in 2009 when a number of quality speakers were rejected from a m
 
 
 **2016: BSidesTLV founded in Tel Aviv, Israel!**
+
 ![BsidesTLV2016](/images/partners/2.jpeg)
 
 **Why sponsor local Security BSides Event like BSidesTLV 2020?**
