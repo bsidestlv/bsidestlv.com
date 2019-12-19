@@ -7,6 +7,6 @@ website: 'https://www.hackthebox.eu/'
 socials: []
 ---
 
-Intel is a nice company
+Check out HackTheBox @ https://www.hackthebox.eu/
 
 Learn more at [https://cyberweek.tau.ac.il/2019/](https://cyberweek.tau.ac.il/2019/)
