@@ -1,13 +1,13 @@
 id: HJRThubF4uYPkb7jSUxi
-name: DevFest Toulouse 2019
+name: BSidesTLV 2020
 address:
   formattedAddress: '11 Espl. Compans Caffarelli, 31000 Toulouse, France'
   locality:
-    short_name: Toulouse
-    long_name: Toulouse
+    short_name: BSidesTLV
+    long_name: BSidesTLV
   country:
-    short_name: FR
-    long_name: France
+    short_name: IL
+    long_name: Israel
   latLng:
     lat: 43.6115538
     lng: 1.4345827

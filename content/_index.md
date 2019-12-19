@@ -17,7 +17,7 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Participants:1200+,Day:2,Sessions:18,CTF Challenges:42" class="primary" %}}
+{{% home-info what="Participants:1200+ ,Day:2, Sessions:18, CTF Challenges:42" class="primary" %}}
 ## What is BSides Tel Aviv
 
 Started by a group of hackers, security researchers and people passionate about cyber security, who are keen to share their knowledge and ideas, Security Bsides is a global network of community oriented, grassroots non-profit security events taking place anywhere from Athens, to São Paulo!
