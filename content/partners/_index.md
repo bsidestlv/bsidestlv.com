@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: partners
 menu:
   main:
     weight: 20
