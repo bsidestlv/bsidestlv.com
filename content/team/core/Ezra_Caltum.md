@@ -2,7 +2,7 @@
 title: Ezra Caltum
 type: core
 subtitle:
-photo: you.jpg
+photo: ezra_caltum.jpg
 socials:
   - link: 'https://twitter.com/'
     name: Twitter

@@ -1,7 +1,7 @@
 ---
 title: Roei Sherman
 type: core
-subtitle: Catch ya on the flip side
+subtitle: Catch ya on the flip sideaaa
 photo: RS.jpg
 socials:
   - link: 'https://twitter.com/x_Freed0m'

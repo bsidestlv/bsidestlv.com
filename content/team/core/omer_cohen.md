@@ -1,8 +1,8 @@
 ---
 title: Omer Cohen
 type: core
-subtitle: Duchess France / Toulouse Data Science
-photo: aurelie_vache.png
+subtitle: 
+photo: omer_cohen.jpg
 socials:
   - link: 'https://www.twitter.com/omercnet'
     name: Twitter
@@ -14,4 +14,3 @@ socials:
     name: Github
 
 ---
-

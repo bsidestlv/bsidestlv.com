@@ -2,7 +2,7 @@
 title: Keren Elazari
 type: core
 subtitle:
-photo: you.jpg
+photo: keren_elazari.jpg
 socials:
   - link: 'https://twitter.com/'
     name: Twitter

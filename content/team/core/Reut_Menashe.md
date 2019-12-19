@@ -2,7 +2,7 @@
 title: Reut Menashe
 type: core
 subtitle:
-photo: you.jpg
+photo: reut_menashe.jpg
 socials:
   - link: 'https://twitter.com/'
     name: Twitter

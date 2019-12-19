@@ -2,7 +2,7 @@
 title: Ilan Gracier
 type: core
 subtitle:
-photo: you.jpg
+photo: ilan_gracier.jpg
 socials:
   - link: 'https://twitter.com/'
     name: Twitter

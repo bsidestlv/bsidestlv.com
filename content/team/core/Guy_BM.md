@@ -2,7 +2,7 @@
 title: Guy Barnhart-Magen
 type: core
 subtitle:
-photo: you.jpg
+photo: guy_bm.jpeg
 socials:
   - link: 'https://twitter.com/'
     name: Twitter

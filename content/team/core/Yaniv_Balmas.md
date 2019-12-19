@@ -2,7 +2,7 @@
 title: Yaniv Balmas
 type: core
 subtitle:
-photo: you.jpg
+photo: yaniv_balmas.jpg
 socials:
   - link: 'https://twitter.com/'
     name: Twitter

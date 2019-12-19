@@ -2,7 +2,7 @@
 title: Elad Shuster
 type: core
 subtitle:
-photo: you.jpg
+photo: elad_shuster.png
 socials:
   - link: 'https://twitter.com/'
     name: Twitter

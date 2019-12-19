@@ -2,7 +2,7 @@
 title: Oded Levin
 type: core
 subtitle:
-photo: you.jpg
+photo: oded_levin.jpg
 socials:
   - link: 'https://twitter.com/'
     name: Twitter
