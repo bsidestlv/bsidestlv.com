@@ -8,9 +8,9 @@ menu:
 
 ---
 
-
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2020" %}}
 
+## This website is under construction - Draft version
 ## July 2nd, 2020
 ### Tel Aviv University
 

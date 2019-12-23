@@ -7,13 +7,11 @@ menu:
 draft: false
 ---
 
-# Support BsidesTLV!
+# BSidesTLV 2020 Edition - Sponsors Wanted!
 
 When: **Thursday, July 2 , 2020**
 Where: **Tel Aviv University (Location announced in 2020)**
 Contact: sponsors@bsidestlv.com
-
-## BSidesTLV 2020 Edition - Sponsors Wanted!
 
 2019 was a year of growth for BsidesTLV: we filled our space at more than the maximum capacity for a full day of talks, we hosted a pre-day with amazing workshop content and ran a very successful CTF with massive participation! Once again our event brought together record numbers of  participants, speakers, CTF players, volunteers, and sponsors!
 
@@ -34,15 +32,17 @@ BSidesTLV takes place during Tel Aviv Cyber Week, June 29-July 2, 2020. This glo
 
 __**About the Security B-Sides global network of community events:**__
 
+![WW_BSides](/images/partners/bsides_global.jpeg)
+
 BSides was born in 2009 when a number of quality speakers were rejected from a mainstream conference, not due to lack of quality but rather lack of space and time. The Security BSides mission is to provide people with options by removing common conference barriers and by providing more options for speakers, topics, and events.
 *2009*: Launched in the United States.
 *2010*: BSides breaks into the global international arena with the first European event.
-*2011*: More than 20 events worldwide in the US, Europe, India, Hong Kong, & Australia 2012: More than 25 events worldwide with new events both Africa and Brazil. 2013: 40 events worldwide and over 100 events total since 2009. 2014-2019: hundreds of events worldwide, including locations in India, Singapore, Chile, Columbia, Poland, and Dubai. Security BSides has held over 300 events total since 2009. Thousands of people have attended and written about their experience at BSides events around the world. Read more at http://www.securitybsides.org/Media
+*2011*: More than 20 events worldwide in the US, Europe, India, Hong Kong, & Australia 2012: More than 25 events worldwide with new events both Africa and Brazil. 2013: 40 events worldwide and over 100 events total since 2009. 2014-2019: hundreds of events worldwide, including locations in India, Singapore, Chile, Columbia, Poland, and Dubai. Security BSides has held over 300 events total since 2009. Thousands of people have attended and written about their experience at BSides events around the world. Read more at http://www.securitybsides.org/
 
 
 **2016: BSidesTLV founded in Tel Aviv, Israel!**
 
-![BsidesTLV2016](/images/partners/2.jpeg)
+![BsidesTLV2016]()
 
 **Why sponsor local Security BSides Event like BSidesTLV 2020?**
 
