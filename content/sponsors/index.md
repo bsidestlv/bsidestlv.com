@@ -2,15 +2,16 @@
 title: Sponsors
 menu:
   main:
-    weight: 80
+    weight: 70
 
 draft: false
 ---
 
-# BSidesTLV 2020 Edition - Sponsors Wanted!
+## BSidesTLV 2020 Edition - Sponsors Wanted!**
 
 When: **Thursday, July 2 , 2020**
 Where: **Tel Aviv University (Location announced in 2020)**
+
 Contact: sponsors@bsidestlv.com
 
 2019 was a year of growth for BsidesTLV: we filled our space at more than the maximum capacity for a full day of talks, we hosted a pre-day with amazing workshop content and ran a very successful CTF with massive participation! Once again our event brought together record numbers of  participants, speakers, CTF players, volunteers, and sponsors!
