@@ -1,11 +1,18 @@
 :root {
   --partner-support-height: 80px;
+  --partner-font-size-venue: 1.5rem;
   --partner-font-size-titanium: 2rem;
   --partner-font-size-platinum: 1.5rem;
   --partner-font-size-gold: 1.33rem;
   --partner-font-size-silver: 1rem;
-  --partner-titanium-height: calc(var(--partner-support-height) * 4);
+  --partner-titanium-height: calc(var(--partner-support-height) * 3);
   --partner-silver-height: calc(var(--partner-support-height) * 1);
+  --partner-venue-height: calc(var(--partner-support-height) * 4);
+
+}
+.partners-group.partner-venue ul li {
+  height: var(--partner-venue-height);
+  flex-basis: 420px;
 }
 
 .partners-group.partner-titanium ul li {
