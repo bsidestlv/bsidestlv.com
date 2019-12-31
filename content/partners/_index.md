@@ -9,7 +9,6 @@ draft: false
 
 {{% hero %}}
 
-
 {{% /hero %}}
 
 

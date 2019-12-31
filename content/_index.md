@@ -61,7 +61,7 @@ From the Bsides Community Wiki:  “Bsides creates opportunities for individuals
 <!-- .. -->
 {{% home-tickets %}}
 # Tickets
-
+<!--
 <a class="btn primary" href="https://tickets.bsidestlv.com" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>
@@ -77,13 +77,13 @@ From the Bsides Community Wiki:  “Bsides creates opportunities for individuals
 
 <!-- ... -->
 
-{{% home-location address="Bar Shira Auditorium, Tel Aviv University" %}}
+{{% home-location address="Smolarz Auditorium, Tel Aviv University" %}}
 
 ## The venue
 
 ### Tel Aviv University
 
-BSidesTLV2019 will take place at Bar Shira Auditorium, Tel Aviv University
+BSidesTLV2020 will take place at Smolarz Auditorium, Tel Aviv University
 
 {{% /home-location %}}
 
@@ -102,6 +102,7 @@ BSidesTLV2019 will take place at Bar Shira Auditorium, Tel Aviv University
 
 <!-- ... -->
 
-{{% partners categories="venue,titanium,platinum,gold,silver" %}}
+<!-- titanium,platinum,gold,silver -->
+{{% partners categories="venue" %}}
 ## Sponsors
 {{% /partners %}}

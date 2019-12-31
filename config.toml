@@ -36,7 +36,7 @@ googleAnalytics = "UA-34571097-16"
 [params.logos]
     jumbo = "/images/logos/bstlv_color.png"
     header = "/images/logos/bstlv_color.png"
-    footer = "/images/logos/devfest_gray_text.png"
+    footer = "/images/logos/bstlv_color.png"
 
 [taxonomies]
   tag = "tags"

@@ -27,7 +27,7 @@ Yes! We will consider Hebrew talks, but prefer to keep everything in english so 
 
 ### How to get to BSidesTLV?
 
-[Bar Shira Auditorium, Tel Aviv University](https://www.google.com/maps/place/Bar+Shira+Auditorium/@32.1116683,34.8003584,17z)
+[Smolraz Auditorium, Tel Aviv University](https://www.google.com/maps/place/Tel+Aviv+University+Smolarz+Auditorium/@32.1103563,34.8042639,15z/data=!4m2!3m1!1s0x0:0x57e1b1e76143c7f7?sa=X&ved=2ahUKEwjXm62Z8d_mAhUt-YUKHVo2DKoQ_BIwUXoECEgQCA)
 
 registration from 8:30, talks start at 09:30AM sharp!
 

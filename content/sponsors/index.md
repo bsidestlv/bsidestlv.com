@@ -6,8 +6,9 @@ menu:
 
 draft: false
 ---
+![BsidesTLV2019](/images/sponsors/5.png)
 
-## BSidesTLV 2020 Edition - Sponsors Wanted!**
+BSidesTLV 2020 Edition - Sponsors Wanted!
 
 When: **Thursday, July 2 , 2020**
 Where: **Tel Aviv University (Location announced in 2020)**
@@ -18,7 +19,7 @@ Contact: [sponsors@bsidestlv.com](mailto:sponsors@bsidestlv.com)
 
 **BSidesTLV 2019 By The Numbers:   1500+ Registered, 16 Awesome SPEAKERS, 6 International guests, Training Day, 2 Sold out workshops, Hiring Ground, 35 volunteers, 120 CTF players, 30 CTF challenges and 11 amazing sponsors!**
 
-![BsidesTLV2016](/images/partners/1.jpeg)
+![BsidesTLV2019](/images/sponsors/4_2.jpeg)
 
 BSidesTLV is currently the largest security community event in Israel. Our audience and speakers include well-known security researchers, friendly hackers, CISOs, nominees and winners of prestigious industry awards and industry bloggers!
 
@@ -72,3 +73,5 @@ Security Research Manager, Intel.*
 Nobody knows what the “next big thing” will be. Our events are community driven with presentations about topics that are new, exciting and represent what people care about right now. Be ahead of the trends! Listening to the underground can help you prepare you and help identify what the next big thing might be.
 
 Please contact us via [sponsors@bsidestlv.com](mailto:sponsors@bsidestlv.com) for more information. Thank you!
+
+![BsidesTLV2019](/images/sponsors/3_2.JPG)
