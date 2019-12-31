@@ -89,7 +89,7 @@ BSidesTLV2020 will take place at Smolarz Auditorium, Tel Aviv University
 
 <!-- ... -->
 
-{{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg,/images/album/6.jpg,/images/album/7.jpg,/images/album/8.jpg" %}}
+{{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
 ### Some pictures of the **BSidesTLV 2019** with the 👾 _retro-gaming_ theme.
 
