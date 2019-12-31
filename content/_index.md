@@ -48,13 +48,13 @@ From the Bsides Community Wiki:  “Bsides creates opportunities for individuals
 {{% /home-speakers %}}
 -->
 
-<!-- ... -->
+<!-- ...
 
 {{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
-{{% /home-subscribe %}}
+{{% /home-subscribe %}} -->
 
 <!-- ... -->
 
