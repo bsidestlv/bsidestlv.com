@@ -9,6 +9,9 @@ horizontal: false
 ---
 
 {{% hero %}}
+## TBD
+Wanna appear here?
+Submit to our [CFP](https://2020.bsidestlv.com/blog/cfp/) for a chance to have your name here :)
 
 <a class="btn primary btn-lg" href="/schedule/schedule.ics">
     <svg class="icon icon-calendar"><use xlink:href="#calendar"></use></svg> ICal
