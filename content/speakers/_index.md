@@ -1,5 +1,5 @@
 ---
-title: Speakers - TBD
+title: Speakers
 menu:
   main:
     weight: 40
