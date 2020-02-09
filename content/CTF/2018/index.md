@@ -1,14 +1,14 @@
 ---
-title: 2018 BSidesTLV CTF
+title: 2018
 brief: BSidesTLV Capture The Flag
 image: /images/blog/cfp.jpg
 date: 2018-03-23
 draft: false
 ---
 
-# Hall of Fame
+# BSidesTLV 2018 CTF
 
-## 2018
+## Hall of Fame
 
 Honorable Mention: @doadam – Adam Donenfeld
 
@@ -19,10 +19,11 @@ Honorable Mention: @doadam – Adam Donenfeld
 *3rd place* : JCTF (@schturdel, @nmontag, @YaakovCohen88 and Israel Erlich)
 
 2018 CTF
-![](https://lh6.googleusercontent.com/miI8hCrBGo30Ju1I7ohn5X_FP90o3OtcKHsK_EXzSfZr6L96oXR3vCT8-EN17-tWii6NEfOZAnmNmovyE3-m3ghaCLBz6B7S7UEsNop0ESlyPPdmqNMLR-neshnHC5WzqlxQCwaR)
+
+![](2018_1.png)
 
 One of our volunteers was kind enough to deliver a care package to the person who solved everything first! (Adam Donenfeld) – while not eligible to win, he did solve everything first.
-![](https://lh4.googleusercontent.com/Qy1EPHMMwuxFbjYIbTm15fefnlJE1PXlv9B2Ef4OGzrDU5fTiFZtMTpbSrGp460ZRdxUshJtf6j4VKIUw63N3JdwTm_vIwK18_40ubv9mCCfDJkjFSvz7DaraSD2ouJn4XSt7fxp)
+![](2018_2.png)
 
 ## 2018 Challenges
 |#|Challenge|Author|
@@ -50,7 +51,7 @@ Also on the team were Ido Naor, Ezra Caltum and Omer Cohen who gave advice and s
 ## Resources
 Link to 2018 PDF
 
-Our challenges are also available as a VM (courtesy of Tomer Zait) (
+Our challenges are also available as a [VM](https://www.vulnhub.com/entry/bsidestlv-2018-ctf,250/) (courtesy of Tomer Zait) (
 
 ## Write Ups
 https://jctf.team/BSidesTLV-2018/
@@ -70,8 +71,9 @@ https://t.co/klqz7gavLb
 
 1275 unique IP addresses
 
-![](https://lh5.googleusercontent.com/elmz6OSBa0_NfTPFqtmRpak5WpFtlUsf_SlTey8DYB89ClDYKEDqPyn_j6w-TNX85GofT6auLhCyRhgl-mEsOUQz0ODuKUrjll6sxA0Fe87OlW59HHUpCPqAKXlVhyyksR0gF-NE)
-![](https://lh3.googleusercontent.com/cMIspxEWv5cHJ--M8lG0C0ewV2gq-1QOQlBmyW2pH4EYpVpY-mq-sfInj11Mn1b7CEKsKGiIGBWkgihe1sPGw5A7OGkDAMSPYERkVdzzceigXTvcF-Us6kzoCwbe9Tutpjh9Gs2I)
+![](pastedImage0.png)
+
+![](pastedImage1.png)
 
 ## Running a Fair Game
 Yesterday, June 9th at 18:26 we discovered that someone has shared the flag for one of our challenges on Pastebin.

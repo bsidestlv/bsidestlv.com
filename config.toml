@@ -16,7 +16,7 @@ googleAnalytics = "UA-34571097-16"
 [params]
     title = "BSidesTLV 2020"
     date = "2020-07-02"
-    description = "Bsides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening."
+    description = "BSides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening."
     images = ["/images/social-share.jpg"]
     email = "info@bsidestlv.com"
     keywords = "event, bsidestlv, bsides, telaviv, tel-aviv, security, cybersecurity"

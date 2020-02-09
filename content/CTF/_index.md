@@ -7,4 +7,5 @@ menu:
 draft: false
 ---
 
-TBD
+Our official twitter for BSidesTLV related news: @bsidestlv_ctf
+
