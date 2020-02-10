@@ -1,14 +1,12 @@
 ---
-title: 2018
+title: BSidesTLV 2018 CTF
 brief: BSidesTLV Capture The Flag
 image: /images/blog/cfp.jpg
 date: 2018-03-23
 draft: false
 ---
 
-# BSidesTLV 2018 CTF
-
-## Hall of Fame
+# Hall of Fame
 
 Honorable Mention: @doadam – Adam Donenfeld
 
@@ -18,40 +16,42 @@ Honorable Mention: @doadam – Adam Donenfeld
 
 *3rd place* : JCTF (@schturdel, @nmontag, @YaakovCohen88 and Israel Erlich)
 
-2018 CTF
-
-![](2018_1.png)
-
+{{< imgproc 2018_1 Resize "800x"  />}}
 One of our volunteers was kind enough to deliver a care package to the person who solved everything first! (Adam Donenfeld) – while not eligible to win, he did solve everything first.
-![](2018_2.png)
 
-## 2018 Challenges
-|#|Challenge|Author|
-|---|---|---|
-|1|IAmBrute|Tomer Zait and Nimrod Levy|
-|2|Redirect me|Tomer Zait and Nimrod Levy|
-|3|IH8emacs|Tomer Zait and Nimrod Levy|
-|4|I’m Pickle Rick!|Tomer Zait and Nimrod Levy|
-|5|Creative Agency|Tomer Zait and Nimrod Levy|
-|6|ContactUs|Tomer Zait and Nimrod Levy|
-|7|GamingStore|Tomer Zait|
-|8|c1337Shell|Tomer Zait|
-|9|DockingStation|Tomer Zait|
-|10|PySandbox-Insane|Tomer Zait|
-|11|Shared Directory|Nimord Levy|
-|12|Can you bypass the SOP?|Nimord Levy|
-|13|NoSocket|Nimord Levy|
-|14|Into the rabbit hole|Adir Abraham|
-|15|PimpMyRide|Gal Goldstein|
-|16|hideinpILainsight|Omer Agmon|
-|17|WTFLOL (and wtflol_reflagged)|Kasif Dekel|
+{{< imgproc 2018_2 Resize "800x"  />}}
+The 2018 Winning team and some CTF memebers
+
+# Challenges
+
+We had a total of 17 challenges across a wide range of domains
+
+|Challenge|Author|
+|---|---|
+IAmBrute|Tomer Zait and Nimrod Levy|
+|Redirect me|Tomer Zait and Nimrod Levy|
+|IH8emacs|Tomer Zait and Nimrod Levy|
+|I’m Pickle Rick!|Tomer Zait and Nimrod Levy|
+|Creative Agency|Tomer Zait and Nimrod Levy|
+|ContactUs|Tomer Zait and Nimrod Levy|
+|GamingStore|Tomer Zait|
+|c1337Shell|Tomer Zait|
+|DockingStation|Tomer Zait|
+|PySandbox-Insane|Tomer Zait|
+|Shared Directory|Nimord Levy|
+|Can you bypass the SOP?|Nimord Levy|
+|NoSocket|Nimord Levy|
+|Into the rabbit hole|Adir Abraham|
+|PimpMyRide|Gal Goldstein|
+|hideinpILainsight|Omer Agmon|
+|WTFLOL (and wtflol_reflagged)|Kasif Dekel|
 
 Also on the team were Ido Naor, Ezra Caltum and Omer Cohen who gave advice and support, as well as QA 🙂
 
 ## Resources
-Link to 2018 PDF
+[Link to 2018 PDF]()
 
-Our challenges are also available as a [VM](https://www.vulnhub.com/entry/bsidestlv-2018-ctf,250/) (courtesy of Tomer Zait) (
+Our challenges are also available as a [VM](https://www.vulnhub.com/entry/bsidestlv-2018-ctf,250/) (courtesy of Tomer Zait)
 
 ## Write Ups
 https://jctf.team/BSidesTLV-2018/
@@ -64,18 +64,20 @@ https://hackso.me/bsidestlv-web/
 
 https://t.co/klqz7gavLb
 
-## Statistics
+# Statistics
 312 teams registered
 
 112 solved at least one challenge
 
 1275 unique IP addresses
 
-![](pastedImage0.png)
+{{< imgproc pastedImage0 Resize "800x"  />}}
 
-![](pastedImage1.png)
+{{< imgproc pastedImage1 Resize "800x"  />}}
 
-## Running a Fair Game
+# Running a Fair Game
+This excerpt is from an incident that occured during the CTF.
+
 Yesterday, June 9th at 18:26 we discovered that someone has shared the flag for one of our challenges on Pastebin.
 
 Obviously, we considered this before starting the CTF and made a decision to trust our community and the rules of the game would be played fairly, and we still believe that the vast majority of the playing teams or playing for fun and do so fairly.
