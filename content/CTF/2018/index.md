@@ -8,52 +8,134 @@ draft: false
 
 # Hall of Fame
 
-Honorable Mention: @doadam – Adam Donenfeld
+<table align="center">
+    <tr>
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            <b>1st Place
+        </td>
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            2nd Place
+        </td>
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            3rd Place
+        </td>
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            Honorable mention
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_group Resize "150x" "reclass (Nir Lavi and Intel’s team)" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "babyr00t (known also as dm0n)" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_group Resize "150x" "JCTF (@schturdel, @nmontag, @YaakovCohen88 and Israel Erlich)" />}}             
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+            {{< imgproc avatar_male Resize "100x" "Adam Donenfeld" />}}             
+        </td>
+</table>
 
-*1st place*: reclass (Nir Lavi and Intel’s team)
 
-*2nd place*: babyr00t (known also as dm0n)
+{{< imgproc 2018_1 Resize "600x" "One of our volunteers was kind enough to deliver a care package to Adam Donenfeld – while not eligible to win, he did solve everything first." />}}
 
-*3rd place* : JCTF (@schturdel, @nmontag, @YaakovCohen88 and Israel Erlich)
+{{< imgproc 2018_2 Resize "600x" "The 2018 Winning team and some CTF memebers" />}}
 
-{{< imgproc 2018_1 Resize "800x"  />}}
-One of our volunteers was kind enough to deliver a care package to the person who solved everything first! (Adam Donenfeld) – while not eligible to win, he did solve everything first.
+# Our Team
 
-{{< imgproc 2018_2 Resize "800x"  />}}
-The 2018 Winning team and some CTF memebers
+<table align="center">
+    <tr>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Tomer Zait" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Adir Abraham" />}} 
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
+            GamingStore<br>
+            c1337Shell<br>
+            DockingStation<br>
+            PySandbox-Insane<br>
+            IAmBrute (w/Nimrod Levy)<br>
+            Redirect me (w/Nimrod Levy)<br>
+            IH8emacs (w/Nimrod Levy)<br>
+            I’m Pickle Rick! (w/Nimrod Levy)<br>
+            Creative Agency (w/Nimrod Levy)<br>
+            ContactUs (w/Nimrod Levy)
+        </td>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
+            Shared Directory<br>
+            Can you bypass the SOP?<br>
+            NoSocket<br>
+            IAmBrute ( (w/Tomer Zait)<br>
+            Redirect me ( (w/Tomer Zait)<br>
+            IH8emacs ( (w/Tomer Zait)<br>
+            I’m Pickle Rick! ( (w/Tomer Zait)<br>
+            Creative Agency ( (w/Tomer Zait)<br>
+            ContactUs ( (w/Tomer Zait)
+        </td>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
+            Into the rabbit hole
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Gal Goldstein" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Omer Agmon" />}} 
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        Crypto2<br>
+        T.A.R.D.I.S.
+        </td>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        PimpMyRide
+        </td>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        hideinpILainsight
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Kasif Dekel" />}} 
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
+            WTFLOL (and wtflol_reflagged)
+        </td>
+    </tr>  
+</table>
+
+
 
 # Challenges
 
 We had a total of 17 challenges across a wide range of domains
 
-|Challenge|Author|
-|---|---|
-IAmBrute|Tomer Zait and Nimrod Levy|
-|Redirect me|Tomer Zait and Nimrod Levy|
-|IH8emacs|Tomer Zait and Nimrod Levy|
-|I’m Pickle Rick!|Tomer Zait and Nimrod Levy|
-|Creative Agency|Tomer Zait and Nimrod Levy|
-|ContactUs|Tomer Zait and Nimrod Levy|
-|GamingStore|Tomer Zait|
-|c1337Shell|Tomer Zait|
-|DockingStation|Tomer Zait|
-|PySandbox-Insane|Tomer Zait|
-|Shared Directory|Nimord Levy|
-|Can you bypass the SOP?|Nimord Levy|
-|NoSocket|Nimord Levy|
-|Into the rabbit hole|Adir Abraham|
-|PimpMyRide|Gal Goldstein|
-|hideinpILainsight|Omer Agmon|
-|WTFLOL (and wtflol_reflagged)|Kasif Dekel|
-
+{{< imgproc avatar_group Resize "150x" "Our much loved support team" />}} 
 Also on the team were Ido Naor, Ezra Caltum and Omer Cohen who gave advice and support, as well as QA 🙂
 
 ## Resources
-[Link to 2018 PDF]()
+you can find our winner anouncment [here](BSidesTLV CTF 2018.pdf)
 
 Our challenges are also available as a [VM](https://www.vulnhub.com/entry/bsidestlv-2018-ctf,250/) (courtesy of Tomer Zait)
 
 ## Write Ups
+
 https://jctf.team/BSidesTLV-2018/
 
 https://www.digitalwhisper.co.il/issue97
@@ -65,6 +147,7 @@ https://hackso.me/bsidestlv-web/
 https://t.co/klqz7gavLb
 
 # Statistics
+
 312 teams registered
 
 112 solved at least one challenge
@@ -76,7 +159,8 @@ https://t.co/klqz7gavLb
 {{< imgproc pastedImage1 Resize "800x"  />}}
 
 # Running a Fair Game
-This excerpt is from an incident that occured during the CTF.
+
+**This excerpt is from an incident that occured during the CTF.**
 
 Yesterday, June 9th at 18:26 we discovered that someone has shared the flag for one of our challenges on Pastebin.
 

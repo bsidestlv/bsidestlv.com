@@ -8,57 +8,61 @@ draft: false
 
 # Hall of Fame
 
-|Position|Team|
-|---|---|
-|1|Dan (dm0n)|
-|2|JCTF|
-|3||
-|Honorable mention,<br> again :-)|Adam D|
-
-<table>
+<table align="center">
     <tr>
-        <td style="border:0px solid black; padding:10px;">
-            1st Place
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            <b>1st Place
         </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Dan (dm0n)" />}} 
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            2nd Place
+        </td>
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            3rd Place
+        </td>
+        <td style="border:0px solid black; padding:10px;text-align: center;">
+            Honorable mention, again :-)
         </td>
     </tr>
     <tr>
         <td style="border:0px solid black; padding:10px;">
-            2nd Place
+        {{< imgproc avatar_male Resize "100x" "Dan (dm0n)" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_group Resize "150x" "JCTF" />}} 
         </td>
-    </tr>
-        <tr>
         <td style="border:0px solid black; padding:10px;">
-            3rd Place
+        {{< imgproc avatar_group Resize "150x" "EY (3rN357&Y0un9)" />}}             
         </td>
         <td style="border:0px solid black; padding:10px;">
-            EY (3rN357&Y0un9)
+            {{< imgproc avatar_male Resize "100x" "Adam D" />}}             
         </td>
-    </tr>
-
 </table>
+
 
 # Our Team
 
-<table>
+<table align="center">
     <tr>
-        <td style="border:1px solid black; padding:10px;">
+        <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_female Resize "100x" "Reut Menashe" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Roei Sherman" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}} 
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         El Profesor (w/Nimrod)<br>
         The Lost Contract (w/Nimrod)
         </td>
-        <td style="border:1px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Roei Sherman" />}} 
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         The Lost Award<br>
         Magic Kingdom
         </td>
-        <td style="border:1px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}} 
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         Redis in the wild<br>
         You "shell" not pass!<br>
         Break the ReCaptcha<br>
@@ -68,33 +72,49 @@ draft: false
         The Lost Contract (w/Reut)
     </tr>
     <tr>
-        <td style="border:1px solid black; padding:10px;">
+        <td style="border:0px solid black; padding:10px;">
         {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Daniel Abeles" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Ezra Caltum" />}} 
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         Time to day goodbye...<br>
         Aphasia<br>
         Where no man has GOne before
         </td>
-        <td style="border:1px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Daniel Abeles" />}} 
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         Translation As A Service
         </td>
-        <td style="border:1px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Ezra Caltum" />}} 
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         somestufflsimportant
         </td>
     </tr>
     <tr>
-    <td style="border:1px solid black; padding:10px;">
+        <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_male Resize "100x" "Kasif Dekel" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Guy Beck" />}} 
+        </td>
+        <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_male Resize "100x" "Omer Agmon" />}} 
+        </td>
+    </tr>
+    <tr>
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         Secret Service
         </td>
-        <td style="border:1px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Guy Beck" />}} 
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         Bowser Junior<br>
         Bowser Senior
         </td>
-        <td style="border:1px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Omer Agmon" />}} 
+        <td style="border:0px solid black; padding:10px;vertical-align:top">
         DoSaTTaCK
         </td>
     </tr>
@@ -109,35 +129,10 @@ draft: false
 
 29 challenges, some of them compeltly unique, such as blockchain and 3d printing!
 
-|somestufflsimportant|Ezra Caltum|
-|Secret Service|Kasif Dekel|
-|Bowser Junior|Guy Beck|
-|DoSaTTaCK|Omer Agmon|
-|El Profesor|Nimrod Levy and Reut Menashe|
-|The Lost Award|Roei Sherman|
-|Bowser Senior|Guy Beck|
-|Magic Kingdom|Roei Sherman|
-|Redis in the wild|Nimrod Levy|
-|You "shell" not pass!|Nimrod Levy|
-|Break the ReCaptcha|Nimrod Levy|
-|Pacman|Nimrod Levy|
-|IIS on Steroids|Nimrod Levy|
-|The Lost Contract|Nimrod Levy and Reut Menashe|
+## Write-Ups
 
- 
+Are you aware of any write-ups? Let us know!
 
+## Resources
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+you can find our winner anouncment [here](BSidesTLV 2019 CTF.pdf)
