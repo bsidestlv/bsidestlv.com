@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: bsidestlv/2020.bsidestlv.com
   branch: dev
 
 publish_mode: editorial_workflow
