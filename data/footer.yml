@@ -17,13 +17,13 @@ follow:
 content:
   - title: footer_about
     links:
-      # - name: GDG Toulouse
-      #   url: http://gdgtoulouse.fr/
-      #   newTab: true
+      - name: BSidesTLV Mailing list
+        url: https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US
+        newTab: true
       # - name: Google Developers Group
       #   url: https://developers.google.com/
       #   newTab: true
-      # - name: Kit de communication
+      #  - name: Kit de communication
       #   url: /kit/MediaKit.zip
       #   newTab:
       - nameKey: footer_coc
