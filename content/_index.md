@@ -33,7 +33,7 @@ Gold Sponsors: Intel, XMCyber, Cybereason, ClearSky Security, NeuraLegion,
 and CheckPoint Software.
 Silver/ Chill out zone sponsor : Snyk
 
-The BSidesTLV 2020 CFP is now open!
+## The BSidesTLV 2020 CFP is now open!
 
 Choose from 10, 25, 45 minutes talks, or give a special "underground" talk!
 Our CFP will remain open until March 15, 2020.
@@ -47,7 +47,7 @@ Facebook: https://www.facebook.com/bsidestlv/
 Hack The Planet!
 
 
-## What is BSides Tel Aviv
+### What is BSides Tel Aviv
 
 Started by a group of hackers, security researchers and people passionate about cyber security, who are keen to share their knowledge and ideas, Security Bsides is a global network of community oriented, grassroots non-profit security events taking place anywhere from Athens, to São Paulo!
 
