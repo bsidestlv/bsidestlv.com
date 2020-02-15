@@ -25,10 +25,10 @@ draft: false
     </tr>
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Dan (dm0n)" />}} 
+        {{< imgproc avatar_male Resize "100x" "Dan (dm0n)" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_group Resize "150x" "JCTF" />}} 
+        {{< imgproc avatar_group Resize "150x" "JCTF" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_group Resize "150x" "EY (3rN357&Y0un9)" />}}             
@@ -44,13 +44,13 @@ draft: false
 <table align="center">
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_female Resize "100x" "Reut Menashe" />}} 
+        {{< imgproc avatar_female Resize "100x" "Reut Menashe" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Roei Sherman" />}} 
+        {{< imgproc RS Resize "100x" "Roei Sherman" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}} 
+        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}}
         </td>
     </tr>
     <tr>
@@ -73,13 +73,13 @@ draft: false
     </tr>
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}} 
+        {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Daniel Abeles" />}} 
+        {{< imgproc avatar_male Resize "100x" "Daniel Abeles" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Ezra Caltum" />}} 
+        {{< imgproc avatar_male Resize "100x" "Ezra Caltum" />}}
         </td>
     </tr>
     <tr>
@@ -97,13 +97,13 @@ draft: false
     </tr>
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Kasif Dekel" />}} 
+        {{< imgproc avatar_male Resize "100x" "Kasif Dekel" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Guy Beck" />}} 
+        {{< imgproc avatar_male Resize "100x" "Guy Beck" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Omer Agmon" />}} 
+        {{< imgproc avatar_male Resize "100x" "Omer Agmon" />}}
         </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ draft: false
         DoSaTTaCK
         </td>
     </tr>
-    
+
 </table>
 
 

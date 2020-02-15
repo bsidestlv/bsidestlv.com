@@ -6,6 +6,16 @@ menu:
 
 draft: false
 ---
+{{% hero %}}
+{{% /hero %}}
+
+
+<!-- Parteners list | titanium,platinum,gold,silver -->
+
+{{% partners categories="titanium, platinum, gold, silver" %}}
+
+{{% /partners %}}
+
 ![BsidesTLV2019](/images/sponsors/5.png)
 
 BSidesTLV 2020 Edition - Sponsors Wanted!
