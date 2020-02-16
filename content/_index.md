@@ -26,12 +26,12 @@ BSidesTLV 2020 will take place July 2, 2020 at Tel Aviv University, Tel Aviv, Is
 
 This year, we are going bigger and better, new location and lots of cool surprises!
 We would like to thank you sponsors and partners for making this event possible:
-Our hosts : Tel Aviv University ICRC Cyber Week
-Titanium Sponsor : AppsFlyer
+Our hosts: Tel Aviv University ICRC Cyber Week
+Titanium Sponsor: AppsFlyer
 Platinum Sponsors: HackerOne & Palo Alto Networks
 Gold Sponsors: Intel, XMCyber, Cybereason, ClearSky Security, NeuraLegion,
 and CheckPoint Software.
-Silver/ Chill out zone sponsor : Snyk
+Silver sponsor: Snyk
 
 ## The BSidesTLV 2020 CFP is now open!
 
