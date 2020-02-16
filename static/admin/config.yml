@@ -1,7 +1,7 @@
 backend:
-  name: github
-  repo: bsidestlv/2020.bsidestlv.com
+  name: git-gateway
   branch: dev
+  site_domain: bsidestlv.netlify.com
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
