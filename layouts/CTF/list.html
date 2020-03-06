@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ $lang := $.Page.Language.Lang }}
+
+<div class="hero">
+	<h1>{{ $.Page.Params.Title }}</h1>
+	<div class="description">
+		{{ .Content }}
+	</div>
+</div>
+
+<section>
+	<ul>
+	{{ range .Pages }}
+		<a class="blog" href="{{ .Permalink }}"><h2><li>{{ .Title }}</li></h2></a>
+	{{ end }}
+	</ul>
+</section>
+
+
+{{ end }}

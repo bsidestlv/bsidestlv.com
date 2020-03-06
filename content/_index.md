@@ -8,61 +8,46 @@ menu:
 
 ---
 
-
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2020" %}}
+
+## BSidesTLV 2020 - Cyberpunk Edition!
+The future is already here - it's just not evenly distributed..
 
 ## July 2nd, 2020
 ### Tel Aviv University
 
 {{% /jumbo %}}
 
+{{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
-{{% home-info what="Participants:1200+,Day:2,Sessions:18,CTF Challenges:42" class="primary" %}}
-## What is BSides Tel Aviv
-
-Started by a group of hackers, security researchers and people passionate about cyber security, who are keen to share their knowledge and ideas, Security Bsides is a global network of community oriented, grassroots non-profit security events taking place anywhere from Athens, to São Paulo!
-
-From the Bsides Community Wiki:  “Bsides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening”.  Read more about it at: http://www.securitybsides.com/
+## CFP is now open!
+CFP closes March 15, 2020 
+{{< button-link label="Submit your talk!" url="./cfp" icon="cfp" >}}
 
 {{% /home-info %}}
 
-
 {{< youtube-section link="JP-iw_0FAI0" title="Watch 2019 Videos" class="" >}}
 
-<!-- ... -->
 
-
-<!-- ..
-
-{{% home-speakers %}}
+<!-- {{% home-speakers %}}
 ## Featured Speakers
-{{< button-link label="Submit a presentation"
-                url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-                icon="cfp" >}}
-
 
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
 
 {{% /home-speakers %}}
--->
-
-<!-- ... -->
-
+ -->
 {{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
 
-<!-- ... -->
-
-<!-- .. -->
-{{% home-tickets %}}
+<!-- {{% home-tickets %}}
 # Tickets
 
-<!-- <a class="btn primary" href="https://tickets.bsidestlv.com" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a> -->
+<a class="btn primary" href="https://tickets.bsidestlv.com" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>
 <li>{{< ticket name="Normal"
@@ -70,39 +55,34 @@ From the Bsides Community Wiki:  “Bsides creates opportunities for individuals
            ends="2020-07-01"
            price="FREE"
            info="General admission"
-           soldOut="false"
            url="https://tickets.bsidestlv.com" >}}</li>
 </ul>
 
 {{% /home-tickets %}}
 
-<!-- ... -->
+-->
 
-{{% home-location address="Bar Shira Auditorium, Tel Aviv University" %}}
+{{% partners categories="venue,titanium,platinum,gold" %}}
+## Sponsors
+{{% /partners %}}
+
+{{% home-location address="Smolarz Auditorium, Tel Aviv University" %}}
 
 ## The venue
 
 ### Tel Aviv University
 
-BSidesTLV2019 will take place at Bar Shira Auditorium, Tel Aviv University
+BSidesTLV2020 will take place at Smolarz Auditorium, Tel Aviv University
 
 {{% /home-location %}}
 
-<!-- ... -->
-
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
+{{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
 ### Some pictures of the **BSidesTLV 2019** with the 👾 _retro-gaming_ theme.
 
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
+<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/2Y3AVLy8DxTFbbjH6">
     See all photos
     {{% icon "right" %}}
 </a>
 
 {{% /album  %}}
-
-<!-- ... -->
-
-{{% partners categories="venue,titanium,platinum,gold,silver" %}}
-## Sponsors
-{{% /partners %}}
