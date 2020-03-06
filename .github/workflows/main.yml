@@ -1,0 +1,86 @@
+name: Build and deploy website
+
+on: [push, pull_request]
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 0.64.1
+          extended: true
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Checkout submodules
+        shell: bash
+        run: |
+          auth_header="$(git config --local --get http.https://github.com/.extraheader)"
+          git submodule sync --recursive
+          git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+   
+      - name: Cache node modules
+        uses: actions/cache@v1
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Install Dependencies
+        run: npm ci
+      - name: Generate Compressed images
+        run: npm run build:images
+      - name: Generate SVG icons
+        run: npm run build:icons
+      - name: Generate pages CSS
+        run: npm run build:styles
+      - name: Build Hugo
+        run: hugo --minify
+      - name: Minify HTML / JS / CSS
+        run: npm run build:minify
+
+      - name: Deploy to GitHub Pages
+        if: github.ref == 'refs/heads/master'
+        uses: peaceiris/actions-gh-pages@v2
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./public
+      - name: Purge Cloudflare Cache
+        if: github.ref == 'refs/heads/master'
+        env:
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+        shell: sh
+        run: |
+          HTTP_RESPONSE=$(curl -sS "https://api.cloudflare.com/client/v4/zones/${CLOUDFLARE_ZONE}/purge_cache" \
+                      -H "Content-Type: application/json" \
+                      -H "Authorization: Bearer ${CLOUDFLARE_TOKEN}" \
+                      -w "HTTP_STATUS:%{http_code}" \
+                      --data '{"purge_everything":true}')
+          HTTP_BODY=$(echo "${HTTP_RESPONSE}" | sed -E 's/HTTP_STATUS\:[0-9]{3}$//')
+          HTTP_STATUS=$(echo "${HTTP_RESPONSE}" | tr -d '\n' | sed -E 's/.*HTTP_STATUS:([0-9]{3})$/\1/')                      
+          if [ "${HTTP_STATUS}" -eq "200" ]; then
+            echo "Successfully purged!"
+            exit 0
+          else
+            echo "Purge failed. API response was: "
+            echo "${HTTP_BODY}"
+            exit 1
+          fi
+
+
+

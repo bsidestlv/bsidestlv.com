@@ -1,0 +1,1 @@
+window.NodeList&&!NodeList.prototype.forEach&&(NodeList.prototype.forEach=function(o,t){t=t||window;for(var e=0;e<this.length;e++)o.call(t,this[e],e,this)}),document.querySelectorAll("ul.shuffle").forEach(function(o){if(o.children.length)for(var t=o.children.length;0<=t;t--)o.appendChild(o.children[Math.random()*t|0])});

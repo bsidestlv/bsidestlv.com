@@ -1,0 +1,34 @@
+# Hugo default output directory
+/public
+/resources
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+themes/devfest-theme-hugo
+
+/resources/
+public/
+node_modules/
+.firebase/
+.idea/
+.vscode/
+yarn-error.log
+
+
+static/main.js
+static/schedule/schedule*.pdf
+static/CNAME
+*-1140.jpg
+*-960.jpg
+*-720.jpg
+*-540.jpg
+
+/static/styles/*.css
+*.webp

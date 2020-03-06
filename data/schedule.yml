@@ -1,45 +1,6 @@
-- day: '2019-10-03'
+- day: '2020-07-02'
   start: '08:00'
   rooms:
     - room: room1
       slots:
-        - slot: open
-          talk: __open
-        - slot: keynote-open
-          talk: keynote_open
-        - slot: pause-1
-          talk: __pause
-        - slot: slot-1
-          talk: the_rise_of_the_web
-        - slot: pause-2
-          talk: __pause
-        - slot: slot-2
-          talk: l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus
-        - slot: pause-3
-          talk: __pause
-        - slot: slot-3
-          talk: webgpu__next_generation_3d_graphics_on_the_web
-        - slot: slot-lt-1
-          talk: 3_techniques_faciles_de_manipulation
-        - slot: lunch
-          talk: __lunch
-        - slot: slot-lt-2
-          talk: _47_ans___ils_nont_toujours_pas_remarque__
-        - slot: slot-4
-          talk: rust__webassembly__and_the_future_of_serverless
-        - slot: pause-4
-          talk: __pause
-        - slot: slot-5
-          talk: le_design_de_l_erreur
-        - slot: pause-5
-          talk: __pause
-        - slot: slot-6
-          talk: monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques
-        - slot: pause-6
-          talk: __pause
-        - slot: slot-7
-          talk: _votre_api_web_passe_t_elle_le_controle_technique__
-        - slot: keynote-close
-          talk: keynote_close
-        - slot: party
-          talk: __party
+        

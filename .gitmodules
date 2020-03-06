@@ -1,3 +1,3 @@
-[submodule "themes/devfest-theme-hugo"]
-	path = themes/devfest-theme-hugo
+[submodule "themes/devfest-theme-hugo-2020"]
+	path = themes/devfest-theme-hugo-2020
 	url = https://github.com/GDGToulouse/devfest-theme-hugo.git

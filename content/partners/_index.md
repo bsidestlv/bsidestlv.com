@@ -1,20 +1,14 @@
 ---
-title: Partners
+title: Sponsors
 menu:
   main:
-    weight: 20
+    weight: 70
 
 draft: false
 ---
-
 {{% hero %}}
-
-
 {{% /hero %}}
 
-
-<!-- Parteners list -->
-
-{{% partners categories="venue,titanium,platinum,gold,silver" %}}
+{{% partners categories="venue,titanium,platinum,gold" %}}
 
 {{% /partners %}}
