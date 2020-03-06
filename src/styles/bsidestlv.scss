@@ -1,0 +1,138 @@
+// Dark theme
+@media (prefers-color-scheme: dark) {
+
+  :root {
+    --base: #FFF;
+    --base-text: #424242;
+    --primary: #593a9f;
+    --base-secondary-text: #636363;
+    --link-secondary-text: #424242;
+
+    --toc-text: #64b5f6;
+
+    --color-hero: ghostwhite;
+
+    --lighten-1: rgba(0, 0, 0, .125);
+    --lighten-2: rgba(0, 0, 0, .25);
+    --lighten-3: rgba(0, 0, 0, .5);
+
+    --darken-1: hsla(0, 100%, 100%, .125);
+    --darken-2: hsla(0, 100%, 100%, .25);
+    --darken-3: hsla(0, 100%, 100%, .5);
+
+    --footer-bg: #000;
+    --footer-fg: #777;
+  }
+}
+
+:root {
+  --primary: #593a9f;
+  --primary-txt: #fff;
+
+  --accent: grey;
+  --accent-txt: #fff;
+
+  --base: #FFF;
+  --base-text: #424242;
+  --base-secondary-text: #636363;
+  --link-secondary-text: #424242;
+
+  --partner-support-height: 90px;
+  --partner-font-size-venue: 1.5rem;
+  --partner-font-size-titanium: 1.75rem;
+  --partner-font-size-platinum: 1.5rem;
+  --partner-font-size-gold: 1.25rem;
+  --partner-font-size-silver: 1rem;
+  --partner-venue-height: calc(var(--partner-support-height) * 2.25);
+  --partner-titanium-height: calc(var(--partner-support-height) * 2);
+  --partner-platinum-height: calc(var(--partner-support-height) * 1.5);
+  --partner-gold-height: calc(var(--partner-support-height) * 1.25);
+  --partner-silver-height: calc(var(--partner-support-height) * 1);
+
+}
+.partners-group.partner-venue ul li {
+  height: var(--partner-venue-height);
+  flex-basis: 600px;
+}
+
+.partners-group.partner-titanium ul li {
+  height: var(--partner-titanium-height);
+  flex-basis: 500px;
+}
+
+.partners-group.partner-platinum ul li {
+  height: var(--partner-platinum-height);
+  flex-basis: 400px;
+}
+
+.partners-group.partner-gold ul li {
+  height: var(--partner-gold-height);
+  flex-basis: 300px;
+}
+
+.partners-group.partner-silver ul li {
+  height: var(--partner-silver-height);
+  flex-basis: 200px;
+}
+
+.partners-group.partner-venue .fancy {
+  font-size: var(--partner-font-size-venue);
+  color: var(--color-venue);
+
+  span:before, span:after {
+    border-bottom: 2px solid currentColor;
+    border-top: 2px solid currentColor;
+  }
+}
+
+.partners-group.partner-titanium .fancy {
+  font-size: var(--partner-font-size-titanium);
+  color: var(--color-titanium);
+
+  span:before, span:after {
+    border-bottom: 2px solid currentColor;
+    border-top: 2px solid currentColor;
+  }
+}
+
+.partners-group.partner-platinum .fancy {
+  font-size: var(--partner-font-size-platinum);
+  color: var(--color-platinum);
+
+  span:before, span:after {
+    border-bottom: 1px solid currentColor;
+    border-top: 1px solid currentColor;
+  }
+}
+
+.partners-group.partner-gold .fancy {
+  font-size: var(--partner-font-size-gold);
+  color: var(--color-gold);
+
+  span:before, span:after {
+    top: 20%;
+    border-bottom: 1px solid currentColor;
+  }
+}
+
+.partners-group.partner-silver .fancy {
+  font-size: var(--partner-font-size-silver);
+  color: var(--color-silver);
+}
+
+
+// Fix description location as map is now iframe and not img
+.home main {
+  .location {
+    .description {
+      right: 4rem;
+    }
+  }
+}
+
+@supports (grid-template-columns: repeat(5, 1fr)) {
+
+  .album {
+    grid-template-rows: repeat(2, 30vh);
+  }
+}

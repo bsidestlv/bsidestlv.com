@@ -1,0 +1,83 @@
+@import "themes/devfest-theme-hugo-2020/src/styles/root";
+@import "themes/devfest-theme-hugo-2020/src/styles/variables";
+@import "node_modules/sass-mq/mq";
+
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/base";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/main";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/buttons";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/icons";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/header";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/footer";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/socials";
+
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/album";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/jumbo";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/partners";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/speakers";
+@import "themes/devfest-theme-hugo-2020/src/styles/partials/tickets";
+
+@import "themes/devfest-theme-hugo-2020/src/styles/pages/home";
+
+@import "partials/konfetti";
+
+// Custom CSS
+.jumbo .jumbo-cover {
+  background-image: url("/images/backgrounds/back-0.webp");
+
+  @include mq($until: sm) {
+    background-image: url("/images/backgrounds/back-0-540.webp");
+  }
+  @include mq($until: md) {
+    background-image: url("/images/backgrounds/back-0-720.webp");
+  }
+  @include mq($until: lg) {
+    background-image: url("/images/backgrounds/back-0-960.webp");
+  }
+  @include mq($until: xl) {
+    background-image: url("/images/backgrounds/back-0-1140.webp");
+  }
+}
+
+.no-webp .jumbo .jumbo-cover {
+  background-image: url("/images/backgrounds/back-0.jpg");
+
+  @include mq($until: sm) {
+    background-image: url("/images/backgrounds/back-0-540.jpg");
+  }
+  @include mq($until: md) {
+    background-image: url("/images/backgrounds/back-0-720.jpg");
+  }
+  @include mq($until: lg) {
+    background-image: url("/images/backgrounds/back-0-960.jpg");
+  }
+  @include mq($until: xl) {
+    background-image: url("/images/backgrounds/back-0-1140.jpg");
+  }
+}
+
+.jumbo .inner p {
+  font-size: 1.25rem;
+  background-color: rgba(0, 0, 0, 0.125);
+  border-radius: var(--space-3);
+  text-shadow: 0 1px rgba(0,0,0,.5);
+  box-shadow: 0 0 var(--space-3) rgba(0,0,0,.125);
+}
+
+div.number:nth-child(3) > strong:nth-child(1) {
+  position: relative;
+
+  &::before {
+    position: absolute;
+    right: -2ch;
+    content: '🎉';
+    font-size: 80%;
+  }
+}
+
+.home main .map {
+  display: block;
+  height: 664px;
+  background-position: center center;
+  background-size: cover;
+}
+@import "bsidestlv";

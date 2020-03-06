@@ -2,11 +2,10 @@
 key: cybereason
 title: Cybereason
 category: gold
-logo: /images/partners/cybereason.png
 website: 'https://www.cybereason.com/'
 socials: []
 ---
 
-Intel is a nice company
+Check out Cybereason @ https://www.cybereason.com/
 
-Learn more at [https://cyberweek.tau.ac.il/2019/](https://cyberweek.tau.ac.il/2019/)
+Learn more at [https://cyberweek.tau.ac.il/2020/](https://cyberweek.tau.ac.il/2020/)
