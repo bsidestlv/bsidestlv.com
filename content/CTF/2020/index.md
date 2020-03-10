@@ -46,7 +46,7 @@ draft: true
         {{< imgproc RS Resize "100x" "Roei Sherman" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}}
+        {{< imgproc NimrodLevy Resize "100x" "Nimrod Levy" />}}
         </td>
     </tr>
     <tr>
