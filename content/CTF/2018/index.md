@@ -51,7 +51,7 @@ draft: false
         {{< imgproc avatar_male Resize "100x" "Tomer Zait" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}} 
+        {{< imgproc NimrodLevy Resize "100x" "Nimrod Levy" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_male Resize "100x" "Adir Abraham" />}} 
