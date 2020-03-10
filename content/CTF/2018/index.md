@@ -48,7 +48,7 @@ draft: false
 <table align="center">
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Tomer Zait" />}} 
+        {{< imgproc TomerZait Resize "100x" "Tomer Zait" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc NimrodLevy Resize "100x" "Nimrod Levy" />}} 
