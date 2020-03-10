@@ -27,8 +27,16 @@ draft: false
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_male Resize "100x" "Dan (dm0n)" />}}
         </td>
-        <td style="border:0px solid black; padding:10px;">
+        <td style="border:0px solid black; padding:10px;" align="center">
         {{< imgproc avatar_group Resize "150x" "JCTF" />}}
+        <i>
+        YaakovCohen88<br>
+        Schtrudel<br>
+        Narcissus<br>
+        Moshe Wagner<br>
+        Israel Erlich<br>
+        Dvd848
+        </i>
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_group Resize "150x" "EY (3rN357&Y0un9)" />}}             
@@ -44,7 +52,7 @@ draft: false
 <table align="center">
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_female Resize "100x" "Reut Menashe" />}}
+        {{< imgproc reut_menashe Resize "100x" "Reut Menashe" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc RS Resize "100x" "Roei Sherman" />}} 
@@ -76,10 +84,10 @@ draft: false
         {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Daniel Abeles" />}}
+        {{< imgproc DanielAbeles Resize "100x" "Daniel Abeles" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Ezra Caltum" />}}
+        {{< imgproc ezra_caltum Resize "100x" "Ezra Caltum" />}}
         </td>
     </tr>
     <tr>
@@ -103,7 +111,7 @@ draft: false
         {{< imgproc avatar_male Resize "100x" "Guy Beck" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Omer Agmon" />}}
+        {{< imgproc OmerAgmon Resize "100x" "Omer Agmon" />}}
         </td>
     </tr>
     <tr>
@@ -131,7 +139,13 @@ draft: false
 
 ## Write-Ups
 
-Are you aware of any write-ups? Let us know!
+A writeup for last year's CTF can be found here:
+
+[Digital Whisper 109](https://www.digitalwhisper.co.il/issue109)
+
+[JCTF Team Writeup](https://jctf.team/BSidesTLV-2019/)
+
+Thank you `Dvd848` for the links!
 
 ## Resources
 
