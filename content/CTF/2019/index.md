@@ -105,7 +105,7 @@ draft: false
     </tr>
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Kasif Dekel" />}}
+        {{< imgproc KasifDekel Resize "100x" "Kasif Dekel" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_male Resize "100x" "Guy Beck" />}}
