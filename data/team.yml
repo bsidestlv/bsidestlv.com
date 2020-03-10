@@ -12,12 +12,16 @@
 
 - title: Guy Barnhart-Magen
   type: core
-  subtitle:
-  photo: guy_bm.jpeg
+  subtitle: because the blue team has to win!
+  photo: guy_bm.jpg
   key: guy_bm
   socials:
     - link: 'https://twitter.com/barnhartguy'
       name: Twitter
+    - link: 'https://productsecurity.info/'
+      name: Site
+    - link: 'https://www.linkedin.com/in/guy-barnhart-magen/'
+      name: LinkedIn
 
 - title: Ilan Gracier
   type: core
