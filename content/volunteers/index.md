@@ -13,6 +13,6 @@ draft: false
 
 * Sign-up as a BSidesTLV 2020 Volunteer at https://signup.com/go/XDcsMTY
 
-* Email us at volunteer@bsidestlv.coms
+* Email us at volunteer@bsidestlv.com
 
 {{% /hero %}}
