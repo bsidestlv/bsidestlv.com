@@ -13,7 +13,7 @@ horizontal: false
 
 Choose from 10, 25, 45 minutes talks, or give a special "underground" talk!
 
-Our CFP will remain open until March 15, 2020.
+Our CFP will remain open until March 31, 2020.
 
 The conference theme this year is CyberPunk, the science fiction genre focusing on near-future - "high tech & low life" dystopian visions of a hyper-technological future, with hackers as the genre's heroes and anti heroes.
 
