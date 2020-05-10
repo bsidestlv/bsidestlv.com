@@ -1,7 +1,7 @@
 ---
 key: hackerone
 title: HackerOne
-category: platinum
+category: silver
 website: 'https://hackerone.com/sign_up'
 socials: []
 ---

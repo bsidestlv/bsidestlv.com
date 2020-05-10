@@ -14,15 +14,13 @@ menu:
 The future is already here - it's just not evenly distributed..
 
 ## July 2nd, 2020
-### Tel Aviv University
 
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
-## CFP is now open!
-CFP closes March 15, 2020 
-{{< button-link label="Submit your talk!" url="./cfp" icon="cfp" >}}
+## CFP is closed!
+Talks will be published soon
 
 {{% /home-info %}}
 
@@ -62,11 +60,11 @@ CFP closes March 15, 2020
 
 -->
 
-{{% partners categories="venue,titanium,platinum,gold" %}}
+{{% partners categories="titanium,gold,silver" %}}
 ## Sponsors
 {{% /partners %}}
 
-{{% home-location address="Smolarz Auditorium, Tel Aviv University" %}}
+<!-- {{% home-location address="Smolarz Auditorium, Tel Aviv University" %}}
 
 ## The venue
 
@@ -74,7 +72,7 @@ CFP closes March 15, 2020
 
 BSidesTLV2020 will take place at Smolarz Auditorium, Tel Aviv University
 
-{{% /home-location %}}
+{{% /home-location %}} -->
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
