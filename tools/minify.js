@@ -1,7 +1,6 @@
 const {readFileSync, writeFileSync} = require('fs');
 const {sync: glob} = require('glob');
 const {minify} = require('html-minifier');
-const UglifyJS = require("uglify-js");
 const postcss = require('postcss');
 const {Logger, LogLevel, colorEmojiConfig} = require('plop-logger');
 
@@ -27,33 +26,6 @@ const totalGain = glob(htmlFiles)
   }).reduce((acc, elt) => acc + elt, 0);
 
 logger.info('Total HTML gain', '' + totalGain);
-
-
-// Compress JS
-const jsFiles = `public/sw.js`;
-logger.info('Compress JS files', jsFiles);
-
-const totalJsGain = glob(jsFiles)
-  .map(file => {
-    const code = readFileSync(file, 'utf8');
-    const result = UglifyJS.minify(code);
-    if (result.code){
-      const minified = result.code;
-      const gain = code.length - minified.length;
-      if (gain > 0) {
-        const percent = (gain / code.length) * 100;
-        logger.debug(file, () => ['gain', percent.toFixed(2), '%'].join(" "));
-        writeFileSync(file, minified, {flag: 'w'});
-      }
-      return gain;
-    } else {
-      logger.error(`Fail to minify ${file}`);
-      console.error(result.error);
-      return 0;
-    }
-  }).reduce((acc, elt) => acc + elt, 0);
-
-logger.info('Total JS gain', '' + totalJsGain);
 
 
 // Compress CSS
