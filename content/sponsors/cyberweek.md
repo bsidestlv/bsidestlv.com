@@ -1,7 +1,7 @@
 ---
 key: cyberweek
 title: TAU Cyberweek 2020
-category: venue
+category: venue-
 website: 'https://cyberweek.tau.ac.il/2020/'
 socials: []
 ---
