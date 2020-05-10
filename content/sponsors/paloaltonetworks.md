@@ -1,7 +1,7 @@
 ---
 key: paloaltonetworks
 title: Palo Alto Networks
-category: platinum
+category: platinum-
 website: 'https://www.paloaltonetworks.com/'
 socials: []
 ---

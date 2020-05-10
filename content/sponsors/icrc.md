@@ -1,7 +1,7 @@
 ---
 key: icrc
 title: ICRC
-category: venue
+category: venue-
 website: 'https://icrc.tau.ac.il/'
 socials: []
 ---
