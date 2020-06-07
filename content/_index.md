@@ -60,7 +60,7 @@ Talks will be published soon
 
 -->
 
-{{% partners categories="titanium,gold,silver" %}}
+{{% partners categories="titanium,platinum,gold" %}}
 ## Sponsors
 {{% /partners %}}
 
