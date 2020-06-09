@@ -25,92 +25,62 @@ draft: true
     </tr>
     <tr>
         <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_female Resize "100x" "Is it you?" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_female Resize "100x" "Or you?" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_female Resize "100x" "Maybe you?" />}}
         </td>
         <td style="border:0px solid black; padding:10px;">
+        {{< imgproc avatar_female Resize "100x" "Adam again?" />}}
         </td>
 </table>
 
 
-# Our Team
+## Our Team
 
 <table align="center">
     <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc reut_menashe Resize "100x" "Reut Menashe" />}}
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc reut_menashe Resize "100x" "Reut Menashe" />}}
         </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc RS Resize "100x" "Roei Sherman" />}} 
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc TomerZait Resize "100x" "Tomer Zait" />}}
         </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc NimrodLevy Resize "100x" "Nimrod Levy" />}}
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc RS Resize "100x" "Roei Sherman" />}} 
         </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc DanielAbeles Resize "100x" "Daniel Abeles" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc ezra_caltum Resize "100x" "Ezra Caltum" />}}
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc NimrodLevy Resize "100x" "Nimrod Levy" />}}
         </td>
     </tr>
     <tr>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc avatar_female Resize "100x" "Vera Mens" />}}
         </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc avatar_male Resize "100x" "Yahav Azran" />}}
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc DanielAbeles Resize "100x" "Daniel Abeles" />}}
         </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Kasif Dekel" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Guy Beck" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc OmerAgmon Resize "100x" "Omer Agmon" />}}
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc ezra_caltum Resize "100x" "Ezra Caltum" />}}
         </td>
     </tr>
     <tr>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}}
         </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc LavieBB Resize "100x" "Lavie BB" />}}
         </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc avatar_male Resize "100x" "Guy Beck" />}}
         </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc LavieBB Resize "100x" "Lavie BB" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "1" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "2" />}}
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc avatar_male Resize "100x" "Omer Cohen" />}}
         </td>
     </tr>
 
@@ -120,9 +90,15 @@ draft: true
 <!-- {{< imgproc avatar_male Resize "100x"  />}}
 {{< imgproc avatar_female Resize "100x"  />}} -->
 
-# Challenges
+## Challenges
+
+Soon ...
 
 ## Write-Ups
 
+Soon ...
+
 ## Resources
+
+Soon ...
 
