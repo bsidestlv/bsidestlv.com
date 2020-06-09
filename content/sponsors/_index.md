@@ -9,6 +9,6 @@ draft: false
 {{% hero %}}
 {{% /hero %}}
 
-{{% partners categories="titanium,gold,silver" %}}
+{{% partners categories="titanium,platinum,gold" %}}
 
 {{% /partners %}}

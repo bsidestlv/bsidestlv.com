@@ -1,13 +1,11 @@
 ---
 key: intel
 title: Intel
-category: gold
-website: 'https://www.intel.com/'
+category: platinum
+website: 'https://www.intel.co.il/content/www/il/he/homepage.html'
 socials:
   - link: https://twitter.com/intel
     name: Twitter
 ---
 
-Check out Intel @ https://www.intel.com/
-
-Learn more at [https://cyberweek.tau.ac.il/2019/](https://cyberweek.tau.ac.il/2019/)
+Check out Intel @ https://www.intel.co.il/content/www/il/he/homepage.html
