@@ -48,10 +48,10 @@ draft: false
 <table align="center">
     <tr>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Tomer Zait" />}} 
+        {{< imgproc TomerZait Resize "100x" "Tomer Zait" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Nimrod Levy" />}} 
+        {{< imgproc NimrodLevy Resize "100x" "Nimrod Levy" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
         {{< imgproc avatar_male Resize "100x" "Adir Abraham" />}} 
@@ -93,7 +93,7 @@ draft: false
         {{< imgproc avatar_male Resize "100x" "Gal Goldstein" />}} 
         </td>
         <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Omer Agmon" />}} 
+        {{< imgproc OmerAgmon Resize "100x" "Omer Agmon" />}} 
         </td>
     </tr>
     <tr>
