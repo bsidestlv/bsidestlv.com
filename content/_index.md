@@ -10,8 +10,10 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2020" %}}
 
-## BSidesTLV 2020 - Cyberpunk Edition!
-The future is already here - it's just not evenly distributed..
+## BSidesTLV 2020 - Hybrid Edition!
+The time has come for us to go hybrid, gather together and share our knowledge,
+
+We are excited to announce that BSidesTLV 2020 will take place in hybrid format! 
 
 ## July 2nd, 2020
 
