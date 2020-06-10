@@ -7,5 +7,3 @@ socials: []
 ---
 
 Check out AppsFlyer @ https://www.appsflyer.com/
-
-Learn more at [https://cyberweek.tau.ac.il/2020/](https://cyberweek.tau.ac.il/2020/)

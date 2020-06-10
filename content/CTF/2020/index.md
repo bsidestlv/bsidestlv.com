@@ -87,12 +87,6 @@ draft: false
 </table>
 
 
-
-<!-- ## Write-Ups
-
-Soon ... -->
-
 ## Resources
 
 We will update the CTF website and challenge links closer to the event
-
