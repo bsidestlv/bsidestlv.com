@@ -1,9 +1,9 @@
 ---
-title: BSidesTLV 2020 CTF
+title: 2020 CTF
 brief: BSidesTLV Capture The Flag
 image: /images/blog/cfp.jpg
 date: 2020-01-23
-draft: true
+draft: false
 ---
 
 # Hall of Fame
@@ -39,7 +39,7 @@ draft: true
 </table>
 
 
-## Our Team
+# Our Team
 
 <table align="center">
     <tr>
@@ -80,25 +80,19 @@ draft: true
             {{< imgproc avatar_male Resize "100x" "Guy Beck" />}}
         </td>
         <td style="border:0px solid black; padding:10px;vertical-align:top;">
-            {{< imgproc avatar_male Resize "100x" "Omer Cohen" />}}
+            {{< imgproc omer_cohen Resize "100x" "Omer Cohen" />}}
         </td>
     </tr>
 
 </table>
 
 
-<!-- {{< imgproc avatar_male Resize "100x"  />}}
-{{< imgproc avatar_female Resize "100x"  />}} -->
 
-## Challenges
+<!-- ## Write-Ups
 
-Soon ...
-
-## Write-Ups
-
-Soon ...
+Soon ... -->
 
 ## Resources
 
-Soon ...
+We will update the CTF website and challenge links closer to the event
 

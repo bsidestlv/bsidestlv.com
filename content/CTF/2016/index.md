@@ -1,5 +1,5 @@
 ---
-title: BSidesTLV 2016 CTF
+title: 2016 CTF
 brief: BSidesTLV Capture The Flag
 image: /images/blog/cfp.jpg
 date: 2016-03-23
