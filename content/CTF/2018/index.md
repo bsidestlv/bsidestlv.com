@@ -1,5 +1,5 @@
 ---
-title: BSidesTLV 2018 CTF
+title: 2018 CTF
 brief: BSidesTLV Capture The Flag
 image: /images/blog/cfp.jpg
 date: 2018-03-23
