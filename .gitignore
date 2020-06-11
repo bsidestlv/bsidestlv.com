@@ -12,6 +12,7 @@ $RECYCLE.BIN/
 # OSX
 .DS_Store
 themes/devfest-theme-hugo
+themes/devfest-theme-hugo-2020
 
 /resources/
 public/
@@ -33,4 +34,3 @@ static/CNAME
 /static/styles/*.css
 *.webp
 
-themes/
