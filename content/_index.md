@@ -43,7 +43,7 @@ Talks will be published soon
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
-
+  
 <!-- {{% home-tickets %}}
 # Tickets
 
