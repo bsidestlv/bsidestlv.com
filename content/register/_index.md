@@ -25,9 +25,9 @@ We would like to thank you loyal sponsors for supporting our event this year!
 {{% /partners %}}
 
 ## The Details
-- When: Thursday, 2 July 2020 09:00-19:00 Israel (GMT+3)
+- When: Thursday, 2 July 2020 11:00-19:00 Israel (GMT+3)
 - Where: Broadcasting live from Central Tel Aviv 
-- Check this page soon for registration link
+- Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
 - Join our mailing list to be notified of any updates and changed and future events 
 {{% home-subscribe  class="primary" %}}
 {{% /home-subscribe %}}
