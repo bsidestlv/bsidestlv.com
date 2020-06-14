@@ -25,6 +25,9 @@ request.get({
   if (err) {
     throw err
   }
+  if (!body) {
+    throw response
+  }
 
   body.results.map( session => {
     sessions[session.code] = session
