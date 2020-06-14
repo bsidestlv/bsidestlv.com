@@ -2,8 +2,8 @@
 key: neuralegion
 title: Neuralegion
 category: gold
-website: 'https://www.neuralegion.com/'
+website: 'https://go.neuralegion.com/bsidestlv'
 socials: []
 ---
 
-Check out Neuralegion @ https://www.neuralegion.com/
+Check out Neuralegion @ https://go.neuralegion.com/bsidestlv
