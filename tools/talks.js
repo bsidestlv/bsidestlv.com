@@ -20,10 +20,13 @@ logger.info('Fetching talks from pretalx')
 request.get({
     url: 'https://cfp.bsidestlv.com/api/events/20/talks/',
     json: true,
-    headers: {bearer: process.env.PRETALX_TOKEN} 
+    headers: {authorization: `Token ${process.env.PRETALX_TOKEN}`}
 }, (err, response, body) => {
   if (err) {
     throw err
+  }
+  if (!body.results.length) {
+    throw 'no results, cant be..'
   }
 
   body.results.map( session => {
