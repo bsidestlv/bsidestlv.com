@@ -18,7 +18,7 @@ var sessions = {}
 
 logger.info('Fetching talks from pretalx')
 request.get({
-    url: 'https://cfp.bsidestlv.com/api/events/19/talks/',
+    url: 'https://cfp.bsidestlv.com/api/events/20/talks/',
     json: true,
     headers: {bearer: '2fb14f6632d2f3267a523fe8b82c2fb1c17e2664'} 
 }, (err, response, body) => {
@@ -75,25 +75,3 @@ ${session.abstract}
   }
 
 });
-
-
-
-
-// const data = oldFiles.flatMap(files => glob(files, ))
-//   .map(file => {
-//       const parts = file.split('/');
-//       const id = parts[parts.length - 1].split('.')[0];
-//       logger.debug('adding', id);
-//       return readFileSync(file, 'utf8')
-//         .replace(`<svg xmlns="http://www.w3.org/2000/svg"`, `\t<symbol id="${id}"`)
-//         .replace(`</svg>`, `\t</symbol>`);
-//     }
-//   );
-
-// const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" class="visually-hidden">
-//   ${data.join('\n')}
-// </svg>`;
-
-// const file = 'static/icons.svg';
-// logger.info('Generate SVG Icons', file);
-// writeFileSync(file, svg, {flag: 'w'});
