@@ -25,7 +25,7 @@ You can see it in our website, but if you like you can also go to our [Twitch pa
 
 Head over to our slack to engage with the sponsors, speakers, guests and the team! [BSidesTLV Slack](https://app.slack.com/client/TAKGT2PNE/C014JEFUETZ/details/info)
 
-### What is Cyber Week?
+<!--### What is Cyber Week?
 
 Cyber Week, is one of the biggest cyber security events in Israel taking place in Israel, with the Annual International Cybersecurity Conference, at Smolarz Auditorium, Tel Aviv University. The conference is organized jointly by the Blavatnik Interdisciplinary Cyber Research Center (ICRC), the Yuval Ne’eman Workshop for Science, Technology and Security, the Israeli National Cyber Bureau, Prime Minister’s Office and Tel Aviv University.
 Read more at http://cyberweek.tau.ac.il/
@@ -53,7 +53,7 @@ registration from 8:30, talks start at 09:30AM sharp!
 
 :taxi: TAXI: TAU Gate #4 near Smolraz or inside the Campus at Bar Shira
 
-:parking:Paid Parking: Smolraz parking lot, next to Smolraz auditorium , then use pedestrian Gate #4
+:parking:Paid Parking: Smolraz parking lot, next to Smolraz auditorium , then use pedestrian Gate #4 -->
 
 
 ### How to become a sponsor/partner?
@@ -70,7 +70,7 @@ We’re happy you asked – there are many ways to be a part of BsidesTLV:
 
 * Give a talk [CFP Blog post](/blog/cfp/)
 * Show a cool demo [CFP Blog post](/blog/cfp/)
-* Volunteer ([Sign up](https://signup.com/go/FthrQrc) to be a volunteer)
+<!--* Volunteer ([Sign up](https://signup.com/go/FthrQrc) to be a volunteer) -->
 * Suggest designs for BsidesTLV Logo, badge and T-shirt! info@bsidestlv.com
 * Engage with speakers , ask interesting questions (Register & show up! that’s easy!)
 * Meet new friends and share the knowledge (this is really the best part of Bsides)
@@ -85,7 +85,7 @@ You can contact us on twitter or by email at info@bsidestlv.com
 
 ### Will the talks be filmed and later uploaded online?
 
-Yes, Most Talks were recorded and uploaded to our [youtube channel](https://www.youtube.com/channel/UCKcGZ)
+Yes, Most Talks will be recorded and uploaded to our [youtube channel](https://www.youtube.com/channel/UCKcGZ)
 
 ### Can media\journalists attend?
 
