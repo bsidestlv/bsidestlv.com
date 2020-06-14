@@ -10,8 +10,5 @@ draft: false
 
 
 {{% hero %}}
-Wanna appear here?
-Submit to our [CFP](/cfp/) for a chance to have your name here :)
-
-<!-- TODO: filter and search -->
+We are proud to present the speakers of BSidesTLV 2020 !
 {{% /hero %}}

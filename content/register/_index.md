@@ -31,5 +31,6 @@ We would like to thank you loyal sponsors for supporting our event this year!
 - Join our mailing list to be notified of any updates and changed and future events 
 {{% home-subscribe  class="primary" %}}
 {{% /home-subscribe %}}
+- Check this page fopr the agenda - [BSidesTLV 2020 Agenda](https://bsidestlv.com/agenda/)
 
 Stay safe and see you soon! BSidesTLV 2020 team
