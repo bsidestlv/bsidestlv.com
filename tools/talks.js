@@ -22,6 +22,7 @@ request.get({
     json: true,
     headers: {bearer: process.env.PRETALX_TOKEN} 
 }, (err, response, body) => {
+  throw body
   if (err) {
     throw err
   }
