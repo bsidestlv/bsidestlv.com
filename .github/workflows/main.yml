@@ -48,6 +48,8 @@ jobs:
       - name: Generate pages CSS
         run: npm run build:styles
       - name: Generate speakers and sessions
+        env:
+          PRETALX_TOKEN: ${{ secrets.PRETALX_TOKEN }}
         run: npm run build:talks
       - name: Build Hugo
         run: hugo --minify
