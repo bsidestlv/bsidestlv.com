@@ -17,6 +17,14 @@ Read more about it at: http://www.securitybsides.com/
 {{% /hero %}}
 
 
+### Where can i see the streaming for BSidesTLV 2020?
+
+You can see it in our website, but if you like you can also go to our [Twitch page](https://www.twitch.tv/bsidestlv) 
+
+### Where is lobbycon in a hybrid conference?
+
+Head over to our slack to engage with the sponsors, speakers, guests and the team! [BSidesTLV Slack](https://app.slack.com/client/TAKGT2PNE/C014JEFUETZ/details/info)
+
 ### What is Cyber Week?
 
 Cyber Week, is one of the biggest cyber security events in Israel taking place in Israel, with the Annual International Cybersecurity Conference, at Smolarz Auditorium, Tel Aviv University. The conference is organized jointly by the Blavatnik Interdisciplinary Cyber Research Center (ICRC), the Yuval Ne’eman Workshop for Science, Technology and Security, the Israeli National Cyber Bureau, Prime Minister’s Office and Tel Aviv University.
