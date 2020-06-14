@@ -31,7 +31,6 @@ jobs:
         uses: actions/cache@v1
         env:
           cache-name: cache-node-modules
-          PRETALX_TOKEN: ${{ secrets.PRETALX_TOKEN }}
         with:
           path: ~/.npm
           key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
@@ -49,6 +48,8 @@ jobs:
       - name: Generate pages CSS
         run: npm run build:styles
       - name: Generate speakers and sessions
+        env:
+          PRETALX_TOKEN: ${{ secrets.PRETALX_TOKEN }}
         run: npm run build:talks
       - name: Build Hugo
         run: hugo --minify
