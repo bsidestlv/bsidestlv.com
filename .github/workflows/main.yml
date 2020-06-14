@@ -47,6 +47,8 @@ jobs:
         run: npm run build:icons
       - name: Generate pages CSS
         run: npm run build:styles
+      - name: Generate speakers and sessions
+        run: npm run build:talks
       - name: Build Hugo
         run: hugo --minify
       - name: Minify HTML / JS / CSS
