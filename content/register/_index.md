@@ -29,6 +29,7 @@ We would like to thank you loyal sponsors for supporting our event this year!
 - Where: Broadcasting live from Central Tel Aviv 
 - Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
 - Join our mailing list to be notified of any updates and changed and future events 
+- Check this page fopr the agenda - [BSidesTLV 2020 Agenda](https://bsidestlv.com/agenda/)
 {{% home-subscribe  class="primary" %}}
 {{% /home-subscribe %}}
 
