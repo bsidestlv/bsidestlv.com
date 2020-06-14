@@ -20,7 +20,8 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
-- Register here! - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
+## Register here!
+ - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
 
 
 ## CFP is closed!
