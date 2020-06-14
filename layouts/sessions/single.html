@@ -1,0 +1,36 @@
+{{ define "main" }}
+<section class="talk">
+
+	<header class="tag-{{ anchorize (delimit .Params.tags "" ) }}">
+	<div class="tags">
+		{{ range .Params.tags }}
+			{{ range first 1 (where $.Site.Data.categories "key" .) }}
+			<span>{{ .name }}</span>
+			{{ end }}
+		{{ end }}
+	</div>
+
+	<h1 class="text">{{ .Title }}</h1>
+	</header>
+
+	<div class="info">
+		<div class="detail">
+			<ul class="speakers">
+				{{ range where .Site.RegularPages "Params.key" "in" .Params.speakers }}
+				<li>
+					<a class="visually-hidden" aria-hidden="true" href="/speakers/{{ .Params.key }}">{{ .Params.name }}</a>
+					<a class="speaker" href="/speakers/{{ .Params.key }}">
+						<div class="speaker-img" style="background-image: url({{ .Params.photoURL }});"></div>
+						<strong class="speaker-name">{{ .Params.name }}</strong>
+						<span class="speaker-country">{{ .Params.city }}</span>
+						<div class="speaker-company">{{ .Params.company }}</div>
+					</a>
+				</li>
+				{{ end }}
+			</ul>
+			<div class="content">{{ .Content }}</div>
+		</div>
+
+	</div>
+</section>
+{{ end }}

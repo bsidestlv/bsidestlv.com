@@ -6,6 +6,22 @@ date: 2020-01-23
 draft: false
 ---
 
+![banner](banner-1500.png)
+
+Last update: 13-Jun-2020
+
+## Rules and Guidelines
+
+1. Remote participation is allowed (for all teams) this year
+2. In the past, we only allowed physically present teams to claim a prize, we are considering a different approach this year
+3. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
+4. Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate
+5. Each team may be made of one or more individuals
+
+*please check this page for any updates prior to the competition*
+
+---
+
 # Hall of Fame
 
 <table align="center">
@@ -58,7 +74,7 @@ draft: false
     </tr>
     <tr>
         <td style="border:0px solid black; padding:10px;vertical-align:top;">
-            {{< imgproc avatar_female Resize "100x" "Vera Mens" />}}
+            {{< imgproc VeraMens Resize "100x" "Vera Mens" />}}
         </td>
         <td style="border:0px solid black; padding:10px;vertical-align:top;">
             {{< imgproc avatar_male Resize "100x" "Yahav Azran" />}}
@@ -89,4 +105,4 @@ draft: false
 
 ## Resources
 
-We will update the CTF website and challenge links closer to the event
+Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate

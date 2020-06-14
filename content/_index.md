@@ -45,7 +45,7 @@ You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](http
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
-
+  
 <!-- {{% home-tickets %}}
 # Tickets
 
