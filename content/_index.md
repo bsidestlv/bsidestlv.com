@@ -20,8 +20,24 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
-# Register here!
-# [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
+## Register here!
+ {{% home-tickets %}}
+# Tickets
+
+<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+
+<ul>
+<li>{{< ticket name="Normal"
+           starts="2020-06-15"
+           ends="2020-07-02"
+           price="FREE"
+           info="General admission"
+           url="https://tickets.bsidestlv.com/bsidestlv/2020/" >}}</li>
+</ul>
+
+{{% /home-tickets %}}
+
+ - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
 
 
 ## CFP is closed!
@@ -47,23 +63,7 @@ You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](http
 
 {{% /home-subscribe %}}
   
-<!-- {{% home-tickets %}}
-# Tickets
 
-<a class="btn primary" href="https://tickets.bsidestlv.com" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
-
-<ul>
-<li>{{< ticket name="Normal"
-           starts="2020-05-01"
-           ends="2020-07-01"
-           price="FREE"
-           info="General admission"
-           url="https://tickets.bsidestlv.com" >}}</li>
-</ul>
-
-{{% /home-tickets %}}
-
--->
 
 {{% partners categories="titanium,platinum,gold" %}}
 ## Sponsors

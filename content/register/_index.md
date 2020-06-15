@@ -6,6 +6,17 @@ menu:
 
 ---
 
+## The Details
+- When: Thursday, 2 July 2020 11:00-19:00 Israel (GMT+3)
+- Where: Broadcasting live from Central Tel Aviv 
+- Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
+{{% home-tickets  class="primary" %}}
+{{% /home-tickets %}}
+- Lobbycon will be live on BSidesTLV Slack, [join us today!](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
+- Join our mailing list to be notified of any updates and changed and future events 
+{{% home-subscribe  class="primary" %}}
+{{% /home-subscribe %}}
+
 ## BSidesTLV 2020 - Hybrid Edition! Welcome To The New Normal...
 
 The time has come for us to go hybrid, gather together and share our knowledge!
@@ -24,13 +35,6 @@ We would like to thank you loyal sponsors for supporting our event this year!
 {{% partners categories="titanium,platinum,gold" %}}
 {{% /partners %}}
 
-## The Details
-- When: Thursday, 2 July 2020 11:00-19:00 Israel (GMT+3)
-- Where: Broadcasting live from Central Tel Aviv 
-- Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
-- Lobbycon will be live on BSidesTLV Slack, [join us today!](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
-- Join our mailing list to be notified of any updates and changed and future events 
-{{% home-subscribe  class="primary" %}}
-{{% /home-subscribe %}}
+
 
 Stay safe and see you soon! BSidesTLV 2020 team
