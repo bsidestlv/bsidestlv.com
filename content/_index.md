@@ -23,7 +23,6 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 ## Register here!
  {{% home-tickets %}}
 
-
 <a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Registration</a>
 
 <!-- <ul>
