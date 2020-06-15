@@ -13,7 +13,7 @@ menu:
 ## BSidesTLV 2020 - Hybrid Edition!
 The time has come for us to go hybrid, gather together and share our knowledge,
 
-We are excited to announce that BSidesTLV 2020 will take place in hybrid format! 
+We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
 ## July 2nd, 2020
 
@@ -24,7 +24,7 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
  {{% home-tickets %}}
 # Tickets
 
-<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>
 <li>{{< ticket name="Normal"
@@ -32,7 +32,8 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
            ends="2020-07-02"
            price="FREE"
            info="General admission"
-           url="https://tickets.bsidestlv.com/bsidestlv/2020/" >}}</li>
+           url="https://tickets.bsidestlv.com/bsidestlv/2020/" >}}
+</li>
 </ul>
 
 {{% /home-tickets %}}
@@ -62,7 +63,7 @@ You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](http
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
-  
+
 
 
 {{% partners categories="titanium,platinum,gold" %}}
