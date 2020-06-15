@@ -10,8 +10,7 @@ menu:
 - When: Thursday, 2 July 2020 11:00-19:00 Israel (GMT+3)
 - Where: BsidesTLV team will Broadcast live from Central Tel Aviv, you will be watching us from anywhere around the globe, we will broadcast on: Twitch, Youtube and our website.
 - Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
- {{% home-tickets %}}
- {{% /home-tickets %}}
+<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Registration</a>
 - Lobbycon will be live on BSidesTLV Slack, [join us today!](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
 - Join our mailing list to be notified of any updates and changed and future events
 {{% home-subscribe  class="primary" %}}
