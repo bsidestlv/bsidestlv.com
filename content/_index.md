@@ -15,16 +15,18 @@ The time has come for us to go hybrid, gather together and share our knowledge,
 
 We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
+*Hybrid mode: our speakers are live on stage, our audience participates safely and remotely from home via live stream and chat room*
+
 ## July 2nd, 2020
 
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
-## Register here!
- {{% home-tickets %}}
+{{% home-tickets %}}
 
-<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Registration</a>
+<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank"></use></svg>Registration</a>
 
+[Register here for BSidesTLV](https://tickets.bsidestlv.com/bsidestlv/2020/)
 <!-- <ul>
 <li>
 {{< ticket name="Normal"
@@ -38,11 +40,7 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
 {{% /home-tickets %}}
 
- - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
-
-
-## CFP is closed!
-You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](https://bsidestlv.com/agenda/)
+<!-- You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](https://bsidestlv.com/agenda/) -->
 
 {{% /home-info %}}
 
