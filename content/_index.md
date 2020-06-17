@@ -24,9 +24,10 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 {{% home-tickets %}}
 
-<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank"></use></svg>Registration</a>
+<a class="btn primary" href="register/"></use></svg>Register</a>
 
-[Register here for BSidesTLV](https://tickets.bsidestlv.com/bsidestlv/2020/)
+[Register here for BSidesTLV](register/)
+
 <!-- <ul>
 <li>
 {{< ticket name="Normal"
@@ -58,14 +59,14 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
  -->
 {{% home-subscribe  class="primary" %}}
 
-## Get notified about the important conference updates
+## Get notified about important conference updates
 
 {{% /home-subscribe %}}
 
 
 
 {{% partners categories="titanium,platinum,gold" %}}
-## Sponsors
+## Our Sponsors
 {{% /partners %}}
 
 <!-- {{% home-location address="Smolarz Auditorium, Tel Aviv University" %}}

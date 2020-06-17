@@ -6,9 +6,12 @@ menu:
 
 draft: false
 ---
-{{% hero %}}
-{{% /hero %}}
+
+
+<!-- {{% hero %}}
+{{% /hero %}} -->
 
 {{% partners categories="titanium,platinum,gold" %}}
+BSidesTLV 2020 is proudly sponsored by:
 
 {{% /partners %}}
