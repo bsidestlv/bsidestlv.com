@@ -1,13 +1,15 @@
 {{ define "main" }}
 
-{{ $lang := $.Page.Language.Lang }}
-
 <div class="hero">
-	<h1>{{ $.Page.Params.Title }}</h1>
+	<h1>{{ .Title }}</h1>
 	<div class="description">
-		{{ .Content }}
+		{{ .TableOfContents }}
 	</div>
 </div>
+
+<section class="content">
+	{{ .Content }}
+</section>
 
 <section>
 	<ul>
@@ -16,6 +18,5 @@
 	{{ end }}
 	</ul>
 </section>
-
 
 {{ end }}
