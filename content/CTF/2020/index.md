@@ -25,7 +25,7 @@ Last update: 18-Jun-2020
 Full 48-hours
 
 * Start: June 28th 2020, 09:00 (Israel Time)
-* Start: June 30st 2020, 09:00 (Israel Time)
+* End: June 30st 2020, 09:00 (Israel Time)
 
 **Winner anouncement on July 2nd, during our event**
 
