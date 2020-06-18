@@ -8,7 +8,9 @@ draft: false
 
 ![banner](banner-1500.png)
 
-Last update: 13-Jun-2020
+Last update: 18-Jun-2020
+
+<a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank" style="background-color: green">Register</a>
 
 ## Rules and Guidelines
 
@@ -18,9 +20,18 @@ Last update: 13-Jun-2020
 4. Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate
 5. Each team may be made of one or more individuals
 
-You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
+## Timetable
 
-Follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
+Full 48-hours
+
+* Start: June 28th 2020, 09:00 (Israel Time)
+* End: June 30st 2020, 09:00 (Israel Time)
+
+**Winner anouncement on July 2nd, during our event**
+
+---
+
+You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
 *please check this page for any updates prior to the competition*
 
