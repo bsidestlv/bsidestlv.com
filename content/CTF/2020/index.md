@@ -18,6 +18,10 @@ Last update: 13-Jun-2020
 4. Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate
 5. Each team may be made of one or more individuals
 
+You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
+
+Follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
+
 *please check this page for any updates prior to the competition*
 
 ---

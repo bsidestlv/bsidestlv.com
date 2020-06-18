@@ -13,16 +13,35 @@ menu:
 ## BSidesTLV 2020 - Hybrid Edition!
 The time has come for us to go hybrid, gather together and share our knowledge,
 
-We are excited to announce that BSidesTLV 2020 will take place in hybrid format! 
+We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
+
+*Hybrid mode: our speakers are live on stage, our audience participates safely and remotely from home via live stream and chat room*
 
 ## July 2nd, 2020
 
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
+{{% home-tickets %}}
 
-## CFP is closed!
-Talks will be published soon
+<a class="btn primary" href="register/"></use></svg>Register</a>
+
+[Register here for BSidesTLV](register/)
+
+<!-- <ul>
+<li>
+{{< ticket name="Normal"
+           starts="2020-06-15"
+           ends="2020-07-02"
+           price="FREE"
+           info="General admission"
+           url="https://tickets.bsidestlv.com/bsidestlv/2020/" >}}
+</li>
+</ul> -->
+
+{{% /home-tickets %}}
+
+<!-- You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](https://bsidestlv.com/agenda/) -->
 
 {{% /home-info %}}
 
@@ -40,30 +59,14 @@ Talks will be published soon
  -->
 {{% home-subscribe  class="primary" %}}
 
-## Get notified about the important conference updates
+## Get notified about important conference updates
 
 {{% /home-subscribe %}}
-  
-<!-- {{% home-tickets %}}
-# Tickets
 
-<a class="btn primary" href="https://tickets.bsidestlv.com" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
-<ul>
-<li>{{< ticket name="Normal"
-           starts="2020-05-01"
-           ends="2020-07-01"
-           price="FREE"
-           info="General admission"
-           url="https://tickets.bsidestlv.com" >}}</li>
-</ul>
-
-{{% /home-tickets %}}
-
--->
 
 {{% partners categories="titanium,platinum,gold" %}}
-## Sponsors
+## Our Sponsors
 {{% /partners %}}
 
 <!-- {{% home-location address="Smolarz Auditorium, Tel Aviv University" %}}
