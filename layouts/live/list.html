@@ -1,0 +1,49 @@
+{{ define "main" }}
+<br><br><br>
+<table>
+    <tr>
+        <td colspan="3" style="text-align: center;">
+            <div id="twitch"></div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+          <section class="partners">
+              {{ $site := .Site }}
+              {{ range (split ("titanium,platinum,gold") ",") }}
+                <section class="partners-group partner-{{ . }}">
+                  <h3 class="fancy">
+                    <span>{{ . }}</span>
+                  </h3>
+                  <ul>
+                  {{ $partners := where $site.AllPages "Params.category" . }}
+                  {{ range sort $partners ".Params.order" "asc" }}
+                    <li>{{ partial "partner.html" . }}</li>
+                  {{ end }}
+                  </ul>
+                </section>
+              {{ end }}
+          </section>
+        </td>
+        <td>
+            CCCHHHHHAAAAAAAATTTTTTT
+        </td>
+    </tr>
+</table>
+    
+
+<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+<script type="text/javascript">
+  var options = {
+    width: 960,
+    height: 540,
+    channel: "bsidestlv",
+    parent: []
+  };
+  var player = new Twitch.Player("twitch", options);
+  player.setVolume(0.5);
+</script>
+
+
+{{ end }}
+
