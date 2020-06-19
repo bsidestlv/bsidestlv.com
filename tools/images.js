@@ -143,12 +143,3 @@ glob(`static/images/album/**/*.jpg`)
     });
   });
 
-// Map
-baseWidths.forEach(width => {
-  const output = path.format({dir: 'static/images', name: `map-${width}`, ext: `.webp`});
-  sharp(`static/images/map.jpg`)
-    .resize({width, height: 480, fit: 'cover'})
-    .toFile(output)
-    .catch(failure(`Fail to generate ${output}`))
-    .then(() => logger.info(`Generate ${output}`, '[OK]'));
-});

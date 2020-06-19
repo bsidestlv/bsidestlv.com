@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-{{ .Content }}
-
 <section>
 	<ul class="talks">
 		{{ $sessions := where .Site.AllPages ".Section" "sessions" }}
