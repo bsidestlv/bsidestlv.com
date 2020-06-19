@@ -40,21 +40,11 @@ jobs:
             ${{ runner.os }}-
 
       - name: Install Dependencies
-        run: npm ci
-      - name: Generate Compressed images
-        run: npm run build:images
-      - name: Generate SVG icons
-        run: npm run build:icons
-      - name: Generate pages CSS
-        run: npm run build:styles
-      - name: Generate speakers and sessions
+        run: npm i
+      - name: Build site
         env:
           PRETALX_TOKEN: ${{ secrets.PRETALX_TOKEN }}
-        run: npm run build:talks
-      - name: Build Hugo
-        run: hugo --minify
-      - name: Minify HTML / JS / CSS
-        run: npm run build:minify
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
