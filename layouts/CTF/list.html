@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<section class="content">
+	{{ .Content }}
+</section>
+
+<section>
+	<ul>
+	{{ range .Pages }}
+		<a class="blog" href="{{ .Permalink }}"><h2><li>{{ .Title }}</li></h2></a>
+	{{ end }}
+	</ul>
+</section>
+
+{{ end }}
