@@ -1,33 +1,52 @@
 ---
 title: 2020 CTF
 brief: BSidesTLV Capture The Flag
-image: /images/blog/cfp.jpg
+# image: /images/blog/cfp.jpg
 date: 2020-01-23
 draft: false
 ---
+Last update: 20-Jun-2020
 
 ![banner](banner-1500.png)
 
-Last update: 18-Jun-2020
+---
 
-<a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank" style="background-color: green">Register</a>
+{{% timer "Jun 28, 2020 09:00:00" "CTF starts at:" %}}
 
-## Rules and Guidelines
+---
+
+<div class="divTable">
+    <div class="divTableBody">
+        <div class="divTableRow">
+            <div class="divTableCell" style="vertical-align:middle">
+                <a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank" style="background-color: green">Register</a>
+            </div>
+            <div class="divTableCell">
+<h2> Rules and Guidelines </h2>
 
 1. Remote participation is allowed (for all teams) this year
 2. In the past, we only allowed physically present teams to claim a prize, we are considering a different approach this year
 3. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
 4. Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate
 5. Each team may be made of one or more individuals
-
-## Timetable
-
+            </div>
+        </div>
+        <div class="divTableRow" style="background-color: #ccc">
+            <div class="divTableCell">
+<h2>Timetable</h2>
+            </div>
+            <div class="divTableCell">
 Full 48-hours
 
 * Start: June 28th 2020, 09:00 (Israel Time)
-* End: June 30st 2020, 09:00 (Israel Time)
+* End:   June 30st 2020, 09:00 (Israel Time)
 
 **Winner anouncement on July 2nd, during our event**
+            </div>
+        </div>
+    </div>
+</div>
+
 
 ---
 
@@ -112,6 +131,11 @@ You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/sh
         </td>
         <td style="border:0px solid black; padding:10px;vertical-align:top;">
             {{< imgproc omer_cohen Resize "100x" "Omer Cohen" />}}
+        </td>
+    </tr>
+<tr>
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc avatar_male Resize "100x" "Michael Maltsev" />}}
         </td>
     </tr>
 
