@@ -1,4 +1,12 @@
+{{ $title := .Get 1 }}
+{{ if eq $title "" }}
 <p style="text-align: center; font-size: 60px; margin-top: 0px;" id="timer"></p>
+{{ else }}
+<div style="text-align: center; font-size: 60px; margin-top: 0px; color:#3367CD; background-color:#ccc;">
+  {{$title}}
+  <b style="text-align: center; font-size: 60px; margin-top: 0px;" id="timer"></b>
+</div>
+{{ end }}
 
 <script>
 var countDownDate = new Date("{{ .Get 0 }}").getTime();
