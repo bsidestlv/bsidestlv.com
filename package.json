@@ -13,7 +13,7 @@
     "build:scripts": "node tools/scripts.js",
     "build:minify": "node tools/minify.js",
     "build:talks": "node tools/talks.js",
-    "build:site": "hugo --minify",
+    "build:site": "hugo --minify --buildFuture",
     "build": "run-s build:*"
   },
   "devDependencies": {

@@ -41,7 +41,7 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
 {{% /home-tickets %}}
 
-<!-- You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](https://bsidestlv.com/agenda/) -->
+You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](/agenda/)
 
 {{% /home-info %}}
 
