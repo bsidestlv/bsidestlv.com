@@ -7,14 +7,14 @@ Logger.config = colorEmojiConfig;
 const logger = Logger.getLogger('talks');
 logger.level = LogLevel.All;
 
-const oldFiles = [`content/sessions/*.md`, `content/speakers/*.md`, `content/schedule/*.md`];
+const oldFiles = [`content/agenda/*.md`, `content/speakers/*.md`, `content/schedule/*.md`];
 logger.info('Deleting old content from ', oldFiles);
 
 oldFiles.flatMap(files => glob(files, {'ignore': ['**/_index.md']})).map((file) => unlinkSync(file))
 
 
 var speakers = {}
-var sessions = {}
+var talks = {}
 
 logger.info('Fetching talks from pretalx')
 request.get({
@@ -30,7 +30,7 @@ request.get({
   }
 
   body.results.map( session => {
-    sessions[session.code] = session
+    talks[session.code] = session
     
     strSpeakers = ''
     session.speakers.map( speaker => {
@@ -57,14 +57,21 @@ ${speaker.biography}
     writeFileSync(`content/speakers/${name}.md`, md, {flag: 'w'});
   }
 
-  logger.info('Creating sessions')
-  for (let [code, session] of Object.entries(sessions)) {
+  logger.info('Creating talks')
+  for (let [code, session] of Object.entries(talks)) {
     name = session.title.replace(/\s/g, '_').toLowerCase()
+    start = session.slot.start
+    end = session.slot.end
+    duration = session.duration
     speakers = ''
     let md = `
 ---
 title: "${session.title}"
 talkType: ${session.submission_type.en}
+date: ${start}
+start: ${start}
+end: ${end}
+duration: ${duration}
 tags:
   - ${session.submission_type.en}
 speakers:
@@ -74,7 +81,7 @@ ${session.abstract}
 
 `
     logger.debug('Writing ', name)
-    writeFileSync(`content/sessions/${name}.md`, md, {flag: 'w'});
+    writeFileSync(`content/agenda/${name}.md`, md, {flag: 'w'});
   }
 
 });

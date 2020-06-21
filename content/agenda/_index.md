@@ -1,5 +1,5 @@
 ---
-title: Sessions
+title: Agenda
 menu:
   main:
     weight: 30
@@ -7,6 +7,6 @@ menu:
 
 {{% hero %}}
 
-<!-- TODO: filter and search -->
+We are proud to present BSidesTLV 2020 lineup 
 
 {{% /hero %}}
