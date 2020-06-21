@@ -68,6 +68,7 @@ ${speaker.biography}
 ---
 title: "${session.title}"
 talkType: ${session.submission_type.en}
+date: ${start}
 start: ${start}
 end: ${end}
 duration: ${duration}
