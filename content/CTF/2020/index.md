@@ -133,9 +133,12 @@ You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/sh
             {{< imgproc omer_cohen Resize "100x" "Omer Cohen" />}}
         </td>
     </tr>
-<tr>
+    <tr>
         <td style="border:0px solid black; padding:10px;vertical-align:top;">
-            {{< imgproc avatar_male Resize "100x" "Michael Maltsev" />}}
+            {{< imgproc michael_maltsev Resize "100x" "Michael Maltsev" />}}
+        </td>
+        <td style="border:0px solid black; padding:10px;vertical-align:top;">
+            {{< imgproc arthur Resize "100x" "Artur Isakhanyan" />}}
         </td>
     </tr>
 
