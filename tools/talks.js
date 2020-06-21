@@ -14,7 +14,7 @@ oldFiles.flatMap(files => glob(files, {'ignore': ['**/_index.md']})).map((file) 
 
 
 var speakers = {}
-var sessions = {}
+var talks = {}
 
 logger.info('Fetching talks from pretalx')
 request.get({
@@ -30,7 +30,7 @@ request.get({
   }
 
   body.results.map( session => {
-    sessions[session.code] = session
+    talks[session.code] = session
     
     strSpeakers = ''
     session.speakers.map( speaker => {
@@ -57,8 +57,8 @@ ${speaker.biography}
     writeFileSync(`content/speakers/${name}.md`, md, {flag: 'w'});
   }
 
-  logger.info('Creating sessions')
-  for (let [code, session] of Object.entries(sessions)) {
+  logger.info('Creating talks')
+  for (let [code, session] of Object.entries(talks)) {
     name = session.title.replace(/\s/g, '_').toLowerCase()
     start = session.slot.start
     end = session.slot.end

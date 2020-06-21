@@ -21,11 +21,11 @@
 		<div class="col col-sm-3">
 			{{ range .Params.Speakers }}
 				{{ with site.GetPage path.Join "/speakers" . }}
-					<a href={{ .Permalink }}><u>{{ .Params.Name }}</u></a>
+					<a href={{ .RelPermalink }}><u>{{ .Params.Name }}</u></a>
 				{{ end }}
 			{{ end }}
 		</div>
-		<div class="col col-sm-5"><a href={{ .Permalink }}><u>{{ .Title }}</u></a></div>
+		<div class="col col-sm-5"><a href={{ .RelPermalink }}><u>{{ .Title }}</u></a></div>
 	</div>
 	{{ end }}
 	</div>
