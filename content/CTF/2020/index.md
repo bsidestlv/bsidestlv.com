@@ -7,7 +7,7 @@ draft: false
 ---
 Last update: 20-Jun-2020
 
-![banner](banner-1500.png)
+<img src="banner-1500.png" alt="banner" style="max-width: 100%;">
 
 ---
 
