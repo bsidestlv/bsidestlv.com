@@ -65,7 +65,7 @@ You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](/age
 
 
 
-{{% partners categories="titanium,platinum,gold" %}}
+{{% partners categories="titanium,platinum,gold,CTF,partners" %}}
 ## Our Sponsors
 {{% /partners %}}
 
