@@ -10,7 +10,7 @@ menu:
 
 ## Our Sponsors
 We would like to thank you loyal sponsors for supporting our event this year!
-{{% partners categories="titanium,platinum,gold" %}}
+{{% partners categories="titanium,platinum,gold,CTF,partners" %}}
 {{% /partners %}}
 
 ---

@@ -5,11 +5,21 @@ brief: BSidesTLV Capture The Flag
 date: 2020-01-23
 draft: false
 ---
-Last update: 20-Jun-2020
+Last update: {{< DisplayTime >}}
 
-<!-- {{ partial "picture.html" (dict "banner-1500.png" . "class" "img" "widths" (slice 540 720 960 1140)) }} -->
-
-<img src="banner-1500.png" alt="banner" style="max-width: 100%;">
+<div class="row">
+    <div class="col-xs-12 col-sm-10 col-md-8 col-lg-6">
+        <div class="box" style="">
+            <img src="banner-1500.png" alt="banner" style="max-width: 100%;">
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+        <div class="box" style="">
+            <a href="https://HackTheBox.eu/" target="_blank"><img src="htb.png" alt="banner" style="max-width: 100%;"></a>
+            <h1>BSidesTLV 2020 CTF prizes are sponsored by <a href="https://HackTheBox.eu/" target="_blank">HackTheBox.eu</a></h1>
+        </div>
+    </div>
+</div>
 
 ---
 
@@ -19,8 +29,9 @@ Last update: 20-Jun-2020
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
 
+
 <div class="row">
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
     <h2>Register here:</h2>
         <br>
         <div class="box" style=""><a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank" style="background-color: #ddd; border: 1px solid black; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
@@ -33,7 +44,7 @@ Last update: 20-Jun-2020
         </a>
         </div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-14 col-sm-10 col-md-8 col-lg-6">
         <div class="box" style="">
         <h2> Rules and Guidelines </h2>
 
@@ -66,85 +77,69 @@ You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/sh
 ---
 
 ## Hall of Fame
-  
-<table align="center">
-    <tr>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            <b>1st Place
-        </td>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            2nd Place
-        </td>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            3rd Place
-        </td>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            Honorable mention
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_female Resize "100x" "Is it you?" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_female Resize "100x" "Or you?" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_female Resize "100x" "Maybe you?" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_female Resize "100x" "Adam again?" />}}
-        </td>
-</table>
 
+<div class="row">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
+        <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_female Resize "100x" "1st Place" />}}</div>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
+        <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_female Resize "100x" "2nd Place" />}}</div>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
+        <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_female Resize "100x" "3rd Place" />}}</div>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
+        <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_female Resize "100x" "Honorable mention" />}}</div>
+    </div>
+</div>
 
 ## Our Team
 
 <div class="row">
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc reut_menashe Resize "150x" "Reut Menashe" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc TomerZait Resize "150x" "Tomer Zait" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc RS Resize "150x" "Roei Sherman" />}} </div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc NimrodLevy Resize "150x" "Nimrod Levy" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc VeraMens Resize "150x" "Vera Mens" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_male Resize "150x" "Yahav Azran" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc DanielAbeles Resize "150x" "Daniel Abeles" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc ezra_caltum Resize "150x" "Ezra Caltum" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc guybm Resize "150x" "Guy Barnhart-Magen" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc LavieBB Resize "150x" "Lavie BB" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_male Resize "150x" "Guy Beck" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc omer_cohen Resize "150x" "Omer Cohen" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc michael_maltsev Resize "150x" "Michael Maltsev" />}}</div>
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
+    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc arthur Resize "150x" "Artur Isakhanyan" />}}</div>
     </div>
 </div>
 
 ## Resources
 
-Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate
+* https://ctftime.org/event/1078
