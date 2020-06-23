@@ -7,7 +7,9 @@ draft: false
 ---
 Last update: 20-Jun-2020
 
-![banner](banner-1500.png)
+<!-- {{ partial "picture.html" (dict "banner-1500.png" . "class" "img" "widths" (slice 540 720 960 1140)) }} -->
+
+<img src="banner-1500.png" alt="banner" style="max-width: 100%;">
 
 ---
 
@@ -19,17 +21,29 @@ Last update: 20-Jun-2020
 
 <div class="row">
     <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
-        <div class="box" style=""><a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank" style="background-color: green">Register</a></div>
+    <h2>Register here:</h2>
+        <br>
+        <div class="box" style=""><a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank" style="background-color: #ddd; border: 1px solid black; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
+        <img src="banner-1500.png" style="width:150px">
+        </a></div>
+        <p><p><p>
+        <div class="box" style="">
+        <a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; border: 1px solid black; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/1280px-Slack_Logo_2019.svg.png" style="width:150px">
+        </a>
+        </div>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
         <div class="box" style="">
         <h2> Rules and Guidelines </h2>
 
-1. Remote participation is allowed (for all teams) this year
-2. In the past, we only allowed physically present teams to claim a prize, we are considering a different approach this year
-3. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
-4. Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate
-5. Each team may be made of one or more individuals
+1. Remote participation is allowed (for all teams) this year  
+2. In the past, we only allowed physically present teams to claim a prize, we are considering a different approach this year  
+3. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)  
+4. Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate  
+5. Each team may be made of one or more individuals  
+6. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container.  
+7. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.  
         </div>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
