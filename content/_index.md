@@ -22,11 +22,11 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
+
 {{% home-tickets %}}
+<!-- <a class="btn primary" href="register/"></use></svg>Register</a>
 
-<a class="btn primary" href="register/"></use></svg>Register</a>
-
-[Register here for BSidesTLV](register/)
+[Register here for BSidesTLV](register/) -->
 
 <!-- <ul>
 <li>
@@ -40,6 +40,15 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 </ul> -->
 
 {{% /home-tickets %}}
+
+<a class="btn primary" href="register/" target="_blank" style="background-color: #ddd; color: black; border: 1px solid black; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); display:table-cell; vertical-align:middle; text-align:center; margin-left: auto; margin-right: auto; display: block;">
+  Register Here
+</a>
+<p>
+<a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; border: 1px solid black; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); width: 200px; display: block; margin-left: auto; margin-right: auto; display: block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/1280px-Slack_Logo_2019.svg.png" style="width:150px">
+</a>
+
 
 You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](/agenda/)
 

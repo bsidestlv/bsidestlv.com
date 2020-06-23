@@ -20,7 +20,7 @@ We would like to thank you loyal sponsors for supporting our event this year!
 - Where: BsidesTLV team will Broadcast live from Central Tel Aviv, you will be watching us from anywhere around the globe, we will broadcast on: Twitch, Youtube and our website.
 - Lobbycon will be live on BSidesTLV Slack, [join us today!](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
 - Join our mailing list to be notified of any updates and changed and future events
-<a class="btn" href="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" target="_blank">subscribe</a>
+<a class="btn primary" href="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" target="_blank" style="width: 300px; font-size: 0.875rem">subscribe to our mailing list</a>
 
 ## BSidesTLV 2020 - Hybrid Edition! Welcome To The New Normal...
 
@@ -35,9 +35,17 @@ A hybrid event is a mix of both in-person talks and online experiences. Our sele
 Join us for a full day of the best security research content this side of the Mediterranean, with cutting edge content, community talks, live demos and all of the fun and excitement you have come to expect from BsidesTLV ! Join in for the live talks, chat with your friends and meet our sponsors who want to hire you.
 
 ## Registration
-- Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
+<!-- - Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/) -->
 
-<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank">Registration</a>
+<!-- <a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020/" target="blank">Registration</a> -->
 
+<a class="btn primary" href="https://tickets.bsidestlv.com/bsidestlv/2020" target="_blank" style="width: 500px">
+  Register Here
+</a>
+<p>
+<a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; width: 200px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/1280px-Slack_Logo_2019.svg.png" style="width:150px">
+</a>
 
+<p>
 Stay safe and see you soon! BSidesTLV 2020 team
