@@ -34,12 +34,12 @@ Last update: {{< DisplayTime >}}
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
     <h2>Register here:</h2>
         <br>
-        <div class="box" style=""><a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank" style="background-color: #ddd; border: 1px solid black; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
+        <div class="box" style=""><a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank">
         <img src="banner-1500.png" style="width:150px">
         </a></div>
         <p><p><p>
         <div class="box" style="">
-        <a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; border: 1px solid black; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
+        <a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; ">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/1280px-Slack_Logo_2019.svg.png" style="width:150px">
         </a>
         </div>
