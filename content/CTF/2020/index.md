@@ -147,4 +147,4 @@ You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/sh
 
 ## Resources
 
-Register to the competition at [ctf20.bsidestlv.com](https://ctf20.bsidestlv.com), you must be registered to participate
+* https://ctftime.org/event/1078
