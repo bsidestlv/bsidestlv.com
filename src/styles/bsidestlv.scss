@@ -71,18 +71,6 @@ section h1.fancy, h2.fancy, h3.fancy, h4.facny, h5.fancy, h6.fancy {
   text-align: center !important;
 }
 
-// partners
-.partners-group .partner {
-    background-color: inherit;
-    box-shadow: none;
-    transition: box-shadow var(--animation), background-color var(--animation);
-}
-
-.partners-group .partner:hover {
-    background-color: ghostwhite;
-    box-shadow: var(--box-shadow-1);  
-}
-
 p {
   line-height: 1.4;
   text-align: left;

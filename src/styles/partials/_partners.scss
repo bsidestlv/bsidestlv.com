@@ -67,3 +67,14 @@
   font-size: var(--partner-font-size-silver);
   color: var(--color-silver);
 }
+
+.partners-group .partner {
+    background-color: inherit;
+    box-shadow: none;
+    transition: box-shadow var(--animation), background-color var(--animation);
+}
+
+.partners-group .partner:hover {
+    background-color: ghostwhite;
+    box-shadow: var(--box-shadow-1);  
+}

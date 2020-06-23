@@ -15,6 +15,7 @@
 @import "themes/devfest-theme-hugo-2020/src/styles/pages/partners";
 
 // Custom CSS
+@import "partials/partners";
 @import "page";
 @import "bsidestlv";
 
@@ -24,7 +25,6 @@ clear: left;
 padding-top: 0.5em;
 padding-bottom: 0.5em;
 overflow-x: hidden;
-font-family: 'Lato';
 }
 
 .slack-message .avatar {

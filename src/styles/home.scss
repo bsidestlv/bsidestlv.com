@@ -20,6 +20,7 @@
 
 @import "partials/konfetti";
 @import "partials/partners";
+@import "partials/jumbo";
 
 div.number:nth-child(3) > strong:nth-child(1) {
   position: relative;
@@ -37,39 +38,6 @@ div.number:nth-child(3) > strong:nth-child(1) {
   height: 664px;
   background-position: center center;
   background-size: cover;
-}
-
-
-.jumbo {
-  height: inherit !important;
-  padding: calc(var(--toolbar-height)*2);
-  padding-right: 20px;
-  padding-left: 20px;
-
-  .jumbo-cover {
-    background-position-x: right;
-    background-attachment: unset;
-    @include mq($from: md, $and: '(orientation: landscape)') {
-      background-size: cover;
-    }
-  }
-
-  .jumbo-logo {
-    max-width: 35%;
-  }
-
-  .inner-wrapper {
-    max-width: 70vw;
-    text-align: left;
-    .inner {
-      text-align: inherit;
-      padding: inherit;
-      p {
-        background-color: inherit;
-        box-shadow: none;
-      }
-    }
-  }
 }
 
 // Fix description location as map is now iframe and not img
