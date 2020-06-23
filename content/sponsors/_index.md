@@ -6,4 +6,4 @@ menu:
 ---
 
 # BSidesTLV 2020 is proudly sponsored by:
-{{% partners categories="titanium,platinum,gold" %}}{{% /partners %}}
+{{% partners categories="titanium,platinum,gold,CTF,partners" %}}{{% /partners %}}
