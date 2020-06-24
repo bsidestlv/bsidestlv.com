@@ -17,16 +17,14 @@ We would like to thank you loyal sponsors for supporting our event this year!
 
 ## The Details
 - When: Thursday, 2 July 2020 11:00-19:00 Israel (GMT+3)
-- Where: BsidesTLV team will Broadcast live from Central Tel Aviv, you will be watching us from anywhere around the globe, we will broadcast on: Twitch, Youtube and our website.
-- Lobbycon will be live on BSidesTLV Slack, [join us today!](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
-- Join our mailing list to be notified of any updates and changed and future events
+- Where: BsidesTLV will be broadcast live from Tel Aviv! Join us at home from anywhere around the globe. Register  to get the event link.
+- Lobbycon has already started on the BSidesTLV Slack, [join us today!](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A)
+- Join our mailing list to be notified of any updates and future events
 <a class="btn primary" href="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" target="_blank" style="width: 300px; font-size: 0.875rem">subscribe to our mailing list</a>
 
 ## BSidesTLV 2020 - Hybrid Edition! Welcome To The New Normal...
 
 The time has come for us to go hybrid, gather together and share our knowledge!
-
-We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
 ## What to expect at BSidesTLV 2020 Hybrid edition?
 
