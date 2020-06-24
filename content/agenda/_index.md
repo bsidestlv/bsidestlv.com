@@ -7,6 +7,6 @@ menu:
 
 {{% hero %}}
 
-We are proud to present the BSidesTLV 2020 schedule! 
+We are very proud to present the BSidesTLV 2020 schedule! 
 
 {{% /hero %}}
