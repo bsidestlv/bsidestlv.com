@@ -25,40 +25,13 @@ You can see it in our website, but if you like you can also go to our [Twitch pa
 
 Head over to our slack to engage with the sponsors, speakers, guests and the team! [BSidesTLV Slack](https://app.slack.com/client/TAKGT2PNE/C014JEFUETZ/details/info)
 
-<!--### What is Cyber Week?
-
-Cyber Week, is one of the biggest cyber security events in Israel taking place in Israel, with the Annual International Cybersecurity Conference, at Smolarz Auditorium, Tel Aviv University. The conference is organized jointly by the Blavatnik Interdisciplinary Cyber Research Center (ICRC), the Yuval Ne’eman Workshop for Science, Technology and Security, the Israeli National Cyber Bureau, Prime Minister’s Office and Tel Aviv University.
-Read more at http://cyberweek.tau.ac.il/
-
-
 ### I see everything is in english - will the talks be in english, too?
 
 Yes! We will consider Hebrew talks, but prefer to keep everything in english so we can share the knowledge and invite international guests to attend. If we accept presentations in Hebrew, we’ll offer simultaneous translation.
 
-### How to get to BSidesTLV?
-
-[Smolraz Auditorium, Tel Aviv University](https://www.google.com/maps/place/Tel+Aviv+University+Smolarz+Auditorium/@32.1103563,34.8042639,15z/data=!4m2!3m1!1s0x0:0x57e1b1e76143c7f7?sa=X&ved=2ahUKEwjXm62Z8d_mAhUt-YUKHVo2DKoQ_BIwUXoECEgQCA)
-
-registration from 8:30, talks start at 09:30AM sharp!
-
-:car:Parking in Tel Aviv University area is very limited during CyberWeek. We recommend public transport:
-
-:bus:EGED: 126, 271, 274, 572
-
-:bus:DAN: 6, 7, 13, 24, 25, 33, 45, 49, 54, 127, 279, 289
-
-:bus:KAVIM: 137
-
-:train:TRAIN: Tel  Aviv University Station is 15 minutes walk
-
-:taxi: TAXI: TAU Gate #4 near Smolraz or inside the Campus at Bar Shira
-
-:parking:Paid Parking: Smolraz parking lot, next to Smolraz auditorium , then use pedestrian Gate #4 -->
-
-
 ### How to become a sponsor/partner?
 
-For sponsorship details please reach out to us @ info@bsidestlv.com
+For sponsorship details please reach out to us @ sponsors@bsidestlv.com
 
 ### CFP: Call for Paper
 
@@ -70,7 +43,6 @@ We’re happy you asked – there are many ways to be a part of BsidesTLV:
 
 * Give a talk [CFP Blog post](/blog/cfp/)
 * Show a cool demo [CFP Blog post](/blog/cfp/)
-<!--* Volunteer ([Sign up](https://signup.com/go/FthrQrc) to be a volunteer) -->
 * Suggest designs for BsidesTLV Logo, badge and T-shirt! info@bsidestlv.com
 * Engage with speakers , ask interesting questions (Register & show up! that’s easy!)
 * Meet new friends and share the knowledge (this is really the best part of Bsides)
@@ -93,8 +65,6 @@ Maybe. We’ll think about it and let you know
 
 ### What's the conference's code of conduct?
 
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
-
-
+BSidesTLV is dedicated to providing a safe and harassment-free conference experience regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices, to all participants. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and any other online media. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
 
 More details at http://confcodeofconduct.com/

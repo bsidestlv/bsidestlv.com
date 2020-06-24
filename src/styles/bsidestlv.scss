@@ -1,41 +1,18 @@
-// Dark theme
-@media (prefers-color-scheme: dark) {
-
-  :root {
-    --base: #FFF;
-    --base-text: #424242;
-    --primary: #593a9f;
-    --base-secondary-text: #636363;
-    --link-secondary-text: #424242;
-
-    --toc-text: #64b5f6;
-
-    --color-hero: ghostwhite;
-
-    --lighten-1: rgba(0, 0, 0, .125);
-    --lighten-2: rgba(0, 0, 0, .25);
-    --lighten-3: rgba(0, 0, 0, .5);
-
-    --darken-1: hsla(0, 100%, 100%, .125);
-    --darken-2: hsla(0, 100%, 100%, .25);
-    --darken-3: hsla(0, 100%, 100%, .5);
-
-    --footer-bg: #000;
-    --footer-fg: #777;
-  }
-}
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Permanent+Marker&display=swap');
 
 :root {
-  --primary: #593a9f;
+  --primary: #000;
   --primary-txt: #fff;
 
-  --accent: grey;
+  --accent: #593a9f;
   --accent-txt: #fff;
+
+  --color-hero: var(--base);
 
   --base: #FFF;
   --base-text: #424242;
-  --base-secondary-text: #636363;
-  --link-secondary-text: #424242;
+  --base-secondary-text: #593a9f;
+  --link-secondary-text: #593a9f;
 
   --partner-support-height: 90px;
   --partner-font-size-venue: 1.5rem;
@@ -48,108 +25,88 @@
   --partner-platinum-height: calc(var(--partner-support-height) * 1.5);
   --partner-gold-height: calc(var(--partner-support-height) * 1.25);
   --partner-silver-height: calc(var(--partner-support-height) * 1);
-
-}
-.partners-group.partner-venue ul li {
-  height: var(--partner-venue-height);
-  flex-basis: 600px;
+  --jumbo-overlay-opacity: 0.5;
 }
 
-.partners-group.partner-titanium ul li {
-  height: var(--partner-titanium-height);
-  flex-basis: 500px;
-}
+// Dark theme
+@media (prefers-color-scheme: dark) {
+ :root {
+    --base: #FFF;
+    --base-text: #424242;
+    --primary: #000;
 
-.partners-group.partner-platinum ul li {
-  height: var(--partner-platinum-height);
-  flex-basis: 400px;
-}
+    --toc-text: var(--primary);
 
-.partners-group.partner-gold ul li {
-  height: var(--partner-gold-height);
-  flex-basis: 300px;
-}
+    --color-hero: var(--base);
 
-.partners-group.partner-silver ul li {
-  height: var(--partner-silver-height);
-  flex-basis: 200px;
-}
+    --darken-1: rgba(0, 0, 0, .125);
+    --darken-2: rgba(0, 0, 0, .25);
+    --darken-3: rgba(0, 0, 0, .5);
 
-.partners-group.partner-venue .fancy {
-  font-size: var(--partner-font-size-venue);
-  color: var(--color-venue);
+    --lighten-1: hsla(0, 100%, 100%, .125);
+    --lighten-2: hsla(0, 100%, 100%, .25);
+    --lighten-3: hsla(0, 100%, 100%, .5);
 
-  span:before, span:after {
-    border-bottom: 2px solid currentColor;
-    border-top: 2px solid currentColor;
+    --footer-bg: #222;
+    --footer-fg: #8a8a8a;
   }
 }
 
-.partners-group.partner-titanium .fancy {
-  font-size: var(--partner-font-size-titanium);
-  color: var(--color-titanium);
-
-  span:before, span:after {
-    border-bottom: 2px solid currentColor;
-    border-top: 2px solid currentColor;
-  }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', 'Roboto', sans-serif;
+  text-align: left !important;
 }
 
-.partners-group.partner-platinum .fancy {
-  font-size: var(--partner-font-size-platinum);
-  color: var(--color-platinum);
-
-  span:before, span:after {
-    border-bottom: 1px solid currentColor;
-    border-top: 1px solid currentColor;
-  }
+body > header nav a {
+  font-family: 'Oswald', 'Roboto', sans-serif;
+  font-weight: 400;
 }
 
-.partners-group.partner-gold .fancy {
-  font-size: var(--partner-font-size-gold);
-  color: var(--color-gold);
-
-  span:before, span:after {
-    top: 20%;
-    border-bottom: 1px solid currentColor;
-  }
+body > header nav li {
+  opacity: 1.0;
 }
 
-.partners-group.partner-silver .fancy {
-  font-size: var(--partner-font-size-silver);
-  color: var(--color-silver);
-}
-
-
-// Fix description location as map is now iframe and not img
-.home main {
-  .location {
-    .description {
-      right: 4rem;
+section {
+  h1, h2, h3, h4, h5, h6 {
+    &.fancy {
+      text-align: center !important;
     }
   }
 }
 
-@supports (grid-template-columns: repeat(5, 1fr)) {
+p {
+  line-height: 1.4;
+  text-align: left;
+}
 
-  .album {
-    grid-template-rows: repeat(2, 30vh);
+* {
+  text-shadow: none !important;
+}
+
+.content a {
+  &:visited {
+    color: var(--accent);
   }
 }
 
-a.btn.primary {
-  background-color: grey;
-  font-size: 3.5rem;
-  border: none;
-  background-color: #ddd; 
-  color: black; 
-  border: 1px solid black; 
-  border-radius: 12px; 
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
-  display:table-cell; 
-  // vertical-align: middle; 
-  text-align:center; 
-  margin-left: auto; 
-  margin-right: auto; 
-  display: block;
+a, a:visited {
+  text-decoration: underline;
+}
+
+a.btn {
+  font-weight: 600;
+  padding: var(--space-4);
+  margin: var(--space-3);
+
+  &.primary {
+    font-family: 'Oswald', 'Roboto', sans-serif;
+    background-color: var(--accent);
+    color: var(--base) !important;
+    font-size: 1.5rem;
+
+    .icon {
+      --size: 1.25rem;
+      margin: 5px;
+    }
+  }
 }
