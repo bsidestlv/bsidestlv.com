@@ -23,34 +23,23 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
-{{% home-tickets %}}
-<!-- <a class="btn primary" href="register/"></use></svg>Register</a>
+  {{% home-tickets %}}
+    {{< button-link
+      url="/agenda"
+      label="Agenda"
+      icon="cfp" >}}
 
-[Register here for BSidesTLV](register/) -->
+    {{< button-link
+      url="//tickets.bsidestlv.com/bsidestlv/2020"
+      label="Register Here!"
+      icon="external" >}}
 
-<!-- <ul>
-<li>
-{{< ticket name="Normal"
-           starts="2020-06-15"
-           ends="2020-07-02"
-           price="FREE"
-           info="General admission"
-           url="https://tickets.bsidestlv.com/bsidestlv/2020/" >}}
-</li>
-</ul> -->
+    {{< button-link
+      url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
+      label="Join our Slack!"
+      icon="slack" >}}
 
-{{% /home-tickets %}}
-
-<a class="btn primary" href="register/" target="_blank" style="display:table-cell; vertical-align:middle; text-align:center; margin-left: auto; margin-right: auto; display: block;">
-  Register Here
-</a>
-<p>
-<a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; width: 200px; display: block; margin-left: auto; margin-right: auto; display: block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/1280px-Slack_Logo_2019.svg.png" style="width:150px">
-</a>
-
-
-You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](/agenda/)
+  {{% /home-tickets %}}
 
 {{% /home-info %}}
 
@@ -78,24 +67,11 @@ You can find the agenda and speakers details here - [BSidesTLV 2020 Agenda](/age
 ## Our Sponsors
 {{% /partners %}}
 
-<!-- {{% home-location address="Smolarz Auditorium, Tel Aviv University" %}}
-
-## The venue
-
-### Tel Aviv University
-
-BSidesTLV2020 will take place at Smolarz Auditorium, Tel Aviv University
-
-{{% /home-location %}} -->
-
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
 ### Some pictures of the **BSidesTLV 2019** with the 👾 _retro-gaming_ theme.
-
-<p>
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/2Y3AVLy8DxTFbbjH6">
-    See all photos
-    {{% icon "right" %}}
-</a>
-
+    {{< button-link
+      url="//photos.app.goo.gl/2Y3AVLy8DxTFbbjH6"
+      label="See all photos"
+      icon="right" >}}
 {{% /album  %}}
