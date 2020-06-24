@@ -26,7 +26,7 @@ glob(scssFiles)
     const output = path.format({dir: 'static/styles', name, ext: '.css'});
     logger.debug(`Compile to ${output} to`, file);
 
-    const result = sass.renderSync({file, indentedSyntax, outputStyle});
+    const result = sass.renderSync({file, indentedSyntax, outputStyle, sourceMap: true, sourceMapEmbed: true});
     if (result.css) {
       writeFileSync(output, result.css, {flag: 'w'});
     } else {

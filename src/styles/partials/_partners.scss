@@ -1,0 +1,80 @@
+.partners-group.partner-venue ul li {
+  height: var(--partner-venue-height);
+  flex-basis: 600px;
+}
+
+.partners-group.partner-titanium ul li {
+  height: var(--partner-titanium-height);
+  flex-basis: 500px;
+}
+
+.partners-group.partner-platinum ul li {
+  height: var(--partner-platinum-height);
+  flex-basis: 400px;
+}
+
+.partners-group.partner-gold ul li {
+  height: var(--partner-gold-height);
+  flex-basis: 300px;
+}
+
+.partners-group.partner-silver ul li {
+  height: var(--partner-silver-height);
+  flex-basis: 200px;
+}
+
+.partners-group.partner-venue .fancy {
+  font-size: var(--partner-font-size-venue);
+  color: var(--color-venue);
+
+  span:before, span:after {
+    border-bottom: 2px solid currentColor;
+    border-top: 2px solid currentColor;
+  }
+}
+
+.partners-group.partner-titanium .fancy {
+  font-size: var(--partner-font-size-titanium);
+  color: var(--color-titanium);
+
+  span:before, span:after {
+    border-bottom: 2px solid currentColor;
+    border-top: 2px solid currentColor;
+  }
+}
+
+.partners-group.partner-platinum .fancy {
+  font-size: var(--partner-font-size-platinum);
+  color: var(--color-platinum);
+
+  span:before, span:after {
+    border-bottom: 1px solid currentColor;
+    border-top: 1px solid currentColor;
+  }
+}
+
+.partners-group.partner-gold .fancy {
+  font-size: var(--partner-font-size-gold);
+  color: var(--color-gold);
+
+  span:before, span:after {
+    top: 20%;
+    border-bottom: 1px solid currentColor;
+  }
+}
+
+.partners-group.partner-silver .fancy {
+  font-size: var(--partner-font-size-silver);
+  color: var(--color-silver);
+}
+
+.partners-group .partner {
+    background-color: inherit;
+    box-shadow: none;
+    transition: box-shadow var(--animation), background-color var(--animation);
+}
+
+.partners-group .partner:hover {
+    background-color: ghostwhite;
+    box-shadow: var(--box-shadow-1);  
+}
