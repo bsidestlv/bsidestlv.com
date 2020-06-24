@@ -10,7 +10,7 @@ menu:
 
 ## Our Sponsors
 We would like to thank you loyal sponsors for supporting our event this year!
-{{% partners categories="titanium,platinum,gold" %}}
+{{% partners categories="titanium,platinum,gold,CTF,partners" %}}
 {{% /partners %}}
 
 ---
@@ -34,6 +34,10 @@ A hybrid event is a mix of both in-person talks and online experiences. Our sele
 Join us for a full day of the best security research content this side of the Mediterranean, with cutting edge content, community talks, live demos and all of the fun and excitement you have come to expect from BsidesTLV ! Join in for the live talks, chat with your friends and meet our sponsors who want to hire you.
 
 ## Registration
-Check this page for registration link - [BSidesTLV 2020 Registration](https://tickets.bsidestlv.com/bsidestlv/2020/)
+{{< button-link url="https://tickets.bsidestlv.com/bsidestlv/2020" label="Register Here" icon="right" >}}
+<a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; width: 200px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/1280px-Slack_Logo_2019.svg.png" style="width:150px">
+</a>
 
+<p>
 Stay safe and see you soon! BSidesTLV 2020 team
