@@ -25,6 +25,7 @@
   --partner-platinum-height: calc(var(--partner-support-height) * 1.5);
   --partner-gold-height: calc(var(--partner-support-height) * 1.25);
   --partner-silver-height: calc(var(--partner-support-height) * 1);
+  --jumbo-overlay-opacity: 0.5;
 }
 
 // Dark theme
@@ -51,12 +52,6 @@
   }
 }
 
-a.btn.primary {
-  font-family: 'Oswald', 'Roboto', sans-serif;
-  background-color: var(--accent);
-  color: var(--base) !important;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', 'Roboto', sans-serif;
   text-align: left !important;
@@ -67,8 +62,16 @@ body > header nav a {
   font-weight: 400;
 }
 
-section h1.fancy, h2.fancy, h3.fancy, h4.facny, h5.fancy, h6.fancy {
-  text-align: center !important;
+body > header nav li {
+  opacity: 1.0;
+}
+
+section {
+  h1, h2, h3, h4, h5, h6 {
+    &.fancy {
+      text-align: center !important;
+    }
+  }
 }
 
 p {
@@ -80,8 +83,10 @@ p {
   text-shadow: none !important;
 }
 
-.content a, .content a:visited {
+.content a {
+  &:visited {
     color: var(--accent);
+  }
 }
 
 a, a:visited {
@@ -91,4 +96,17 @@ a, a:visited {
 a.btn {
   font-weight: 600;
   padding: var(--space-4);
+  margin: var(--space-3);
+
+  &.primary {
+    font-family: 'Oswald', 'Roboto', sans-serif;
+    background-color: var(--accent);
+    color: var(--base) !important;
+    font-size: 1.5rem;
+
+    .icon {
+      --size: 1.25rem;
+      margin: 5px;
+    }
+  }
 }

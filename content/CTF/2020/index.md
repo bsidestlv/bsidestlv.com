@@ -33,16 +33,7 @@ Last update: {{< DisplayTime >}}
 <div class="row">
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
     <h2>Register here:</h2>
-        <br>
-        <div class="box" style=""><a class="btn primary" href="https://ctf20.bsidestlv.com/" target="_blank">
-        <img src="banner-1500.png" style="width:150px">
-        </a></div>
-        <p><p><p>
-        <div class="box" style="">
-        <a class="btn primary" href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" target="_blank" style="background-color: #add; ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Slack_Logo_2019.svg/1280px-Slack_Logo_2019.svg.png" style="width:150px">
-        </a>
-        </div>
+        {{< button-link url="//tickets.bsidestlv.com/bsidestlv/2020" label="Register Here!" icon="external" >}} {{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" label="Join our Slack!" icon="slack" >}}
     </div>
     <div class="col-xs-14 col-sm-10 col-md-8 col-lg-6">
         <div class="box" style="">
