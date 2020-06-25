@@ -12,6 +12,7 @@ enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 disablePathToLower = true
 googleAnalytics = "UA-34571097-16"
+enableGitInfo = true
 
 [params]
     title = "BSidesTLV 2020"
