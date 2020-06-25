@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-{{% timer "Jun 28, 2020 09:00:00" "CTF starts at:" %}}
+{{% timer "Jun 28, 2020 09:00:00" "CTF starts in:" %}}
 
 ---
 
@@ -47,6 +47,8 @@ draft: false
 5. Each team may be made of one or more individuals  
 6. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container.  
 7. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.  
+8. team size is limited to 20
+9. scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!)
         </div>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
@@ -104,7 +106,7 @@ You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/sh
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc VeraMens Resize "150x" "Vera Mens" />}}</div>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
-        <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_male Resize "150x" "Yahav Azran" />}}</div>
+        <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc avatar_male Resize "150x" "Yahav" />}}</div>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-6 col-lg-2">
         <div class="box" style="border:0px solid black; padding:10px;vertical-align:top;">{{< imgproc DanielAbeles Resize "150x" "Daniel Abeles" />}}</div>
