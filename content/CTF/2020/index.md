@@ -33,7 +33,7 @@ draft: false
 <div class="row">
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
     <h2>Register here:</h2>
-        {{< button-link url="//tickets.bsidestlv.com/bsidestlv/2020" label="Register!" icon="external" >}}
+        {{< button-link url="//ctf20.bsidestlv.com/" label="CTF Registration" icon="external" >}}
         {{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" label="Join Slack!" icon="slack" >}}
     </div>
     <div class="col-xs-14 col-sm-10 col-md-8 col-lg-6">
