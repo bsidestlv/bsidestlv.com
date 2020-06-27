@@ -49,6 +49,7 @@ draft: false
 7. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.  
 8. team size is limited to 20
 9. scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!)
+10. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
         </div>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-6 col-lg-4">
