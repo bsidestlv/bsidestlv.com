@@ -8,29 +8,17 @@ draft: false
 {{% showlastmod %}}
 
 <div class="row">
-    <div class="col-xs-6"><a href="https://HackTheBox.eu/" target="_blank">{{% picture img="/images/partners/htb.webp" %}}</a></div>
-    <div class="col-xs-6">{{% picture img="/images/banners/ctf2020-wide.webp" widths="540,720,960,1140" %}}</div>
+    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/ctf2020-wide.webp" widths="540,720,960,1140" %}}</div>
+    <div class="col-xs-8 col-md-5"><a href="https://HackTheBox.eu/" target="_blank">{{% picture img="/images/partners/htb.webp" %}}</a></div>
 </div>
 
 ## BSidesTLV 2020 CTF prizes are sponsored by [https://HackTheBox.eu/](HackTheBox.eu)
 
 ---
 
-{{% timer "Jun 28, 2020 09:00:00" "CTF starts in:" %}}
+{{% timer "Jun 27, 2020 09:00:00" "CTF starts in:" %}}
 
 ---
-
-{{< button-link
-    url="//ctf20.bsidestlv.com/"
-    label="Register"
-    icon="external"
-    target="_blank" >}}
-
-{{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
-        label="Join Slack!"
-    icon="slack"
-    target="_blank" >}}
-
 
 # Rules and Guidelines
 
@@ -43,6 +31,19 @@ draft: false
 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
 1. team size is limited to 20
 1. scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!)
+1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
+
+{{< button-link
+    url="//ctf20.bsidestlv.com/"
+    label="Register"
+    icon="external"
+    target="_blank" >}}
+
+{{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
+        label="Join Slack!"
+    icon="slack"
+    target="_blank" >}} 
+
 
 #  Timetable
 
