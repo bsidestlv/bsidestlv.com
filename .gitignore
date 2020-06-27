@@ -22,7 +22,7 @@ node_modules/
 yarn-error.log
 
 
-static/main.js
+static/theme.js
 static/schedule/schedule*.pdf
 static/CNAME
 *-1140.jpg

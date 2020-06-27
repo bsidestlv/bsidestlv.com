@@ -7,7 +7,7 @@ menu:
 draft: false
 ---
 
-{{% picture img="/images/banners/ctf2020-wide.webp" widths="540,720,960,1140" %}}
+{{% picture img="/images/banners/ctf2020-wide.png" widths="540,720,960,1140" %}}
 
 You can find all details for the 2020 CTF below
 
