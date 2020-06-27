@@ -24,12 +24,12 @@ draft: false
     url="//ctf20.bsidestlv.com/"
     label="Register"
     icon="external"
-    target=_blank >}}
+    target="_blank" >}}
 
 {{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
         label="Join Slack!"
     icon="slack"
-    target=_blank >}}
+    target="_blank" >}}
 
 
 # Rules and Guidelines
