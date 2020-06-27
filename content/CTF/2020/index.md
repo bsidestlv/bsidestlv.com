@@ -8,8 +8,8 @@ draft: false
 {{% showlastmod %}}
 
 <div class="row">
-    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/ctf2020-wide.webp" widths="540,720,960,1140" %}}</div>
-    <div class="col-xs-8 col-md-5"><a href="https://HackTheBox.eu/" target="_blank">{{% picture img="/images/partners/htb.webp" %}}</a></div>
+    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/ctf2020-wide.png" widths="540,720,960,1140" %}}</div>
+    <div class="col-xs-8 col-md-5"><a href="https://HackTheBox.eu/" target="_blank">{{% picture img="/images/partners/htb.png" %}}</a></div>
 </div>
 
 ## BSidesTLV 2020 CTF prizes are sponsored by [https://HackTheBox.eu/](HackTheBox.eu)
@@ -65,29 +65,29 @@ You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/sh
 ## Hall of Fame
 
 <div class="row around-xs avatars">
-    <div>{{< imgproc img="/images/ctf/avatar_female.webp" label="1st Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.webp" label="2nd Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.webp" label="3rd Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.webp" label="Honorable mention" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="1st Place" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="2nd Place" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="3rd Place" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="Honorable mention" />}}</div>
 </div>
 
 ## Our Team
 
 <div class="row around-xs avatars">
-    <div>{{< imgproc img="/images/ctf/reut_menashe.webp" label="Reut Menashe" />}}</div>
-    <div>{{< imgproc img="/images/ctf/TomerZait.webp" label="Tomer Zait" />}}</div>
-    <div>{{< imgproc img="/images/ctf/RS.webp" label="Roei Sherman" />}} </div>
-    <div>{{< imgproc img="/images/ctf/NimrodLevy.webp" label="Nimrod Levy" />}}</div>
-    <div>{{< imgproc img="/images/ctf/VeraMens.webp" label="Vera Mens" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.webp" label="Yahav" />}}</div>
-    <div>{{< imgproc img="/images/ctf/DanielAbeles.webp" label="Daniel Abeles" />}}</div>
-    <div>{{< imgproc img="/images/ctf/ezra_caltum.webp" label="Ezra Caltum" />}}</div>
-    <div>{{< imgproc img="/images/ctf/guybm.webp" label="Guy Barnhart-Magen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/LavieBB.webp" label="Lavie BB" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.webp" label="Guy Beck" />}}</div>
-    <div>{{< imgproc img="/images/ctf/omer_cohen.webp" label="Omer Cohen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/michael_maltsev.webp" label="Michael Maltsev" />}}</div>
-    <div>{{< imgproc img="/images/ctf/arthur.webp" label="Artur Isakhanyan" />}}</div>
+    <div>{{< imgproc img="/images/ctf/reut_menashe.png" label="Reut Menashe" />}}</div>
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}</div>
+    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}} </div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}</div>
+    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Yahav" />}}</div>
+    <div>{{< imgproc img="/images/ctf/DanielAbeles.png" label="Daniel Abeles" />}}</div>
+    <div>{{< imgproc img="/images/ctf/ezra_caltum.png" label="Ezra Caltum" />}}</div>
+    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}</div>
+    <div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div>
+    <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
+    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
+    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
 </div>
 
 ## Resources
