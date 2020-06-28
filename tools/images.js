@@ -29,17 +29,16 @@ imgs.forEach(files => {
 const imagesFiles = [
   {files: `static/images/album/**/*.*`, format: 'webp'},
   {files: `static/images/backgrounds/*.*`, format: 'webp'},
+  {files: `static/images/banners/*.*`, format: 'webp'},
   {files: `static/images/blog/*.*`, format: 'webp'},
-  {files: `static/images/kids/*.*`, format: 'webp'},
-  {files: `static/images/konfetti/*.*`, format: 'webp'},
   {files: `static/images/logos/*_text*.*`, opt: {width: 640}, format: 'png'},
   {files: `static/images/partners/**/*.*`, opt: {height: 180}, format: 'webp'},
   {files: `static/images/partners/**/*.svg`, format: 'png'},
   {files: `static/images/partners/**/*.jpg`, format: 'png'},
-  {files: `static/images/team/*.*`, opt: {width: 150}, format: 'webp'},
-  {files: `static/images/ctf/*.*`, opt: {width: 150}, format: 'webp'},
-  {files: `static/images/team/*.png`, format: 'jpg'},
-  {files: `static/images/wtf/*.*`, format: 'webp'},
+  {files: `static/images/team/*.*`, opt: {width: 150}, format: 'png'},
+  {files: `static/images/team/*.png`, opt: {width: 150}, format: 'webp'},
+  {files: `static/images/ctf/*.*`, opt: {width: 150}, format: 'png'},
+  {files: `static/images/ctf/*.png`, opt: {width: 150}, format: 'webp'},
   {files: `static/images/*.jpg`, format: 'webp'}
 ];
 
@@ -68,10 +67,7 @@ imagesFiles.forEach(({files, opt, format}) => {
 // Create alternative image in different resolutions
 const imagesAltFiles = [
   `static/images/backgrounds/*.jpg`,
-  `static/images/kids/*.jpg`,
-  `static/images/wtf/*.jpg`,
-  `static/images/social-share.jpg`,
-  `static/images/konfetti/logo.jpg`
+  `static/images/banners/*.*`,
 ];
 
 imagesAltFiles.forEach(files => {
@@ -119,14 +115,14 @@ glob(`static/images/blog/*.*`)
       .then(() => logger.info(`Generate ${output}`, '[OK]'));
   });
   
-    [ext, baseExt].forEach (ext => {
-      const output = path.format({dir, name: `${name}-mini`, ext});
-      sharp(file)
-        .resize({width: 256})
-        .toFile(output)
-        .catch(failure(`Fail to generate ${output}`))
-        .then(() => logger.info(`Generate ${output}`, '[OK]'));
-    });
+  [ext, baseExt].forEach (ext => {
+    const output = path.format({dir, name: `${name}-mini`, ext});
+    sharp(file)
+      .resize({width: 256})
+      .toFile(output)
+      .catch(failure(`Fail to generate ${output}`))
+      .then(() => logger.info(`Generate ${output}`, '[OK]'));
+  });
 
 });
 

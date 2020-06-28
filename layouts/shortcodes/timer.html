@@ -1,16 +1,12 @@
 {{ $title := .Get 1 }}
-{{ if eq $title "" }}
-<p style="text-align: center; font-size: 60px; margin-top: 0px;" id="timer"></p>
-{{ else }}
-<div style="text-align: center; font-size: 60px; margin-top: 0px; color:#3367CD; background-color:#ccc;">
+<div id="timercontainer">
   {{$title}}
-  <b style="text-align: center; font-size: 60px; margin-top: 0px;" id="timer"></b>
+  <b id="timer"></b>
 </div>
-{{ end }}
 
 <script>
 var countDownDate = new Date("{{ .Get 0 }}").getTime();
-var x = setInterval(function() {
+var tick = function() {
   var now = new Date().getTime();
 
   var distance = countDownDate - now;
@@ -24,7 +20,22 @@ var x = setInterval(function() {
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("timer").innerHTML = "BOOM!";
+    document.getElementById("timercontainer").innerHTML = "";
   }
-}, 1000);
+}
+var x = setInterval(tick, 1000);
+tick()
 </script>
+
+<style type="text/css">
+  #timercontainer {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+    color: #3367CD;
+    background-color: #ccc;
+  }
+  #timer {
+    background-color: none;
+  }
+</style>
