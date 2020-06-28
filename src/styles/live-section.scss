@@ -16,154 +16,176 @@
 
 // Custom CSS
 @import "partials/partners";
+@import "partials/flexboxgrid";
 @import "page";
 @import "bsidestlv";
 
 .slack-message {
-display: block;
-clear: left;
-padding-top: 0.5em;
-padding-bottom: 0.5em;
-overflow-x: hidden;
+	display: block;
+	clear: left;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	overflow-x: hidden;
 }
 
 .slack-message .avatar {
-float: left;
+	float: left;
 }
 
 .slack-message .content {
-display: block;
-margin-left: 60px;
+	display: block;
+	margin-left: 60px;
 }
 
 .slack-message .username {
-font-weight: 900;
+	font-weight: 900;
 }
 
 .slack-message .readmore {
-display: block;
-margin-bottom: 10px;
+	display: block;
+	margin-bottom: 10px;
 }
 
 .slack-message .timestamp {
-color: #888;
+	color: #888;
 }
 
 .slack-message .message {
-color: #000;
-word-wrap: break-word;
-white-space: pre-line;
+	color: #000;
+	word-wrap: break-word;
+	white-space: pre-line;
 }
 
 .reaction {
-display: inline-block;
-border: 1px solid #ccc;
-color: #ccc;
-border-radius: 10px;
-font-size: 14px;
-padding: 0px 8px 3px 8px;
-margin-top: 0.5em;
+	display: inline-block;
+	border: 1px solid #ccc;
+	color: #ccc;
+	border-radius: 10px;
+	font-size: 14px;
+	padding: 0px 8px 3px 8px;
+	margin-top: 0.5em;
 }
 
 .reaction + .reaction {
-margin-left: 0.5em;
+	margin-left: 0.5em;
 }
 
 .reaction i {
-position: relative;
-top: 1px;
-font-style: normal;
-margin-right: 0.1em;
+	position: relative;
+	top: 1px;
+	font-style: normal;
+	margin-right: 0.1em;
 }
 
 img.emoji {
-width: 18px;
-height: 18px;
+	width: 18px;
+	height: 18px;
+}
+
+img.avatar {
+	width: 48px;
+	height: 48px;
 }
 
 .slack-message .document {
-background-color: white;
-border: 1px solid #ccc;
-border-radius: 5px;;
-padding: 0 10px;
-margin-top: 10px;
+	background-color: white;
+	border: 1px solid #ccc;
+	border-radius: 5px;;
+	padding: 0 10px;
+	margin-top: 10px;
 }
 
 .slack-message .document h2 {
-font-size: 16px;
+	font-size: 16px;
 }
 
 .slack-message document {
-display: block;
+	display: block;
 }
 
 .slack-message hr {
-border: none;
-border-top: 1px solid #ccc;
+	border: none;
+	border-top: 1px solid #ccc;
 }
 
 .slack-message a {
-color: #08c;
-text-decoration: none;
+	color: #08c;
+	text-decoration: none;
 }
 
 .slack-message a:visited {
-color: #0576b9;
+	color: #0576b9;
 }
 
 .slack-message a:hover {
-text-decoration: underline;
+	text-decoration: underline;
 }
 
 #slack {
-display: inline-block;
-width: 30em;
-height: 100%;
-max-height: 100%;
-vertical-align: top;
-overflow: hidden;
+	display: inline-block;
+	height: 100%;
+	max-height: 100%;
+	vertical-align: top;
+	overflow: hidden;
 }
 #mirror {
-vertical-align: top;
-height: 40%;
-max-height: 600px;
-overflow-y: scroll;
+	vertical-align: top;
+	height: 40%;
+	max-height: 600px;
+	overflow-y: scroll;
 }   
 
 [style*="--aspect-ratio"] > :first-child {
-width: 100%;
+	width: 100%;
 }
-[style*="--aspect-ratio"] > img { 
-height: auto;
-}
+
 @supports (--custom:property) {
-[style*="--aspect-ratio"] {
-  position: relative;
-}
-[style*="--aspect-ratio"]::before {
-  content: "";
-  display: block;
-  padding-bottom: calc(100% / (var(--aspect-ratio)));
-} 
-[style*="--aspect-ratio"] > :first-child {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-} 
+	[style*="--aspect-ratio"] {
+		position: relative;
+	}
+	[style*="--aspect-ratio"]::before {
+		content: "";
+		display: block;
+		padding-bottom: calc(100% / (var(--aspect-ratio)));
+	} 
+	[style*="--aspect-ratio"] > :first-child {
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100%;
+	} 
 }
 
 .grid {
-display: grid;
-grid-template-columns: repeat(auto-fit, 500px);
-grid-row-gap: 20px;
-grid-column-gap: 10px;
-justify-content: center;
-width: 90%;
-margin: 0 auto;
-list-style: none;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, 500px);
+	grid-row-gap: 20px;
+	grid-column-gap: 10px;
+	justify-content: center;
+	width: 90%;
+	margin: 0 auto;
+	list-style: none;
 }
 
 .grid>.item {
-padding: 12px;
+	padding: 12px;
+}
+
+.row {
+	text-align: center;
+}
+
+#timercontainer {
+	@include mq($until: md) {
+    	font-size: 32pt;
+  	}
+	@include mq($from: md) {
+    	font-size: 36pt;
+  	}
+	@include mq($from: lg) {
+    	font-size: 42pt;
+  	}
+}
+#timer {
+	background-color: none;
 }
