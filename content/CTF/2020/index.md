@@ -81,10 +81,7 @@ yes. yes there are
 Registration ends at the end of the contest
 
 **What is the flag format?**
-
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
-
----
 
 ## Hall of Fame
 

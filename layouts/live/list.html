@@ -4,35 +4,6 @@
   {{ .Content }}
 </section>
 
-<div id="twitch" style="--aspect-ratio:16/9; max-width: 85%; margin: 0px auto;"></div>
-
-<div class="grid">
-  <div class="item">
-    <div id="slack" style="text-align: center;">
-      <h2><a href="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"><u>Join the lobbycon on BSidesTLV Slack!</u></a></h2>
-      <div id="mirror" style="text-align: left;"></div>
-    </div>
-  </div>
-  <div class="item">
-    <h2 style="text-align: center;">Thanks to our amazing sponsors!</h2>
-    <section class="partners">
-      {{ $site := .Site }}
-      {{ range (split ("titanium,platinum,gold") ",") }}
-      <section class="partners-group partner-{{ . }}">
-        <h3 class="fancy">
-          <span>{{ . }}</span>
-        </h3>
-        <ul>
-          {{ $partners := where $site.AllPages "Params.category" . }}
-          {{ range sort $partners ".Params.order" "asc" }}
-          <li>{{ partial "partner.html" . }}</li>
-          {{ end }}
-        </ul>
-      </section>
-      {{ end }}
-    </section>
-  </div>
-</div>
 
 <script src="//code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js" integrity="sha256-yr4fRk/GU1ehYJPAs8P4JlTgu0Hdsp4ZKrx8bDEDC3I=" crossorigin="anonymous"></script>

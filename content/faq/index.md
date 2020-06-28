@@ -7,35 +7,38 @@ menu:
 draft: false
 ---
 
-{{% hero %}}
 ### What is Security BSides, anyway?
 
 Started by a group of hackers, security researchers and people passionate about cyber security, who are keen to share their knowledge and ideas, Security Bsides is a global network of community oriented, grassroots non-profit security events taking place anywhere from Athens, to São Paulo!
 
 From the Bsides Community Wiki:  “Bsides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening”.  
 Read more about it at: http://www.securitybsides.com/
-{{% /hero %}}
 
 
 ### Where can i see the streaming for BSidesTLV 2020?
 
 You can see it in our website, but if you like you can also go to our [Twitch page](https://www.twitch.tv/bsidestlv) 
 
+
 ### Where is lobbycon in a hybrid conference?
 
 Head over to our slack to engage with the sponsors, speakers, guests and the team! [BSidesTLV Slack](https://app.slack.com/client/TAKGT2PNE/C014JEFUETZ/details/info)
+
 
 ### I see everything is in english - will the talks be in english, too?
 
 Yes! We will consider Hebrew talks, but prefer to keep everything in english so we can share the knowledge and invite international guests to attend. If we accept presentations in Hebrew, we’ll offer simultaneous translation.
 
+
 ### How to become a sponsor/partner?
 
 For sponsorship details please reach out to us @ sponsors@bsidestlv.com
 
+
 ### CFP: Call for Paper
 
 All the information in the [CFP Blog post](/blog/cfp/)
+
 
 ### How can i participate?
 
@@ -55,13 +58,16 @@ We’re happy you asked – there are many ways to be a part of BsidesTLV:
 
 You can contact us on twitter or by email at info@bsidestlv.com
 
+
 ### Will the talks be filmed and later uploaded online?
 
 Yes, Most Talks will be recorded and uploaded to our [youtube channel](https://www.youtube.com/channel/UCKcGZ)
 
+
 ### Can media\journalists attend?
 
 Maybe. We’ll think about it and let you know
+
 
 ### What's the conference's code of conduct?
 
