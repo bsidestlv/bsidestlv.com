@@ -96,7 +96,7 @@ The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
 ## Our Team
 
-<div class="row around-xs avatars">
+<div class="row around-xs avatars shuffle">
     <div>{{< imgproc img="/images/ctf/reut_menashe.png" label="Reut Menashe" />}}</div>
     <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}</div>
     <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}} </div>

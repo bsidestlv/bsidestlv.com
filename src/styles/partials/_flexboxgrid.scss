@@ -3,3 +3,19 @@
 .col {
 	padding: 3px;
 }
+
+.tbody div {
+	padding: 5px;
+}
+
+.table .row {
+	border: 1px solid var(--primary);
+	border-top: 0px;
+		&.row:first-child {
+			border-top: 1px solid var(--primary);
+		}
+}
+
+.table div.row:nth-child(odd) {
+	background-color: var(--darken-1);
+}
