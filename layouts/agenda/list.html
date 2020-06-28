@@ -5,26 +5,23 @@
 </section>
 
 
-<section class="col-sm-offset-3">
-	<div class="row">
-		<div class="col col-sm-2"><h1>Time</h1></div>
-		<div class="col col-sm-2"><h1>Speaker(s)</h1></div>
-		<div class="col col-sm"><h1>Session</h1></div>
-	</div>
-	<div class="row">
-		<div class="col col-sm">&nbsp;</div>
+<section class="col-lg-offset-3 table">
+	<div class="row thead">
+		<div class="col-xs-3"><h1>Time</h1></div>
+		<div class="col-xs-3"><h1>Speaker(s)</h1></div>
+		<div class="col-xs"><h1>Session</h1></div>
 	</div>
 	{{ range sort .Pages ".Date" }}
-	<div class="row">
-		<div class="col col-sm-2">{{ dateFormat "03:04 PM" .Params.Start }}-{{ dateFormat "03:04 PM" .Params.End }}</div>
-		<div class="col col-sm-2">
+	<div class="row tbody">
+		<div class="col-xs-3">{{ dateFormat "03:04" .Params.Start }}-{{ dateFormat "03:04 PM" .Params.End }}</div>
+		<div class="col-xs-3">
 			{{ range .Params.Speakers }}
 				{{ with site.GetPage path.Join "/speakers" . }}
 					<a href={{ .RelPermalink }}><u>{{ .Params.Name }}</u></a>
 				{{ end }}
 			{{ end }}
 		</div>
-		<div class="col col-sm"><a href={{ .RelPermalink }}><u>{{ .Title }}</u></a></div>
+		<div class="col-xs"><a href={{ .RelPermalink }}><u>{{ .Title }}</u></a></div>
 	</div>
 	{{ end }}
 	</div>
