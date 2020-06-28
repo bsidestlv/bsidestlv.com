@@ -81,9 +81,10 @@ yes. yes there are
 Registration ends at the end of the contest
 
 **What is the flag format?**
+
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
-
+---
 
 ## Hall of Fame
 
@@ -93,6 +94,35 @@ The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
     <div>{{< imgproc img="/images/ctf/avatar_female.png" label="3rd Place" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_female.png" label="Honorable mention" />}}</div>
 </div>
+
+---
+
+## Challenges
+
+| Name | Authors | Points | Number of solves |
+| ---  | --- | --- | --- | --- |
+| Cryptostream | Guy Barnhart-Magen               | 200 | |
+| Basis32      | Tomer Zait                       | 100 | |
+| JailBreak    | Nimrod Levy and Artur Isakhanyan | 350 | |
+| Vampires     | Tomer Zait and Nimrod Levy       | 100 | |
+| Reaction     | Nimrod Levy                      | 100 | |
+| Can you bypass the SOP 2 | Tomer Zait and Nimrod Levy | 150 | |
+| WebProxy     | Nimrod Levy                      | 300 | |
+| WebProxy Nightmare | Nimrod Levy                | 400 | |
+| Snappaste (Part 1) | Michael Maltsev            | 450 | |
+| Snappaste (Part 2) | Michael Maltsev            | 600 | |
+| Docker Manager     | Tomer Zait                 | 250 | |
+| Bugler             | Daniel Abeles and Tomer Zait | 550 | |
+| Certified App      | Vera Mens and Tomer Zait   | 200 | |
+| Ego Hostium        | Roei Sherman               | 150 | |
+| MoreWithLess       | Roei Sherman               | 200 | |
+| Check yourself so you won't wreck yourself | Roei Sherman               | 100 | |
+| The Target         | Roei Sherman               | 100 | |
+| Back to the 90s    | Vera Mens and Yahav A.     | 400 | |
+| Kapara             | Guy B                      | 600 | |
+| EmojiWAT           | Tomer Zait, Michael Maltsev and Artur Isakhanyan | 200 | |
+
+---
 
 ## Our Team
 
@@ -112,6 +142,8 @@ The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
     <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
     <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
 </div>
+
+---
 
 ## Resources
 
