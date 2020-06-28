@@ -1,7 +1,7 @@
 {{ $title := .Get 1 }}
-<div id="timercontainer">
-  {{$title}}
-  <b id="timer"></b>
+<div id="timercontainer" class="row around-xs">
+  <div class="col-xs-12 col-md-6">{{$title}}</div>
+  <div class="col-xs-12 col-md-6"><b id="timer"></b></div>
 </div>
 
 <script>
@@ -26,16 +26,3 @@ var tick = function() {
 var x = setInterval(tick, 1000);
 tick()
 </script>
-
-<style type="text/css">
-  #timercontainer {
-    text-align: center;
-    font-size: 60px;
-    margin-top: 0px;
-    color: #3367CD;
-    background-color: #ccc;
-  }
-  #timer {
-    background-color: none;
-  }
-</style>
