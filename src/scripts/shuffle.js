@@ -1,5 +1,5 @@
 // Shuffle
-document.querySelectorAll('ul.shuffle')
+document.querySelectorAll('.shuffle')
   .forEach(function(listElt) {
     if (listElt.children.length) {
       for (var i = listElt.children.length; i >= 0; i--) {
