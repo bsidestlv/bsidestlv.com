@@ -62,6 +62,29 @@ You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/sh
 
 ---
 
+## FAQ
+
+**Do I have to be a member of a team to participate?**
+
+No, you can register as a team of one member
+
+**Is the CTF aimed at beginners?**
+
+some of the challenges will be in beginner level, some on expert level. try solving from the lower scores working up 
+
+**Are there binary exploitation challenges in the CTF?**
+
+yes. yes there are
+
+**When does registration end?**
+
+Registration ends at the end of the contest
+
+**What is the flag format?**
+The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
+
+
+
 ## Hall of Fame
 
 <div class="row around-xs avatars">
