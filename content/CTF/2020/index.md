@@ -85,10 +85,13 @@ Registration ends at the end of the contest
 
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
+<<<<<<< HEAD
 **Will you release the code/containers/VM after the CTF**
 
 Yes, plan to release our entire repo
 
+=======
+>>>>>>> 6da183b9798560a5c0f8318d7e0c037304c537d9
 ## Hall of Fame
 
 <div class="row around-xs avatars">
@@ -146,7 +149,9 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
 </div>
 
-## Resources and WriteUps
+---
+
+## Resources
 
 * https://ctftime.org/event/1078
 * https://ctftime.org/writeup/21993
