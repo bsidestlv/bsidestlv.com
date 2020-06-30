@@ -29,9 +29,10 @@ draft: false
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
-1. team size is limited to 20
-1. scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!)
+1. Team size is limited to 20
+1. Scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!). This means that you can still submit flags and get your points, but the scoreboard will not update - and only we will know who the final winners are :-) 
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
+1. We usually keep the challenges live for a couple more (~1 week) days after the event to enable write-ups
 
 {{< button-link
     url="//ctf20.bsidestlv.com/"
@@ -84,7 +85,9 @@ Registration ends at the end of the contest
 
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
----
+**Will you release the code/containers/VM after the CTF**
+
+Yes, plan to release our entire repo
 
 ## Hall of Fame
 
@@ -143,8 +146,9 @@ The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
     <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
 </div>
 
----
-
-## Resources
+## Resources and WriteUps
 
 * https://ctftime.org/event/1078
+* https://ctftime.org/writeup/21993
+* https://ctftime.org/writeup/21994
+
