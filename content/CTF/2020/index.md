@@ -86,6 +86,7 @@ Registration ends at the end of the contest
 
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
+<<<<<<< HEAD
 **Will you release the code/containers/VM after the CTF**
 
 Yes, plan to release our entire repo
@@ -94,7 +95,6 @@ Yes, plan to release our entire repo
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
 ---
->>>>>>> 329c1c4... WIP
 
 ## Hall of Fame
 
@@ -156,6 +156,7 @@ The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 ## Resources and WriteUps
 
 * https://ctftime.org/event/1078
+* https://ctftime.org/event/1078/tasks/
 * https://ctftime.org/writeup/21993
 * https://ctftime.org/writeup/21994
-
+* https://ctftime.org/writeup/22003
