@@ -82,19 +82,14 @@ yes. yes there are
 Registration ends at the end of the contest
 
 **What is the flag format?**
-<<<<<<< HEAD
 
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
-<<<<<<< HEAD
 **Will you release the code/containers/VM after the CTF**
 
 Yes, plan to release our entire repo
+
 =======
-
-The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
-
----
 
 ## Hall of Fame
 
