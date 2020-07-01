@@ -1,4 +1,4 @@
-const request = require('request');
+const axios = require('axios');
 const {unlinkSync, writeFileSync} = require('fs');
 const {sync: glob} = require('glob');
 const {Logger, LogLevel, colorEmojiConfig} = require('plop-logger');
@@ -16,72 +16,103 @@ oldFiles.flatMap(files => glob(files, {'ignore': ['**/_index.md']})).map((file) 
 var speakers = {}
 var talks = {}
 
-logger.info('Fetching talks from pretalx')
-request.get({
-    url: 'https://cfp.bsidestlv.com/api/events/20/talks/',
-    json: true,
-    headers: {authorization: `Token ${process.env.PRETALX_TOKEN}`}
-}, (err, response, body) => {
-  if (err) {
-    throw err
+async function cfpApi(url, list=[]) {
+  try {
+    response = await axios.get(url, {headers: {'Authorization': `Token ${process.env.PRETALX_TOKEN}`}})
+    retrivedList = list.concat(response.data.results)
+    if (response.data.next) {
+      return cfpApi(response.data.next, retrivedList)
+    } else {
+      return retrivedList
+    }
+  } catch (error) {
+    logger.error(`Failed fetching CFP data - ${error.code}`)
+    process.exit(1)
   }
-  if (!body.results.length) {
-    throw 'no results, cant be..'
-  }
+}
 
-  body.results.map( session => {
-    talks[session.code] = session
-    
-    strSpeakers = ''
-    session.speakers.map( speaker => {
-      speakers[speaker.code] = speaker
-      name = speaker.name.replace(/\s/g, '_').toLowerCase()
-      strSpeakers += `  - ${name}\n`
+logger.info('Fetching speakers from pretalx')
+cfpApi('https://cfp.bsidestlv.com/api/events/20/speakers/')
+.then(results => {
+  if (!results) {
+    logger.error('no results, cant be..')
+    process.exit()
+  }
+  results.map(speaker => {
+    speaker.key = speaker.name.replace(/[^\w]/g, '_').toLowerCase()
+    speaker.questions = {}
+    speaker.answers.map(answer => {
+      key = answer.question.question.en.replace(/[^\w]/g, '_').toLowerCase()
+      speaker.questions[key] = answer.answer
     })
-    session.speakers = strSpeakers
+    speaker.social = ""
+    if (speaker.questions.twitter_handle_or_linkedin_page) {
+      socialUrl = speaker.questions.twitter_handle_or_linkedin_page
+      social = socialUrl.match(/(\w+)\.\w+\//)
+      if (social) {
+        speaker.social = `- icon: ${social[1]}\n  link: ${socialUrl}`
+      }
+    }
+    speakers[speaker.code] = speaker
   })
+})
+.then(() => {
+  logger.info('Fetching talks from pretalx')
+  cfpApi('https://cfp.bsidestlv.com/api/events/20/talks/')
+  .then(results => {
+    if (!results) {
+      logger.error('no results, cant be..')
+      process.exit()
+    }
 
-  logger.info('Creating speakers')
-  for (let [code, speaker] of Object.entries(speakers)) {
-    name = speaker.name.replace(/\s/g, '_').toLowerCase()
-    let md = `
----
-key: ${name}
-name: ${speaker.name}
-photoURL: ${speaker.avatar}
----
+    results.map(session => {
+      talks[session.code] = session
+      
+      strSpeakers = ''
+      session.speakers.map(speaker => {
+        speaker = speakers[speaker.code]
+        let md = `---
+                  key: ${speaker.key}
+                  name: ${speaker.name}
+                  socials:
+                  ${speaker.social}
+                  photoURL: ${speaker.avatar}
+                  ---
 
-${speaker.biography}
-`
-    logger.debug('Writing ', name)
-    writeFileSync(`content/speakers/${name}.md`, md, {flag: 'w'});
-  }
+                  ${speaker.biography}
+                  `.replace(/                  /g, '')
+        logger.info('Writing ', speaker.key)
+        writeFileSync(`content/speakers/${speaker.key}.md`, md, {flag: 'w'});
 
-  logger.info('Creating talks')
-  for (let [code, session] of Object.entries(talks)) {
-    name = session.title.replace(/\s/g, '_').toLowerCase()
-    start = session.slot.start
-    end = session.slot.end
-    duration = session.duration
-    speakers = ''
-    let md = `
----
-title: "${session.title}"
-talkType: ${session.submission_type.en}
-date: ${start}
-start: ${start}
-end: ${end}
-duration: ${duration}
-tags:
-  - ${session.submission_type.en}
-speakers:
-${session.speakers}
----
-${session.abstract}
+        strSpeakers += `  - ${speaker.key}\n`
+      })
+      session.speakers = strSpeakers
 
-`
-    logger.debug('Writing ', name)
-    writeFileSync(`content/agenda/${name}.md`, md, {flag: 'w'});
-  }
+    })
 
-});
+    logger.info('Creating talks')
+    for (let [code, session] of Object.entries(talks)) {
+      name = session.title.replace(/[^\w]/g, '_').toLowerCase()
+      start = session.slot.start
+      end = session.slot.end
+      duration = session.duration
+      speakers = ''
+      let md = `---
+                title: "${session.title}"
+                talkType: ${session.submission_type.en}
+                date: ${start}
+                start: ${start}
+                end: ${end}
+                duration: ${duration}
+                tags:
+                  - ${session.submission_type.en}
+                speakers:
+                ${session.speakers}
+                ---
+                ${session.abstract}`.replace(/                /g, '')
+      logger.info('Writing ', name)
+      writeFileSync(`content/agenda/${name}.md`, md, {flag: 'w'});
+    }
+
+  });
+})
