@@ -20,7 +20,7 @@
     api = '//bsidestlv-slackmirror.herokuapp.com'
 
     const fMsg = (msg) => {
-      return `<div class="slack-message">
+      return `<div class="slack-message col-xs-12">
       <img class="avatar" src="${msg.image_48}" aria-hidden="true" title="">
       <div class="content">
       <strong class="username">${msg.user}</strong>
@@ -31,7 +31,7 @@
     }
 
     var socket = io(api);
-    $.get(api + '/log', data => data.forEach( msg => $('#mirror').append(fMsg(msg))));
+    $.get(api + '/log', data => data.forEach( msg => $('#mirror').prepend(fMsg(msg))));
     socket.on('msg', msg => $('#mirror').append(fMsg(msg)));
     window.setInterval(function() {
       var elem = document.getElementById('mirror');

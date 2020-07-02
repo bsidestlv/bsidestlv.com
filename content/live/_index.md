@@ -17,7 +17,7 @@ title: Live!
       label="Slack Lobbycon"
       icon="slack"
       target="_blank" >}}
-      <div id="mirror" style="text-align: left;"></div>
+      <div id="mirror" class="row" style="text-align: left;"></div>
   </div>
   <div class="col-xs-12 col-md-7">
     {{% partners categories="titanium,platinum,gold,CTF,partners" %}}
