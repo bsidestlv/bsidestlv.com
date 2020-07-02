@@ -2,8 +2,6 @@
 title: Live!
 ---
 
-{{% timer "Jul 2, 2020 11:00:00" "Going live in" %}}
-&nbsp;
 <div class="row">
 	<div class="col-xs-12" id="twitch" style=" --aspect-ratio: 16/9;
   max-width: 85%;
