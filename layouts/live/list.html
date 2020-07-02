@@ -32,7 +32,7 @@
 
     var socket = io(api);
     $.get(api + '/log', data => data.forEach( msg => $('#mirror').prepend(fMsg(msg))));
-    socket.on('msg', msg => $('#mirror').append(fMsg(msg)));
+    socket.on('msg', msg => $('#mirror').prepend(fMsg(msg)));
     window.setInterval(function() {
       var elem = document.getElementById('mirror');
       elem.scrollTop = elem.scrollHeight;
