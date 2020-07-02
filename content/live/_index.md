@@ -2,8 +2,6 @@
 title: Live!
 ---
 
-# Getting ready for the live broadcast from central TLV!
-&nbsp;
 {{% timer "Jul 2, 2020 11:00:00" "Going live in" %}}
 &nbsp;
 <div class="row">
