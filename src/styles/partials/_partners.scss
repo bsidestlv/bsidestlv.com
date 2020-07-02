@@ -1,21 +1,19 @@
 :root {
   --partner-support-height: 90px;
-  --partner-font-size-venue: 1.5rem;
   --partner-font-size-titanium: 1.75rem;
   --partner-font-size-platinum: 1.5rem;
   --partner-font-size-gold: 1.25rem;
   --partner-font-size-CTF: 1rem;
-  --partner-venue-height: calc(var(--partner-support-height) * 2.25);
-  --partner-titanium-height: calc(var(--partner-support-height) * 2);
-  --partner-platinum-height: calc(var(--partner-support-height) * 1.5);
-  --partner-gold-height: calc(var(--partner-support-height) * 1.25);
-  --partner-CTF-height: calc(var(--partner-support-height) * 1.15);
+  --zoom-link-height: 55px;
+  --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
+  --partner-platinum-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
+  --partner-gold-height: calc(var(--partner-support-height) * 1.25 + var(--zoom-link-height));
+  --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
 }
 
 .partners-group {
-  &.partner-venue ul li {
-    height: var(--partner-venue-height);
-    flex-basis: 600px;
+  ul li {
+    justify-content: center;
   }
 
   &.partner-titanium ul li {
@@ -38,13 +36,10 @@
     flex-basis: 200px;
   }
 
-  &.partner-venue .fancy {
-    font-size: var(--partner-font-size-venue);
-    color: var(--color-venue);
-
-    span:before, span:after {
-      border-bottom: 2px solid currentColor;
-      border-top: 2px solid currentColor;
+  .fancy {
+      span:before, span:after {
+      top: 20%;
+      border-bottom: 1px solid currentColor;
     }
   }
 
@@ -71,16 +66,6 @@
   &.partner-gold .fancy {
     font-size: var(--partner-font-size-gold);
     color: var(--color-gold);
-
-    span:before, span:after {
-      top: 20%;
-      border-bottom: 1px solid currentColor;
-    }
-  }
-
-  &.partner-CTF .fancy {
-    font-size: var(--partner-font-size-CTF);
-    color: var(--color-CTF);
   }
 
   .partner {
