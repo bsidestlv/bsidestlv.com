@@ -23,6 +23,7 @@ yarn-error.log
 
 
 static/theme.js
+static/icons.svg
 static/schedule/schedule*.pdf
 static/CNAME
 *-1140.jpg
