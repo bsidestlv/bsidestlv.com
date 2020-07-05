@@ -1,139 +1,49 @@
 ---
 title: 2019 CTF
 brief: BSidesTLV Capture The Flag
-image: /images/blog/cfp.jpg
+# image: /images/blog/cfp.jpg
 date: 2019-03-23
 draft: false
 ---
+{{% showlastmod %}}
 
-# Hall of Fame
+## Hall of Fame
 
-<table align="center">
-    <tr>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            <b>1st Place
-        </td>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            2nd Place
-        </td>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            3rd Place
-        </td>
-        <td style="border:0px solid black; padding:10px;text-align: center;">
-            Honorable mention, again :-)
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Dan (dm0n)" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;" align="center">
-        {{< imgproc avatar_group Resize "150x" "JCTF" />}}
-        <i>
-        YaakovCohen88<br>
-        Schtrudel<br>
-        Narcissus<br>
-        Moshe Wagner<br>
-        Israel Erlich<br>
-        Dvd848
-        </i>
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_group Resize "150x" "EY (3rN357&Y0un9)" />}}             
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-            {{< imgproc avatar_male Resize "100x" "Adam D" />}}             
-        </td>
-</table>
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="1st Place" />}}Dan (dm0n)</div>
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}JCTF</div>
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}EY (3rN357&Y0un9)</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Honorable mention" />}}Adam D</div>
+</div>
 
+* JCTF Team
+  - YaakovCohen88
+  - Schtrudel
+  - Narcissus
+  - Moshe Wagner
+  - Israel Erlich
+  - Dvd848
 
-# Our Team
+---
 
-<table align="center">
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc reut_menashe Resize "100x" "Reut Menashe" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc RS Resize "100x" "Roei Sherman" />}} 
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc NimrodLevy Resize "100x" "Nimrod Levy" />}}
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        El Profesor (w/Nimrod)<br>
-        The Lost Contract (w/Nimrod)
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        The Lost Award<br>
-        Magic Kingdom
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        Redis in the wild<br>
-        You "shell" not pass!<br>
-        Break the ReCaptcha<br>
-        Pacman<br>
-        IIS on Steroids<br>
-        El Profesor (w/Reut)<br>
-        The Lost Contract (w/Reut)
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc guybm Resize "100x" "Guy Barnhart-Magen" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc DanielAbeles Resize "100x" "Daniel Abeles" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc ezra_caltum Resize "100x" "Ezra Caltum" />}}
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        Time to day goodbye...<br>
-        Aphasia<br>
-        Where no man has GOne before
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        Translation As A Service
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        somestufflsimportant
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc KasifDekel Resize "100x" "Kasif Dekel" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc avatar_male Resize "100x" "Guy Beck" />}}
-        </td>
-        <td style="border:0px solid black; padding:10px;">
-        {{< imgproc OmerAgmon Resize "100x" "Omer Agmon" />}}
-        </td>
-    </tr>
-    <tr>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        Secret Service
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        Bowser Junior<br>
-        Bowser Senior
-        </td>
-        <td style="border:0px solid black; padding:10px;vertical-align:top">
-        DoSaTTaCK
-        </td>
-    </tr>
+## Our Team
 
-</table>
+<div class="row around-xs avatars shuffle" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/reut_menashe.png" label="Reut Menashe" />}}El Profesor (w/Nimrod)<br>The Lost Contract (w/Nimrod)</div>
+    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}The Lost Award<br>Magic Kingdom</div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}Redis in the wild<br>You "shell" not pass!<br>Break the ReCaptcha<br>Pacman<br>IIS on Steroids<br>El Profesor (w/Reut)<br>The Lost Contract (w/Reut)</div>
+    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}Time to day goodbye...<br>Aphasia<br>Where no man has GOne before</div>
+    <div>{{< imgproc img="/images/ctf/DanielAbeles.png" label="Daniel Abeles" />}}Translation As A Service</div>
+    <div>{{< imgproc img="/images/ctf/ezra_caltum.png" label="Ezra Caltum" />}}somestufflsimportant</div>
+    <div>{{< imgproc img="/images/ctf/KasifDekel.png" label="Kasif Dekel" />}}Secret Service</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}Bowser Junior<br>Bowser Senior</div>
+    <div>{{< imgproc img="/images/ctf/OmerAgmon.png" label="Omer Agmon" />}}DoSaTTaCK</div>
+    <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
+</div>
 
+---
 
-<!-- {{< imgproc avatar_male Resize "100x"  />}}
-{{< imgproc avatar_female Resize "100x"  />}} -->
-
-# Challenges
+## Challenges
 
 29 challenges, some of them compeltly unique, such as blockchain and 3d printing!
 
@@ -149,4 +59,4 @@ Thank you `Dvd848` for the links!
 
 ## Resources
 
-you can find our winner anouncment [here](BSidesTLV 2019 CTF.pdf)
+you can find our winner anouncment [here](BSidesTLV-2019-CTF.pdf)
