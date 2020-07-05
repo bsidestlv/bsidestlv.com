@@ -12,7 +12,7 @@ draft: false
     <div class="col-xs-8 col-md-5"><a href="https://HackTheBox.eu/" target="_blank">{{% picture img="/images/partners/htb.png" %}}</a></div>
 </div>
 
-## BSidesTLV 2020 CTF prizes are sponsored by [https://HackTheBox.eu/](HackTheBox.eu)
+<h2>BSidesTLV 2020 CTF prizes are sponsored by [https://HackTheBox.eu/](HackTheBox.eu) </h2>
 
 ---
 
@@ -29,15 +29,16 @@ draft: false
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
-1. team size is limited to 20
-1. scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!)
+1. Team size is limited to 20
+1. Scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!). This means that you can still submit flags and get your points, but the scoreboard will not update - and only we will know who the final winners are :-) 
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
+1. We usually keep the challenges live for a couple more (~1 week) days after the event to enable write-ups
 
-{{< button-link
+<!-- {{< button-link
     url="//ctf20.bsidestlv.com/"
     label="Register"
     icon="external"
-    target="_blank" >}}
+    target="_blank" >}} -->
 
 {{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
         label="Join Slack!"
@@ -81,38 +82,61 @@ yes. yes there are
 Registration ends at the end of the contest
 
 **What is the flag format?**
+
 The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
+**Will you release the code/containers/VM after the CTF**
 
+Yes, plan to release our entire repo
+
+---
 
 ## Hall of Fame
 
-<div class="row around-xs avatars">
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="1st Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="2nd Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="3rd Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="Honorable mention" />}}</div>
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/2020trophy.png" label="1st Place" />}}<b>JCTF</b></div>
 </div>
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}<b>reclass</b></div>
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}<b>Houston We Got Pwned</b></div>
+</div>
+
+---
 
 ## Our Team
 
-<div class="row around-xs avatars shuffle">
+<div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/reut_menashe.png" label="Reut Menashe" />}}</div>
-    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}</div>
-    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}} </div>
-    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}</div>
-    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Yahav" />}}</div>
-    <div>{{< imgproc img="/images/ctf/DanielAbeles.png" label="Daniel Abeles" />}}</div>
-    <div>{{< imgproc img="/images/ctf/ezra_caltum.png" label="Ezra Caltum" />}}</div>
-    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div>
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}Basis32<br>Vampires<br>Can you bypass the SOP 2<br>Docker Manager<br>Bugler<br>Certified App<br>EmojiWAT</div>
+    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}Ego Hostium<br>MoreWithLess<br>Check yourself so you won't wreck yourself<br>The Target</div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}JailBreak<br>Vampires<br>Reaction<br>Can you bypass the SOP 2<br>WebProxy<br>WebProxy Nightmare</div>
+    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}Certified App<br>Back to the 90s</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Yahav" />}}Back to the 90s</div>
+    <div>{{< imgproc img="/images/ctf/DanielAbeles.png" label="Daniel Abeles" />}}Bugler</div>
+    <!-- <div>{{< imgproc img="/images/ctf/ezra_caltum.png" label="Ezra Caltum" />}}</div> -->
+    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}Cryptostream</div>
+    <div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}Ego Hostium<br>MoreWithLess<br>Check yourself so you won't wreck yourself<br>The Target</div>    
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}Kapara</div>
     <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
-    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
+    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Snappaste (Part 1)<br>Snappaste (Part 2)<br>EmojiWAT</div>
+    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}JailBreak<br>EmojiWAT</div>
 </div>
 
-## Resources
+## Resources and WriteUps
 
-* https://ctftime.org/event/1078
+* [CTF Time](https://ctftime.org/event/1078)
+* [CTF Time Tasks](https://ctftime.org/event/1078/tasks/)
+* [JCTF Writeup](https://jctf.team/BSidesTLV-2020/)
+* [CTF Winner Anouncement](BSidesTLV-CTF-2020.pdf)
+
+## Statistics
+
+830 teams registered
+
+125 solved at least one challenge
+
+5026 unique IP addresses
+
+We had a total of 20 challenges across a wide range of domains
+
+![](/images/ctf/CTFd_solves_2020-07-05.png)
