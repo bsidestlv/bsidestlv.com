@@ -88,7 +88,6 @@ The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 **Will you release the code/containers/VM after the CTF**
 
 Yes, plan to release our entire repo
-The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
 ---
 
