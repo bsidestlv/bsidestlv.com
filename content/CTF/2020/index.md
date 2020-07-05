@@ -12,7 +12,7 @@ draft: false
     <div class="col-xs-8 col-md-5"><a href="https://HackTheBox.eu/" target="_blank">{{% picture img="/images/partners/htb.png" %}}</a></div>
 </div>
 
-## BSidesTLV 2020 CTF prizes are sponsored by [https://HackTheBox.eu/](HackTheBox.eu)
+<h2>BSidesTLV 2020 CTF prizes are sponsored by [https://HackTheBox.eu/](HackTheBox.eu) </h2>
 
 ---
 
@@ -34,11 +34,11 @@ draft: false
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
 1. We usually keep the challenges live for a couple more (~1 week) days after the event to enable write-ups
 
-{{< button-link
+<!-- {{< button-link
     url="//ctf20.bsidestlv.com/"
     label="Register"
     icon="external"
-    target="_blank" >}}
+    target="_blank" >}} -->
 
 {{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
         label="Join Slack!"
@@ -94,65 +94,37 @@ The flag format is either “BSidesTLV2020{…}” or “BSidesTLV{…}”
 
 ## Hall of Fame
 
-<div class="row around-xs avatars">
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="1st Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="2nd Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="3rd Place" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.png" label="Honorable mention" />}}</div>
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/2020trophy.png" label="1st Place" />}}<b>JCTF</b></div>
 </div>
-
----
-
-## Challenges
-
-| Name | Authors | Points | Number of solves |
-| ---  | --- | --- | --- | --- |
-| Cryptostream | Guy Barnhart-Magen               | 200 | |
-| Basis32      | Tomer Zait                       | 100 | |
-| JailBreak    | Nimrod Levy and Artur Isakhanyan | 350 | |
-| Vampires     | Tomer Zait and Nimrod Levy       | 100 | |
-| Reaction     | Nimrod Levy                      | 100 | |
-| Can you bypass the SOP 2 | Tomer Zait and Nimrod Levy | 150 | |
-| WebProxy     | Nimrod Levy                      | 300 | |
-| WebProxy Nightmare | Nimrod Levy                | 400 | |
-| Snappaste (Part 1) | Michael Maltsev            | 450 | |
-| Snappaste (Part 2) | Michael Maltsev            | 600 | |
-| Docker Manager     | Tomer Zait                 | 250 | |
-| Bugler             | Daniel Abeles and Tomer Zait | 550 | |
-| Certified App      | Vera Mens and Tomer Zait   | 200 | |
-| Ego Hostium        | Roei Sherman               | 150 | |
-| MoreWithLess       | Roei Sherman               | 200 | |
-| Check yourself so you won't wreck yourself | Roei Sherman               | 100 | |
-| The Target         | Roei Sherman               | 100 | |
-| Back to the 90s    | Vera Mens and Yahav A.     | 400 | |
-| Kapara             | Guy B                      | 600 | |
-| EmojiWAT           | Tomer Zait, Michael Maltsev and Artur Isakhanyan | 200 | |
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}<b>reclass</b></div>
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}<b>Houston We Got Pwned</b></div>
+</div>
 
 ---
 
 ## Our Team
 
-<div class="row around-xs avatars shuffle">
+<div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/reut_menashe.png" label="Reut Menashe" />}}</div>
-    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}</div>
-    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}} </div>
-    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}</div>
-    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Yahav" />}}</div>
-    <div>{{< imgproc img="/images/ctf/DanielAbeles.png" label="Daniel Abeles" />}}</div>
-    <div>{{< imgproc img="/images/ctf/ezra_caltum.png" label="Ezra Caltum" />}}</div>
-    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div>
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}Basis32<br>Vampires<br>Can you bypass the SOP 2<br>Docker Manager<br>Bugler<br>Certified App<br>EmojiWAT</div>
+    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}Ego Hostium<br>MoreWithLess<br>Check yourself so you won't wreck yourself<br>The Target</div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}JailBreak<br>Vampires<br>Reaction<br>Can you bypass the SOP 2<br>WebProxy<br>WebProxy Nightmare</div>
+    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}Certified App<br>Back to the 90s</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Yahav" />}}Back to the 90s</div>
+    <div>{{< imgproc img="/images/ctf/DanielAbeles.png" label="Daniel Abeles" />}}Bugler</div>
+    <!-- <div>{{< imgproc img="/images/ctf/ezra_caltum.png" label="Ezra Caltum" />}}</div> -->
+    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}Cryptostream</div>
+    <div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}Ego Hostium<br>MoreWithLess<br>Check yourself so you won't wreck yourself<br>The Target</div>    
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}Kapara</div>
     <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
-    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
+    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Snappaste (Part 1)<br>Snappaste (Part 2)<br>EmojiWAT</div>
+    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}JailBreak<br>EmojiWAT</div>
 </div>
 
 ## Resources and WriteUps
 
-* https://ctftime.org/event/1078
-* https://ctftime.org/event/1078/tasks/
-* https://ctftime.org/writeup/21993
-* https://ctftime.org/writeup/21994
-* https://ctftime.org/writeup/22003
+* [CTF Time](https://ctftime.org/event/1078)
+* [CTF Time Tasks](https://ctftime.org/event/1078/tasks/)
+* [JCTF Writeup](https://jctf.team/BSidesTLV-2020/)
