@@ -2,7 +2,7 @@
 key: appsflyer
 title: AppsFlyer
 category: titanium
-website: 'https://bsidestlv2020appsflyer.splashthat.com/'
+website: https://www.appsflyer.com/
 socials: []
 #zoom: https://appsflyer.zoom.us/j/91674306465
 ---
