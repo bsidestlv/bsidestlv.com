@@ -127,3 +127,16 @@ Yes, plan to release our entire repo
 * [CTF Time](https://ctftime.org/event/1078)
 * [CTF Time Tasks](https://ctftime.org/event/1078/tasks/)
 * [JCTF Writeup](https://jctf.team/BSidesTLV-2020/)
+* [CTF Winner Anouncement](BSidesTLV-CTF-2020.pdf)
+
+## Statistics
+
+830 teams registered
+
+125 solved at least one challenge
+
+5026 unique IP addresses
+
+We had a total of 20 challenges across a wide range of domains
+
+![](/images/ctf/CTFd_solves_2020-07-05.png)
