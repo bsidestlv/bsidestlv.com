@@ -44,6 +44,7 @@ jobs:
       - name: Build site
         env:
           PRETALX_TOKEN: ${{ secrets.PRETALX_TOKEN }}
+          HUGO_ENV: production
         run: npm run build
 
       - name: Deploy to GitHub Pages
