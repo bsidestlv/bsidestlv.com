@@ -11,7 +11,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 disablePathToLower = true
-googleAnalytics = "UA-34571097-16"
+googleAnalytics = "UA-171723556-1"
 enableGitInfo = true
 
 [params]
