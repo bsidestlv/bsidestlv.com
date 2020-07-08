@@ -3,6 +3,7 @@ title: Code of Conduct
 
 draft: false
 ---
+If you experience any inappropriate content or violation of our Code of Conduct during our events, you can contact us at <report@bsidestlv.com>
 
 **All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct.** Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
