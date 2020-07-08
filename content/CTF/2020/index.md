@@ -12,7 +12,7 @@ draft: false
     <div class="col-xs-8 col-md-5"><a href="https://HackTheBox.eu/" target="_blank">{{% picture img="/images/partners/htb.png" %}}</a></div>
 </div>
 
-<h2>BSidesTLV 2020 CTF prizes are sponsored by [https://HackTheBox.eu/](HackTheBox.eu) </h2>
+<h2>BSidesTLV 2020 CTF prizes are sponsored by [HackTheBox.eu](https://HackTheBox.eu/) </h2>
 
 ---
 
