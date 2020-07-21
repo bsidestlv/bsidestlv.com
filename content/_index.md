@@ -47,7 +47,7 @@ please subscribe to our mailing list below to be notified of our future events, 
 
 {{% /home-info %}}
 
-{{< youtube-section link="JP-iw_0FAI0" title="Watch 2019 Videos" class="" >}}
+{{< youtube-section link="videoseries?list=PLkNlAwTF5yEuqN_X4f58qPB2d8iJ0Mmuz&hd=1" title="Watch 2020 Videos" class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
@@ -63,9 +63,9 @@ please subscribe to our mailing list below to be notified of our future events, 
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
-### Some pictures of the **BSidesTLV 2019** with the 👾 _retro-gaming_ theme.
+### Photos from the **BSidesTLV 2020**
     {{< button-link
-      url="//photos.app.goo.gl/2Y3AVLy8DxTFbbjH6"
+      url="//photos.app.goo.gl/ZXvhy8Kmp9WpyhhP9"
       label="See all photos"
       icon="right" >}}
 {{% /album  %}}
