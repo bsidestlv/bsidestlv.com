@@ -129,6 +129,8 @@ Yes, plan to release our entire repo
 * [JCTF Writeup](https://jctf.team/BSidesTLV-2020/)
 * [CTF Winner Anouncement](BSidesTLV-CTF-2020.pdf)
 
+GitHub repository of the challenges source code: [https://github.com/bsidestlv/ctf20-public](https://github.com/bsidestlv/ctf20-public)
+
 ## Statistics
 
 830 teams registered
