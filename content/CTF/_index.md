@@ -7,7 +7,7 @@ menu:
 draft: false
 ---
 
-You can find all details for the 2020 CTF below
+You can find all details for the previous CTFs below
 
 * [2020](2020)
 * [2019](2019)
