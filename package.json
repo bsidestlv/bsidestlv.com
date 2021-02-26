@@ -13,8 +13,14 @@
     "build:scripts": "node tools/scripts.js",
     "build:minify": "node tools/minify.js",
     "build:talks": "node tools/talks.js",
+<<<<<<< HEAD
     "build:site": "hugo --minify --buildFuture",
     "build": "run-s build:*"
+=======
+    "build:site": "hugo --minify --gc --buildFuture",
+    "build": "run-s build:*",
+    "start": "hugo server --bind=0.0.0.0 --buildFuture"
+>>>>>>> netlify
   },
   "devDependencies": {
     "@babel/core": "^7.13.14",
