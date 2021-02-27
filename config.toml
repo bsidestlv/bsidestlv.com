@@ -32,7 +32,7 @@ enableGitInfo = true
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#000"
     googleWebmasterKey = ""
-    googleMapsApiKey = "AIzaSyAWrX0-FFQ3oJhCjxRgEBbD8FObWg1FXI0"
+    googleMapsApiKey = "AIzaSyCbw2ta7gPl7vNBUpftaBXoVjqGXPlcN-U"
 
 [params.logos]
     jumbo = "/images/logos/bstlv_color.png"
