@@ -22,7 +22,12 @@ jobs:
         with:
           lfs: true
           submodules: recursive
- 
+
+      - uses: ahmadnassri/action-dependabot-auto-merge@v2
+        with:
+          target: minor
+          github-token: ${{ secrets.DEPENDABOT_TOKEN }}
+
       - name: Cache node modules
         uses: actions/cache@v1
         env:

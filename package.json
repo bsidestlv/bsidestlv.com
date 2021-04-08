@@ -13,19 +13,15 @@
     "build:scripts": "node tools/scripts.js",
     "build:minify": "node tools/minify.js",
     "build:talks": "node tools/talks.js",
-<<<<<<< HEAD
-    "build:site": "hugo --minify --buildFuture",
-    "build": "run-s build:*"
-=======
     "build:site": "hugo --minify --gc --buildFuture",
     "build": "run-s build:*",
     "start": "hugo server --bind=0.0.0.0 --buildFuture"
->>>>>>> netlify
   },
   "devDependencies": {
-    "@babel/core": "^7.13.14",
-    "@babel/preset-env": "^7.13.12",
-    "cssnano": "^4.1.11",
+    "@babel/core": "^7.13.1",
+    "@babel/preset-env": "^7.13.5",
+    "axios": "^0.21.1",
+    "cssnano": "^4.1.10",
     "glob": "^7.1.6",
     "html-minifier": "^4.0.0",
     "node-sass": "^5.0.0",
@@ -36,9 +32,10 @@
     "rimraf": "^3.0.2",
     "rollup": "^2.44.0",
     "rollup-plugin-babel": "^4.4.0",
-    "rollup-plugin-uglify": "^6.0.4",
+    "rollup-plugin-terser": "^7.0.2",
     "sass-mq": "^5.0.1",
-    "sharp": "^0.28.1",
-    "axios": "^0.21.1"
-  }
+    "sharp": "^0.27.2",
+    "terser": "^5.6.0"
+  },
+  "dependencies": {}
 }
