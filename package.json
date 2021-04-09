@@ -17,7 +17,7 @@
     "build": "run-s build:*"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.14",
+    "@babel/core": "^7.13.15",
     "@babel/preset-env": "^7.13.12",
     "cssnano": "^4.1.11",
     "glob": "^7.1.6",
