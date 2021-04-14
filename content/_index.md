@@ -31,16 +31,6 @@ But we are optimistic, as we believe all should be. 2020 has taught us a lot, an
 {{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
   {{% home-tickets %}}
-    {{< button-link
-      url="/agenda"
-      label="Agenda"
-      icon="cfp" >}}
-
-    {{< button-link
-      url="/register"
-      label="Register Here!"
-      icon="external"
-      target="_blank" >}}
 
     {{< button-link
       url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
@@ -53,7 +43,6 @@ But we are optimistic, as we believe all should be. 2020 has taught us a lot, an
 {{% /home-info %}}
 
 {{< youtube-section link="eIeSOO58mjU" title="Watch 2020 Videos" class="" >}}
-
 
 <!-- {{% home-speakers %}}
 ## Featured Speakers
@@ -70,19 +59,10 @@ But we are optimistic, as we believe all should be. 2020 has taught us a lot, an
 
 {{% /home-subscribe %}}
 
-
-<<<<<<< HEAD
-=======
-### Some pictures of the **BSidesTLV 2020**
->>>>>>> images
-
-{{% partners categories="titanium,platinum,gold,CTF,partners" %}}
-## Our Sponsors
-{{% /partners %}}
+### Some pictures of **BSidesTLV 2020**
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
-### Some pictures of the **BSidesTLV 2019** with the 👾 _retro-gaming_ theme.
     {{< button-link
       url="//photos.app.goo.gl/ZXvhy8Kmp9WpyhhP9"
       label="See all photos"

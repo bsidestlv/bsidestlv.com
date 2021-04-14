@@ -28,6 +28,7 @@
 			{{ with site.GetPage path.Join "/speakers" . }}
 			<a href={{ .URL }}>{{ .Params.Name }}</a>
 			{{ end }}
+			{{ end }}
 		</div>
 		<div class="col-xs-8 col-sm"><a href={{ .URL }}>{{ .Title }}</a></div>
 	</div>
