@@ -7,7 +7,7 @@
 - title: Guy Barnhart-Magen
   type: team
   subtitle:
-  photo: guy_bm.jpeg
+  photo: guy_bm.png
   key: guy_bm
   socials:
     - link: 'https://twitter.com/barnhartguy'
@@ -16,13 +16,13 @@
 - title: Ilan Gracier
   type: team
   subtitle:
-  photo: ilan_gracier.jpg
+  photo: ilan_gracier.png
   key: ilan_gracier
 
 - title: Inbar Raz
   type: team
   subtitle: VP Research, Hunters | Hacker of Things.
-  photo: inbar_raz.jpg
+  photo: inbar_raz.png
   key: inbar_raz
   socials:
     - link: 'https://twitter.com/inbarraz'
@@ -33,7 +33,7 @@
 - title: Keren Elazari
   type: team
   subtitle: Hack The Planet | Founder, BSidesTLV & Leading Cyber Ladies
-  photo: keren_elazari.jpg
+  photo: keren_elazari.png
   key: keren_elazari
   socials:
     - link: 'https://twitter.com/k3r3n3'
@@ -46,13 +46,13 @@
 - title: Oded Levin
   type: team
   subtitle:
-  photo: oded_levin.jpg
+  photo: oded_levin.png
   key: oded_levin
 
 - title: Omer Cohen
   type: team
   subtitle:
-  photo: omer_cohen.jpg
+  photo: omer_cohen.png
   key: omer_cohen
   socials:
     - link: 'https://www.twitter.com/omercnet'
@@ -67,7 +67,7 @@
 - title: Reut Menashe
   type: team
   subtitle: Leading Cyber Ladies Founder | Yes, I am a criminal.  My crime is that of curiosity.
-  photo: reut_menashe.jpg
+  photo: reut_menashe.png
   key: reut_menashe
   socials:
     - link: 'https://twitter.com/Reutooo_'
@@ -80,7 +80,7 @@
 - title: Roei Sherman
   type: team
   subtitle: Not how many, but where.
-  photo: RS.jpg
+  photo: RS.png
   key: RS
   socials:
     - link: 'https://twitter.com/x_Freed0m'
@@ -95,7 +95,7 @@
 - title: Yaniv Balmas
   type: team
   subtitle:
-  photo: yaniv_balmas.jpg
+  photo: yaniv_balmas.png
   key: yaniv_balmas
 
 - title: Irena Damsky
