@@ -24,7 +24,7 @@ BSidesTLV will take place on July 22nd, 2021, the event will take place alongsid
 COVID-19 makes it so hard to make actual plans, who can tell what will be the situation in July?  
 But we are optimistic, as we believe all should be. 2020 has taught us a lot, and we plan to learn from this and create an event which will enable us to enjoy both worlds, the virtual and the physical.  
 
-{{< button-link label="Submit your talk!" url="https://cfp.bsidestlv.com/21/cfp" icon="cfp" >}}
+{{< button-link label="Submit your talk!" url="https://cfp.bsidestlv.com/bsidestlv-2021/cfp" icon="cfp" >}}
 
 {{% /jumbo %}}
 
