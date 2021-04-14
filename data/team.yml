@@ -21,12 +21,14 @@
 
 - title: Inbar Raz
   type: team
-  subtitle: Hacker of Things.
+  subtitle: VP Research, Hunters | Hacker of Things.
   photo: inbar_raz.jpg
   key: inbar_raz
   socials:
     - link: 'https://twitter.com/inbarraz'
       name: Twitter
+    - link: 'https://www.linkedin.com/in/inbarraz/'
+      name: LinkedIn
 
 - title: Keren Elazari
   type: team
