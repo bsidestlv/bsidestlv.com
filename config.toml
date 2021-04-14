@@ -1,6 +1,6 @@
 baseURL = "https://bsidestlv.com/"
 languageCode = "en"
-title = "BSidesTLV 2020"
+title = "BSidesTLV 2021"
 
 # Theme
 theme = "devfest-theme-hugo-2020"
