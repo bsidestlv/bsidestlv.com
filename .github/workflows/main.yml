@@ -23,7 +23,9 @@ jobs:
           lfs: true
           submodules: recursive
 
-      - uses: ahmadnassri/action-dependabot-auto-merge@v2
+      - name: Automerge dependabot
+        if: github.ref == 'refs/heads/dependabot'
+        uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
           target: minor
           github-token: ${{ secrets.DEPENDABOT_TOKEN }}
