@@ -31,11 +31,10 @@ const imagesFiles = [
   { files: `static/images/backgrounds/*.*`, format: 'webp' },
   { files: `static/images/banners/*.*`, format: 'webp' },
   { files: `static/images/blog/*.*`, format: 'webp' },
-  { files: `static/images/logos/*_text*.*`, opt: { width: 640 }, format: 'png' },
   { files: `static/images/partners/**/*.*`, opt: { height: 180 }, format: 'webp' },
   { files: `static/images/partners/**/*.svg`, format: 'png' },
   { files: `static/images/partners/**/*.jpg`, format: 'png' },
-  { files: `static/images/team/*.*`, opt: { width: 150 }, format: 'png' },
+  { files: `static/images/team/*.*`, opt: { width: 150 }, format: 'webp' },
   { files: `static/images/ctf/*.*`, opt: { width: 150 }, format: 'webp' },
   { files: `static/images/*.jpg`, format: 'webp' }
 ];
