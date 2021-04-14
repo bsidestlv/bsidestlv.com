@@ -10,14 +10,21 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2020" %}}
 
-## BSidesTLV 2020 - Hybrid Edition!
-The time has come for us to go hybrid, gather together and share our knowledge,
+## BSidesTLV 2021
 
-We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
+BsidesTLV, Israel’s leading community cybersecurity event is back!  
+After a long and hard year, we are excited to announce the 2021 edition of the BSidesTLV event.
 
-*Hybrid mode: our speakers are live on stage, our audience participates safely and remotely from home via live stream and chat room*
+## When?
 
-## July 2nd, 2020
+BSidesTLV will take place on July 22nd, 2021, the event will take place alongside CyberWeek (The 10th annual cyber week event).
+
+## Where ?
+
+COVID-19 makes it so hard to make actual plans, who can tell what will be the situation in July?  
+But we are optimistic, as we believe all should be. 2020 has taught us a lot, and we plan to learn from this and create an event which will enable us to enjoy both worlds, the virtual and the physical.  
+
+{{< button-link label="Submit your talk!" url="https://cfp.bsidestlv.com/21/cfp" icon="cfp" >}}
 
 {{% /jumbo %}}
 
@@ -45,7 +52,7 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
 {{% /home-info %}}
 
-{{< youtube-section link="JP-iw_0FAI0" title="Watch 2019 Videos" class="" >}}
+{{< youtube-section link="eIeSOO58mjU" title="Watch 2020 Videos" class="" >}}
 
 
 <!-- {{% home-speakers %}}
@@ -64,6 +71,10 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 {{% /home-subscribe %}}
 
 
+<<<<<<< HEAD
+=======
+### Some pictures of the **BSidesTLV 2020**
+>>>>>>> images
 
 {{% partners categories="titanium,platinum,gold,CTF,partners" %}}
 ## Our Sponsors
@@ -73,7 +84,7 @@ We are excited to announce that BSidesTLV 2020 will take place in hybrid format!
 
 ### Some pictures of the **BSidesTLV 2019** with the 👾 _retro-gaming_ theme.
     {{< button-link
-      url="//photos.app.goo.gl/2Y3AVLy8DxTFbbjH6"
+      url="//photos.app.goo.gl/ZXvhy8Kmp9WpyhhP9"
       label="See all photos"
       icon="right" >}}
 {{% /album  %}}

@@ -17,9 +17,7 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 {{% /hero %}}
 
-<!-- volunteers=Volunteers,cfp=CFP -->
-
-{{< teams types="core=Core Team," >}}
+{{< teams types="team=Team" >}}
 
 <!-- ...
 

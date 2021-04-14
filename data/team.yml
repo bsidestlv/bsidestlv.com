@@ -1,17 +1,11 @@
 - title: Elad Shuster
-  type: core
+  type: team
   subtitle:
   photo: elad_shuster.png
   key: elad_shuster
 
-- title: Ezra Caltum
-  type: core
-  subtitle:
-  photo: ezra_caltum.jpg
-  key: ezra_caltum
-
 - title: Guy Barnhart-Magen
-  type: core
+  type: team
   subtitle:
   photo: guy_bm.jpeg
   key: guy_bm
@@ -20,13 +14,13 @@
       name: Twitter
 
 - title: Ilan Gracier
-  type: core
+  type: team
   subtitle:
   photo: ilan_gracier.jpg
   key: ilan_gracier
 
 - title: Inbar Raz
-  type: core
+  type: team
   subtitle: Hacker of Things.
   photo: inbar_raz.jpg
   key: inbar_raz
@@ -35,7 +29,7 @@
       name: Twitter
 
 - title: Keren Elazari
-  type: core
+  type: team
   subtitle: Hack The Planet | Founder, BSidesTLV & Leading Cyber Ladies
   photo: keren_elazari.jpg
   key: keren_elazari
@@ -48,13 +42,13 @@
       name: LinkedIn
 
 - title: Oded Levin
-  type: core
+  type: team
   subtitle:
   photo: oded_levin.jpg
   key: oded_levin
 
 - title: Omer Cohen
-  type: core
+  type: team
   subtitle:
   photo: omer_cohen.jpg
   key: omer_cohen
@@ -69,7 +63,7 @@
       name: Github
 
 - title: Reut Menashe
-  type: core
+  type: team
   subtitle: Leading Cyber Ladies Founder | Yes, I am a criminal.  My crime is that of curiosity.
   photo: reut_menashe.jpg
   key: reut_menashe
@@ -82,7 +76,7 @@
       name: Facebook
 
 - title: Roei Sherman
-  type: core
+  type: team
   subtitle: Not how many, but where.
   photo: RS.jpg
   key: RS
@@ -97,7 +91,13 @@
       name: Github
 
 - title: Yaniv Balmas
-  type: core
+  type: team
   subtitle:
   photo: yaniv_balmas.jpg
   key: yaniv_balmas
+
+- title: Irena Damsky
+  type: team
+
+- title: Inbal Pearlson
+  type: team
