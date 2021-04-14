@@ -5,7 +5,7 @@ command = "npm run build"
 [build.environment]
 HUGO_VERSION = "0.81.0"
 HUGO_ENABLEGITINFO = "true"
-NODE_VERSION = "14.16.0"
 
 [context.production.environment]
 HUGO_ENV = "production"
+NODE_ENV = "production"
