@@ -14,7 +14,7 @@
       name: Twitter
 
 - title: Ilan Gracier
-  type: volunteers
+  type: team
   subtitle:
   photo: ilan_gracier.png
   key: ilan_gracier
@@ -28,6 +28,19 @@
     - link: 'https://twitter.com/inbarraz'
       name: Twitter
     - link: 'https://www.linkedin.com/in/inbarraz/'
+      name: LinkedIn
+
+- title: Keren Elazari
+  type: team
+  subtitle: Hack The Planet | Founder, BSidesTLV & Leading Cyber Ladies
+  photo: keren_elazari.jpg
+  key: keren_elazari
+  socials:
+    - link: 'https://twitter.com/k3r3n3'
+      name: Twitter
+    - link: 'http://www.k3r3n3.com/'
+      name: Site
+    - link: 'https://www.linkedin.com/in/kerene'
       name: LinkedIn
 
 - title: Oded Levin
@@ -86,7 +99,7 @@
   key: yaniv_balmas
 
 - title: Irena Damsky
-  type: volunteers
+  type: team
 
 - title: Inbal Pearlson
-  type: volunteers
+  type: team
