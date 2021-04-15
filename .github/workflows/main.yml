@@ -1,84 +1,15 @@
-name: Build and deploy website
+name: Merge me!
 
-on: push
+on:
+  check_suite:
+    types:
+      - completed
 
 jobs:
-  setup:
-    runs-on: ubuntu-latest
+  merge-me:
     steps:
-      - name: Setup Node
-        uses: actions/setup-node@v1
+      - name: Merge me!
+        uses: ridedott/merge-me-action@v2
         with:
-          node-version: 14.x
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 0.81.0
-          extended: true
-
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          lfs: true
-          submodules: recursive
-
-      - name: Automerge dependabot
-        if: github.ref == 'refs/heads/dependabot'
-        uses: ahmadnassri/action-dependabot-auto-merge@v2
-        with:
-          target: minor
-          github-token: ${{ secrets.DEPENDABOT_TOKEN }}
-
-      - name: Cache node modules
-        uses: actions/cache@v1
-        env:
-          cache-name: cache-node-modules
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-build-${{ env.cache-name }}-
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-
-
-      - name: Install Dependencies
-        run: npm i
-      - name: Build site
-        env:
-          PRETALX_TOKEN: ${{ secrets.PRETALX_TOKEN }}
-          HUGO_ENV: production
-        run: npm run build
-
-      - name: Deploy to GitHub Pages
-        if: github.ref == 'refs/heads/master'
-        uses: peaceiris/actions-gh-pages@v2
-        env:
-          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: ./public
-      - name: Purge Cloudflare Cache
-        if: github.ref == 'refs/heads/master'
-        env:
-          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
-          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-        shell: sh
-        run: |
-          HTTP_RESPONSE=$(curl -sS "https://api.cloudflare.com/client/v4/zones/${CLOUDFLARE_ZONE}/purge_cache" \
-                      -H "Content-Type: application/json" \
-                      -H "Authorization: Bearer ${CLOUDFLARE_TOKEN}" \
-                      -w "HTTP_STATUS:%{http_code}" \
-                      --data '{"purge_everything":true}')
-          HTTP_BODY=$(echo "${HTTP_RESPONSE}" | sed -E 's/HTTP_STATUS\:[0-9]{3}$//')
-          HTTP_STATUS=$(echo "${HTTP_RESPONSE}" | tr -d '\n' | sed -E 's/.*HTTP_STATUS:([0-9]{3})$/\1/')                      
-          if [ "${HTTP_STATUS}" -eq "200" ]; then
-            echo "Successfully purged!"
-            exit 0
-          else
-            echo "Purge failed. API response was: "
-            echo "${HTTP_BODY}"
-            exit 1
-          fi
-
-
-
+          GITHUB_TOKEN: ${{ secrets.DEPENDABOT_TOKEN }}
+          PRESET: DEPENDABOT_MINOR
