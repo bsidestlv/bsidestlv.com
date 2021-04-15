@@ -1,7 +1,7 @@
 const rollup = require('rollup');
-const uglify = require('rollup-plugin-uglify').uglify;
+const terser = require("rollup-plugin-terser");
 const babel = require('rollup-plugin-babel');
-const {Logger, LogLevel, colorEmojiConfig} = require('plop-logger');
+const { Logger, LogLevel, colorEmojiConfig } = require('plop-logger');
 
 Logger.config = colorEmojiConfig;
 const logger = Logger.getLogger('scripts');
@@ -13,11 +13,7 @@ const inputOptions = {
     babel({
       exclude: 'node_modules/**' // only transpile our source code
     }),
-    uglify({sourcemap: false})
-  ],
-  external: [
-    'firebase',
-    'firebase/firestore'
+    terser
   ],
   onwarn(warning) {
     logger.warn(warning.message, warning);
