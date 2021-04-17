@@ -100,6 +100,15 @@
 
 - title: Irena Damsky
   type: team
+  subtitle: Director of Research, Cortex XDR, Palo Alto Networks. Founder Damsky.tech. I <3 univorns
+  key: ID
+  socials:
+    - link: 'https://twitter.com/damskyIrena'
+      name: Twitter
+    - link: 'http://damsky.tech/'
+      name: Site
+    - link: 'https://www.linkedin.com/in/irenadam'
+      name: LinkedIn
 
 - title: Inbal Pearlson
   type: team
