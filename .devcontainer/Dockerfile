@@ -20,13 +20,4 @@ EXPOSE 1313
 #     && apt-get -y install --no-install-recommends hugo
 
 # [Optional] Uncomment if you want to install more global node modules
-RUN su node -c "nvm install && npm install -g npm-check-updates"
-
-RUN build_deps="curl" && \
-    apt-get update && \
-    DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends ${build_deps} ca-certificates && \
-    curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash && \
-    DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends git-lfs && \
-    git lfs install && \
-    DEBIAN_FRONTEND=noninteractive apt-get purge -y --auto-remove ${build_deps} && \
-    rm -r /var/lib/apt/lists/*
+RUN su node -c "npm install -g npm-check-updates"
