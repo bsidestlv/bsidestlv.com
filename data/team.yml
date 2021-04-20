@@ -103,6 +103,9 @@
 
 - title: Inbal Pearlson
   type: team
+  socials:
+    - link: 'https://www.linkedin.com/in/inbal-pearlson-91709730/'
+      name: Linkdin
   
 - title: Nimrod Levy
   type: team
