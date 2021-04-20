@@ -113,3 +113,14 @@
 
 - title: Inbal Pearlson
   type: team
+  photo: inbal.png
+  key: inbal
+  socials:
+    - link: 'https://www.linkedin.com/in/inbal-pearlson-91709730/'
+      name: Linkdin
+  
+- title: Nimrod Levy
+  type: team
+
+- title: Tomer Zait
+  type: team
