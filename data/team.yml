@@ -100,9 +100,21 @@
 
 - title: Irena Damsky
   type: team
+  subtitle: 
+  photo: ID.png
+  key: irena
+  socials:
+    - link: 'https://twitter.com/DmaskyIrena'
+      name: Twitter
+    - link: 'http://damsky.tech'
+      name: Site
+    - link: 'https://www.linkedin.com/in/irenadam'
+      name: LinkedIn
 
 - title: Inbal Pearlson
   type: team
+  photo: inbal.png
+  key: inbal
   socials:
     - link: 'https://www.linkedin.com/in/inbal-pearlson-91709730/'
       name: Linkdin
