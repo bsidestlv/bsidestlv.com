@@ -7,6 +7,8 @@ on:
 
 jobs:
   merge-me:
+    runs-on: ubuntu-latest
+    name: Merge me!
     steps:
       - name: Merge me!
         uses: ridedott/merge-me-action@v2
