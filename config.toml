@@ -44,10 +44,3 @@ enableGitInfo = true
 
 [markup.goldmark.renderer]
 unsafe= true
-
-[[menu.main]]
-    identifier = "cfp"
-    name = "CFP"
-    url = "https://cfp.bsidestlv.com/bsidestlv-2021/cfp"
-    weight = 190
-    external = true

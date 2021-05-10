@@ -5,6 +5,6 @@ title: Sponsors
 #     weight: 70
 ---
 
-## BSidesTLV 2020 is proudly sponsored by
+## BSidesTLV 2021 is proudly sponsored by
 
 {{% partners categories="titanium,platinum,gold,CTF,partners" %}}{{% /partners %}}
