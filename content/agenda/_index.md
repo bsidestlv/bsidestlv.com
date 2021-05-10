@@ -1,12 +1,12 @@
 ---
 title: Agenda
-# menu:
-#   main:
-#     weight: 30
+menu:
+  main:
+    weight: 30
 ---
 
 {{% hero %}}
 
-We are proud to present the BSidesTLV 2020 schedule! 
+We are proud to present the BSidesTLV 2021 schedule!
 
 {{% /hero %}}
