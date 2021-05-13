@@ -18,7 +18,7 @@
     "start": "hugo server --bind=0.0.0.0 --buildFuture"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.0",
+    "@babel/core": "^7.14.2",
     "@babel/preset-env": "^7.14.2",
     "axios": "^0.21.1",
     "cssnano": "^5.0.2",
