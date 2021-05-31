@@ -21,7 +21,7 @@
     "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.14.2",
     "axios": "^0.21.1",
-    "cssnano": "^5.0.4",
+    "cssnano": "^5.0.5",
     "glob": "^7.1.7",
     "html-minifier": "^4.0.0",
     "node-sass": "^6.0.0",
