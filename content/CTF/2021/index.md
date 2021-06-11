@@ -3,7 +3,7 @@ title: 2021 CTF
 brief: BSidesTLV Capture The Flag
 # image: /images/blog/cfp.jpg
 date: 2021-06-10
-draft: true
+draft: false
 ---
 {{% showlastmod %}}
 
