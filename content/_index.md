@@ -51,9 +51,14 @@ But we are optimistic, as we believe all should be. 2020 has taught us a lot, an
 
 {{% /home-subscribe %}}
 
-### Some pictures of **BSidesTLV 2020**
+{{% partners categories="platinum,partners" %}}
+
+## Our Sponsors
+{{% /partners %}}
+
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
+### Some pictures of **BSidesTLV 2020**
 
     {{< button-link
       url="//photos.app.goo.gl/ZXvhy8Kmp9WpyhhP9"

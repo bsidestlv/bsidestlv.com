@@ -1,56 +1,54 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 <section class="partners">
 	<div class="inner">
-	{{ .Inner }}
+		{{ .Inner }}
 	</div>
 
 	{{ $site := .Site }}
 	{{ range (split (.Get "categories") ",") }}
-		<section class="partners-group partner-{{ . }}">
-			<h3 class="fancy">
+	<section class="partners-group partner-{{ . }}">
+		<h3 class="fancy">
 			<span>{{ . }}</span>
-			</h3>
-			<ul>
-				{{ $partners := where $site.AllPages "Params.category" . }}
-					{{ range sort $partners ".Params.order" "asc" }}
-						<li>
-							<div>
-							{{ partial "partner.html" . }}
-							<span class="zoom">
-							{{ if isset .Params "zoom"}}
-								<a class="btn" href="{{ .Params.zoom }}" target="_blank"><svg class="zoom"><use xlink:href="#zoom"/></svg> Room</a>
-							{{ end }}
-							</span>
-							</div>
-						</li>
-					{{ end }}
-			</ul>
-		</section>
+		</h3>
+		<ul>
+			{{ $partners := where $site.AllPages "Params.category" . }}
+			{{ range sort $partners ".Params.order" "asc" }}
+			<li>
+				<div>
+					{{ partial "partner.html" . }}
+				</div>
+			</li>
+			{{ end }}
+		</ul>
+	</section>
 	{{ end }}
 </section>
 <style type="text/css">
-.partners-group ul li {
-	display: flex;
-}
-.partners-group ul li div {
-	flex-direction: column;
-	display: flex;
-	align-items: center;
-}
-span.zoom {
-	display: flex;
-	height: 55px;
-}
-.zoom svg {
-	--size: 1.5em;
-    height: var(--size, 1em);
-    margin-right: .25em;
-    display: inline-block;
-    background-repeat: no-repeat;
-    width: 4em;
-}
-.partners-group li {
-	text-align: center;
-}
+	.partners-group ul li {
+		display: flex;
+	}
+
+	.partners-group ul li div {
+		flex-direction: column;
+		display: flex;
+		align-items: center;
+	}
+
+	span.zoom {
+		display: flex;
+		height: 55px;
+	}
+
+	.zoom svg {
+		--size: 1.5em;
+		height: var(--size, 1em);
+		margin-right: .25em;
+		display: inline-block;
+		background-repeat: no-repeat;
+		width: 4em;
+	}
+
+	.partners-group li {
+		text-align: center;
+	}
 </style>
- 
