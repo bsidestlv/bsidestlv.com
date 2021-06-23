@@ -1,9 +1,10 @@
 ---
 title: Register
-# menu:
-#   main:
-#     weight: 35
+menu:
+  main:
+    weight: 40
 
+draft: false
 ---
 
 
