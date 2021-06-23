@@ -1,5 +1,5 @@
 ---
-key: generalelectric
+key: ge
 title: General Electric
 category: platinum
 website: 'https://www.ge.com/'
