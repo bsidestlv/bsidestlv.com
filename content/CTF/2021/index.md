@@ -24,7 +24,6 @@ draft: false
 1. Remote participation is allowed (for all teams) this year
 1. In the past, we only allowed physically present teams to claim a prize, we are considering a different approach this year
 1. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
-1. Register to the competition at [ctf21.bsidestlv.com](https://ctf21.bsidestlv.com), you must be registered to participate
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
