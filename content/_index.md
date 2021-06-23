@@ -27,7 +27,7 @@ After a long and hard year, we are excited to announce the 2021 edition of the B
 BSidesTLV will take place on July 22nd, 2021, the event will take place alongside CyberWeek (The 10th annual cyber week event).
 Registration opens on July 1st, 2021!
 {{< button-link
-	url="//tickets.bsidestlv.com/bsidestlv/bsidestlv/"
+	url="/register"
 	label="Register Here!"
 	icon="external" >}}
 
