@@ -23,7 +23,7 @@ But we are optimistic, as we believe all should be. 2020 has taught us a lot, an
 - Lobbycon has already started on the BSidesTLV Slack, {{< button-link url="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" label="Join our Slack!" icon="slack" >}}
 - Join our mailing list to be notified of any updates and future events {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
-## BSidesTLV 2021!
+## BSidesTLV 2021 - The future is now
 
 The time has come for us to go hybrid, gather together and share our knowledge!
 
