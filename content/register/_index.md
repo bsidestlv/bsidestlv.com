@@ -2,7 +2,7 @@
 title: Register
 # menu:
 #   main:
-#     weight: 1
+#     weight: 35
 
 ---
 
