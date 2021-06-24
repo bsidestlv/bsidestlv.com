@@ -13,4 +13,4 @@ We are moving to a new location in the Smolarz Auditorium in Tel Aviv University
 
  Please reach out to sponsors@bsidestlv.com for setting up a call for more details  
 
-{{% partners categories="silver,gold,platinum,partners" %}}## BSidesTLV 2021 is proudly sponsored by{{% /partners %}}
+{{% partners categories="platinum,gold,silver,CTF,partners" %}}## BSidesTLV 2021 is proudly sponsored by{{% /partners %}}
