@@ -109,6 +109,17 @@
   
 - title: Nimrod Levy
   type: team
+  subtitle: CTO, Co-Founder | SCORPIONES LTD
+  key: nimrod_levy
+  socials:
+    - link: 'https://twitter.com/El3ct71k'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/nimrodlevy/'
+      name: LinkedIn    
+    - link: 'https://www.scorpiones.io'
+      name: Site
+    - link: 'https://github.com/El3ct71k'
+      name: Github  
 
 - title: Tomer Zait
   type: team
