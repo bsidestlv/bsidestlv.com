@@ -3,11 +3,13 @@
   --partner-font-size-titanium: 1.75rem;
   --partner-font-size-platinum: 1.5rem;
   --partner-font-size-gold: 1.25rem;
+  --partner-font-size-silver: 1.15rem;
   --partner-font-size-CTF: 1rem;
   --zoom-link-height: 55px;
   --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
   --partner-platinum-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
   --partner-gold-height: calc(var(--partner-support-height) * 1.25 + var(--zoom-link-height));
+  --partner-silver-height: calc(var(--partner-support-height) * 1.2 + var(--zoom-link-height));
   --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
 }
 
@@ -28,6 +30,11 @@
 
   &.partner-gold ul li {
     height: var(--partner-gold-height);
+    flex-basis: 300px;
+  }
+
+  &.partner-silver ul li {
+    height: var(--partner-silver-height);
     flex-basis: 300px;
   }
 
@@ -66,6 +73,11 @@
   &.partner-gold .fancy {
     font-size: var(--partner-font-size-gold);
     color: var(--color-gold);
+  }
+
+  &.partner-silver .fancy {
+    font-size: var(--partner-font-size-silver);
+    color: var(--color-silver);
   }
 
   .partner {
