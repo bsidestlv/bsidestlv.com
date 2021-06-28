@@ -56,7 +56,7 @@ But we are optimistic, as we believe all should be. 2020 has taught us a lot, an
 
 {{% /home-subscribe %}}
 
-{{% partners categories="platinum,gold,silver,CTF,partners" %}}
+{{% partners categories="platinum,gold,silver,partners" %}}
 
 ## Our Sponsors
 {{% /partners %}}
