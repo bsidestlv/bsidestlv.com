@@ -78,7 +78,7 @@
       name: Twitter
     - link: 'http://betheadversary.com/'
       name: Site
-    - link: 'https://www.linkedin.com/in/xfreed0m'
+    - link: 'https://www.linkedin.com/in/freed0m/'
       name: LinkedIn
     - link: 'https://github.com/xfreed0m'
       name: Github
@@ -90,7 +90,7 @@
 
 - title: Irena Damsky
   type: team
-  subtitle: 
+  subtitle:
   key: ID
   socials:
     - link: 'https://twitter.com/DmaskyIrena'
@@ -106,7 +106,7 @@
   socials:
     - link: 'https://www.linkedin.com/in/inbal-pearlson-91709730/'
       name: Linkdin
-  
+
 - title: Nimrod Levy
   type: team
   subtitle: CTO, Co-Founder | SCORPIONES LTD
@@ -115,11 +115,11 @@
     - link: 'https://twitter.com/El3ct71k'
       name: Twitter
     - link: 'https://www.linkedin.com/in/nimrodlevy/'
-      name: LinkedIn    
+      name: LinkedIn
     - link: 'https://www.scorpiones.io'
       name: Site
     - link: 'https://github.com/El3ct71k'
-      name: Github  
+      name: Github
 
 - title: Tomer Zait
   type: team
