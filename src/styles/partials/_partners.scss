@@ -28,6 +28,7 @@
     flex-basis: 400px;
   }
 
+  &.partner-partners ul li,
   &.partner-gold ul li {
     height: var(--partner-gold-height);
     flex-basis: 300px;
@@ -70,6 +71,7 @@
     }
   }
 
+  &.partner-partners .fancy,
   &.partner-gold .fancy {
     font-size: var(--partner-font-size-gold);
     color: var(--color-gold);
