@@ -39,8 +39,7 @@ Registration opens on July 1st, 2021!
 
 ## Where ?
 
-COVID-19 makes it so hard to make actual plans, who can tell what will be the situation in July?  
-But we are optimistic, as we believe all should be. 2020 has taught us a lot, and we plan to learn from this and create an event which will enable us to enjoy both worlds, the virtual and the physical.
+BSidesTLV 2021 will take place at Smolraz Auditorium, Tel Aviv University, following all local COVID-19 guidelines.
 
 {{% home-tickets %}}
 
