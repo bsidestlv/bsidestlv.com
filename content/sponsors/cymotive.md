@@ -1,7 +1,7 @@
 ---
 key: cymotive
 title: Cymotive
-category: gold
+category: silver
 website: 'https://www.cymotive.com/join-the-team/'
 socials: []
 ---
