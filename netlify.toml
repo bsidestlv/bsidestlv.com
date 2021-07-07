@@ -8,3 +8,4 @@ HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
 HUGO_ENV = "production"
+NODE_ENV = "development"
