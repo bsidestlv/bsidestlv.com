@@ -44,17 +44,17 @@
 	<ul>
 		{{ range .Page.Params.jobs }}
 		<li class="job">
-				<header>
-					<a href="{{ .url }}" rel="noopener noreferrer" target="_blank">{{ .title }}</a>
-				</header>
-				<div class="city">
-					{{ partial "icon.html" "map-marker" }}
-					{{ .city }}
-				</div>
-				<a href="mailto:{{ .contact }}" class="contact">
-					{{ partial "icon.html" "email" }}
-					{{ .contact }}
-				</a>
+			<header>
+				<a href="{{ .url }}" rel="noopener noreferrer" target="_blank">{{ .title }}</a>
+			</header>
+			<div class="city">
+				{{ partial "icon.html" "map-marker" }}
+				{{ .city }}
+			</div>
+			<a href="mailto:{{ .contact }}" class="contact">
+				{{ partial "icon.html" "email" }}
+				{{ .contact }}
+			</a>
 		</li>
 		{{ end }}
 	</ul>
