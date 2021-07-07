@@ -20,3 +20,11 @@
 // Custom CSS
 @import "page";
 @import "bsidestlv";
+
+a.talk {
+    border: none !important;
+}
+
+ul.talks {
+    list-style: disc !important;
+}
