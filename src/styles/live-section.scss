@@ -90,7 +90,7 @@ img.avatar {
 .slack-message .document {
 	background-color: white;
 	border: 1px solid #ccc;
-	border-radius: 5px;;
+	border-radius: 5px;
 	padding: 0 10px;
 	margin-top: 10px;
 }
@@ -133,13 +133,13 @@ img.avatar {
 	height: 40%;
 	max-height: 100%;
 	overflow-y: scroll;
-}   
+}
 
 [style*="--aspect-ratio"] > :first-child {
 	width: 100%;
 }
 
-@supports (--custom:property) {
+@supports (--custom: property) {
 	[style*="--aspect-ratio"] {
 		position: relative;
 	}
@@ -147,13 +147,13 @@ img.avatar {
 		content: "";
 		display: block;
 		padding-bottom: calc(100% / (var(--aspect-ratio)));
-	} 
+	}
 	[style*="--aspect-ratio"] > :first-child {
 		position: absolute;
 		top: 0;
 		left: 0;
 		height: 100%;
-	} 
+	}
 }
 
 .grid {
@@ -167,7 +167,7 @@ img.avatar {
 	list-style: none;
 }
 
-.grid>.item {
+.grid > .item {
 	padding: 12px;
 }
 
@@ -177,14 +177,14 @@ img.avatar {
 
 #timercontainer {
 	@include mq($until: md) {
-    	font-size: 32pt;
-  	}
+		font-size: 32pt;
+	}
 	@include mq($from: md) {
-    	font-size: 36pt;
-  	}
+		font-size: 36pt;
+	}
 	@include mq($from: lg) {
-    	font-size: 42pt;
-  	}
+		font-size: 42pt;
+	}
 }
 #timer {
 	background-color: none;
