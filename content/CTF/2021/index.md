@@ -8,7 +8,7 @@ draft: false
 {{% showlastmod %}}
 
 <div class="row">
-    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/ctf2021-wide.png" widths="540,720,960,1140" %}}</div>
+    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2021.png" widths="540,720,960,1140" %}}</div>
 </div>
 
 <!-- ## BSidesTLV 2021 CTF prizes are sponsored by: ??? -->
@@ -87,14 +87,6 @@ Yes, plan to release our entire repo
 
 To be announced !
 
-<!-- <div class="row around-xs avatars" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/2020trophy.png" label="1st Place" />}}<b>JCTF</b></div>
-</div>
-<div class="row around-xs avatars" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}<b>reclass</b></div>
-    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}<b>Houston We Got Pwned</b></div>
-</div> -->
-
 ---
 
 ## Our Team
@@ -102,36 +94,15 @@ To be announced !
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}</div>
     <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}</div>
-    <!-- <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Yahav" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/DanielAbeles.png" label="Daniel Abeles" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}</div>     -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/reut_menashe.png" label="Reut Menashe" />}}</div> -->
+    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Aviv Yahav" />}}</div>
+    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div>
+    <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
+    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
+    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Sharon Brizinov" />}}</div>
 </div>
 
-<!-- ## Resources and WriteUps
-
-* [CTF Time](https://ctftime.org/event/1078)
-* [CTF Time Tasks](https://ctftime.org/event/1078/tasks/)
-* [JCTF Writeup](https://jctf.team/BSidesTLV-2020/)
-* [CTF Winner Anouncement](BSidesTLV-CTF-2020.pdf)
-
-GitHub repository of the challenges source code: [https://github.com/bsidestlv/ctf20-public](https://github.com/bsidestlv/ctf20-public)
-
-## Statistics
-
-830 teams registered
-
-125 solved at least one challenge
-
-5026 unique IP addresses
-
-We had a total of 20 challenges across a wide range of domains
-
-![](/images/ctf/CTFd_solves_2020-07-05.png) -->
+<!-- ## Resources and WriteUps -->
