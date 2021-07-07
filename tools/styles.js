@@ -1,7 +1,7 @@
-const {writeFileSync} = require('fs');
+const { writeFileSync } = require('fs');
 const path = require('path');
-const {sync: glob} = require('glob');
-const {Logger, LogLevel, colorEmojiConfig} = require('plop-logger');
+const { sync: glob } = require('glob');
+const { Logger, LogLevel, colorEmojiConfig } = require('plop-logger');
 const sass = require('node-sass');
 const rimraf = require('rimraf');
 
@@ -22,13 +22,13 @@ const outputStyle = 'expanded';
 
 glob(scssFiles)
   .forEach(file => {
-    const {name} = path.parse(file);
-    const output = path.format({dir: 'static/styles', name, ext: '.css'});
+    const { name } = path.parse(file);
+    const output = path.format({ dir: 'static/styles', name, ext: '.css' });
     logger.debug(`Compile to ${output} to`, file);
 
-    const result = sass.renderSync({file, indentedSyntax, outputStyle, sourceMap: true, sourceMapEmbed: true});
+    const result = sass.renderSync({ file, indentedSyntax, outputStyle, sourceMap: true, sourceMapEmbed: true });
     if (result.css) {
-      writeFileSync(output, result.css, {flag: 'w'});
+      writeFileSync(output, result.css, { flag: 'w' });
     } else {
       logger.error("Oops", result);
       logger.dump(result);
