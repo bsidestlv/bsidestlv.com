@@ -1,8 +1,8 @@
-const {readFileSync, writeFileSync} = require('fs');
-const {sync: glob} = require('glob');
-const {minify} = require('html-minifier');
+const { readFileSync, writeFileSync } = require('fs');
+const { sync: glob } = require('glob');
+const { minify } = require('html-minifier');
 const postcss = require('postcss');
-const {Logger, LogLevel, colorEmojiConfig} = require('plop-logger');
+const { Logger, LogLevel, colorEmojiConfig } = require('plop-logger');
 
 Logger.config = colorEmojiConfig;
 const logger = Logger.getLogger('minifier');
@@ -20,7 +20,7 @@ const totalGain = glob(htmlFiles)
     if (gain > 0) {
       const percent = (gain / html.length) * 100;
       logger.debug(file, () => ['gain', percent.toFixed(2), '%'].join(" "));
-      writeFileSync(file, minified, {flag: 'w'});
+      writeFileSync(file, minified, { flag: 'w' });
     }
     return gain;
   }).reduce((acc, elt) => acc + elt, 0);
@@ -33,10 +33,10 @@ const cssFiles = `public/styles/*.css`;
 logger.info('Post processing CSS files', cssFiles);
 const plugins = [
   require('postcss-preset-env')({
-    autoprefixer: {grid: true},
+    autoprefixer: { grid: true },
     stage: 3
   }),
-  require('cssnano')({preset: 'default'})
+  require('cssnano')({ preset: 'default' })
 ];
 
 const totalGainCssPromises = glob(cssFiles)
@@ -45,13 +45,13 @@ const totalGainCssPromises = glob(cssFiles)
     const css = readFileSync(file, 'utf8');
 
     return postcss(plugins)
-      .process(css, {from: undefined})
+      .process(css, { from: undefined })
       .then(result => result.css)
       .then(minified => {
         const gain = css.length - minified.length;
-          const percent = (gain / css.length) * 100;
-          logger.debug(file, () => ['gain', percent.toFixed(2), '%'].join(" "));
-          writeFileSync(file, minified, {flag: 'w'});
+        const percent = (gain / css.length) * 100;
+        logger.debug(file, () => ['gain', percent.toFixed(2), '%'].join(" "));
+        writeFileSync(file, minified, { flag: 'w' });
         return gain;
       })
       .catch(err => {

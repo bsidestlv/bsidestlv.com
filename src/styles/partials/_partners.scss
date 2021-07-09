@@ -14,8 +14,19 @@
 }
 
 .partners-group {
+  li {
+    text-align: center;
+  }
+
   ul li {
     justify-content: center;
+    display: flex;
+  }
+
+  div {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
   }
 
   &.partner-titanium ul li {
