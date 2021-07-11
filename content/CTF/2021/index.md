@@ -5,7 +5,7 @@ brief: BSidesTLV Capture The Flag
 date: 2021-06-10
 draft: false
 ---
-{{% showlastmod %}}
+*{{% showlastmod %}}*
 
 <div class="row">
     <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2021.png" widths="540,720,960,1140" %}}</div>
@@ -16,6 +16,12 @@ draft: false
 <!-- --- -->
 
 {{% timer "Jul 18, 2021 09:00:00" "CTF starts in:" %}}
+
+---
+
+# Registration
+
+Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there.
 
 ---
 
