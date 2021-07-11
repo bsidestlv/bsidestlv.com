@@ -15,7 +15,13 @@ draft: false
 
 <!-- --- -->
 
-{{% timer "Jul 18, 2021 09:00:00" "CTF starts in:" %}}
+{{% timer "Jul 19, 2021 09:00:00" "CTF starts in:" %}}
+
+---
+
+# Registration
+
+Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there.
 
 ---
 
@@ -33,10 +39,9 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
-1. Team size is limited to 20
-1. Scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!). This means that you can still submit flags and get your points, but the scoreboard will not update - and only we will know who the final winners are :-) 
+1. Team size is limited to 5
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
-1. We usually keep the challenges live for a couple more (~1 week) days after the event to enable write-ups
+1. We usually keep the challenges alive for a couple more (~1 week) days after the event to enable write-ups
 
 {{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
         label="Join Slack!"
@@ -48,8 +53,8 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 
 Full 48-hours
 
-* Start: July 18th 2021, 09:00 (Israel Time)
-* End:   July 20th 2021, 09:00 (Israel Time)
+* Start: July 19th 2021, 09:00 (Israel Time)
+* End:   July 21th 2021, 09:00 (Israel Time)
 
 **Winner anouncement on July 22nd, during our event**
 
