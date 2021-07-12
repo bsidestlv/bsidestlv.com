@@ -25,12 +25,6 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 
 ---
 
-# Registration
-
-Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there.
-
----
-
 # Rules and Guidelines
 
 1. Remote participation is allowed (for all teams) this year
