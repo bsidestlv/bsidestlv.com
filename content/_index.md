@@ -9,10 +9,15 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2020" %}}
 
-## BSidesTLV 2021
+## BSidesTLV 2021 - July 22nd, 2021
 
 BsidesTLV, Israel’s leading community cybersecurity event is back!  
 After a long and hard year, we are excited to announce the 2021 edition of the BSidesTLV event.
+
+{{< button-link
+	url="/register"
+	label="Register Here!"
+	icon="external" >}}
 
 ---
 
