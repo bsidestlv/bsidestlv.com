@@ -5,5 +5,3 @@ category: gold
 website: ''
 socials: []
 ---
-
-Check out Bank Poalim @ 
