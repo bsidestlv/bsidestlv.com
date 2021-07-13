@@ -1,9 +1,9 @@
 ---
-key: fortinet
-title: Fortinet
+key: bankpoalim
+title: Bank Poalim
 category: gold
-website: 'https://www.fortinet.com/'
+website: ''
 socials: []
 ---
 
-Check out Fortinet @ https://www.fortinet.com/
+Check out Bank Poalim @ 
