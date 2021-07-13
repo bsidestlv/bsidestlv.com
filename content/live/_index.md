@@ -18,7 +18,7 @@ title: Live!
       <div id="mirror" class="row" style="text-align: left;"></div>
   </div>
   <div class="col-xs-12 col-md-7">
-    {{% partners categories="titanium,platinum,gold,CTF,partners" %}}
+    {{% partners categories="platinum,gold,silver,partners" %}}
 	{{% /partners %}}
   </div>
 </div>
