@@ -25,12 +25,6 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 
 ---
 
-# Registration
-
-Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there.
-
----
-
 # Rules and Guidelines
 
 1. Remote participation is allowed (for all teams) this year
@@ -39,7 +33,7 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
-1. Team size is limited to 5
+1. Team recommended size is 5 (limited to 10)
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
 1. We usually keep the challenges alive for a couple more (~1 week) days after the event to enable write-ups
 
