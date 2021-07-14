@@ -73,4 +73,6 @@ Maybe. We’ll think about it and let you know
 
 BSidesTLV is dedicated to providing a safe and harassment-free conference experience regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices, to all participants. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and any other online media. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
 
+Commercially photographing the events, participants,or the grounds is prohibited without consent of all parties involved and approval of the BSidesTLV management. Any materials (such as videos or official photography) released by BSidesTLV may be freely used by the community.
+
 More details at http://confcodeofconduct.com/
