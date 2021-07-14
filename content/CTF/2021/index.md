@@ -107,7 +107,7 @@ To be announced !
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div>
     <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
     <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
-    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
+    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Avetisyan" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Sharon Brizinov" />}}</div>
 </div>
 
