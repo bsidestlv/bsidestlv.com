@@ -28,7 +28,8 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 # Rules and Guidelines
 
 1. Remote participation is allowed (for all teams) this year
-1. In the past, we only allowed physically present teams to claim a prize, we are considering a different approach this year
+1. We only allow physically present teams to claim a prize, make sure a member of your team is in the announcement ceremony!
+1. We will contact winners using the email registered at the [CTF Website](https://ctf.bsidestlv.com). Use an email you monitor.
 1. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
@@ -47,8 +48,8 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 
 Full 48-hours
 
-* Start: July 19th 2021, 09:00 (Israel Time)
-* End:   July 21th 2021, 09:00 (Israel Time)
+* Start: July 19th 2021, 09:00am (Israel Time)
+* End:   July 21st 2021, 09:00am (Israel Time)
 
 **Winner anouncement on July 22nd, during our event**
 
@@ -106,7 +107,7 @@ To be announced !
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div>
     <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
     <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
-    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Isakhanyan" />}}</div>
+    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Avetisyan" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Sharon Brizinov" />}}</div>
 </div>
 
