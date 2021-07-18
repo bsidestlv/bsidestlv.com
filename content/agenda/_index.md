@@ -11,8 +11,6 @@ We are proud to present the BSidesTLV 2021 schedule!
 BSidesTLV will take place on **_July 22nd, 2021_**, the event will take place alongside CyberWeek (The 10th annual cyber week event).  
 Registration opens on July 1st, 2021!
 
----
-
 {{< button-link
 	url="/register"
 	label="Register Here!"
@@ -26,4 +24,8 @@ The ICS for Hacker (Hands-On) Workshop introduces the world of Industrial Contro
 
 https://www.gechallenge.com/
 
+---
+
 ** The ICS workshop and the GE challenge are managed, run and supervised only by GE. BSidesTLV isn't affiliated or part of the workshop and\or challenge other than providing the space during the conference to host it. **
+
+---
