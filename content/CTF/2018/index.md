@@ -46,7 +46,7 @@ Please play fairly! both for your sake, and for the fun of everyone else!
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}GamingStore<br>c1337Shell<br>DockingStation<br>PySandbox-Insane<br>IAmBrute (w/Nimrod Levy)<br>Redirect me (w/Nimrod Levy)<br>IH8emacs (w/Nimrod Levy)<br>I’m Pickle Rick! (w/Nimrod Levy)<br>Creative Agency (w/Nimrod Levy)<br>ContactUs (w/Nimrod Levy)</div>
     <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}Shared Directory<br>Can you bypass the SOP?<br>NoSocket<br>IAmBrute ( (w/Tomer Zait)<br>Redirect me ( (w/Tomer Zait)<br>IH8emacs ( (w/Tomer Zait)<br>I’m Pickle Rick! ( (w/Tomer Zait)<br>Creative Agency ( (w/Tomer Zait)<br>ContactUs ( (w/Tomer Zait)</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Kasif Dekeel" />}}WTFLOL (and wtflol_reflagged)</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Kasif Dekel" />}}WTFLOL (and wtflol_reflagged)</div>
     <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}Crypto2<br>T.A.R.D.I.S.</div>
     <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Gal Goldstein" />}}PimpMyRide</div>
