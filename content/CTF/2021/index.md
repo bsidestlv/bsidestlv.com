@@ -98,18 +98,18 @@ To be announced !
 ## Our Team
 
 <div class="row around-xs avatars shuffle" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}</div>
-    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}</div>
-    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}</div>
-    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Aviv Yahav" />}}</div>
-    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}</div>
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}Inspector Gadget<br/>Intellimage<br/>Under Construction<br/>Flag On The Wall<br/>SQLiteManager</div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}Under Construction<br/>The Rabbit Hole<br/>News<br/>Notes</div>
+    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}Labyrinth</div>
+    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}Toilet</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Aviv Yahav" />}}Rainy Redis<br/>Speed Trivia</div>
+    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}Damn Randomware!</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}Toilet<br/>Labyrinth<br/>Intellimage</div>
     <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}</div>
-    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Avetisyan" />}}</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Sharon Brizinov" />}}</div>
+    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Good Old Days<br/>In Plain Sight<br/>Flag On The Wall</div>
+    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Avetisyan" />}}Are You Kidding Me?<br/>In Plain Sight</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Sharon Brizinov" />}}Cheater's Gambit</div>
+	<div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}Wh3reIsTheD0oR</div>    
 </div>
 
 <!-- ## Resources and WriteUps -->
- 
