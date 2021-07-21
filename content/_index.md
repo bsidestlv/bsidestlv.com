@@ -14,11 +14,8 @@ menu:
 BsidesTLV, Israel’s leading community cybersecurity event is back!  
 After a long and hard year, we are excited to announce the 2021 edition of the BSidesTLV event.
 
-{{< button-link
-	url="/register"
-	label="Register Here!"
-	icon="external" >}}
-
+## Online Stream
+The entire conference will be streamed online in our website, you don't need to register in order to watch the stream.
 ---
 
 {{< button-link label="View Agenda" url="/agenda" icon="cfp" >}}

@@ -16,6 +16,10 @@ We would like to thank you loyal sponsors for supporting our event this year!
 
 ---
 
+## Online streaming
+The entire conference will be streamed online using Twitch and right here on our website!
+You don't need to register in order to watch the stream, it will be available for everyone!
+
 ## COVID19 update
 
 While most of the COVID crisis is behind us, it is not entirely a distant memory. In order to best protect you - our participants - we have decided that while BSidesTLV 2021 will remain a physical, in-person event, we are going to limit the participance to those who have been vaccinated or have recovered. Proof of either will be required at the registration, in order to receive the bracelet and be granted access to the event.
@@ -39,11 +43,8 @@ A hybrid event is a mix of both in-person talks and online experiences. Our sele
 
 Join us for a full day of the best security research content this side of the Mediterranean, with cutting edge content, community talks, live demos and all of the fun and excitement you have come to expect from BsidesTLV! Join in for the live talks, chat with your friends and meet our sponsors who want to hire you.
 
-## Registration
-{{< button-link
-	url="//tickets.bsidestlv.com/bsidestlv/bsidestlv/"
-	label="Register Here!"
-	icon="external" >}}
+## Registration is closed!
+
 
 {{< button-link
 	url="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
