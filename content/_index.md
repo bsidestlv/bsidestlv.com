@@ -34,11 +34,7 @@ If you are neither recovering nor vaccinated, for any reason, then you are more 
 ## When?
 
 BSidesTLV will take place on July 22nd, 2021, the event will take place alongside CyberWeek (The 10th annual cyber week event).
-Registration opens on July 1st, 2021!
-{{< button-link
-	url="/register"
-	label="Register Here!"
-	icon="external" >}}
+Registration is closed
 
 ## Where ?
 
