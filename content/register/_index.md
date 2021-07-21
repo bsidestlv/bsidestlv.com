@@ -27,11 +27,9 @@ While most of the COVID crisis is behind us, it is not entirely a distant memory
 If you are neither recovering nor vaccinated, for any reason, then you are more than welcome to watch the event online. If you have any questions or would like to reach out to us with regard to this matter, please do so at info@bsidestlv.com and we will be happy to answer.
 
 ## The Details
-- When: Thursday, July 22nd 2021 09:30-19:40 Israel (GMT+3)
-- Where: COVID-19 makes it so hard to make actual plans, who can tell what will be the situation in July?
-But we are optimistic, as we believe all should be. 2020 has taught us a lot, and we plan to learn from this and create an event which will enable us to enjoy both worlds, the virtual and the physical.
-- Lobbycon has already started on the BSidesTLV Slack, {{< button-link url="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" label="Join our Slack!" icon="slack" >}}
-- Join our mailing list to be notified of any updates and future events {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
+We are SOLD OUT, so If you do not plan to attend in person, PLEASE CANCEL YOUR TICKET via the “change your ticket” options in the confirmation email. 
+You do not need a ticket to participate virtually on our live stream. Just go to https://bsidestlv.com/ and engage with the community on our slack server!
+Your friend didn’t get a ticket? as long as they meet our covid-19 attendance requirements - vaccinated or recovered they can still sign up as a BsidesTLV 2021 volunteer at https://signup.com/go/LrLdnNF
 
 ## BSidesTLV 2021 - The future is now
 
