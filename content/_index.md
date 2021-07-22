@@ -13,10 +13,12 @@ menu:
 
 BsidesTLV, Israel’s leading community cybersecurity event is back!  
 After a long and hard year, we are excited to announce the 2021 edition of the BSidesTLV event.
-Registration is closed!
 
-## Online Stream
-The entire conference will be streamed online in our website, you don't need to register in order to watch the stream.
+{{< button-link
+	url="/register"
+	label="Register Here!"
+	icon="external" >}}
+
 ---
 
 {{< button-link label="View Agenda" url="/agenda" icon="cfp" >}}
@@ -34,7 +36,11 @@ If you are neither recovering nor vaccinated, for any reason, then you are more 
 ## When?
 
 BSidesTLV will take place on July 22nd, 2021, the event will take place alongside CyberWeek (The 10th annual cyber week event).
-Registration is closed
+Registration opens on July 1st, 2021!
+{{< button-link
+	url="/register"
+	label="Register Here!"
+	icon="external" >}}
 
 ## Where ?
 
