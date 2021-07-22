@@ -7,11 +7,10 @@
 
 <script src="//code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
   crossorigin="anonymous"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"
-  integrity="sha256-yr4fRk/GU1ehYJPAs8P4JlTgu0Hdsp4ZKrx8bDEDC3I=" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.26.0/moment.min.js"
   integrity="sha256-5oApc/wMda1ntIEK4qoWJ4YItnV4fBHMwywunj8gPqc=" crossorigin="anonymous"></script>
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
+<script src="/socket.io/socket.io.js"></script>
 <script type="text/javascript" charset="utf-8">
   var options = {
     channel: "bsidestlv",
@@ -19,28 +18,28 @@
   var player = new Twitch.Player("twitch", options);
   player.setVolume(0.5);
 
-  $(document).ready(function () {
-    api = '//bsidestlv-slackmirror.herokuapp.com'
+  // $(document).ready(function () {
+  //   api = '//bsidestlv-slackmirror.herokuapp.com'
 
-    const fMsg = (msg) => {
-      return `<div class="slack-message col-xs-12">
-      <img class="avatar" src="${msg.image_48}" aria-hidden="true" title="">
-      <div class="content">
-      <strong class="username">${msg.user}</strong>
-      <small class="timestamp">${moment.unix(msg.ts).calendar()}</small>
-      <div class="message">${msg.text}</div>
-      </div>
-      </div>`
-    }
+  //   const fMsg = (msg) => {
+  //     return `<div class="slack-message col-xs-12">
+  //     <img class="avatar" src="${msg.image_48}" aria-hidden="true" title="">
+  //     <div class="content">
+  //     <strong class="username">${msg.user}</strong>
+  //     <small class="timestamp">${moment.unix(msg.ts).calendar()}</small>
+  //     <div class="message">${msg.text}</div>
+  //     </div>
+  //     </div>`
+  //   }
 
-    var socket = io(api);
-    $.get(api + '/log', data => data.forEach(msg => $('#mirror').prepend(fMsg(msg))));
-    socket.on('msg', msg => $('#mirror').prepend(fMsg(msg)));
-    window.setInterval(function () {
-      var elem = document.getElementById('mirror');
-      elem.scrollTop = elem.scrollHeight;
-    }, 1000);
-  });
+  //   var socket = io(api);
+  //   $.get(api + '/log', data => data.forEach(msg => $('#mirror').prepend(fMsg(msg))));
+  //   socket.on('msg', msg => $('#mirror').prepend(fMsg(msg)));
+  //   window.setInterval(function () {
+  //     var elem = document.getElementById('mirror');
+  //     elem.scrollTop = elem.scrollHeight;
+  //   }, 1000);
+  // });
 </script>
 
 {{ end }}
