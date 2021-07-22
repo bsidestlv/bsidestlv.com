@@ -2,12 +2,6 @@
 title: Live!
 ---
 
-
-
-# Getting ready for the live broadcast from central TLV!
-&nbsp;
-{{% timer "Jul 22, 2021 09:15:00" "Going live in" %}}
-&nbsp;
 <div class="row">
 	<div class="col-xs-12" id="twitch" style=" --aspect-ratio: 16/9;
   max-width: 85%;
