@@ -40,7 +40,7 @@ draft: false
     icon="external"
     target="_blank" >}} -->
 
-{{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
+{{< button-link url="//slack.bsidestlv.com"
         label="Join Slack!"
     icon="slack"
     target="_blank" >}} 
@@ -57,7 +57,7 @@ Full 48-hours
 
 ---
 
-You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
+You're invited to join our [Slack channel](https://slack.bsidestlv.com), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
 *please check this page for any updates prior to the competition*
 

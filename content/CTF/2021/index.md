@@ -38,7 +38,7 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
 1. We usually keep the challenges alive for a couple more (~1 week) days after the event to enable write-ups
 
-{{< button-link url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
+{{< button-link url="//slack.bsidestlv.com"
         label="Join Slack!"
     icon="slack"
     target="_blank" >}} 
@@ -55,7 +55,7 @@ Full 48-hours
 
 ---
 
-You're invited to join our [Slack channel](https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
+You're invited to join our [Slack channel](https://slack.bsidestlv.com), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
 *please check this page for any updates prior to the competition*
 

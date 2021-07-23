@@ -1,7 +1,8 @@
 ---
 title: Live!
----
 
+draft: true
+---
 <div class="row">
 	<div class="col-xs-12" id="twitch" style=" --aspect-ratio: 16/9;
   max-width: 85%;
@@ -11,7 +12,7 @@ title: Live!
 <div class="row">
   <div class="col-xs-12" id="slack">
       {{< button-link
-      url="//join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
+      url="//slack.bsidestlv.com"
       label="Slack Lobbycon"
       icon="slack"
       target="_blank" >}}
