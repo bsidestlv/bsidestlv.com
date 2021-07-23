@@ -18,8 +18,8 @@
     "start": "hugo server --bind=0.0.0.0 --buildFuture"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.6",
-    "@babel/preset-env": "^7.14.7",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
     "axios": "^0.21.1",
     "cssnano": "^5.0.6",
     "glob": "^7.1.7",
@@ -30,7 +30,7 @@
     "postcss": "^8.3.5",
     "postcss-preset-env": "^6.7.0",
     "rimraf": "^3.0.2",
-    "rollup": "^2.53.2",
+    "rollup": "^2.53.3",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-terser": "^7.0.2",
     "sass-mq": "^5.0.1",
