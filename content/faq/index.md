@@ -11,63 +11,55 @@ draft: false
 
 Started by a group of hackers, security researchers and people passionate about cyber security, who are keen to share their knowledge and ideas, Security Bsides is a global network of community oriented, grassroots non-profit security events taking place anywhere from Athens, to São Paulo!
 
-From the Bsides Community Wiki:  “Bsides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening”.  
+From the Bsides Community Wiki: "Bsides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening".  
 Read more about it at: http://www.securitybsides.com/
 
+### Where can i see the streaming for BSidesTLV?
 
-### Where can i see the streaming for BSidesTLV 2020?
-
-You can see it in our website, but if you like you can also go to our [Twitch page](https://www.twitch.tv/bsidestlv) 
-
+You can see it in our website, on the day of the event the main page will display the stream.
 
 ### Where is lobbycon in a hybrid conference?
 
-Head over to our slack to engage with the sponsors, speakers, guests and the team! [BSidesTLV Slack](https://app.slack.com/client/TAKGT2PNE/C014JEFUETZ/details/info)
-
+Head over to our slack to engage with the sponsors, speakers, guests and the team! [BSidesTLV Slack](https://slack.bsidestlv.com)
 
 ### I see everything is in english - will the talks be in english, too?
 
 Yes! We will consider Hebrew talks, but prefer to keep everything in english so we can share the knowledge and invite international guests to attend. If we accept presentations in Hebrew, we’ll offer simultaneous translation.
 
-
 ### How to become a sponsor/partner?
 
 For sponsorship details please reach out to us @ sponsors@bsidestlv.com
 
+### CFP: Call for Papers
 
-### CFP: Call for Paper
-
-All the information in the [CFP Blog post](/blog/cfp/)
-
+All the information in the [CFP Page]({{< relref "/cfp" >}})
 
 ### How can i participate?
 
 We’re happy you asked – there are many ways to be a part of BsidesTLV:
 
-* Give a talk [CFP Blog post](/blog/cfp/)
-* Show a cool demo [CFP Blog post](/blog/cfp/)
+* Give a talk [CFP]({{< relref "/cfp" >}})
+* Show a cool demo [CFP]({{< relref "/cfp" >}})
+* Volunteer [here]({{< relref "volunteers" >}})
 * Suggest designs for BsidesTLV Logo, badge and T-shirt! info@bsidestlv.com
-* Engage with speakers , ask interesting questions (Register & show up! that’s easy!)
+* Engage with speakers, ask interesting questions (Register & show up! that’s easy!)
 * Meet new friends and share the knowledge (this is really the best part of Bsides)
-* Contribute / sponsor a social event after the talks , so we can all party together !
+* [Contribute / sponsor]({{< relref "sponsors" >}}) a social event after the talks, so we can all party together!
 * DJ during our social events and at breaks between talks
-* Volunteer to run a lockpicking wokrshop or retro video game arcade zone
+* [Volunteer]({{< relref "volunteers" >}}) to run a lockpicking wokrshop or retro video game arcade zone
 
 
 ### Can I talk to you?
 
 You can contact us on twitter or by email at info@bsidestlv.com
 
-
 ### Will the talks be filmed and later uploaded online?
 
 Yes, Most Talks will be recorded and uploaded to our [youtube channel](https://www.youtube.com/channel/UCKcGZ)
 
-
 ### Can media\journalists attend?
 
 Maybe. We’ll think about it and let you know
-
 
 ### What's the conference's code of conduct?
 

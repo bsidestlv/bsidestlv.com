@@ -4,7 +4,7 @@ menu:
   main:
     weight: 40
 
-draft: false
+draft: true
 ---
 
 
@@ -26,7 +26,7 @@ If you are neither recovering nor vaccinated, for any reason, then you are more 
 - When: Thursday, July 22nd 2021 09:30-19:40 Israel (GMT+3)
 - Where: COVID-19 makes it so hard to make actual plans, who can tell what will be the situation in July?
 But we are optimistic, as we believe all should be. 2020 has taught us a lot, and we plan to learn from this and create an event which will enable us to enjoy both worlds, the virtual and the physical.
-- Lobbycon has already started on the BSidesTLV Slack, {{< button-link url="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A" label="Join our Slack!" icon="slack" >}}
+- Lobbycon has already started on the BSidesTLV Slack, {{< button-link url="https://slack.bsidestlv.com" label="Join our Slack!" icon="slack" >}}
 - Join our mailing list to be notified of any updates and future events {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
 ## BSidesTLV 2021 - The future is now
@@ -46,7 +46,7 @@ Join us for a full day of the best security research content this side of the Me
 	icon="external" >}}
 
 {{< button-link
-	url="https://join.slack.com/t/bsidestlv/shared_invite/zt-ezz7de5w-zKO_PyubEBs2_UDIssDw8A"
+	url="https://slack.bsidestlv.com"
 	label="Join our Slack!"
 	icon="slack" >}}
 
