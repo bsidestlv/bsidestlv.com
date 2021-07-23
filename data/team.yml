@@ -123,3 +123,12 @@
 
 - title: Tomer Zait
   type: team
+  subtitle: Security Researcher, OpenSource Developer & CTF Junkie
+  key: tomer_zait
+  socials:
+    - link: 'https://twitter.com/realgam3'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/realgam3'
+      name: LinkedIn
+    - link: 'https://github.com/realgam3'
+      name: Github
