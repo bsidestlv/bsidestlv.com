@@ -11,20 +11,49 @@ draft: false
     <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2021.png" widths="540,720,960,1140" %}}</div>
 </div>
 
-<!-- ## BSidesTLV 2021 CTF prizes are sponsored by: ??? -->
+<!-- {{% timer "Jul 19, 2021 09:00:00" "CTF starts in:" %}} -->
 
-<!-- --- -->
-
-{{% timer "Jul 19, 2021 09:00:00" "CTF starts in:" %}}
-
----
+<!-- ---
 
 # Registration
 
 Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there.
+ -->
+---
+
+## Hall of Fame
+
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/2021trophy.jpeg" label="1st Place" />}}<b>JCTF</b></div>
+</div>
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}<b>dm0n</b></div>
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}<b>NoobsWithHopesAndDreams</b></div>
+</div>
 
 ---
 
+## Resources and WriteUps
+
+* [JCTF](https://jctf.team/BSidesTLV-2021/)
+
+## Statistics
+
+18 Challenges
+
+7 Categories
+
+374 Registered users
+
+190 Registered teams
+
+221 Solved challenges
+
+68 Teams solved at least 1 challenge
+
+[Winner annoucements presentation](BSIDESTLV-2021-updated.pdf)
+
+---
 # Rules and Guidelines
 
 1. Remote participation is allowed (for all teams) this year
@@ -44,14 +73,14 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
     target="_blank" >}} 
 
 
-#  Timetable
+<!-- #  Timetable
 
 Full 48-hours
 
 * Start: July 19th 2021, 09:00am (Israel Time)
 * End:   July 21st 2021, 09:00am (Israel Time)
 
-**Winner anouncement on July 22nd, during our event**
+**Winner anouncement on July 22nd, during our event** -->
 
 ---
 
@@ -86,12 +115,6 @@ The valid flag format is: “BSidesTLV2021{…}”
 **Will you release the code/containers/VM after the CTF**
 
 Yes, plan to release our entire repo
-
----
-
-## Hall of Fame
-
-To be announced !
 
 ---
 
