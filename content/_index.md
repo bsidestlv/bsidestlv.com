@@ -8,7 +8,11 @@ menu:
 ---
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2020" %}}
-
+&nbsp;
+&nbsp;
+## [Notification of Possible COVID19 Exposure]({{< relref "covidupdate.md" >}})  
+&nbsp;
+&nbsp;
 ## BSidesTLV 2021 - July 22nd, 2021 - We are done!
 
 Thank you everyone who participated in person and online!  
