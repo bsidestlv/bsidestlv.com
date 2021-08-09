@@ -36,6 +36,7 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 ## Resources and WriteUps
 
 * [JCTF](https://jctf.team/BSidesTLV-2021/)
+* [Maor A.](https://medium.com/@maora/bsidestlv-2021-ctf-are-you-kidding-me-challenge-writeup-51c81b30292)
 
 ## Statistics
 
