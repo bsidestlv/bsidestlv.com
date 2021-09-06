@@ -20,7 +20,7 @@
   "devDependencies": {
     "@babel/core": "^7.15.4",
     "@babel/preset-env": "^7.15.4",
-    "axios": "^0.21.1",
+    "axios": "^0.21.3",
     "cssnano": "^5.0.8",
     "glob": "^7.1.7",
     "html-minifier": "^4.0.0",
