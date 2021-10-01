@@ -1,6 +1,7 @@
 {
     "extends": [
         "config:base",
-        "config:semverAllMonthly"
+        "config:semverAllMonthly",
+        ":automergeMinor"
     ]
 }
