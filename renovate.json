@@ -1,29 +1,27 @@
 {
-  "extends": [
-    "schedule:nonOfficeHours",
-    "npm:unpublishSafe"
-  ],
-  "platformAutomerge": true,
-  "automerge": true,
-  "major": {
-    "automerge": false
-  },
-  "masterIssue": true,
-  "semanticCommits": true,
-  "semanticCommitType": "build",
-  "separateMajorMinor": false,
-  "prConcurrentLimit": 3,
-  "timezone": "Asia/Jerusalem",
-  "rangeStrategy": "pin",
-  "packageRules": [
-    {
-      "managers": [
-        "npm"
-      ],
-      "updateTypes": [
-        "digest"
-      ],
-      "enabled": true
-    },
-  ]
+	"extends": [
+		"schedule:nonOfficeHours",
+		"npm:unpublishSafe"
+	],
+	"platformAutomerge": true,
+	"automerge": true,
+	"major": {
+		"automerge": false
+	},
+	"masterIssue": true,
+	"semanticCommits": true,
+	"semanticCommitType": "build",
+	"separateMajorMinor": false,
+	"prConcurrentLimit": 3,
+	"timezone": "Asia/Jerusalem",
+	"rangeStrategy": "pin",
+	"packageRules": [{
+		"managers": [
+			"npm"
+		],
+		"updateTypes": [
+			"digest"
+		],
+		"enabled": true
+	}]
 }
