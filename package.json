@@ -30,7 +30,7 @@
     "postcss": "8.4.5",
     "postcss-preset-env": "7.1.0",
     "rimraf": "3.0.2",
-    "rollup": "2.62.0",
+    "rollup": "2.67.2",
     "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-terser": "7.0.2",
     "sass-mq": "5.0.1",
