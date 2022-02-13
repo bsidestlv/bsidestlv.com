@@ -1,8 +1,8 @@
 {
   "name": "bsidestlv-website-2020",
-  "version": "1.0.0",
+  "version": "2020.0.0",
   "description": "The website for BSidesTLV 2020 based on GDGToulouse theme",
-  "repository": "https://github.com:bsidestlv/2020.bsidestlv.com",
+  "repository": "https://github.com:bsidestlv/bsidestlv.com",
   "author": "Omer Cohen <omer@bsidestlv.com>",
   "license": "MIT",
   "private": true,
@@ -12,27 +12,28 @@
     "build:styles": "node tools/styles.js",
     "build:scripts": "node tools/scripts.js",
     "build:minify": "node tools/minify.js",
-    "build:talks": "node tools/talks.js",
+    "build:talks": "echo ARCHIVED AGENDA #node tools/talks.js",
     "build:site": "hugo --minify --buildFuture",
-    "build": "run-s build:*"
+    "build": "run-s build:*",
+    "start": "hugo server --bind=0.0.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.14",
-    "@babel/preset-env": "^7.13.12",
-    "cssnano": "^4.1.11",
-    "glob": "^7.1.6",
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11",
+    "cssnano": "^5.0.17",
+    "glob": "^7.2.0",
     "html-minifier": "^4.0.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.1",
     "npm-run-all": "^4.1.5",
-    "plop-logger": "^3.1.5",
-    "postcss": "^8.2.9",
+    "plop-logger": "^3.1.7",
+    "postcss": "^8.4.6",
     "postcss-preset-env": "^6.7.0",
     "rimraf": "^3.0.2",
-    "rollup": "^2.44.0",
+    "rollup": "^2.67.2",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-uglify": "^6.0.4",
     "sass-mq": "^5.0.1",
-    "sharp": "^0.28.1",
-    "axios": "^0.21.1"
+    "sharp": "^0.30.1",
+    "axios": "^0.26.0"
   }
 }
