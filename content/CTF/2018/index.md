@@ -15,8 +15,6 @@ draft: false
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Honorable mention" />}}Adam Donenfeld</div>
 </div>
 
-
-
 {{< imgproc 2018_1 Resize "600x" "One of our volunteers was kind enough to deliver a care package to Adam Donenfeld – while not eligible to win, he did solve everything first." />}}
 
 {{< imgproc 2018_2 Resize "600x" "The 2018 Winning team and some CTF memebers" />}}
@@ -60,15 +58,15 @@ Also on the team were Ido Naor, Ezra Caltum and Omer Cohen who gave advice and s
 
 ## Resources and Writeups
 
-you can find our winner anouncment [here](BSidesTLV-CTF-2018.pdf)
+you can find our winner anouncment [here](//static.bsidestlv.com/BSidesTLV-CTF-2018.pdf)
 
 Our challenges are also available as a [VM](https://www.vulnhub.com/entry/bsidestlv-2018-ctf,250/) (courtesy of Tomer Zait)
 
-* https://jctf.team/BSidesTLV-2018/
-* https://www.digitalwhisper.co.il/issue97
-* https://www.digitalwhisper.co.il/files/Zines/0x61/DW97-2-BSides2018.pdf
-* https://hackso.me/bsidestlv-web/
-* https://t.co/klqz7gavLb
+- https://jctf.team/BSidesTLV-2018/
+- https://www.digitalwhisper.co.il/issue97
+- https://www.digitalwhisper.co.il/files/Zines/0x61/DW97-2-BSides2018.pdf
+- https://hackso.me/bsidestlv-web/
+- https://t.co/klqz7gavLb
 
 ## Statistics
 
@@ -83,4 +81,3 @@ We had a total of 17 challenges across a wide range of domains
 ![](/images/ctf/pastedImage0.png)
 
 ![](/images/ctf/pastedImage1.png)
-
