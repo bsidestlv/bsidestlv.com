@@ -1,10 +1,12 @@
 ---
-title: The BSidesTLV 2022 Call for Papers
-brief: The CFP will open on 15/2/2020
-image: /images/blog/cfp.jpg
-date: 2022-04-15
-draft: false
+title: CFP
+menu:
+  main:
+    weight: 50
 ---
+
+{{% hero %}}
+
 The 2022 edition of Security BSides in Israel, BSidesTLV 2022, is returning during Tel Aviv University's Cyber Week (June 26th - June 30th, 2022).
 
 BSidesTLV will take place on Thursday, June 30th, 2022, from 10:00 am until 19:00 pm, and (depending on COVID) might even be followed by our traditional after-party.
@@ -76,3 +78,6 @@ More details can be found at [http://confcodeofconduct.com/][coc-url]
 [Smolarz-map]: https://www.google.com/maps/place/Tel+Aviv+University+Smolarz+Auditorium/@32.1103563,34.8042639,15z/data=!4m5!3m4!1s0x0:0x57e1b1e76143c7f7!8m2!3d32.1103563!4d34.8042639
 [cyberweek]: https://cyberweek.tau.ac.il/
 [coc-url]: http://confcodeofconduct.com/
+
+
+{{% /hero %}}
