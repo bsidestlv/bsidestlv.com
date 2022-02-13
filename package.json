@@ -12,7 +12,7 @@
     "build:styles": "node tools/styles.js",
     "build:scripts": "node tools/scripts.js",
     "build:minify": "node tools/minify.js",
-    "build:talks": "node tools/talks.js",
+    "build:talks": "echo ARCHIVED TALKS #node tools/talks.js",
     "build:site": "hugo --minify --gc",
     "build": "run-s build:*",
     "start": "hugo server --bind=0.0.0.0"
