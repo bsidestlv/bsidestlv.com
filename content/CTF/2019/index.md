@@ -5,6 +5,7 @@ brief: BSidesTLV Capture The Flag
 date: 2019-03-23
 draft: false
 ---
+
 {{% showlastmod %}}
 
 ## Hall of Fame
@@ -16,7 +17,7 @@ draft: false
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Honorable mention" />}}Adam D</div>
 </div>
 
-* JCTF Team
+- JCTF Team
   - YaakovCohen88
   - Schtrudel
   - Narcissus
@@ -59,4 +60,4 @@ Thank you `Dvd848` for the links!
 
 ## Resources
 
-you can find our winner anouncment [here](BSidesTLV-2019-CTF.pdf)
+you can find our winner anouncment [here](//static.bsidestlv.com/BSidesTLV-CTF-2019.pdf)

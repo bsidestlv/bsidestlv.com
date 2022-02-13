@@ -5,6 +5,7 @@ brief: BSidesTLV Capture The Flag
 date: 2020-01-23
 draft: false
 ---
+
 {{% showlastmod %}}
 
 <div class="row">
@@ -30,7 +31,7 @@ draft: false
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
 1. Team size is limited to 20
-1. Scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!). This means that you can still submit flags and get your points, but the scoreboard will not update - and only we will know who the final winners are :-) 
+1. Scoreboard will be frozen on the 29th, 18:00 (Israel time), new submissions are allowed, but will not be shown on the board (this is getting exciting!). This means that you can still submit flags and get your points, but the scoreboard will not update - and only we will know who the final winners are :-)
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
 1. We usually keep the challenges live for a couple more (~1 week) days after the event to enable write-ups
 
@@ -43,15 +44,14 @@ draft: false
 {{< button-link url="//slack.bsidestlv.com"
         label="Join Slack!"
     icon="slack"
-    target="_blank" >}} 
+    target="_blank" >}}
 
-
-#  Timetable
+# Timetable
 
 Full 48-hours
 
-* Start: June 28th 2020, 09:00 (Israel Time)
-* End:   June 30st 2020, 09:00 (Israel Time)
+- Start: June 28th 2020, 09:00 (Israel Time)
+- End: June 30st 2020, 09:00 (Israel Time)
 
 **Winner anouncement on July 2nd, during our event**
 
@@ -59,7 +59,7 @@ Full 48-hours
 
 You're invited to join our [Slack channel](https://slack.bsidestlv.com), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
-*please check this page for any updates prior to the competition*
+_please check this page for any updates prior to the competition_
 
 ---
 
@@ -71,7 +71,7 @@ No, you can register as a team of one member
 
 **Is the CTF aimed at beginners?**
 
-some of the challenges will be in beginner level, some on expert level. try solving from the lower scores working up 
+some of the challenges will be in beginner level, some on expert level. try solving from the lower scores working up
 
 **Are there binary exploitation challenges in the CTF?**
 
@@ -124,10 +124,10 @@ Yes, plan to release our entire repo
 
 ## Resources and WriteUps
 
-* [CTF Time](https://ctftime.org/event/1078)
-* [CTF Time Tasks](https://ctftime.org/event/1078/tasks/)
-* [JCTF Writeup](https://jctf.team/BSidesTLV-2020/)
-* [CTF Winner Anouncement](BSidesTLV-CTF-2020.pdf)
+- [CTF Time](https://ctftime.org/event/1078)
+- [CTF Time Tasks](https://ctftime.org/event/1078/tasks/)
+- [JCTF Writeup](https://jctf.team/BSidesTLV-2020/)
+- [CTF Winner Anouncement](//static.bsidestlv.com/BSidesTLV-CTF-2020.pdf)
 
 GitHub repository of the challenges source code: [https://github.com/bsidestlv/ctf20-public](https://github.com/bsidestlv/ctf20-public)
 

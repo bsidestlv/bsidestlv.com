@@ -5,7 +5,8 @@ brief: BSidesTLV Capture The Flag
 date: 2021-06-10
 draft: false
 ---
-*{{% showlastmod %}}*
+
+_{{% showlastmod %}}_
 
 <div class="row">
     <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2021.png" widths="540,720,960,1140" %}}</div>
@@ -19,6 +20,7 @@ draft: false
 
 Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there.
  -->
+
 ---
 
 ## Hall of Fame
@@ -35,8 +37,8 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 
 ## Resources and WriteUps
 
-* [JCTF](https://jctf.team/BSidesTLV-2021/)
-* [Maor A.](https://medium.com/@maora/bsidestlv-2021-ctf-are-you-kidding-me-challenge-writeup-51c81b30292)
+- [JCTF](https://jctf.team/BSidesTLV-2021/)
+- [Maor A.](https://medium.com/@maora/bsidestlv-2021-ctf-are-you-kidding-me-challenge-writeup-51c81b30292)
 
 ## Statistics
 
@@ -52,9 +54,10 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 
 68 Teams solved at least 1 challenge
 
-[Winner annoucements presentation](BSIDESTLV-2021-updated.pdf)
+[Winner annoucements presentation](//static.bsidestlv.com/BSidesTLV-CTF-2021.pdf)
 
 ---
+
 # Rules and Guidelines
 
 1. Remote participation is allowed (for all teams) this year
@@ -71,8 +74,7 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 {{< button-link url="//slack.bsidestlv.com"
         label="Join Slack!"
     icon="slack"
-    target="_blank" >}} 
-
+    target="_blank" >}}
 
 <!-- #  Timetable
 
@@ -87,7 +89,7 @@ Full 48-hours
 
 You're invited to join our [Slack channel](https://slack.bsidestlv.com), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
-*please check this page for any updates prior to the competition*
+_please check this page for any updates prior to the competition_
 
 ---
 
@@ -99,7 +101,7 @@ No, you can register as a team of one member
 
 **Is the CTF aimed at beginners?**
 
-some of the challenges will be in beginner level, some on expert level. try solving from the lower scores working up 
+some of the challenges will be in beginner level, some on expert level. try solving from the lower scores working up
 
 **Are there binary exploitation challenges in the CTF?**
 
