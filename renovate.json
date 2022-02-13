@@ -13,7 +13,6 @@
 	"semanticCommits": true,
 	"semanticCommitType": "build",
 	"separateMajorMinor": false,
-	"prConcurrentLimit": 3,
 	"timezone": "Asia/Jerusalem",
 	"rangeStrategy": "pin",
 	"packageRules": [{
