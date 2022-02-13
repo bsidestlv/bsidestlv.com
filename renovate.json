@@ -3,6 +3,7 @@
 		"schedule:nonOfficeHours",
 		"npm:unpublishSafe"
 	],
+	"baseBranches": ["master", "2021", "2020"],
 	"platformAutomerge": true,
 	"automerge": true,
 	"major": {
