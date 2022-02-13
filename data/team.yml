@@ -5,11 +5,15 @@
 
 - title: Guy Barnhart-Magen
   type: team
-  subtitle:
+  subtitle: Profero, founder and CTO | CTF lead
   key: guy_bm
   socials:
     - link: "https://twitter.com/barnhartguy"
       name: Twitter
+    - links: 'https://www.linkedin.com/in/guy-barnhart-magen/'
+      name: LinkedIn
+    - links: 'https://productsecurity.info'
+      name: Site
 
 - title: Inbar Raz
   type: team
