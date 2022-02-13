@@ -23,13 +23,9 @@ content:
       - nameKey: footer_coc
         url: /code-of-conduct/
         newTab: false
-#   - title: footer_previous_edition
-#     links:
-#       - name: BSidesTLV 2020
-#         url: https://2020.bsidestlv.com
-#         newTab: true
-#  - title: footer_become_partners
-#    links:
-#      - nameKey: Sponsor BSidesTLV?
-#        url: https://bsidestlv.com/sponsors
-#        newTab: true
+      - name: BSidesTLV 2021
+        url: https://2021.bsidestlv.com
+        newTab: true
+      - name: BSidesTLV 2020
+        url: https://2020.bsidestlv.com
+        newTab: true

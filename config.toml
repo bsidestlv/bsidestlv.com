@@ -1,6 +1,6 @@
 baseURL = "https://bsidestlv.com/"
 languageCode = "en"
-title = "BSidesTLV 2021"
+title = "BSidesTLV 2022"
 
 # Theme
 theme = "devfest-theme-hugo-2020"
@@ -15,8 +15,8 @@ googleAnalytics = "UA-171723556-1"
 enableGitInfo = true
 
 [params]
-    title = "BSidesTLV 2021"
-    date = "2021-07-22"
+    title = "BSidesTLV 2022"
+    date = "2022-06-30"
     description = "BSides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening."
     images = ["/images/social-share.jpg"]
     email = "info@bsidestlv.com"
