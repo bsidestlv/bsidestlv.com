@@ -35,7 +35,7 @@
     "rollup-plugin-terser": "7.0.2",
     "sass-mq": "6.0.0",
     "sharp": "0.28.3",
-    "terser": "5.7.1"
+    "terser": "5.10.0"
   },
   "dependencies": {}
 }
