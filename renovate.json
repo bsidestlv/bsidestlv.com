@@ -3,6 +3,7 @@
 		"schedule:nonOfficeHours",
 		"npm:unpublishSafe"
 	],
+	"baseBranches": ["master", "2021", "2020"],
 	"platformAutomerge": true,
 	"automerge": true,
 	"major": {
@@ -11,8 +12,8 @@
 	"masterIssue": true,
 	"semanticCommits": true,
 	"semanticCommitType": "build",
-	"separateMajorMinor": false,
 	"prConcurrentLimit": 3,
+	"separateMajorMinor": false,
 	"timezone": "Asia/Jerusalem",
 	"rangeStrategy": "pin",
 	"packageRules": [{
