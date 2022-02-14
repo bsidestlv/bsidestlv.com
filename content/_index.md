@@ -13,7 +13,7 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Participants:1200+ ,Years:5, Sessions:15+, CTF Challenges:10+" class="primary" %}}
+{{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
 ## When: Thursday, June 30 , 2022
 
@@ -23,8 +23,8 @@ Join us for the best security research community event in Israel, taking place i
 Our event will take place according to all Covid19 regulations and requirements.
 
 {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
-{{< button-link label="Call for sponsors" url="mailto:sponsors@bsidestlv.com?subject=We want to sponsor BSidesTLV 2022!" icon="cfp" >}}
-{{< button-link label="Call for volunteers" url="/volunteers" icon="cfp" >}}
+{{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}}
+{{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 &nbsp;
 &nbsp;
 
