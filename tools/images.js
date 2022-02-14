@@ -1,14 +1,14 @@
-const path = require('path');
-const { sync: glob } = require('glob');
-const sharp = require('sharp');
-const rimraf = require('rimraf');
-const { Logger, LogLevel, colorEmojiConfig } = require('plop-logger');
+const path = require("path");
+const { sync: glob } = require("glob");
+const sharp = require("sharp");
+const rimraf = require("rimraf");
+const { Logger, LogLevel, colorEmojiConfig } = require("plop-logger");
 
 Logger.config = colorEmojiConfig;
-const logger = Logger.getLogger('images');
+const logger = Logger.getLogger("images");
 logger.level = LogLevel.All;
 
-const failure = msg => err => {
+const failure = (msg) => (err) => {
   logger.error(msg);
   console.error(err);
 };
@@ -16,48 +16,56 @@ const failure = msg => err => {
 const baseWidths = [1140, 960, 720, 540];
 
 // Cleanup previous images
-const imgs = baseWidths.flatMap(width =>
-  ([`static/images/**/*-${width}.jpg`, `static/images/**/*-${width}.webp`])
-);
+const imgs = baseWidths.flatMap((width) => [
+  `static/images/**/*-${width}.jpg`,
+  `static/images/**/*-${width}.webp`,
+]);
 imgs.push(`static/images/*.webp`);
-imgs.forEach(files => {
+imgs.forEach((files) => {
   logger.info(`Cleanup previous images`, files);
   rimraf.sync(files);
 });
 
 // Resize and convert
 const imagesFiles = [
-  { files: `static/images/album/**/*.*`, format: 'webp' },
-  { files: `static/images/backgrounds/*.*`, format: 'webp' },
-  { files: `static/images/banners/*.*`, format: 'webp' },
-  { files: `static/images/blog/*.*`, format: 'webp' },
-  { files: `static/images/partners/**/*.png`, opt: { height: 180 }, format: 'webp' },
-  { files: `static/images/team/*.*`, opt: { width: 150 }, format: 'webp' },
-  { files: `static/images/ctf/*.*`, opt: { width: 150 }, format: 'webp' },
-  { files: `static/images/*.jpg`, format: 'webp' }
+  { files: `static/images/album/**/*.*`, format: "webp" },
+  { files: `static/images/backgrounds/*.*`, format: "webp" },
+  { files: `static/images/banners/*.*`, format: "webp" },
+  { files: `static/images/blog/*.*`, format: "webp" },
+  {
+    files: `static/images/partners/**/*.png`,
+    opt: { height: 180 },
+    format: "webp",
+  },
+  { files: `static/images/team/*.*`, opt: { width: 150 }, format: "webp" },
+  { files: `static/images/ctf/*.*`, opt: { width: 150 }, format: "webp" },
+  { files: `static/images/*.jpg`, format: "webp" },
 ];
 
-
 imagesFiles.forEach(({ files, opt, format }) => {
-  logger.info(`Deal with ${files}: format: ${format}, with ${opt ? JSON.stringify(opt) : ''}`);
-  glob(files)
-    .forEach(file => {
-      const { dir, name, ext } = path.parse(file);
-      if (ext.endsWith(format)) {
-        logger.debug(`Skip ${file}, already at format ${format}`);
-      } else {
-        const output = path.format({ dir, name, ext: '.' + format });
-        const msg = opt ? `resize ${file} with ${JSON.stringify(opt)}` : `convert ${file} to format ${format}`;
+  logger.info(
+    `Deal with ${files}: format: ${format}, with ${
+      opt ? JSON.stringify(opt) : ""
+    }`
+  );
+  glob(files).forEach((file) => {
+    const { dir, name, ext } = path.parse(file);
+    if (ext.endsWith(format)) {
+      logger.debug(`Skip ${file}, already at format ${format}`);
+    } else {
+      const output = path.format({ dir, name, ext: "." + format });
+      const msg = opt
+        ? `resize ${file} with ${JSON.stringify(opt)}`
+        : `convert ${file} to format ${format}`;
 
-        const src = opt ? sharp(file).resize(opt) : sharp(file);
-        src.toFile(output)
-          .catch(failure(`Fail to ${msg}`))
-          .then(() => logger.info(msg, '[OK]'));
-      }
-
-    });
+      const src = opt ? sharp(file).resize(opt) : sharp(file);
+      src
+        .toFile(output)
+        .catch(failure(`Fail to ${msg}`))
+        .then(() => logger.info(msg, "[OK]"));
+    }
+  });
 });
-
 
 // Create alternative image in different resolutions
 const imagesAltFiles = [
@@ -65,73 +73,71 @@ const imagesAltFiles = [
   `static/images/banners/*.*`,
 ];
 
-imagesAltFiles.forEach(files => {
+imagesAltFiles.forEach((files) => {
   logger.info(`Deal with ${files} and widths: ${baseWidths}`);
-  glob(files)
-    .forEach(file => {
-      const { dir, name } = path.parse(file);
+  glob(files).forEach((file) => {
+    const { dir, name } = path.parse(file);
 
-      baseWidths.forEach(width => {
-        const output = path.format({ dir, name: `${name}-${width}`, ext: `.webp` });
-
-        sharp(file).resize({ width })
-          .toFile(output)
-          .catch(failure(`Fail to generate ${output}`))
-          .then(() => logger.info(`Generate ${output}`, '[OK]'));
+    baseWidths.forEach((width) => {
+      const output = path.format({
+        dir,
+        name: `${name}-${width}`,
+        ext: `.webp`,
       });
 
+      sharp(file)
+        .resize({ width })
+        .toFile(output)
+        .catch(failure(`Fail to generate ${output}`))
+        .then(() => logger.info(`Generate ${output}`, "[OK]"));
     });
+  });
 });
 
 // Background in JPG
-glob(`static/images/backgrounds/*.jpg`)
-  .forEach(file => {
-    const { dir, name, ext } = path.parse(file);
-    baseWidths.forEach(width => {
-      const output = path.format({ dir, name: `${name}-${width}`, ext });
-      sharp(file)
-        .resize({ width: width })
-        .toFile(output)
-        .catch(failure(`Fail to generate ${output}`))
-        .then(() => logger.info(`Generate ${output}`, '[OK]'));
-    });
+glob(`static/images/backgrounds/*.jpg`).forEach((file) => {
+  const { dir, name, ext } = path.parse(file);
+  baseWidths.forEach((width) => {
+    const output = path.format({ dir, name: `${name}-${width}`, ext });
+    sharp(file)
+      .resize({ width: width })
+      .toFile(output)
+      .catch(failure(`Fail to generate ${output}`))
+      .then(() => logger.info(`Generate ${output}`, "[OK]"));
+  });
+});
+
+glob(`static/images/blog/*.*`).forEach((file) => {
+  const ext = ".webp";
+  const { dir, name, ext: baseExt } = path.parse(file);
+  baseWidths.forEach((width) => {
+    const output = path.format({ dir, name: `${name}-${width}`, ext });
+    sharp(file)
+      .resize({ width: width })
+      .toFile(output)
+      .catch(failure(`Fail to generate ${output}`))
+      .then(() => logger.info(`Generate ${output}`, "[OK]"));
   });
 
-glob(`static/images/blog/*.*`)
-  .forEach(file => {
-    const ext = '.webp';
-    const { dir, name, ext: baseExt } = path.parse(file);
-    baseWidths.forEach(width => {
-      const output = path.format({ dir, name: `${name}-${width}`, ext });
-      sharp(file)
-        .resize({ width: width })
-        .toFile(output)
-        .catch(failure(`Fail to generate ${output}`))
-        .then(() => logger.info(`Generate ${output}`, '[OK]'));
-    });
-
-    [ext, baseExt].forEach(ext => {
-      const output = path.format({ dir, name: `${name}-mini`, ext });
-      sharp(file)
-        .resize({ width: 256 })
-        .toFile(output)
-        .catch(failure(`Fail to generate ${output}`))
-        .then(() => logger.info(`Generate ${output}`, '[OK]'));
-    });
-
+  [ext, baseExt].forEach((ext) => {
+    const output = path.format({ dir, name: `${name}-mini`, ext });
+    sharp(file)
+      .resize({ width: 256 })
+      .toFile(output)
+      .catch(failure(`Fail to generate ${output}`))
+      .then(() => logger.info(`Generate ${output}`, "[OK]"));
   });
+});
 
 // Albums
-glob(`static/images/album/**/*.jpg`)
-  .forEach(file => {
-    const { dir, name } = path.parse(file);
-    baseWidths.forEach(width => {
-      const output = path.format({ dir, name: `${name}-${width}`, ext: `.webp` });
-      sharp(file)
-        .resize({ width: width / 5 * 2 }) // half
-        .toFile(output)
-        .catch(failure(`Fail to generate ${output}`))
-        .then(() => logger.info(`Generate ${output}`, '[OK]'));
-    });
+glob(`static/images/album/**/*.jpg`).forEach((file) => {
+  const { dir, name } = path.parse(file);
+  baseWidths.forEach((width) => {
+    const output = path.format({ dir, name: `${name}-${width}`, ext: `.webp` });
+    sharp(file)
+      .resize({ width: (width / 5) * 2 }) // half
+      .toFile(output)
+      .catch(failure(`Fail to generate ${output}`))
+      .then(() => logger.info(`Generate ${output}`, "[OK]"));
   });
-
+});
