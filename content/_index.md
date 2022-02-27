@@ -19,7 +19,7 @@ menu:
 
 ## Where: Tel Aviv University, Smolartz auditorium, Israel
 
-Join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).  Join us in person or watch the live stream!
+Join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/). Join us in person or watch the live stream!
 Our event will take place according to all Covid19 regulations and requirements.
 
 {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
