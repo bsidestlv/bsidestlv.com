@@ -49,7 +49,7 @@ Our event will take place according to all Covid19 regulations and requirements.
 ### Some pictures of **BSidesTLV 2021**
 
     {{< button-link
-      url="//photos.app.goo.gl/cE73GpZZjVFaevzW6"
+      url="//photos.app.goo.gl/SZe2i1wxgk1tXDHm7"
       label="See all photos"
       icon="right" >}}
 
