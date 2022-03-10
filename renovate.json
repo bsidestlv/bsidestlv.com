@@ -11,7 +11,7 @@
 	"masterIssue": true,
 	"semanticCommits": true,
 	"semanticCommitType": "build",
-	"prConcurrentLimit": 3,
+	"prConcurrentLimit": 10,
 	"separateMajorMinor": false,
 	"timezone": "Asia/Jerusalem",
 	"rangeStrategy": "pin",
