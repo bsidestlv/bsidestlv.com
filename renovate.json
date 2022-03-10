@@ -1,6 +1,5 @@
 {
 	"extends": [
-		"schedule:nonOfficeHours",
 		"npm:unpublishSafe"
 	],
 	"baseBranches": ["master", "2021", "2020"],
@@ -12,7 +11,7 @@
 	"masterIssue": true,
 	"semanticCommits": true,
 	"semanticCommitType": "build",
-	"prConcurrentLimit": 10,
+	"prConcurrentLimit": 3,
 	"separateMajorMinor": false,
 	"timezone": "Asia/Jerusalem",
 	"rangeStrategy": "pin",
