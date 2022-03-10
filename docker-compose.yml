@@ -3,7 +3,7 @@ version: '3'
 services:
   hugo:
     container_name: hugo
-    image: peaceiris/hugo:v0.92.2
+    image: peaceiris/hugo:v0.93.3
     ports:
       - 1313:1313
     volumes:
