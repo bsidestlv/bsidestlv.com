@@ -48,6 +48,9 @@ The 10min slot depends on a minimum number of Lightning Talk applicants.
 - Live DEMO of something awesome
 - Anything else Hacking related - try us!
 
+{{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
+
+
 #### Important BSidesTLV 2022 dates:
 
 - February 15th, 2022 - CFP open
