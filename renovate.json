@@ -1,6 +1,7 @@
 {
 	"extends": [
-		"npm:unpublishSafe"
+		"npm:unpublishSafe",
+		"schedule:monthly"
 	],
 	"baseBranches": ["master", "2021", "2020"],
 	"platformAutomerge": true,
