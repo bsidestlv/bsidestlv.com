@@ -122,7 +122,63 @@
     - link: "https://github.com/realgam3"
       name: Github
 
-- title: Roei Sherman
+- title: Roei Sherman1
+  type: cfp
+  subtitle: Not how many, but where.
+  key: RS
+  socials:
+    - link: "https://twitter.com/x_Freed0m"
+      name: Twitter
+    - link: "http://betheadversary.com/"
+      name: Site
+    - link: "https://www.linkedin.com/in/freed0m/"
+      name: LinkedIn
+    - link: "https://github.com/xfreed0m"
+      name: Github
+      
+- title: Roei Sherman2
+  type: cfp
+  subtitle: Not how many, but where.
+  key: RS
+  socials:
+    - link: "https://twitter.com/x_Freed0m"
+      name: Twitter
+    - link: "http://betheadversary.com/"
+      name: Site
+    - link: "https://www.linkedin.com/in/freed0m/"
+      name: LinkedIn
+    - link: "https://github.com/xfreed0m"
+      name: Github
+      
+- title: Roei Sherman3
+  type: cfp
+  subtitle: Not how many, but where.
+  key: RS
+  socials:
+    - link: "https://twitter.com/x_Freed0m"
+      name: Twitter
+    - link: "http://betheadversary.com/"
+      name: Site
+    - link: "https://www.linkedin.com/in/freed0m/"
+      name: LinkedIn
+    - link: "https://github.com/xfreed0m"
+      name: Github
+      
+- title: Roei Sherman4
+  type: cfp
+  subtitle: Not how many, but where.
+  key: RS
+  socials:
+    - link: "https://twitter.com/x_Freed0m"
+      name: Twitter
+    - link: "http://betheadversary.com/"
+      name: Site
+    - link: "https://www.linkedin.com/in/freed0m/"
+      name: LinkedIn
+    - link: "https://github.com/xfreed0m"
+      name: Github
+      
+- title: Roei Sherman5
   type: cfp
   subtitle: Not how many, but where.
   key: RS
