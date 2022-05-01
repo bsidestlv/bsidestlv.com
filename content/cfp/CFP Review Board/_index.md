@@ -3,7 +3,7 @@ title: CFP Review Board
 type: cfp
 menu:
   main:
-    weight: 55
+    weight: 35
 
 draft: false
 

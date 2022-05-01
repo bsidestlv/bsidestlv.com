@@ -122,72 +122,87 @@
     - link: "https://github.com/realgam3"
       name: Github
 
-- title: Roei Sherman1
+- title: Limor Kessem
   type: cfp
-  subtitle: Not how many, but where.
-  key: RS
+  subtitle: 
+  key: limor_kessem
   socials:
-    - link: "https://twitter.com/x_Freed0m"
+    - link: ""
       name: Twitter
-    - link: "http://betheadversary.com/"
+    - link: ""
       name: Site
-    - link: "https://www.linkedin.com/in/freed0m/"
+    - link: ""
       name: LinkedIn
-    - link: "https://github.com/xfreed0m"
+    - link: ""
       name: Github
       
-- title: Roei Sherman2
+- title: Amit Serper
   type: cfp
-  subtitle: Not how many, but where.
-  key: RS
+  subtitle: 
+  key: amit_serper
   socials:
-    - link: "https://twitter.com/x_Freed0m"
+    - link: ""
       name: Twitter
-    - link: "http://betheadversary.com/"
+    - link: ""
       name: Site
-    - link: "https://www.linkedin.com/in/freed0m/"
+    - link: ""
       name: LinkedIn
-    - link: "https://github.com/xfreed0m"
+    - link: ""
+      name: Github
+
+- title: Ophir Harpaz
+  type: cfp
+  subtitle: 
+  key: ophir_harpaz
+  socials:
+    - link: ""
+      name: Twitter
+    - link: ""
+      name: Site
+    - link: ""
+      name: LinkedIn
+    - link: ""
+      name: Github
+
+- title: Ohad Zaidenberg
+  type: cfp
+  subtitle: 
+  key: ohad_zaidenberg
+  socials:
+    - link: ""
+      name: Twitter
+    - link: ""
+      name: Site
+    - link: ""
+      name: LinkedIn
+    - link: ""
       name: Github
       
-- title: Roei Sherman3
+- title: Omri Segev Moyal
   type: cfp
-  subtitle: Not how many, but where.
-  key: RS
+  subtitle: 
+  key: omri_segev_moyal
   socials:
-    - link: "https://twitter.com/x_Freed0m"
+    - link: ""
       name: Twitter
-    - link: "http://betheadversary.com/"
+    - link: ""
       name: Site
-    - link: "https://www.linkedin.com/in/freed0m/"
+    - link: ""
       name: LinkedIn
-    - link: "https://github.com/xfreed0m"
+    - link: ""
       name: Github
-      
-- title: Roei Sherman4
+                  
+- title: Gadi Evron
   type: cfp
-  subtitle: Not how many, but where.
-  key: RS
+  subtitle: 
+  key: gadi_evron
   socials:
-    - link: "https://twitter.com/x_Freed0m"
+    - link: ""
       name: Twitter
-    - link: "http://betheadversary.com/"
+    - link: ""
       name: Site
-    - link: "https://www.linkedin.com/in/freed0m/"
+    - link: ""
       name: LinkedIn
-    - link: "https://github.com/xfreed0m"
+    - link: ""
       name: Github
-      
-- title: Roei Sherman5
-  type: cfp
-  subtitle: Not how many, but where.
-  key: RS
-  socials:
-    - link: "https://twitter.com/x_Freed0m"
-      name: Twitter
-    - link: "http://betheadversary.com/"
-      name: Site
-    - link: "https://www.linkedin.com/in/freed0m/"
-      name: LinkedIn
-    - link: "https://github.com/xfreed0m"
-      name: Github
+                        
