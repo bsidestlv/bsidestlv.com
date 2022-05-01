@@ -64,7 +64,7 @@
       name: Facebook
 
 - title: Roei Sherman
-  type: team, cfp
+  type: team
   subtitle: Not how many, but where.
   key: RS
   socials:
@@ -120,4 +120,18 @@
     - link: "https://www.linkedin.com/in/realgam3"
       name: LinkedIn
     - link: "https://github.com/realgam3"
+      name: Github
+
+- title: Roei Sherman
+  type: cfp
+  subtitle: Not how many, but where.
+  key: RS
+  socials:
+    - link: "https://twitter.com/x_Freed0m"
+      name: Twitter
+    - link: "http://betheadversary.com/"
+      name: Site
+    - link: "https://www.linkedin.com/in/freed0m/"
+      name: LinkedIn
+    - link: "https://github.com/xfreed0m"
       name: Github
