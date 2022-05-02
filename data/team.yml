@@ -124,15 +124,17 @@
 
 - title: Limor Kessem
   type: cfp
-  subtitle: 
+  subtitle:
   key: limor_kessem
   socials:
     - link: "https://www.linkedin.com/in/limor-sylvie-kessem/"
       name: LinkedIn
-      
+    - link: "https://twitter.com/iCyberFighter"
+      name: Twitter
+
 - title: Amit Serper
   type: cfp
-  subtitle: 
+  subtitle:
   key: amit_serper
   socials:
     - link: "https://www.linkedin.com/in/aserper/"
@@ -140,7 +142,7 @@
 
 - title: Ophir Harpaz
   type: cfp
-  subtitle: 
+  subtitle:
   key: ophir_harpaz
   socials:
     - link: "https://www.linkedin.com/in/ophir-harpaz/"
@@ -148,25 +150,24 @@
 
 - title: Ohad Zaidenberg
   type: cfp
-  subtitle: 
+  subtitle:
   key: ohad_zaidenberg
   socials:
     - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
       name: LinkedIn
-      
+
 - title: Omri Segev Moyal
   type: cfp
-  subtitle: 
+  subtitle:
   key: omri_segev_moyal
   socials:
     - link: "https://www.linkedin.com/in/omrimoyal/"
       name: LinkedIn
-                  
+
 - title: Gadi Evron
   type: cfp
-  subtitle: 
+  subtitle:
   key: gadi_evron
   socials:
     - link: "https://www.linkedin.com/in/gadievron"
       name: LinkedIn
-                        
