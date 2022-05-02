@@ -9,6 +9,9 @@ menu:
 BSidesTLV 2022 Call for Papers
 {{%/ hero %}}
 
+## Our CFP Review board
+Our amazing CFP Review board members can be found [here](https://bsidestlv.com/cfp/cfp-review-board/).
+
 ## When: Thursday, June 30 , 2022
 
 The 2022 edition of Security BSides in Israel, BSidesTLV 2022, is returning during Tel Aviv University's Cyber Week (June 26th - June 30th, 2022).
