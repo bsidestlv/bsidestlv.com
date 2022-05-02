@@ -127,82 +127,46 @@
   subtitle: 
   key: limor_kessem
   socials:
-    - link: ""
-      name: Twitter
-    - link: ""
-      name: Site
-    - link: ""
+    - link: "https://www.linkedin.com/in/limor-sylvie-kessem/"
       name: LinkedIn
-    - link: ""
-      name: Github
       
 - title: Amit Serper
   type: cfp
   subtitle: 
   key: amit_serper
   socials:
-    - link: ""
-      name: Twitter
-    - link: ""
-      name: Site
-    - link: ""
+    - link: "https://www.linkedin.com/in/aserper/"
       name: LinkedIn
-    - link: ""
-      name: Github
 
 - title: Ophir Harpaz
   type: cfp
   subtitle: 
   key: ophir_harpaz
   socials:
-    - link: ""
-      name: Twitter
-    - link: ""
-      name: Site
-    - link: ""
+    - link: "https://www.linkedin.com/in/ophir-harpaz/"
       name: LinkedIn
-    - link: ""
-      name: Github
 
 - title: Ohad Zaidenberg
   type: cfp
   subtitle: 
   key: ohad_zaidenberg
   socials:
-    - link: ""
-      name: Twitter
-    - link: ""
-      name: Site
-    - link: ""
+    - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
       name: LinkedIn
-    - link: ""
-      name: Github
       
 - title: Omri Segev Moyal
   type: cfp
   subtitle: 
   key: omri_segev_moyal
   socials:
-    - link: ""
-      name: Twitter
-    - link: ""
-      name: Site
-    - link: ""
+    - link: "https://www.linkedin.com/in/omrimoyal/"
       name: LinkedIn
-    - link: ""
-      name: Github
                   
 - title: Gadi Evron
   type: cfp
   subtitle: 
   key: gadi_evron
   socials:
-    - link: ""
-      name: Twitter
-    - link: ""
-      name: Site
-    - link: ""
+    - link: "https://www.linkedin.com/in/gadievron"
       name: LinkedIn
-    - link: ""
-      name: Github
                         
