@@ -1,9 +1,9 @@
 ---
 title: CFP Review Board
 type: cfp
-menu:
-  main:
-    weight: 35
+#menu:
+#  main:
+#    weight: 35
 
 draft: false
 
