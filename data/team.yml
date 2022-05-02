@@ -159,10 +159,12 @@
 - title: Omri Segev Moyal
   type: cfp
   subtitle:
-  key: you
+  key: omri_segev_moyal
   socials:
     - link: "https://www.linkedin.com/in/omrimoyal/"
       name: LinkedIn
+    - link: "https://twitter.com/gelossnake"
+      name: Twitter
 
 - title: Gadi Evron
   type: cfp
