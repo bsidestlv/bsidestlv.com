@@ -12,7 +12,6 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
-themes/devfest-theme-hugo
 
 /resources/
 public/

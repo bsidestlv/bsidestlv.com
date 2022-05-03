@@ -14,13 +14,18 @@
 @import "themes/devfest-theme-hugo-2020/src/styles/partials/hero";
 
 @import "themes/devfest-theme-hugo-2020/src/styles/pages/team";
+@import "themes/devfest-theme-hugo-2020/src/styles/pages/cfp";
+
 
 // Custom CSS
 @import "partials/partners";
 @import "bsidestlv";
+@import "cfp";
 
 .members-cfp {
-  display: none;
+  display: none > li {
+  align-items: center;
+  max-width: 350px;
 }
 
 .section.team ul.members > li {
