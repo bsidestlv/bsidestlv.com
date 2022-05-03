@@ -150,11 +150,13 @@
 
 - title: Ohad Zaidenberg
   type: cfp
-  subtitle:
-  key: you
+  subtitle: Strategic Threat Intelligence Leader | CTI Researcher
+  key: ohad_zaidenberg
   socials:
     - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
       name: LinkedIn
+    - link: "https://twitter.com/ohad_mz"
+      name: Twitter
 
 - title: Omri Segev Moyal
   type: cfp
