@@ -15,8 +15,6 @@ BSidesTLV awesome CFP review board members.
 
 {{% /hero %}}
 
-## Our CFP Review board
-
 {{< teams types="cfp=CFP" >}}
 
 <!-- ...
