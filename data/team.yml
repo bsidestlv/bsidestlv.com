@@ -10,9 +10,9 @@
   socials:
     - link: "https://twitter.com/barnhartguy"
       name: Twitter
-    - links: "https://www.linkedin.com/in/guy-barnhart-magen/"
+    - link: "https://www.linkedin.com/in/guy-barnhart-magen"
       name: LinkedIn
-    - links: "https://productsecurity.info"
+    - link: "https://productsecurity.info"
       name: Site
 
 - title: Inbar Raz
