@@ -1,0 +1,14 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $site := .Site }}
+{{ range (split (.Get "types") ",") }}
+{{ $typeLabel := (split . "=") }}
+{{ $type := (index $typeLabel 0) }}
+{{ $label := (index $typeLabel 1) }}
+<section class="members members-{{ $type }}">
+	<h2 id={{ replace $label " " "" | lower}}>{{ $label }}</h2>
+	<ul class="members shuffle">
+		{{ range where $site.Data.team "type" $type }} <li class="team-{{ .key }}">{{ partial "team.html" . }}</li>
+		{{ end }}
+	</ul>
+</section>
+{{ end }}

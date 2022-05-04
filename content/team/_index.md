@@ -6,7 +6,6 @@ menu:
     weight: 60
 
 draft: false
-
 ---
 
 {{% hero %}}
@@ -17,7 +16,7 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 {{% /hero %}}
 
-{{< teams types="team=BSidesTLV Team" >}}
+{{< teams types="team=BSidesTLV Team,cfpboard=CFP Review Board" >}}
 
 <!-- ...
 

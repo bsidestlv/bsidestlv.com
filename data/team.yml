@@ -123,7 +123,7 @@
       name: Github
 
 - title: Limor Kessem
-  type: cfp
+  type: cfpboard
   subtitle:
   key: limor_kessem
   socials:
@@ -133,23 +133,23 @@
       name: Twitter
 
 - title: Amit Serper
-  type: cfp
+  type: cfpboard
   subtitle:
-  key: you
+  key: amit_serper
   socials:
     - link: "https://www.linkedin.com/in/aserper/"
       name: LinkedIn
 
 - title: Ophir Harpaz
-  type: cfp
+  type: cfpboard
   subtitle:
-  key: you
+  key: ophir_harpaz
   socials:
     - link: "https://www.linkedin.com/in/ophir-harpaz/"
       name: LinkedIn
 
 - title: Ohad Zaidenberg
-  type: cfp
+  type: cfpboard
   subtitle: Strategic Threat Intelligence Leader | CTI Researcher
   key: ohad_zaidenberg
   socials:
@@ -159,7 +159,7 @@
       name: Twitter
 
 - title: Omri Segev Moyal
-  type: cfp
+  type: cfpboard
   subtitle:
   key: omri_segev_moyal
   socials:
@@ -169,9 +169,9 @@
       name: Twitter
 
 - title: Gadi Evron
-  type: cfp
+  type: cfpboard
   subtitle:
-  key: you
+  key: gadi_evron
   socials:
     - link: "https://www.linkedin.com/in/gadievron"
       name: LinkedIn
