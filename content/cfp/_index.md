@@ -57,8 +57,8 @@ The 10min slot depends on a minimum number of Lightning Talk applicants.
 
 - February 15th, 2022 - CFP opens
 - April 30th at 23:59:59 - CFP closes
-- May 10th, 2022 - Accepted talks notified
-- May 15th, 2022 - Agenda announced to the public with final talk title & abstract
+- May 20th, 2022 - Accepted talks notified
+- June 1st, 2022 - Agenda announced to the public with final talk title & abstract
 - June 15th, 2022 - Presentation/slides due for review
 - June 29th, 2022 - Speakers' dinner (in the event of a physical-presence conference)
 - June 30th, 2022 - BSidesTLV and after-party (in the event of a physical-presence conference)!
