@@ -38,11 +38,11 @@ Our event will take place according to all Covid19 regulations and requirements.
 
 {{% /home-subscribe %}}
 
-<!-- {{% partners categories="" %}}
+{{% partners categories="platinum,gold,silver,bronze,partners" %}}
 
 ## Our Sponsors
 
-{{% /partners %}} -->
+{{% /partners %}}
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
