@@ -2,8 +2,8 @@
 key: cymotive
 title: Cymotive
 category: silver
-website: 'https://www.cymotive.com/join-the-team/'
+website: 'https://www.cymotive.com/'
 socials: []
 ---
 
-Check out Cymotive @ https://www.cymotive.com/join-the-team/
+Check out Cymotiv @ https://www.cymotive.com/

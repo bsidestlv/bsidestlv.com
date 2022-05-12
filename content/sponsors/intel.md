@@ -1,7 +1,7 @@
 ---
 key: intel
 title: Intel
-category: silver
+category: gold
 website: 'https://www.intel.com/content/www/us/en/security/hardware/hardware-security-overview.html'
 socials: []
 ---

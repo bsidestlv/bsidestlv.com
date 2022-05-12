@@ -1,7 +1,7 @@
 ---
 key: moonactive
 title: Moonactive
-category: gold
+category: silver
 website: 'https://www.moonactive.com/'
 socials: []
 ---
