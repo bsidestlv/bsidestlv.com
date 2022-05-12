@@ -1,6 +1,6 @@
 ---
-key: cymotiv
-title: Cymotiv
+key: cymotive
+title: Cymotive
 category: silver
 website: 'https://www.cymotive.com/'
 socials: []
