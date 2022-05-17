@@ -41,7 +41,7 @@ Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to 
 Full 48-hours
 
 * Start: June 27th 2022, 09:00am (Israel Time)
-* End:   July 29st 2022, 09:00am (Israel Time)
+* End:   June 29st 2022, 09:00am (Israel Time)
 
 **Winner announcement on June 30th, during our event**
 
