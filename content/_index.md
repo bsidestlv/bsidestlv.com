@@ -21,8 +21,13 @@ menu:
 
 Join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/). Join us in person or watch the live stream!
 Our event will take place according to all Covid19 regulations and requirements.
+Welcome to the Jungle! Cyberspace is a dangerous world these days, with sneaky adversaries in our supply chains and dangerous monsters hiding in the cloud. So keep calm, stay vigilant and join us for the best security research community event in Israel, taking place during Tel Aviv University’s Cyber Week. Join us in person or watch the live stream!
 
-{{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
+# BsidesTLV registration will open in June - Be the first to know!
+Sign up to our newsletter to receive a notification when registration opens
+{{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
+Our event will take place according to all Covid19 regulations and requirements.
+<!-- {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}} -->
 {{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}}
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 &nbsp;
