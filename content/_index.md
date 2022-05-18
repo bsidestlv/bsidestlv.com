@@ -19,7 +19,7 @@ menu:
 
 ## Where: Tel Aviv University, Smolartz auditorium, Israel
 
-Welcome to the Jungle! Cyberspace is a dangerous world these days, with sneaky adversaries in our supply chains and dangerous monsters hiding in the cloud. So keep calm, stay vigilant and join us for the best security research community event in Israel, taking place during Tel Aviv University’s Cyber Week.
+Welcome to the Jungle! Cyberspace is a dangerous world these days, with sneaky adversaries in our supply chains and dangerous monsters hiding in the cloud. So keep calm, stay vigilant and join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
 
 Join us in person or watch the live stream!
 Our event will take place according to all Covid19 regulations and requirements.
