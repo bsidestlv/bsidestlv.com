@@ -18,7 +18,6 @@ public/
 node_modules/
 .firebase/
 .idea/
-.vscode/
 yarn-error.log
 
 
