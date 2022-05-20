@@ -39,7 +39,7 @@ const imagesFiles = [
   },
   { files: `static/images/team/*.*`, opt: { width: 150 }, format: "webp" },
   { files: `static/images/ctf/*.*`, opt: { width: 150 }, format: "webp" },
-  { files: `static/images/*.j pg`, format: "webp" },
+  { files: `static/images/*.jpg`, format: "webp" },
 ];
 
 imagesFiles.forEach(({ files, opt, format }) => {
