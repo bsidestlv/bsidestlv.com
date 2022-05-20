@@ -2,37 +2,19 @@
 
 <section class="content">
 	{{ .Content }}
-</section>
 
-<section class="col-lg-offset-3 col-lg-6 zebra">
-	<div class="row thead">
-		<div class="col-xs-4 col-sm-3 col-md-2">
-			<h1>Time</h1>
-			<h1 class="visible-xs">/Speaker</h1>
+	<script type="text/javascript" src="https://cfp.bsidestlv.com/bsidestlv-2022/schedule/widget/v2.en.js"></script>
+	<pretalx-schedule event-url="https://cfp.bsidestlv.com/bsidestlv-2022/" locale="en"
+		style="--pretalx-clr-primary: #3aa57c">
+	</pretalx-schedule>
+	<noscript>
+		<div class="pretalx-widget">
+			<div class="pretalx-widget-info-message">
+				JavaScript is disabled in your browser. To access our schedule without JavaScript,
+				please <a target="_blank" href="https://cfp.bsidestlv.com/bsidestlv-2022/schedule/">click here</a>.
+			</div>
 		</div>
-		<div class="col-xs-4 col-sm-3 col-md-4 hidden-xs">
-			<h1>Speaker</h1>
-		</div>
-		<div class="col-xs-8 col-sm-6 col-md">
-			<h1>Session</h1>
-		</div>
-	</div>
-	{{ range sort .Pages ".Date" }}
-	<div class="row tbody">
-		<div class="col-xs-12 col-sm-3 col-md-2">
-			{{ dateFormat "03:04" .Params.Start }}-{{ dateFormat "03:04 PM" .Params.End }}
-		</div>
-		<div class="col-xs-4  col-sm-3 col-md-4">
-			{{ range .Params.Speakers }}
-			{{ with site.GetPage path.Join "/speakers" . }}
-			<a href={{ .RelPermalink }}>{{ .Params.Name }}</a>
-			{{ end }}
-			{{ end }}
-		</div>
-		<div class="col-xs-8 col-sm"><a href={{ .RelPermalink }}>{{ .Title }}</a></div>
-	</div>
-	{{ end }}
-	</div>
+	</noscript>
 </section>
 
 {{ end }}

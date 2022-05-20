@@ -15,7 +15,7 @@
     "build:talks": "node tools/talks.js",
     "build:site": "hugo --minify --gc",
     "build": "run-s build:*",
-    "start": "hugo server --bind=0.0.0.0"
+    "start": "hugo server --bind=0.0.0.0 --buildFuture"
   },
   "devDependencies": {
     "@babel/core": "7.17.10",
