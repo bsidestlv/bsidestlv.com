@@ -11,11 +11,11 @@ RUN case $(uname -m) in \
     aarch64) \
     ARCH=ARM64 \
     ;; \
-    amd64) \
+    amd64 | x86_64) \
     ARCH=64bit \
     ;; \
     *) \
-    printf "%s is not a recognized architecture" >&2 \
+    printf "%s is not a recognized architecture" $(uname -m) >&2 \
     exit 1 \
     ;; \
     esac && \
