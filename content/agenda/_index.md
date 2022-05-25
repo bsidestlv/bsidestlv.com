@@ -7,8 +7,8 @@ menu:
 
 {{% hero %}}
 
-BSidesTLV will take place on **_June 30th, 2022_**, the event was alongside CyberWeek.
+BSidesTLV will take place on **_June 30th, 2022_**, the event is alongside CyberWeek.
 
-Stay tuned for our CFP announcment!
+This year we have 2 tracks!
 
 {{% /hero %}}
