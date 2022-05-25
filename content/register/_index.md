@@ -9,14 +9,14 @@ menu:
 
 We would like to thank you loyal sponsors for supporting our event this year!
 
-{{% partners categories="platinum,gold,silver,CTF,partners" %}}
+{{% partners categories="platinum,gold,silver,partners" %}}
 {{% /partners %}}
 
 ---
 
 ## COVID19 update
 
-While most of the COVID crisis is behind us, it is not entirely a distant memory. In order to best protect you - our participants - we have decided that while BSidesTLV 2021 will remain a physical, in-person event, we are going to limit the participance to those who have been vaccinated or have recovered. Proof of either will be required at the registration, in order to receive the bracelet and be granted access to the event.
+While most of the COVID crisis is behind us, it is not entirely a distant memory. In order to best protect you - our participants - we have decided that while BSidesTLV 2022 will remain a physical, in-person event, we are going to limit the participance to those who have been vaccinated or have recovered. Proof of either will be required at the registration, in order to receive the bracelet and be granted access to the event.
 
 If you are neither recovering nor vaccinated, for any reason, then you are more than welcome to watch the event online. If you have any questions or would like to reach out to us with regard to this matter, please do so at info@bsidestlv.com and we will be happy to answer.
 
@@ -28,7 +28,7 @@ But we are optimistic, as we believe all should be. 2020 has taught us a lot, an
 - Lobbycon has already started on the BSidesTLV Slack, {{< button-link url="https://slack.bsidestlv.com" label="Join our Slack!" icon="slack" >}}
 - Join our mailing list to be notified of any updates and future events {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
-## BSidesTLV 2022 - Welcome to the jungle!
+## BSidesTLV 2022 - Welcome to the jungle
 
 The time has come for us to go hybrid, gather together and share our knowledge!
 
@@ -50,4 +50,4 @@ Join us for a full day of the best security research content this side of the Me
  label="Join our Slack!"
  icon="slack" >}}
 
-Stay safe and see you soon! BSidesTLV 2021 team
+Stay safe and see you soon! BSidesTLV 2022 team
