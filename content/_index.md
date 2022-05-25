@@ -9,7 +9,7 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-# BSidesTLV 2022 - Save the Date!
+# BSidesTLV 2022 - Welcome to the Jungle!
 
 {{% /jumbo %}}
 
@@ -24,11 +24,12 @@ Welcome to the Jungle! Cyberspace is a dangerous world these days, with sneaky a
 Join us in person or watch the live stream!
 Our event will take place according to all Covid19 regulations and requirements.
 
-# BsidesTLV registration will open in June - Be the first to know!
+## BsidesTLV registration will open in June - Be the first to know
+
 Sign up to our newsletter to receive a notification when registration opens
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
-
+{{< button-link label="Register Here!" url="/register" icon="external" >}}
 <!-- {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}} -->
 {{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}}
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
