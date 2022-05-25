@@ -14,29 +14,29 @@ We would like to thank you loyal sponsors for supporting our event this year!
 
 ---
 
-## COVID19 update
+## BSidesTLV 2022 - Registration Now Open! 
 
-While most of the COVID crisis is behind us, it is not entirely a distant memory. In order to best protect you - our participants - we have decided that while BSidesTLV 2022 will remain a physical, in-person event, we are going to limit the participance to those who have been vaccinated or have recovered. Proof of either will be required at the registration, in order to receive the bracelet and be granted access to the event.
+The best security community conference in Israel is back on June 30, 2022!, 
+Registration is now open!
 
-If you are neither recovering nor vaccinated, for any reason, then you are more than welcome to watch the event online. If you have any questions or would like to reach out to us with regard to this matter, please do so at info@bsidestlv.com and we will be happy to answer.
 
-## The Details
+## BSidesTLV 2022 - 🌴🐯Welcome To The Jungle🌴🦁
 
-- When: Thursday, July 30th 2022 09:30-19:40 Israel (GMT+3)
-- Where: COVID-19 makes it so hard to make actual plans, who can tell what will be the situation in July?
-But we are optimistic, as we believe all should be. 2020 has taught us a lot, and we plan to learn from this and create an event which will enable us to enjoy both worlds, the virtual and the physical.
-- Lobbycon has already started on the BSidesTLV Slack, {{< button-link url="https://slack.bsidestlv.com" label="Join our Slack!" icon="slack" >}}
+Cyberspace has become a dangerous place, who is the hunter and how is the prey? Keep calm, Join our event and share your knowledge so we can all be safer in this digital jungle!
+
+- When: When: Thursday, July 30th 2022 08:30-19:00 Israel (GMT+3)
+- Where: [Smolarz Auditorium,  Tel Aviv University, Israel.](https://goo.gl/maps/empagm1x9NETBmkX7)
 - Join our mailing list to be notified of any updates and future events {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
-## BSidesTLV 2022 - Welcome to the jungle
-
-The time has come for us to go hybrid, gather together and share our knowledge!
 
 ## What to expect at BSidesTLV 2022?
 
-A hybrid event is a mix of both in-person talks and online experiences. Our selected speakers will present live, in-person and we will be live-streaming the entire day to all of our participants. We will also have prize-winning competitions, CTF winners announcements and of course, live Q&A with our speakers, as well as “lobbycon” chatrooms to give everyone space to socialize!
+Our selected speakers will present live, in-person and on stage! New this year,  We have 2 tracks with more content and speakers for our community- 
+Primary track: The Jungle track, located in Smolarz Main Auditorium. 
+2nd track: The Savannah track, located in Smolarz Foyer 2nd floor. 
 
-Join us for a full day of the best security research content this side of the Mediterranean, with cutting edge content, community talks, live demos and all of the fun and excitement you have come to expect from BsidesTLV! Join in for the live talks, chat with your friends and meet our sponsors who want to hire you.
+Our event features cutting edge security talks, deep dive technical sessions, live demos, cool workshops, CTF announcements and of course, all of the fun and excitement you have come to expect from BsidesTLV! Join in for the live talks, chat with your friends and meet our sponsors who want to hire you.
+
 
 ## Registration
 
