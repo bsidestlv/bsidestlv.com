@@ -4,6 +4,13 @@ menu:
   main:
     weight: 40
 ---
+## BSidesTLV 2022 - Registration Now Open! 
+
+The best security community conference in Israel is back on June 30, 2022!, 
+Registration is now open!
+
+---
+
 
 ## Our Sponsors
 
@@ -13,11 +20,6 @@ We would like to thank you loyal sponsors for supporting our event this year!
 {{% /partners %}}
 
 ---
-
-## BSidesTLV 2022 - Registration Now Open! 
-
-The best security community conference in Israel is back on June 30, 2022!, 
-Registration is now open!
 
 
 ## BSidesTLV 2022 - 🌴🐯Welcome To The Jungle🌴🦁
