@@ -23,13 +23,20 @@
 	<div class="description">
 
 		<ul class="talks">
-			<h2>Talks:</h2>
-			{{ range where .Site.RegularPages "Params.speakers" "intersect" (slice .Page.Params.key) }}
+			{{ $talks := where .Site.RegularPages "Params.speakers" "intersect" (slice .Page.Params.key) }}
+			{{ range $talks.GroupByParam "track"}}
 			<li>
-				<a href="{{ .Permalink }}" class="visually-hidden">{{ .Title }}</a>
-				<a href="{{ .Permalink }}" class="talk tag-{{ anchorize (delimit .Params.tags "" ) }}">
-					<h3 class="text">{{ .Title }}</h3>
-				</a>
+				<h2>Track {{ .Key }}</h2>
+				<ul>
+					{{ range .Pages }}
+					<li>
+						<a href="{{ .RelPermalink }}" class="visually-hidden">{{.Title }}</a>
+						<a href="{{ .RelPermalink }}" class="talk tag-{{ anchorize (delimit .Params.tags "" ) }}">
+							<h3 class="text">{{ .Title }}</h3>
+						</a>
+					</li>
+					{{ end }}
+				</ul>
 			</li>
 			{{ end }}
 		</ul>
@@ -44,9 +51,12 @@
 		<div class="speaker-company">{{ .Page.Params.company }}</div>
 	</header>
 
+	{{ with .Content }}
 	<div class="bio">
-		{{ .Content }}
+		Bio:
+		{{ . }}
 	</div>
+	{{ end }}
 
 </section>
 

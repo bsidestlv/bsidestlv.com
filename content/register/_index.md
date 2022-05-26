@@ -9,6 +9,7 @@ draft: true
 
 
 
+
 ## Our Sponsors
 We would like to thank you loyal sponsors for supporting our event this year!
 {{% partners categories="platinum,gold,silver,CTF,partners" %}}

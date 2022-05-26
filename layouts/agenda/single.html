@@ -3,6 +3,7 @@
 
 	<header class="tag-{{ anchorize (delimit .Params.tags "" ) }}">
 		<h1 class="text">{{ .Title }}</h1>
+		<h2>Track {{ .Params.Track }} </h2>
 		<h3>{{ .Date.Format "Mon, 02 Jan 2006 @ 15:04:05" }}</h3>
 	</header>
 
