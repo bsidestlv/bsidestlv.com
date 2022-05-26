@@ -4,7 +4,7 @@ menu:
   main:
     weight: 30
 ---
- 
+
 {{% hero %}}
 
 BSidesTLV 2022 will take place IN PERSON on June 30th, 2022 at Smolarz Auditorium, 
