@@ -119,7 +119,7 @@ cfpApi(`${baseurl}/speakers/`)
                 speakers:
                 ${session.speakers}
                 ---
-                ${session.description}`.replace(/                /g, "");
+                ${session.abstract}`.replace(/                /g, "");
         logger.info("Writing ", talk_name);
         writeFileSync(`content/agenda/${talk_name}.md`, md, { flag: "w" });
       }
