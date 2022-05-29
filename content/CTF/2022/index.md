@@ -5,17 +5,18 @@ brief: BSidesTLV Capture The Flag
 date: 2022-02-13
 draft: false
 ---
+
 <!-- *{{% showlastmod %}}* -->
 
-<!-- <div class="row">
-    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2021.png" widths="540,720,960,1140" %}}</div>
-</div> -->
+<div class="row">
+    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2022.png" widths="540,720,960,1140" %}}</div>
+</div>
 
 <!-- ---
 
 # Registration
 
-Please use the [CTF Website](https://ctf.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there. -->
+Please use the [CTF Website](https://ctf22.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there. -->
 
 <!-- --- -->
 
