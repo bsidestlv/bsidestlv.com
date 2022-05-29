@@ -52,7 +52,7 @@ Full 48-hours
 
 1. Remote participation is allowed (for all teams) this year
 1. We only allow physically present teams to claim a prize, make sure a member of your team is in the announcement ceremony!
-1. We will contact winners using the email registered at the [CTF Website](https://ctf.bsidestlv.com). Use an email you monitor.
+1. We will contact winners using the email registered at the [CTF Website](https://ctf22.bsidestlv.com). Use an email you monitor.
 1. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
