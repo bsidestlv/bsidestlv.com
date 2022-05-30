@@ -15,16 +15,22 @@ menu:
 
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
-## When: Thursday, June 30 , 2022
+## When: Thursday, June 30 , 2022, 08:30-18:30 + afterparty
 
 ## Where: Tel Aviv University, Smolartz auditorium, Israel
 
-Welcome to the Jungle! Cyberspace is a dangerous world these days, with sneaky adversaries in our supply chains and dangerous monsters hiding in the cloud. So keep calm, stay vigilant and join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
+🌴🐯Welcome To The Jungle🌴🦁 Cyberspace is a dangerous world these days, with sneaky adversaries in our supply chains and dangerous monsters hiding in the cloud. So keep calm, stay vigilant and join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
+Full agenda is here: https://bsidestlv.com/agenda/
 
-Join us in person or watch the live stream!
 Our event will take place according to all Covid19 regulations and requirements.
 
-## BsidesTLV registration will open in June - Be the first to know
+Join us in person or watch the live stream!
+
+## BsidesTLV registration is open!
+
+{{< button-link label="Register Here!" url="/register" icon="external" >}}
+
+Watching the event virtually?  Join our Slack!
 
 Sign up to our newsletter to receive a notification when registration opens
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
