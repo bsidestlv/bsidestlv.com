@@ -1,10 +1,10 @@
 ---
 title: Speakers
-# menu:
-#   main:
-#     weight: 40
+menu:
+  main:
+    weight: 40
 ---
 
 {{% hero %}}
-We are proud to present the speakers of BSidesTLV 2021 !
+We are proud to present the speakers of BSidesTLV 2022 !
 {{% /hero %}}

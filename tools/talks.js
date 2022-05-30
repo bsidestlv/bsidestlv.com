@@ -10,7 +10,6 @@ logger.level = LogLevel.All;
 const oldFiles = [
   `content/agenda/*.md`,
   `content/speakers/*.md`,
-  `content/schedule/*.md`,
 ];
 logger.info("Deleting old content from ", oldFiles);
 
@@ -105,6 +104,7 @@ cfpApi(`${baseurl}/speakers/`)
         start = session.slot.start;
         end = session.slot.end;
         duration = session.duration;
+        track = session.track.en;
         speakers = "";
         let md = `---
                 title: '${session.title.replace(/'/g, "''")}'
@@ -113,12 +113,13 @@ cfpApi(`${baseurl}/speakers/`)
                 start: ${start}
                 end: ${end}
                 duration: ${duration}
+                track: ${track}
                 tags:
                   - ${session.submission_type.en}
                 speakers:
                 ${session.speakers}
                 ---
-                ${session.description}`.replace(/                /g, "");
+                ${session.abstract}`.replace(/                /g, "");
         logger.info("Writing ", talk_name);
         writeFileSync(`content/agenda/${talk_name}.md`, md, { flag: "w" });
       }

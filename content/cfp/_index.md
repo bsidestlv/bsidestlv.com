@@ -1,8 +1,8 @@
 ---
-title: CFP
-menu:
-  main:
-    weight: 50
+#title: CFP
+#menu:
+#  main:
+#    weight: 50
 ---
 
 {{% hero %}}
