@@ -35,7 +35,7 @@ Keep calm, Join our event and share your knowledge so we can all be safer in thi
 ## Registration
 
 {{< button-link
- url="//tickets.bsidestlv.com/bsidestlv/bsidestlv/"
+ url="/register"
  label="Register Here!"
  icon="external" >}}
 
@@ -48,6 +48,7 @@ Keep calm, Join our event and share your knowledge so we can all be safer in thi
 ## What to expect at BSidesTLV 2022?
 
 Our selected speakers will present live, in-person and on stage! New this year,  We have 2 tracks with more content and speakers for our community - 
+
 Primary track: The Jungle track, located in Smolarz Main Auditorium. 
 2nd track: The Savannah track, located in Smolarz Foyer 2nd floor. 
 
