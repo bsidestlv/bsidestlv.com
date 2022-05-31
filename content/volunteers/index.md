@@ -11,7 +11,7 @@ draft: false
 
 ### Looking for a great opportunity to give back to our awesome community?
 
-<!-- * Sign-up as a BSidesTLV 2020 Volunteer at https://signup.com/go/XDcsMTY -->
+* [Sign-up as a BSidesTLV Volunteer](https://signup.com/client/invitation2/secure/1021981850041/false#/invitation)
 
 * Email us at volunteer@bsidestlv.com
 
