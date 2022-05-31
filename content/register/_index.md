@@ -36,7 +36,7 @@ Keep calm, Join our event and share your knowledge so we can all be safer in thi
 ## Registration
 
 {{< button-link
- url="/register"
+ url="https://tickets.bsidestlv.com/bsidestlv/bsidestlv/"
  label="Register Here!"
  icon="external" >}}
 
