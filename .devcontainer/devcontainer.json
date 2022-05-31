@@ -10,19 +10,20 @@
   },
   // Set *default* container specific settings.json values on container create.
   "settings": {
-    "terminal.integrated.profile.linux": "/bin/zsh"
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.defaultProfile.linux": "zsh"
   },
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
-	"bungcip.better-toml",
-	"christian-kohler.npm-intellisense",
-	"DavidAnson.vscode-markdownlint",
-	"dbaeumer.vscode-eslint",
-	"eg2.vscode-npm-script",
-	"ms-azuretools.vscode-docker",
-	"ms-vscode.sublime-keybindings",
-	"Tyriar.luna-paint"
-],
+    "bungcip.better-toml",
+    "christian-kohler.npm-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eg2.vscode-npm-script",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.sublime-keybindings",
+    "Tyriar.luna-paint"
+  ],
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [
     1313
