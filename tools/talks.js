@@ -58,7 +58,7 @@ cfpApi(`${baseurl}/speakers/`)
         socialUrl = speaker.questions.twitter_handle_or_linkedin_page;
         social = socialUrl.match(/(\w+)\.\w+\//);
         if (social) {
-          speaker.social = `- icon: ${social[1]}\n  link: ${socialUrl}`;
+          speaker.social = `- icon: ${social[1]}\n  link: "${socialUrl}"`;
         }
       }
       speakers[speaker.code] = speaker;
@@ -83,7 +83,7 @@ cfpApi(`${baseurl}/speakers/`)
                   name: ${speaker.name}
                   socials:
                   ${speaker.social}
-                  photoURL: ${speaker.avatar}
+                  photoURL: "${speaker.avatar}"
                   ---
 
                   ${speaker.biography}
