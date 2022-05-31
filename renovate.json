@@ -1,28 +1,34 @@
 {
-	"extends": [
-		"npm:unpublishSafe",
-		"schedule:monthly"
-	],
-	"baseBranches": ["master", "2021", "2020"],
-	"platformAutomerge": true,
-	"automerge": true,
-	"major": {
-		"automerge": false
-	},
-	"masterIssue": true,
-	"semanticCommits": true,
-	"semanticCommitType": "build",
-	"prConcurrentLimit": 10,
-	"separateMajorMinor": false,
-	"timezone": "Asia/Jerusalem",
-	"rangeStrategy": "pin",
-	"packageRules": [{
-		"managers": [
-			"npm"
-		],
-		"updateTypes": [
-			"digest"
-		],
-		"enabled": true
-	}]
+   "extends":[
+      "npm:unpublishSafe",
+      "schedule:monthly"
+   ],
+   "baseBranches":[
+      "master",
+      "2021",
+      "2020"
+   ],
+   "platformAutomerge":true,
+   "automerge":true,
+   "major":{
+      "automerge":false
+   },
+   "masterIssue":true,
+   "semanticCommits":true,
+   "semanticCommitType":"build",
+   "prConcurrentLimit":10,
+   "separateMajorMinor":false,
+   "timezone":"Asia/Jerusalem",
+   "rangeStrategy":"pin",
+   "packageRules":[
+      {
+         "matchUpdateTypes":[
+            "minor",
+            "patch",
+            "pin",
+            "digest"
+         ],
+         "automerge":true
+      }
+   ]
 }
