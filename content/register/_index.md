@@ -29,7 +29,7 @@ We would like to thank you loyal sponsors for supporting our event this year!
 Cyberspace has become a dangerous place, who is the hunter and who is the prey?
 Keep calm, Join our event and share your knowledge so we can all be safer in this digital jungle!
 
-- When: When: Thursday, July 30th 2022 08:30-19:00 Israel (GMT+3)
+- When: Thursday, June 30th 2022 08:30-19:00 Israel (GMT+3)
 - Where: [Smolarz Auditorium,  Tel Aviv University, Israel.](https://goo.gl/maps/empagm1x9NETBmkX7)
 - Join our mailing list to be notified of any updates and future events {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
