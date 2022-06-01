@@ -18,7 +18,7 @@ Registration is now open!
 
 We would like to thank you loyal sponsors for supporting our event this year!
 
-{{% partners categories="platinum,gold,silver,partners" %}}
+{{% partners categories="platinum,gold,silver,bronze,partners" %}}
 {{% /partners %}}
 
 ---
