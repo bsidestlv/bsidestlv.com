@@ -17,8 +17,8 @@ enableGitInfo = true
 [params]
     title = "BSidesTLV 2022"
     date = "2022-06-30"
-    description = "BSides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening."
-    images = ["/images/social-share.jpg"]
+    description = "BSidesTLV registration is open!"
+    images = ["/images/logos/bstlv_color.png"]
     email = "info@bsidestlv.com"
     keywords = "event, bsidestlv, bsides, telaviv, tel-aviv, security, cybersecurity"
     tags = "event, bsidestlv, bsides, telaviv, tel-aviv, security, cybersecurity"
