@@ -53,7 +53,7 @@
 
 - title: Reut Menashe
   type: team
-  subtitle: Leading Cyber Ladies Founder | Yes, I am a criminal.  My crime is that of curiosity.
+  subtitle: Tetrisponse.io, Founder & CEO | Leading Cyber Ladies CO-Founder | BsidesTLV Executive Producer | Yes, I am a criminal.  My crime is that of curiosity.
   key: reut_menashe
   socials:
     - link: "https://twitter.com/Reutooo_"
@@ -62,6 +62,8 @@
       name: LinkedIn
     - link: "https://www.facebook.com/reut.menashe"
       name: Facebook
+    - link: "https://leadingcyberladies.com/"
+      name: Site
 
 - title: Roei Sherman
   type: team
