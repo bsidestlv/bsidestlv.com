@@ -12,7 +12,9 @@ menu:
 # ~~Registration is now open!~~
 
 # BSidesTLV 2022 Update: 
+
 ## Registration is Temporarily Paused 
+
 Thank you for your interest in attending BSidesTLV 2022! 
 
 Due to overwhelming demand, we are temporarily pausing new  registrations to our IN PERSON conference on June 30 taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/). 
