@@ -24,9 +24,9 @@ PS: You can still sign up as a volunteer and get a full day ticket: {{< button-l
 
 {{% /jumbo %}}
 
-# BSidesTLV 2022 - Welcome to the Jungle!
-
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
+
+## BSidesTLV 2022 - Welcome to the Jungle!
 
 ## When: Thursday, June 30, 2022, 08:30-19:00 + afterparty
 
