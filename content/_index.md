@@ -21,7 +21,7 @@ Due to overwhelming demand, we are temporarily pausing new registrations to our 
 
 We will announce updates on our mailing list and social media when registration resumes, stay tuned! 
 
-If you plan to join us virtually, you do *not* need a ticket to watch the live stream or [Join our Slack!](https://slack.bsidstlv.com)!
+If you plan to join us virtually, you do *not* need a ticket to watch the live stream or [Join our Slack!](https://slack.bsidstlv.com)
 
 Full agenda is here: https://bsidestlv.com/agenda/
 
