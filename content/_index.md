@@ -31,23 +31,7 @@ PS: You can still sign up as a volunteer and get a full day ticket: {{< button-l
 
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
-## BSidesTLV 2022 - Welcome to the Jungle!
 
-## When: Thursday, June 30, 2022, 08:30-19:00 + afterparty
-
-## Where: Tel Aviv University, Smolartz auditorium, Israel
-
-🌴🐯Welcome To The Jungle🌴🦁
-
-Cyberspace is a dangerous world these days, with sneaky adversaries in our supply chains and dangerous monsters hiding in the cloud. So keep calm, stay vigilant and join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
-
-Full agenda is here: https://bsidestlv.com/agenda/
-
-Our event will take place according to all Covid19 regulations and requirements.
-
-Join us in person or watch the live stream!
-
-## BsidesTLV registration is open!
 
 Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
 
