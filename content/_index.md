@@ -24,7 +24,7 @@ If you plan to join us virtually, you do *not* need a ticket to watch the live s
 
 Full agenda is here: https://bsidestlv.com/agenda/
 
-PS: You can still sign up as a volunteer and get a full day ticket: {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
+PS: You can still sign up as a volunteer and get a full day ticket {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 
 {{% /jumbo %}}
 
