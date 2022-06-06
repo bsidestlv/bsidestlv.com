@@ -9,29 +9,28 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-# BSidesTLV 2022 - Welcome to the Jungle!
 
-Registration is now open!
+# BSidesTLV 2022 Update: 
+
+## Registration is Temporarily Paused 
+
+Thank you for your interest in attending BSidesTLV 2022! 
+
+Due to overwhelming demand, we are temporarily pausing new registrations to our IN PERSON conference on June 30 taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
+
+We will announce updates on our mailing list and social media when registration resumes, stay tuned! 
+
+If you plan to join us virtually, you do *not* need a ticket to watch the live stream or [Join our Slack!](https://slack.bsidstlv.com)
+
+Full agenda is here: https://bsidestlv.com/agenda/
+
+PS: You can still sign up as a volunteer and get a full day ticket {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
-## When: Thursday, June 30, 2022, 08:30-19:00 + afterparty
 
-## Where: Tel Aviv University, Smolartz auditorium, Israel
-
-🌴🐯Welcome To The Jungle🌴🦁
-
-Cyberspace is a dangerous world these days, with sneaky adversaries in our supply chains and dangerous monsters hiding in the cloud. So keep calm, stay vigilant and join us for the best security research community event in Israel, taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
-
-Full agenda is here: https://bsidestlv.com/agenda/
-
-Our event will take place according to all Covid19 regulations and requirements.
-
-Join us in person or watch the live stream!
-
-## BsidesTLV registration is open!
 
 Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
 
