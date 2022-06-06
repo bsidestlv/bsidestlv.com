@@ -9,7 +9,6 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-# ~~Registration is now open!~~
 
 # BSidesTLV 2022 Update: 
 

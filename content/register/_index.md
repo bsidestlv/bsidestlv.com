@@ -27,7 +27,6 @@ PS: You can still sign up as a volunteer and get a full day ticket: {{< button-l
 
 The best security community conference in Israel is back on June 30, 2022!
 
-~~Registration is now open!~~
 
 ---
 
