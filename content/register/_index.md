@@ -4,11 +4,30 @@ menu:
   main:
     weight: 40
 ---
-## BSidesTLV 2022 - Registration Is Now Open
+~~## BSidesTLV 2022 - Registration Is Now Open~~
+
+# ~~Registration is now open!~~
+
+# BSidesTLV 2022 Update: 
+
+## Registration is Temporarily Paused 
+
+Thank you for your interest in attending BSidesTLV 2022! 
+
+Due to overwhelming demand, we are temporarily pausing new  registrations to our IN PERSON conference on June 30 taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/). 
+We will announce updates on our mailing list and social media when registration resumes, stay tuned! 
+If you plan to join us virtually, you do *not* need a ticket to watch the live stream or Join our [Join our Slack!](https://slack.bsidstlv.com)!
+Full agenda is here: https://bsidestlv.com/agenda/.
+If you are a speaker , sponsor or crew member and have a voucher please use it here. {{< button-link
+ url="https://tickets.bsidestlv.com/bsidestlv/bsidestlv/"
+ label="Register Here!"
+ icon="external" >}}
+
+PS: You can still sign up as a volunteer and get a full day ticket: {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 
 The best security community conference in Israel is back on June 30, 2022!
 
-Registration is now open!
+~~Registration is now open!~~
 
 ---
 
