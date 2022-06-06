@@ -9,9 +9,7 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-# BSidesTLV 2022 - Welcome to the Jungle!
-
-~~Registration is now open!~~
+# ~~Registration is now open!~~
 
 # BSidesTLV 2022 Update: 
 ## Registration is Temporarily Paused 
@@ -25,6 +23,8 @@ Full agenda is here: https://bsidestlv.com/agenda/
 PS: You can still sign up as a volunteer and get a full day ticket: {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 
 {{% /jumbo %}}
+
+# BSidesTLV 2022 - Welcome to the Jungle!
 
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
