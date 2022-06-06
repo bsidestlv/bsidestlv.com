@@ -5,7 +5,6 @@ menu:
     weight: 40
 ---
 
-
 # BSidesTLV 2022 Update: 
 
 ## Registration is Temporarily Paused 
