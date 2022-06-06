@@ -4,9 +4,7 @@ menu:
   main:
     weight: 40
 ---
-~~## BSidesTLV 2022 - Registration Is Now Open~~
 
-# ~~Registration is now open!~~
 
 # BSidesTLV 2022 Update: 
 
