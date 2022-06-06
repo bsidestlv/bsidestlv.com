@@ -4,12 +4,14 @@
   --partner-font-size-platinum: 1.5rem;
   --partner-font-size-gold: 1.25rem;
   --partner-font-size-silver: 1.15rem;
+  --partner-font-size-bronze: 1.15rem;
   --partner-font-size-CTF: 1rem;
   --zoom-link-height: 55px;
   --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
   --partner-platinum-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
   --partner-gold-height: calc(var(--partner-support-height) * 1.25 + var(--zoom-link-height));
   --partner-silver-height: calc(var(--partner-support-height) * 1.2 + var(--zoom-link-height));
+  --partner-bronze-height: calc(var(--partner-support-height) * 1.2 + var(--zoom-link-height));
   --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
 }
 
@@ -47,6 +49,11 @@
 
   &.partner-silver ul li {
     height: var(--partner-silver-height);
+    flex-basis: 300px;
+  }
+  
+  &.partner-bronze ul li {
+    height: var(--partner-bronze-height);
     flex-basis: 300px;
   }
 
@@ -92,6 +99,11 @@
     font-size: var(--partner-font-size-silver);
     color: var(--color-silver);
   }
+  
+  &.partner-bronze .fancy {
+    font-size: var(--partner-font-size-bronze);
+    color: var(--color-bronze);
+  }  
 
   .partner {
       background-color: inherit;
