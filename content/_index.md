@@ -19,7 +19,7 @@ Thank you for your interest in attending BSidesTLV 2022!
 
 Due to overwhelming demand, we are temporarily pausing new registrations to our IN PERSON conference on June 30 taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
 We will announce updates on our mailing list and social media when registration resumes, stay tuned! 
-If you plan to join us virtually, you do *not* need a ticket to watch the live stream or Join our [Join our Slack!](https://slack.bsidstlv.com)!
+If you plan to join us virtually, you do *not* need a ticket to watch the live stream or [Join our Slack!](https://slack.bsidstlv.com)!
 Full agenda is here: https://bsidestlv.com/agenda/
 
 PS: You can still sign up as a volunteer and get a full day ticket: {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
