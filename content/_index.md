@@ -26,13 +26,13 @@ menu:
 
 <p style="text-align: center;">If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
 
-<p style="text-align: center;">[Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/)
+<center> [Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/) </center>
 
 <p style="text-align: center;">We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
 
-<p style="text-align: center;">[All of our sponsors want to hire you so please visit](https://bsidestlv.com/sponsors/) 
+<p style="text-align: center;"> [All of our sponsors want to hire you so please visit](https://bsidestlv.com/sponsors/) 
 
-<p style="text-align: center;">[Updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
+<p style="text-align: center;"> [Updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
 
 <p style="text-align: center;"> See you in the Jungle!
 
