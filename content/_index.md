@@ -21,15 +21,13 @@ Live streaming will be available on our website on the day, No ticket needed.
 
 If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
 
-To view or cancel your ticket, use the link from your registration email, or request a new order link here:https://tickets.bsidestlv.com/bsidestlv/bsidestlv/
+[Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/)
 
 We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
 
-All of our sponsors want to hire you so please visit https://bsidestlv.com/sponsors/
+[All of our sponsors want to hire you so please visit](https://bsidestlv.com/sponsors/)
 
-Updated agenda with 2 tracks, opening keynote and more: https://bsidestlv.com/agenda/
-
-BSidesTLV will take place according to all applicable Covid19 regulations and requirements.  
+[Updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
 
 See you in the Jungle! 
 
