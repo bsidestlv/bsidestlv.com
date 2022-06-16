@@ -12,7 +12,6 @@ menu:
 <p align=center>
 
 # 🌴🐯 
-</p> 
 
 BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
 at Smolarz Auditorium, Tel Aviv University,
@@ -33,6 +32,7 @@ We would like to thank our wonderful sponsors, awesome community and fantastic v
 <p style="text-align: center;"> The BSidesTLV Team
 
 # 🌴🦁
+
 </p> 
 
 {{% /jumbo %}}
