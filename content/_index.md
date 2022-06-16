@@ -27,7 +27,7 @@ menu:
 
 <center> We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
 <center> <a href="https://bsidestlv.com/sponsors/">All of our sponsors want to hire you so please visit their page</a>
-<center> <a href="https://bsidestlv.com/agenda/">Updated agenda with 2 tracks, opening keynote and more</a>
+<center> <a href="https://bsidestlv.com/agenda/">See our updated agenda with 2 tracks, opening keynote and more</a>
 
 ---
 
