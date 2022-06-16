@@ -54,7 +54,7 @@ Sign up to our newsletter to receive updates throughout the year
 <!--{{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 <!-- {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}} -->
 <!--{{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}} -->
-{{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
+<!--{{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}} -->
 &nbsp;
 &nbsp;
 
