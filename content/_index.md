@@ -9,53 +9,31 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-<center> 🌴🐯 
-
-<center> BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
-<center> at Smolarz Auditorium, Tel Aviv University,
-<center> from 08:30-19:00,
-<center> during Tel Aviv University’s Cyber Week.
-
----
-
-<center> <a href="https://bsidestlv.com/register/">Registration is now closed, join our waiting list</a>
-<center> Live streaming will be available on our website on the day, No ticket needed.  
-<center> If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
-<center> <a href="https://tickets.bsidestlv.com/bsidestlv/bsidestlv/">Cancel your ticket</a>
-
----
-
-<center> We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
-<center> <a href="https://bsidestlv.com/sponsors/">All of our sponsors want to hire you so please visit their page!</a>
-<center> <a href="https://bsidestlv.com/agenda/">See our updated agenda with 2 tracks, opening keynote and more</a>
-
----
-
-<center> See you in the Jungle!
-<center> The BSidesTLV Team
-<center> 🌴🦁
-
+{{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}}
 
 {{% /jumbo %}}
 
+{{% home-message %}}
+
+## 🌴🐯 Welcome to the Jungle! 🌴🦁
+
+BSidesTLV 2022 Will take place IN PERSON on June 30th 2022, at Smolarz Auditorium, Tel Aviv University, from 08:30-19:00, during Tel Aviv University’s Cyber Week.
+
+[Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
+
+Live streaming will be available on our website on the day, No ticket needed.  
+
+If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
+[Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/)
+We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
+[All of our sponsors want to hire you so please visit their page!](https://bsidestlv.com/sponsors/)
+[See our updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
+See you in the Jungle!
+The BSidesTLV Team
+{{% /home-message %}}
+
+
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
-
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
 
 Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
 
