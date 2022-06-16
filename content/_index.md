@@ -14,19 +14,25 @@ menu:
 
 SidesTLV 2022 Will take place IN PERSON on June 30th 2022, at Smolarz Auditorium,  Tel Aviv University, from 08:30-19:00, during Tel Aviv University’s Cyber Week.
 
-Registration is now closed, join our waiting list: https://bsidestlv.com/register/
+Registration is now closed, join our waiting list:https://bsidestlv.com/register/
+
 Live streaming will be available on our website on the day, No ticket needed.  
 
 
-If you have a ticket and DO NOT plan to join us in person,
-Please cancel your ticket so we can release tickets to our waiting list.  
-View or cancel your ticket, use the link from your registration email, or request a new order link here:  https://tickets.bsidestlv.com/bsidestlv/bsidestlv/
+If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
 
-We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year! 
-All of our sponsors want to hire you so please visit https://bsidestlv.com/sponsors/ 
+To view or cancel your ticket, use the link from your registration email, or request a new order link here:https://tickets.bsidestlv.com/bsidestlv/bsidestlv/
+
+We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
+
+All of our sponsors want to hire you so please visit https://bsidestlv.com/sponsors/
+
 Updated agenda with 2 tracks, opening keynote and more: https://bsidestlv.com/agenda/
+
 BSidesTLV will take place according to all applicable Covid19 regulations and requirements.  
+
 See you in the Jungle! 
+
 The BSidesTLV Team
 
 
