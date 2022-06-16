@@ -9,29 +9,26 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-<div align="justify">
+<center> 🌴🐯 
+<center> 
+<center> BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
+<center> at Smolarz Auditorium, Tel Aviv University,
+<center> from 08:30-19:00,
+<center> during Tel Aviv University’s Cyber Week.
+<center> 
+<center> <a href="https://bsidestlv.com/register/">Registration is now closed, join our waiting list</a>
+<center> Live streaming will be available on our website on the day, No ticket needed.  
+<center> If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
+<center> <a href="https://tickets.bsidestlv.com/bsidestlv/bsidestlv/">Cancel your ticket</a>
+<center> 
+<center> We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
+<center> <a href="https://bsidestlv.com/sponsors/">All of our sponsors want to hire you so please visit</a>
+<center> <a href="https://bsidestlv.com/agenda/">Updated agenda with 2 tracks, opening keynote and more</a>
+<center> 
+<center> See you in the Jungle!
+<center> The BSidesTLV Team
+<center> 🌴🦁
 
-	🌴🐯 
-
-	BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
-	at Smolarz Auditorium, Tel Aviv University,
-	from 08:30-19:00,
-	during Tel Aviv University’s Cyber Week.
-
-	<a href="https://bsidestlv.com/register/">Registration is now closed, join our waiting list</a>
-	Live streaming will be available on our website on the day, No ticket needed.  
-	If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
-	<a href="https://tickets.bsidestlv.com/bsidestlv/bsidestlv/">Cancel your ticket</a>
-
-	We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
-	<a href="https://bsidestlv.com/sponsors/">All of our sponsors want to hire you so please visit</a>
-	<a href="https://bsidestlv.com/agenda/">Updated agenda with 2 tracks, opening keynote and more</a>
-
-	See you in the Jungle!
-	The BSidesTLV Team
-	🌴🦁
-
-</div> 
 
 {{% /jumbo %}}
 
