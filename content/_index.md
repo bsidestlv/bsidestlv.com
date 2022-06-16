@@ -8,29 +8,30 @@ menu:
 ---
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
-<p style="text-align: center;"> 
+
+<p align=center>
+
 # 🌴🐯 
 </p> 
 
-<p style="text-align: center;"> BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
+BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
 at Smolarz Auditorium, Tel Aviv University,
 from 08:30-19:00,
-during Tel Aviv University’s Cyber Week. </p> 
+during Tel Aviv University’s Cyber Week.
 
-<p style="text-align: center;"> [Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
+[Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
 Live streaming will be available on our website on the day, No ticket needed.  
 If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
-[Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/) </p> 
+[Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/)
 
-<p style="text-align: center;"> We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year! </p> 
-<p style="text-align: center;"> [All of our sponsors want to hire you so please visit](https://bsidestlv.com/sponsors/) </p> 
-<p style="text-align: center;"> [Updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/) </p> 
+We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
+[All of our sponsors want to hire you so please visit](https://bsidestlv.com/sponsors/) 
+[Updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
 
-<p style="text-align: center;"> See you in the Jungle!  </p> 
+<p style="text-align: center;"> See you in the Jungle!
 
-<p style="text-align: center;"> The BSidesTLV Team </p> 
+<p style="text-align: center;"> The BSidesTLV Team
 
-<p style="text-align: center;">
 # 🌴🦁
 </p> 
 
