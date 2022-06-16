@@ -9,7 +9,7 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-<p align="justify"; style="font-size:18px;">
+<p align="justify";style="font-size:150%;">
 
 	🌴🐯 
 
