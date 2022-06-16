@@ -42,8 +42,19 @@ menu:
 
 
 
+---
 
 
+---
+
+
+---
+
+
+---
+
+
+---
 
 
 Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
