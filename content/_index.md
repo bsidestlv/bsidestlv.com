@@ -21,19 +21,19 @@ menu:
 
 	during Tel Aviv University’s Cyber Week.
 
-	[Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
+	<a href="https://bsidestlv.com/register/">Registration is now closed, join our waiting list</a>
 
 	Live streaming will be available on our website on the day, No ticket needed.  
 
 	If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
 
-	<center> [Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/) </center>
+	<a href="https://tickets.bsidestlv.com/bsidestlv/bsidestlv/">Cancel your ticket</a>
 
 	We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
 
-	[All of our sponsors want to hire you so please visit](https://bsidestlv.com/sponsors/) 
+	<a href="https://bsidestlv.com/sponsors/">All of our sponsors want to hire you so please visit</a>
 
-	[Updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
+	<a href="https://bsidestlv.com/agenda/">Updated agenda with 2 tracks, opening keynote and more</a>
 
 	See you in the Jungle!
 
