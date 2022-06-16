@@ -11,7 +11,10 @@ menu:
 
 # 🌴🐯Welcome To The Jungle🌴🦁 
 
-SidesTLV 2022 Will take place IN PERSON on June 30th 2022, at Smolarz Auditorium, Tel Aviv University, from 08:30-19:00, during Tel Aviv University’s Cyber Week.
+SidesTLV 2022 Will take place IN PERSON on June 30th 2022,
+ at Smolarz Auditorium, Tel Aviv University,
+ from 08:30-19:00,
+ during Tel Aviv University’s Cyber Week.
 
 [Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
 
