@@ -9,7 +9,6 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-
 # 🌴🐯Welcome To The Jungle🌴🦁 
 
 SidesTLV 2022 Will take place IN PERSON on June 30th 2022, at Smolarz Auditorium, Tel Aviv University, from 08:30-19:00, during Tel Aviv University’s Cyber Week.
@@ -17,7 +16,6 @@ SidesTLV 2022 Will take place IN PERSON on June 30th 2022, at Smolarz Auditorium
 [Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
 
 Live streaming will be available on our website on the day, No ticket needed.  
-
 
 If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
 
@@ -34,12 +32,9 @@ See you in the Jungle!
 The BSidesTLV Team
 
 
-
-
 {{% /jumbo %}}
 
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
-
 
 
 Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
@@ -47,9 +42,9 @@ Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}}
+<!--{{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 <!-- {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}} -->
-{{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}}
+<!--{{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}} -->
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 &nbsp;
 &nbsp;
