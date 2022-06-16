@@ -14,11 +14,8 @@ menu:
 	🌴🐯 
 
 	BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
-
 	at Smolarz Auditorium, Tel Aviv University,
-
 	from 08:30-19:00,
-
 	during Tel Aviv University’s Cyber Week.
 
 	<a href="https://bsidestlv.com/register/">Registration is now closed, join our waiting list</a>
