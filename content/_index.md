@@ -8,10 +8,9 @@ menu:
 ---
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
-
-# 🌴🐯Welcome To The Jungle🌴🦁 
-
-SidesTLV 2022 Will take place IN PERSON on June 30th 2022,
+<p style="text-align: center;">
+# 🌴🐯 
+BSidesTLV 2022 Will take place IN PERSON on June 30th 2022,
 
 at Smolarz Auditorium, Tel Aviv University,
 
@@ -37,6 +36,8 @@ See you in the Jungle!
 
 The BSidesTLV Team
 
+# 🌴🦁
+</p> 
 
 {{% /jumbo %}}
 
