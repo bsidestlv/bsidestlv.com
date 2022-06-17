@@ -9,38 +9,41 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
-
-# BSidesTLV 2022 Update: 
-
-## Registration is Temporarily Paused 
-
-Thank you for your interest in attending BSidesTLV 2022! 
-
-Due to overwhelming demand, we are temporarily pausing new registrations to our IN PERSON conference on June 30 taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
-
-We will announce updates on our mailing list and social media when registration resumes, stay tuned! 
-
-If you plan to join us virtually, you do *not* need a ticket to watch the live stream or [Join our Slack!](https://slack.bsidstlv.com)
-
-Full agenda is here: https://bsidestlv.com/agenda/
-
-PS: You can still sign up as a volunteer and get a full day ticket {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
+{{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}}
 
 {{% /jumbo %}}
 
+{{% home-message %}}
+
+## 🌴🐯 Welcome to the Jungle! 🌴🦁
+
+BSidesTLV 2022 Will take place IN PERSON on June 30th 2022, at Smolarz Auditorium, Tel Aviv University, from 08:30-19:00, during Tel Aviv University’s Cyber Week.
+
+[Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
+
+Live streaming will be available on our website on the day, No ticket needed.  
+
+If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
+[Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/)
+We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
+[All of our sponsors want to hire you so please visit their page!](https://bsidestlv.com/sponsors/)
+[See our updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
+See you in the Jungle!
+The BSidesTLV Team
+{{% /home-message %}}
+
+
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
-
-
 
 Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
 
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}}
+<!--{{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 <!-- {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}} -->
-{{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}}
-{{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
+<!--{{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}} -->
+<!--{{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}} -->
 &nbsp;
 &nbsp;
 
