@@ -54,7 +54,10 @@
 .slack-message .message {
 	color: #000;
 	word-wrap: break-word;
-	white-space: pre-line;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+
 }
 
 .reaction {
