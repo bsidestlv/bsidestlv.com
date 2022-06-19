@@ -15,7 +15,7 @@ aliases:
   margin: 0px auto;"></div>
 </div>
 &nbsp;
-<center><a href={{< ref "/live/track2" >}}>Watch Track 2</>
+<center><a href={{< relref "/live/track2" >}}>Watch Track 2</>
 
 <div class="row">
   <div class="col-xs-12" id="slack">

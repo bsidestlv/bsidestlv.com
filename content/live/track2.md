@@ -11,7 +11,7 @@ title: Live!
   margin: 0px auto;"></div>
 </div>
 &nbsp;
-<center><a href={{< ref "/live/track1" >}}>Watch Track 1</>
+<center><a href={{< relref "/live/track1" >}}>Watch Track 1</>
 
 <div class="row">
   <div class="col-xs-12" id="slack">
