@@ -26,6 +26,7 @@
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
 	overflow-x: hidden;
+	text-align: left !important;
 }
 
 .slack-message .avatar {
@@ -177,15 +178,12 @@ img.avatar {
 
 #timercontainer {
 	@include mq($until: md) {
-		font-size: 32pt;
+		font-size: 16pt;
 	}
 	@include mq($from: md) {
-		font-size: 36pt;
+		font-size: 28pt;
 	}
 	@include mq($from: lg) {
-		font-size: 42pt;
+		font-size: 32pt;
 	}
-}
-#timer {
-	background-color: none;
 }
