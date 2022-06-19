@@ -35,7 +35,7 @@ The BSidesTLV Team
 
 {{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
 
-Watching the event virtually? [Join our Slack!](https://slack.bsidstlv.com)
+Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com)
 
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
