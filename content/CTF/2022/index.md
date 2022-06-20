@@ -6,36 +6,9 @@ date: 2022-02-13
 draft: false
 ---
 
-<!-- *{{% showlastmod %}}* -->
-
 <div class="row">
     <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2022.png" widths="540,720,960,1140" %}}</div>
 </div>
-
-<!-- ---
-
-# Registration
-
-Please use the [CTF Website](https://ctf22.bsidestlv.com) in order to register to the CTF. The challenges will be hosted there. -->
-
-<!-- --- -->
-
-<!-- ## Hall of Fame -->
-
-<!-- <div class="row around-xs avatars" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/2021trophy.jpeg" label="1st Place" />}}<b>JCTF</b></div>
-</div>
-<div class="row around-xs avatars" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}<b>dm0n</b></div>
-    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}<b>NoobsWithHopesAndDreams</b></div>
-</div> -->
-
-<!-- --- -->
-
-<!-- ## Resources and WriteUps -->
-
-
-<!-- ## Statistics -->
 
 #  Timetable
 
