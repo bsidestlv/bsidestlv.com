@@ -5,6 +5,7 @@ menu:
     weight: 40
 ---
 
+# BSidesTLV 2022 Update: 
 
 Due to popular demand, we will resume *IN PERSON* registration for the best security community conference in Israel!  
 Registration will re-open June 28, 2022 at 09:00AM  Israel time and will remain open until we run out of tickets.
