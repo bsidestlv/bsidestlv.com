@@ -5,6 +5,20 @@ menu:
     weight: 40
 ---
 
+
+Due to popular demand, we will resume *IN PERSON* registration for the best security community conference in Israel!  
+Registration will re-open June 28, 2022 at 09:00AM  Israel time and will remain open until we run out of tickets.
+
+Note: space is limited. 
+
+We will enable access to the event based on space available only.  
+
+Live streaming of both tracks will be available on our website, so you can join remotely!
+
+New speakers added to the lineup, check out the updated agenda!
+
+---
+
 ## Our Sponsors
 
 We would like to thank you loyal sponsors for supporting our event this year!
