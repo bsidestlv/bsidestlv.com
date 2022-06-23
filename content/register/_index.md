@@ -7,30 +7,18 @@ menu:
 
 # BSidesTLV 2022 Update: 
 
-## Registration is Temporarily Paused 
+Due to popular demand, we will resume *IN PERSON* registration for the best security community conference in Israel!  
+Registration will re-open June 28, 2022 at 09:00AM  Israel time and will remain open until we run out of tickets.
 
-Thank you for your interest in attending BSidesTLV 2022! 
+Note: space is limited. 
 
-Due to overwhelming demand, we are temporarily pausing new  registrations to our IN PERSON conference on June 30 taking place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
- 
-We will announce updates on our mailing list and social media when registration resumes, stay tuned! 
-If you plan to join us virtually, you do *not* need a ticket to watch the live stream or Join our [Join our Slack!](https://slack.bsidestlv.com)!
+We will enable access to the event based on space available only.  
 
-Full agenda is here: https://bsidestlv.com/agenda/.
+Live streaming of both tracks will be available on our website, so you can join remotely!
 
-If you are a speaker , sponsor or crew member and have a voucher please use it here. {{< button-link
- url="https://tickets.bsidestlv.com/bsidestlv/bsidestlv/"
- label="Register Here!"
- icon="external" >}}
-
-PS: You can still sign up as a volunteer and get a full day ticket: {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
-
-The best security community conference in Israel is back on June 30, 2022!
-
+New speakers added to the lineup, check out the updated agenda!
 
 ---
-
-
 
 ## Our Sponsors
 
@@ -75,8 +63,3 @@ Primary track: The Jungle track, located in Smolarz Main Auditorium.
 Our event features cutting edge security talks, deep dive technical sessions, live demos, cool surprises, CTF announcements and of course, all of the fun and excitement you have come to expect from BsidesTLV! As always, all of our sponsors are looking to hire, so be ready! 
 Stay safe, see you in the jungle!
 BSidesTLV 2022 team
-
-
-
-PS: Join our mailing list to be notified of any updates and future events
-{{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
