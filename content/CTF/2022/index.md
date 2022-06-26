@@ -85,7 +85,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Oren Yomtov" />}}Code is Law 1<br/>Code is Law 2</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Ron Masas" />}}Jurassic W0r1d<br/>Tropical API<br/>Wild DevTools</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Ha Gootvilig" />}}SEV</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="Or Sahar" />}}Pokedex</div>
+    <div>{{< imgproc img="/images/ctf/ors.jpg" label="Or Sahar" />}}Pokedex</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}The Prefetcher</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}The Prefetcher</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Yahav" />}}mod_pwn<br/>n0tes</div>
@@ -93,15 +93,17 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Arie Haenel" />}}Only Hope</div>
     <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Reverse Moving<br/>Black Box Moving<br/>Intergalactic Communicator</div>
     <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}James Webb</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Sharon Brizinov" />}}Guess the she__c0__(#1)<br/>Guess the she__c0__(#2)<br/>Guess the she__c0__(#3)</div>
+    <div>{{< imgproc img="/images/ctf/SharonBrizinov.jpg" label="Sharon Brizinov" />}}Guess the she__c0__(#1)<br/>Guess the she__c0__(#2)<br/>Guess the she__c0__(#3)</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Moti Mark" />}}Wordle</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviya Erenfeld" />}}Roll The Impossible<br/>High Expectations<br/>Medium Expectations<br/>Wordle</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Smuggler</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Alon Livne" />}}handsfree</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Elisha Eshed" />}}handsfree</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Artur Avetisyan" />}}Intergalactic Communicator</div>
-    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}404 Not Found</div>
-    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}404 Not Found</div>
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br/>404 Not Found</div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br/>404 Not Found</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amir Kourdi" />}}<b>CTF Team</b><br/>DevOps</div>
+    <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
 </div>
 
 <!-- ## Resources and WriteUps -->
