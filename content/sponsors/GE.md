@@ -2,7 +2,7 @@
 key: ge
 title: General Electric
 category: platinum
-website: 'https://www.linkedin.com/jobs/view/2630534052'
+website: 'https://questionpro.com/t/AVvMbZtQSX'
 socials: []
 ---
 
