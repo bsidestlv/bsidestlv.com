@@ -15,11 +15,19 @@ draft: false
 Full 48-hours
 
 * Start: June 27th 2022, 09:00am (Israel Time)
-* End:   June 29st 2022, 09:00am (Israel Time)
+* End:   June 29st 2022, 18:00am (Israel Time)
 
 **Winner announcement on June 30th, during our event**
 
 {{% timer "Jun 27, 2022 09:00:00" "CTF starts in:" %}}
+
+---
+
+# Registration
+
+The CTF is played on the CTFd platform, you will need to [register](https://ctf22.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
+
+https://ctf22.bsidestlv.com/
 
 ---
 # Rules and Guidelines
@@ -34,13 +42,6 @@ Full 48-hours
 1. Team recommended size is 5 (limited to 10)
 1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
 1. We usually keep the challenges alive for a couple more (~1 week) days after the event to enable write-ups
-
-{{< button-link url="//slack.bsidestlv.com"
-        label="Join Slack!"
-    icon="slack"
-    target="_blank" >}} 
-
-
 
 ---
 
@@ -78,21 +79,31 @@ Yes, plan to release our entire repo
 
 ---
 
-<!-- ## Our Team -->
+## Our Team
 
-<!-- <div class="row around-xs avatars shuffle" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}Inspector Gadget<br/>Intellimage<br/>Under Construction<br/>Flag On The Wall<br/>SQLiteManager</div>
-    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}Under Construction<br/>The Rabbit Hole<br/>News<br/>Notes</div>
-    <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}Labyrinth</div>
-    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}Toilet</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Aviv Yahav" />}}Rainy Redis<br/>Speed Trivia</div>
-    <div>{{< imgproc img="/images/ctf/guybm.png" label="Guy Barnhart-Magen" />}}Damn Randomware!</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Guy Beck" />}}Toilet<br/>Labyrinth<br/>Intellimage</div>
-    <div>{{< imgproc img="/images/ctf/omer_cohen.png" label="Omer Cohen" />}}</div>
-    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Good Old Days<br/>In Plain Sight<br/>Flag On The Wall</div>
-    <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Avetisyan" />}}Are You Kidding Me?<br/>In Plain Sight</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Sharon Brizinov" />}}Cheater's Gambit</div>
-	<div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}Wh3reIsTheD0oR</div>    
-</div> -->
+<div class="row around-xs avatars shuffle" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Oren Yomtov" />}}Code is Law 1<br/>Code is Law 2</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Ron Masas" />}}Jurassic W0r1d<br/>Tropical API<br/>Wild DevTools</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Ha Gootvilig" />}}SEV</div>
+    <div>{{< imgproc img="/images/ctf/ors.jpg" label="Or Sahar" />}}Pokedex</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}The Prefetcher</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}The Prefetcher</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Yahav" />}}mod_pwn<br/>n0tes</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Yona" />}}We Are Hiring</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Arie Haenel" />}}Only Hope</div>
+    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Reverse Moving<br/>Black Box Moving<br/>Intergalactic Communicator</div>
+    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}James Webb</div>
+    <div>{{< imgproc img="/images/ctf/SharonBrizinov.jpg" label="Sharon Brizinov" />}}Guess the she__c0__(#1)<br/>Guess the she__c0__(#2)<br/>Guess the she__c0__(#3)</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Moti Mark" />}}Wordle</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviya Erenfeld" />}}Roll The Impossible<br/>High Expectations<br/>Medium Expectations<br/>Wordle</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Smuggler</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Alon Livne" />}}handsfree</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Elisha Eshed" />}}handsfree</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Artur Avetisyan" />}}Intergalactic Communicator</div>
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br/>404 Not Found</div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br/>404 Not Found</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amir Kourdi" />}}<b>CTF Team</b><br/>DevOps</div>
+    <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
+</div>
 
 <!-- ## Resources and WriteUps -->
