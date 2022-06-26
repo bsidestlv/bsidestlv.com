@@ -82,7 +82,35 @@ Yes, plan to release our entire repo
 ## Our Team
 
 <div class="row around-xs avatars shuffle" style="text-align:center">
-    <!-- <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}Inspector Gadget<br/>Intellimage<br/>Under Construction<br/>Flag On The Wall<br/>SQLiteManager</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Code is Law 1</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Code is Law 2</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Jurassic W0r1d</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}SEV</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Pokedex</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}The Prefetcher</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}mod_pwn</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}n0tes</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}We Are Hiring</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Only Hope</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Wild DevTools</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Tropical API</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Reverse Moving</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Black Box Moving</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}James Webb</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Guess the she__c0__(#1)</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Guess the she__c0__(#2)</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Guess the she__c0__(#3)</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Roll The Impossible</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Wordle</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}High Expectations</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Medium Expectations</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Smuggler</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}handsfree</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="" />}}Intergalactic Communicator</div>
+</div>
+
+<!-- 
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}Inspector Gadget<br/>Intellimage<br/>Under Construction<br/>Flag On The Wall<br/>SQLiteManager</div>
     <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}Under Construction<br/>The Rabbit Hole<br/>News<br/>Notes</div>
     <div>{{< imgproc img="/images/ctf/RS.png" label="Roei Sherman" />}}Labyrinth</div>
     <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}Toilet</div>
@@ -93,32 +121,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Good Old Days<br/>In Plain Sight<br/>Flag On The Wall</div>
     <div>{{< imgproc img="/images/ctf/arthur.png" label="Artur Avetisyan" />}}Are You Kidding Me?<br/>In Plain Sight</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.png" label="Sharon Brizinov" />}}Cheater's Gambit</div>
-	<div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}Wh3reIsTheD0oR</div>     -->
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Code is Law 1</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Code is Law 2</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Jurassic W0r1d</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}SEV</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Pokedex</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}The Prefetcher</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}mod_pwn</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}n0tes</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}We Are Hiring</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Only Hope</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Wild DevTools</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Tropical API</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Reverse Moving</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Black Box Moving</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}James Webb</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Guess the she__c0__(#1)</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Guess the she__c0__(#2)</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Guess the she__c0__(#3)</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Roll The Impossible</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Wordle</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}High Expectations</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Medium Expectations</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Smuggler</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}handsfree</div>
-    <div>{{< imgproc img="/images/ctf/avatar_female.jpg label="" />}}Intergalactic Communicator</div>
-</div>
+	<div>{{< imgproc img="/images/ctf/LavieBB.png" label="Lavie BB" />}}Wh3reIsTheD0oR</div>     
+    -->
 
 <!-- ## Resources and WriteUps -->
