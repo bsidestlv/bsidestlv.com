@@ -12,7 +12,7 @@ draft: false
 
 #  Timetable
 
-Full 48-hours
+Over 48-hours!
 
 * Start: June 27th 2022, 09:00am (Israel Time)
 * End:   June 29st 2022, 18:00am (Israel Time)
@@ -83,7 +83,7 @@ Yes, plan to release our entire repo
 
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Oren Yomtov" />}}Code is Law 1<br/>Code is Law 2</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Ron Masas" />}}Jurassic W0r1d<br/>Tropical API<br/>Wild DevTools</div>
+    <div>{{< imgproc img="/images/ctf/RonMasas.jpg" label="Ron Masas" />}}Jurassic W0r1d<br/>Tropical API<br/>Wild DevTools</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Ha Gootvilig" />}}SEV</div>
     <div>{{< imgproc img="/images/ctf/ors.jpg" label="Or Sahar" />}}Pokedex</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}The Prefetcher</div>
@@ -93,7 +93,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Arie Haenel" />}}Only Hope</div>
     <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Reverse Moving<br/>Black Box Moving<br/>Intergalactic Communicator</div>
     <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}James Webb</div>
-    <div>{{< imgproc img="/images/ctf/SharonBrizinov.jpg" label="Sharon Brizinov" />}}Guess the she__c0__(#1)<br/>Guess the she__c0__(#2)<br/>Guess the she__c0__(#3)</div>
+    <div>{{< imgproc img="/images/ctf/SharonBrizinov.png" label="Sharon Brizinov" />}}Guess the she__c0__(#1)<br/>Guess the she__c0__(#2)<br/>Guess the she__c0__(#3)</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Moti Mark" />}}Wordle</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviya Erenfeld" />}}Roll The Impossible<br/>High Expectations<br/>Medium Expectations<br/>Wordle</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Smuggler</div>
