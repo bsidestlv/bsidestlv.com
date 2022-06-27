@@ -99,7 +99,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Smuggler</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Alon Livne" />}}handsfree</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Elisha Eshed" />}}handsfree</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Artur Avetisyan" />}}Intergalactic Communicator</div>
+    <div>{{< imgproc img="/images/ctf/arthur.jpg" label="Artur Avetisyan" />}}Intergalactic Communicator</div>
     <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br/>404 Not Found</div>
     <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br/>404 Not Found</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amir Kourdi" />}}<b>CTF Team</b><br/>DevOps</div>
