@@ -10,7 +10,7 @@ draft: false
     <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2022.png" widths="540,720,960,1140" %}}</div>
 </div>
 
-#  Timetable
+<!-- #  Timetable
 
 Over 48-hours!
 
@@ -27,7 +27,41 @@ Over 48-hours!
 
 The CTF is played on the CTFd platform, you will need to [register](https://ctf22.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
 
-https://ctf22.bsidestlv.com/
+https://ctf22.bsidestlv.com/ -->
+
+## Hall of Fame
+
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/avatar_group.jpeg" label="1st Place" />}}<b>idek</b></div>
+</div>
+<div class="row around-xs avatars" style="text-align:center">
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}<b>BobbyTables</b></div>
+    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}<b>TheHotDogSellers</b></div>
+</div>
+
+---
+
+## Resources and WriteUps
+
+- [BSidesTLV 2022 CTF — “Roll The Impossible” Writeup](https://medium.com/@__omertal__/bsidestlv-2022-ctf-roll-the-impossible-writeup-e5d5a2583909)
+- [BSidesTLV 2022 CTF - "Medium Expectations"](https://www.thesecuritywind.com/post/bsidestlv-2022-ctf-medium-expectations)
+- [BSidesTLV 2022 CTF – SEV](https://sekai.team/blog/bsidestlv-2022/sev/)
+- [BSidesTLV 2022 CTF – Intergalactic Communicator](https://sekai.team/blog/bsidestlv-2022/intergalactic_communicator/)
+- [BSidesTLV 2022 CTF – Code is Law](https://sekai.team/blog/bsidestlv-2022/code_is_law/)
+
+## Statistics
+
+* 26 Challenges
+* 7 Categories
+* 1158 Registered users
+    * From 7963 IP addresses
+* 681 Registered teams
+* 678 Solved challenges
+* 190 Teams solved at least 1 challenge
+
+[Winner announcements presentation](/static.bsidestlv.com/BSidesTLV2022.pdf)
+
+---
 
 ---
 # Rules and Guidelines
@@ -106,4 +140,4 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
 </div>
 
-<!-- ## Resources and WriteUps -->
+## Resources and WriteUps
