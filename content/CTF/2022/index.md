@@ -118,7 +118,7 @@ Yes, plan to release our entire repo
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Oren Yomtov" />}}Code is Law 1<br/>Code is Law 2</div>
     <div>{{< imgproc img="/images/ctf/RonMasas.jpg" label="Ron Masas" />}}Jurassic W0r1d<br/>Tropical API<br/>Wild DevTools</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Ha Gootvilig" />}}SEV</div>
+    <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Ha Gootvilig" />}}SEV</div>
     <div>{{< imgproc img="/images/ctf/ors.jpg" label="Or Sahar" />}}Pokedex</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}The Prefetcher</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}The Prefetcher</div>
