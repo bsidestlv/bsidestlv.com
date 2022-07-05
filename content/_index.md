@@ -7,9 +7,9 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-1.jpg" imgLabel="BSidesTLV 2022" %}}
+{{% jumbo img="/images/backgrounds/thanks-1.jpg" imgLabel="BSidesTLV 2022" %}}
 
-{{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}}
+<!-- {{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}} -->
 
 {{% /jumbo %}}
 
@@ -18,7 +18,7 @@ menu:
 ## BSidesTLV 2023 - Thank you for participating! 
 
 
-It’s a wrap for BSidesTLV 2022, Our biggest event yet!
+It’s a wrap for BSidesTLV 2022, our biggest event yet!
 
 1700+ in person participants, 30 amazing speakers, 100 CFP talk submissions, 666 CTF teams, 14 sponsors, 40 volunteers, 2 tracks and a whole lot of fun on stage!
 This year we had an overwhelming audience turnout and unfortunately, not everyone got to experience our full event and join us.
@@ -36,7 +36,7 @@ PS: Photos and videos will be uploaded in the coming weeks, subscribe to our [Yo
 
 {{% home-info what="Participants:1700+ ,Years:8, Sessions:30+, CTF Challenges:20+" class="primary" %}}
 
-Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com)
+<!-- Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com) -->
 
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
