@@ -7,7 +7,11 @@ menu:
     weight: -1
 ---
 
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
+<!-- {{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}} -->
+
+{{% /jumbo %}}
 
 {{% home-message %}}
 
@@ -27,13 +31,9 @@ We would like to thank all of our speakers, sponsors, volunteers and partners - 
 
 PS: Photos and videos will be uploaded in the coming weeks, subscribe to our [YouTube channel](https://www.youtube.com/c/BSidesTLV) to be notified when talks are posted. 
 
+![Thank you 2022](/images/thankyou.jpg)
+
 {{% /home-message %}}
-
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
-
-<!-- {{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}} -->
-
-{{% /jumbo %}}
 
 
 {{% home-info what="Participants:1700+ ,Years:8, Sessions:30+, CTF Challenges:20+" class="primary" %}}
