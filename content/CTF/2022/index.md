@@ -49,6 +49,7 @@ https://ctf22.bsidestlv.com/ -->
 - [BSidesTLV 2022 CTF – Intergalactic Communicator](https://sekai.team/blog/bsidestlv-2022/intergalactic_communicator/)
 - [BSidesTLV 2022 CTF – Code is Law](https://sekai.team/blog/bsidestlv-2022/code_is_law/)
 - [Code is Law 1: Solidity CTF Challenge Writeup](https://medium.com/@patternrecognizer/solidity-ctf-writeup-code-is-law-1-465428bf4bd5)
+- [Code is Law 2: Solidity CTF Challenge Writeup](https://medium.com/@patternrecognizer/code-is-law-2-solidity-ctf-challenge-writeup-c55f072664a9)
 
 ## Statistics
 
@@ -141,4 +142,3 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
 </div>
 
-## Resources and WriteUps
