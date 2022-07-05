@@ -1,4 +1,4 @@
----
+<!-- ---
 #title: CFP
 #menu:
 #  main:
@@ -87,3 +87,4 @@ Our Code Of Conduct can be found [here][coc-url]
 [smolarz-map]: https://www.google.com/maps/place/Tel+Aviv+University+Smolarz+Auditorium/@32.1103563,34.8042639,15z/data=!4m5!3m4!1s0x0:0x57e1b1e76143c7f7!8m2!3d32.1103563!4d34.8042639
 [cyberweek]: https://cyberweek.tau.ac.il/
 [coc-url]: /code-of-conduct
+ -->
