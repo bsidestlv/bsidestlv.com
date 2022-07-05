@@ -25,7 +25,6 @@ This year we had an overwhelming audience turnout and unfortunately, not everyon
 
 We’re sorry about that and as a team we are already thinking about ways to improve and make our future events more accessible to more participants. 
 
-[We hope many of you enjoyed your visit to the cyber jungle with us, Please share your feedback with us so we can serve our community better.](https://forms.gle/3jkbQa1skuV2zzw56)
 
 We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community! See you at BSidesTLV June 29, 2023!
 
