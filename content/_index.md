@@ -7,7 +7,7 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
+{{% jumbo img="/images/backgrounds/back-1.jpg" imgLabel="BSidesTLV 2022" %}}
 
 {{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}}
 
