@@ -15,29 +15,26 @@ menu:
 
 {{% home-message %}}
 
-## 🌴🐯 Welcome to the Jungle! 🌴🦁
+## BSidesTLV 2023 - Thank you for participating! 
 
-BSidesTLV 2022 Will take place IN PERSON on June 30th 2022, at Smolarz Auditorium, Tel Aviv University, from 08:30-19:00, during Tel Aviv University’s Cyber Week.
 
-* If you already have a ticket to join us June 30, you don't need to register again! 
-* If you CANT  participate in person, please cancel your ticket so we can allow others to join us! No ticket needed to watch online :-)
-* [Registration](https://bsidestlv.com/register/) will re-open June 28, 2022 at 09:00AM  Israel time and will remain open until we run out of tickets.
+It’s a wrap for BSidesTLV 2022, Our biggest event yet!
 
-[Registration is now closed, join our waiting list](https://bsidestlv.com/register/)
+1700+ in person participants, 30 amazing speakers, 100 CFP talk submissions, 666 CTF teams, 14 sponsors, 40 volunteers, 2 tracks and a whole lot of fun on stage!
+This year we had an overwhelming audience turnout and unfortunately, not everyone got to experience our full event and join us.
 
-Live streaming will be available on our website on the day, No ticket needed.  
+We’re sorry about that and as a team we are already thinking about ways to improve and make our future events more accessible to more participants. 
 
-If you have a ticket and DO NOT plan to join us in person, please cancel your ticket so we can release tickets to our waiting list.
-[Cancel your ticket](https://tickets.bsidestlv.com/bsidestlv/bsidestlv/)
-We would like to thank our wonderful sponsors, awesome community and fantastic volunteers for supporting BSidesTLV for yet another unforgettable year!
-[All of our sponsors want to hire you so please visit their page!](https://bsidestlv.com/sponsors/)
-[See our updated agenda with 2 tracks, opening keynote and more](https://bsidestlv.com/agenda/)
-See you in the Jungle!
-The BSidesTLV Team
+[We hope many of you enjoyed your visit to the cyber jungle with us, Please share your feedback with us so we can serve our community better.](https://forms.gle/3jkbQa1skuV2zzw56)
+
+We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community! See you at BSidesTLV June 29, 2023!
+
+PS: Photos and videos will be uploaded in the coming weeks, subscribe to our [YouTube channel](https://www.youtube.com/c/BSidesTLV) to be notified when talks are posted. 
+
 {{% /home-message %}}
 
 
-{{% home-info what="Participants:1200+ ,Years:7, Sessions:15+, CTF Challenges:10+" class="primary" %}}
+{{% home-info what="Participants:1700+ ,Years:8, Sessions:30+, CTF Challenges:20+" class="primary" %}}
 
 Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com)
 
