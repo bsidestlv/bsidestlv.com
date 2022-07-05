@@ -17,7 +17,7 @@ menu:
 
 ## BSidesTLV 2023 - Thank you for participating! 
 
-
+ 
 It’s a wrap for BSidesTLV 2022, our biggest event yet!
 
 1700+ in person participants, 30 amazing speakers, 100 CFP talk submissions, 666 CTF teams, 14 sponsors, 40 volunteers, 2 tracks and a whole lot of fun on stage!
