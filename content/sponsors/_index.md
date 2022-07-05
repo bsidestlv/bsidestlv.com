@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Sponsors
 menu:
   main:
@@ -15,3 +15,4 @@ Our event takes place during [Tel Aviv University’s Cyber Week](https://cyberw
 Please reach out to [sponsors@bsidestlv.com](mailto:sponsors@bsidestlv.com) for setting up a call for more details! 
 
 {{% partners categories="platinum,gold,silver,bronze,partners" %}}## BSidesTLV 2022 is proudly sponsored by{{% /partners %}} 
+ -->

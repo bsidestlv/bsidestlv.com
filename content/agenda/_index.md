@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Agenda
 menu:
   main:
@@ -19,3 +19,4 @@ This is a 'silent disco' style track with headphones broadcasting the speaker's 
 
 Special workshops sponsored by GE Digital are back! “Introduction to ICS/SCADA for Hackers”.  
 The workshop will have two sessions at 10:00 and 13:30 - [Sign up here](https://questionpro.com/t/AVvMbZtQSX)
+ -->
