@@ -7,7 +7,7 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
+
 
 <!-- {{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}} -->
 
@@ -30,6 +30,8 @@ We’re sorry about that and as a team we are already thinking about ways to imp
 We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community! See you at BSidesTLV June 29, 2023!
 
 PS: Photos and videos will be uploaded in the coming weeks, subscribe to our [YouTube channel](https://www.youtube.com/c/BSidesTLV) to be notified when talks are posted. 
+
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
 
 {{% /home-message %}}
 
