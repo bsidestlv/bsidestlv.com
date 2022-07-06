@@ -15,7 +15,7 @@ menu:
 
 {{% home-message %}}
 
-## BSidesTLV 2023 - Thank you for participating! 
+## BSidesTLV 2022 - Thank you for participating! 
 
 
 It’s a wrap for BSidesTLV 2022, our biggest event yet!
