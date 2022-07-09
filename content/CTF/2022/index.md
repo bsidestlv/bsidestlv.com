@@ -49,7 +49,6 @@ https://ctf22.bsidestlv.com/ -->
 - [BSidesTLV 2022 CTF – Intergalactic Communicator](https://sekai.team/blog/bsidestlv-2022/intergalactic_communicator/)
 - [BSidesTLV 2022 CTF – Code is Law](https://sekai.team/blog/bsidestlv-2022/code_is_law/)
 - [Code is Law 1: Solidity CTF Challenge Writeup](https://medium.com/@patternrecognizer/solidity-ctf-writeup-code-is-law-1-465428bf4bd5)
-- [Code is Law 2: Solidity CTF Challenge Writeup](https://medium.com/@patternrecognizer/code-is-law-2-solidity-ctf-challenge-writeup-c55f072664a9)
 
 ## Statistics
 
@@ -61,7 +60,15 @@ https://ctf22.bsidestlv.com/ -->
 * 678 Solved challenges
 * 190 Teams solved at least 1 challenge
 
+<<<<<<< HEAD
 [Winner announcements presentation](//static.bsidestlv.com/BSidesTLV2022.pdf)
+=======
+<<<<<<< HEAD
+[Winner announcements presentation](/static.bsidestlv.com/BSidesTLV2022.pdf)
+=======
+[Winner announcements presentation](//static.bsidestlv.com/BSidesTLV2022.pdf)
+>>>>>>> ea7cccb0e4fcfa3f5fa0c89c6865f8ccc335fe61
+>>>>>>> master
 
 ---
 

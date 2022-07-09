@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Register
 menu:
   main:
@@ -64,3 +64,4 @@ Primary track: The Jungle track, located in Smolarz Main Auditorium.
 Our event features cutting edge security talks, deep dive technical sessions, live demos, cool surprises, CTF announcements and of course, all of the fun and excitement you have come to expect from BsidesTLV! As always, all of our sponsors are looking to hire, so be ready! 
 Stay safe, see you in the jungle!
 BSidesTLV 2022 team
+ -->

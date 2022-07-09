@@ -1,4 +1,4 @@
----
+<!-- ---
 
 title: Live!
 
@@ -28,3 +28,4 @@ title: Live!
     {{% partners categories="platinum,gold,silver,bronze,partners" %}}{{% /partners %}}
   </div>
 </div>
+ -->
