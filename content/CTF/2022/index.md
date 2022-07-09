@@ -48,6 +48,7 @@ https://ctf22.bsidestlv.com/ -->
 - [BSidesTLV 2022 CTF – SEV](https://sekai.team/blog/bsidestlv-2022/sev/)
 - [BSidesTLV 2022 CTF – Intergalactic Communicator](https://sekai.team/blog/bsidestlv-2022/intergalactic_communicator/)
 - [BSidesTLV 2022 CTF – Code is Law](https://sekai.team/blog/bsidestlv-2022/code_is_law/)
+- [Code is Law 1: Solidity CTF Challenge Writeup](https://medium.com/@patternrecognizer/solidity-ctf-writeup-code-is-law-1-465428bf4bd5)
 
 ## Statistics
 
@@ -59,7 +60,11 @@ https://ctf22.bsidestlv.com/ -->
 * 678 Solved challenges
 * 190 Teams solved at least 1 challenge
 
+<<<<<<< HEAD
 [Winner announcements presentation](/static.bsidestlv.com/BSidesTLV2022.pdf)
+=======
+[Winner announcements presentation](//static.bsidestlv.com/BSidesTLV2022.pdf)
+>>>>>>> ea7cccb0e4fcfa3f5fa0c89c6865f8ccc335fe61
 
 ---
 
@@ -118,7 +123,7 @@ Yes, plan to release our entire repo
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Oren Yomtov" />}}Code is Law 1<br/>Code is Law 2</div>
     <div>{{< imgproc img="/images/ctf/RonMasas.jpg" label="Ron Masas" />}}Jurassic W0r1d<br/>Tropical API<br/>Wild DevTools</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Ha Gootvilig" />}}SEV</div>
+    <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Ha Gootvilig" />}}SEV</div>
     <div>{{< imgproc img="/images/ctf/ors.jpg" label="Or Sahar" />}}Pokedex</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}The Prefetcher</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}The Prefetcher</div>
