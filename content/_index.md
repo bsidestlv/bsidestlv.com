@@ -26,11 +26,6 @@ All 2022 talks from both tracks have been uploaded to [our YouTube channel.](htt
 
 [Please share your feedback with us so we can serve our community better.](https://forms.gle/3jkbQa1skuV2zzw56)
 
-This year we had an overwhelming audience turnout and unfortunately, not everyone got to experience our full event and join us.
-
-We’re sorry about that and as a team we are already thinking about ways to improve and make our future events more accessible to more participants. 
-
-
 We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community!
 
 Save the date: See you at BSidesTLV June 29, 2023!
