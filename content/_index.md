@@ -30,7 +30,7 @@ We would like to thank all of our speakers, sponsors, volunteers and partners - 
 
 Save the date: See you at BSidesTLV June 29, 2023!
 
-PS: Photos and videos will be uploaded in the coming weeks, check back soon! 
+PS: Photos will be uploaded in the coming weeks, check back soon! 
 
 ![Thank you 2022](/images/thankyou.jpg)
 
