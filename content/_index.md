@@ -72,7 +72,7 @@ Sign up to our newsletter to receive updates throughout the year
 ### Some pictures of **BSidesTLV 2021**
 
     {{< button-link
-      url="//photos.app.goo.gl/SZe2i1wxgk1tXDHm7"
+      url="//photos.app.goo.gl/NCu6pYR9RBdNXGc16"
       label="See all photos"
       icon="right" >}}
 
