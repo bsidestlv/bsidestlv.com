@@ -69,7 +69,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
-### Some pictures of **BSidesTLV 2021**
+### Some pictures of **BSidesTLV 2022**
 
     {{< button-link
       url="//photos.app.goo.gl/NCu6pYR9RBdNXGc16"
