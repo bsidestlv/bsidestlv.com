@@ -15,8 +15,7 @@ menu:
 
 {{% home-message %}}
 
-## BSidesTLV 2022 - Thank you for participating! All event videos are now live! 
-
+## Save the date! BSidesTLV June 29, 2023! 
 
 It’s a wrap for BSidesTLV 2022, our biggest event yet!
 
