@@ -21,7 +21,7 @@
     "@babel/core": "7.20.7",
     "@babel/preset-env": "7.20.2",
     "@rollup/plugin-babel": "6.0.3",
-    "axios": "0.27.2",
+    "axios": "1.2.2",
     "cssnano": "5.1.14",
     "glob": "8.0.3",
     "html-minifier": "4.0.0",
