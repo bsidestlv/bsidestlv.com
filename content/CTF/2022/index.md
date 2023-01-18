@@ -60,8 +60,7 @@ https://ctf22.bsidestlv.com/ -->
 * 678 Solved challenges
 * 190 Teams solved at least 1 challenge
 
-[Winner announcements presentation](//static.bsidestlv.com/BSidesTLV2022.pdf)
-
+[Winner announcements presentation](/static.bsidestlv.com/BSidesTLV2022.pdf)
 ---
 
 ---
@@ -141,4 +140,3 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
 </div>
 
-## Resources and WriteUps
