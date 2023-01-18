@@ -15,20 +15,21 @@ menu:
 
 {{% home-message %}}
 
-## BSidesTLV 2022 - Thank you for participating! 
-
+## Save the date! BSidesTLV June 29, 2023! 
 
 It’s a wrap for BSidesTLV 2022, our biggest event yet!
 
 1700+ in person participants, 30 amazing speakers, 100 CFP talk submissions, 666 CTF teams, 14 sponsors, 40 volunteers, 2 tracks and a whole lot of fun on stage!
-This year we had an overwhelming audience turnout and unfortunately, not everyone got to experience our full event and join us.
 
-We’re sorry about that and as a team we are already thinking about ways to improve and make our future events more accessible to more participants. 
+All 2022 talks from both tracks have been uploaded to [our YouTube channel.](https://www.youtube.com/c/BSidesTLV)
 
+[Please share your feedback with us so we can serve our community better.](https://forms.gle/3jkbQa1skuV2zzw56)
 
-We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community! See you at BSidesTLV June 29, 2023!
+We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community!
 
-PS: Photos and videos will be uploaded in the coming weeks, subscribe to our [YouTube channel](https://www.youtube.com/c/BSidesTLV) to be notified when talks are posted. 
+Save the date: See you at BSidesTLV June 29, 2023!
+
+PS: Photos will be uploaded in the coming weeks, check back soon! 
 
 ![Thank you 2022](/images/thankyou.jpg)
 
@@ -51,7 +52,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-info %}}
 
-{{< youtube-section link="TSjT-p8qLZQ" title="Watch 2021 Videos" class="" >}}
+{{< youtube-section link="h8OeN7r7Mio" title="Watch 2022 Videos" class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
@@ -67,10 +68,10 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
-### Some pictures of **BSidesTLV 2021**
+### Some pictures of **BSidesTLV 2022**
 
     {{< button-link
-      url="//photos.app.goo.gl/SZe2i1wxgk1tXDHm7"
+      url="//photos.app.goo.gl/NCu6pYR9RBdNXGc16"
       label="See all photos"
       icon="right" >}}
 
