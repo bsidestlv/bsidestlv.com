@@ -60,16 +60,7 @@ https://ctf22.bsidestlv.com/ -->
 * 678 Solved challenges
 * 190 Teams solved at least 1 challenge
 
-<<<<<<< HEAD
-[Winner announcements presentation](//static.bsidestlv.com/BSidesTLV2022.pdf)
-=======
-<<<<<<< HEAD
 [Winner announcements presentation](/static.bsidestlv.com/BSidesTLV2022.pdf)
-=======
-[Winner announcements presentation](//static.bsidestlv.com/BSidesTLV2022.pdf)
->>>>>>> ea7cccb0e4fcfa3f5fa0c89c6865f8ccc335fe61
->>>>>>> master
-
 ---
 
 ---
