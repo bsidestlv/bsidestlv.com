@@ -15,7 +15,13 @@ menu:
 
 {{% home-message %}}
 
-## Save the date! BSidesTLV June 29, 2023! 
+## Save the date! BSidesTLV June 29, 2023!
+
+## CFP will open February 15th, 2023
+
+{{% timer "2023-02-15T00:00:00+02:00" "February 15th, 2023 @ 00:00" %}}
+
+{{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
 
 It’s a wrap for BSidesTLV 2022, our biggest event yet!
 

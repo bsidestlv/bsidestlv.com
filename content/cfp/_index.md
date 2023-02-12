@@ -1,23 +1,24 @@
-<!-- ---
-#title: CFP
-#menu:
-#  main:
-#    weight: 50
+---
+title: CFP
+menu:
+  main:
+    weight: 50
 ---
 
 {{% hero %}}
-BSidesTLV 2022 Call for Papers
+BSidesTLV 2023 Call for Papers
 {{%/ hero %}}
 
 ## Our CFP Review board
 
 Our amazing CFP Review board members can be found [here]({{< relref "/team#cfpreviewboard" >}}).
+This year, we will be employing a "Double Blind" review process! This means the reviewers won't be able to see any personal details of the submitters, and submitters will be able to receive anonymized feedback on their submissions.
 
-## When: Thursday, June 30 , 2022
+## When: Thursday, June 29 , 2023
 
-The 2022 edition of Security BSides in Israel, BSidesTLV 2022, is returning during Tel Aviv University's Cyber Week (June 26th - June 30th, 2022).
+The 2023 edition of Security BSides in Israel, BSidesTLV 2023, is returning during Tel Aviv University's Cyber Week (June 25th - June 29th, 2023).
 
-BSidesTLV will take place on Thursday, June 30th, 2022, from 10:00 am until 19:00 pm, and (depending on COVID) might even be followed by our traditional after-party.
+BSidesTLV will take place on Thursday, June 29th, 2023, from 10:00 am until 19:00 pm, and (depending on COVID) might even be followed by our traditional after-party.
 
 ## Where: Tel Aviv University, Smolartz auditorium, Israel
 
@@ -25,6 +26,8 @@ BSidesTLV will take place on Thursday, June 30th, 2022, from 10:00 am until 19:0
 
 BSidesTLV is a hands-on, community-organized hacking and security research event. This is the chance for you to share knowledge, ideas, and failures and demonstrate what you've been up to!
 We encourage talk submissions by both newbies and veterans from people passionate about security in all walks of life. If we don't know who you are, or if you've never spoken on stage before - we want you, so go ahead and submit a talk!
+
+If you never gave a public talk before, or even if you just feel like you need some support - this year we will be able to offer mentorship by members of our review board and BSidesTLV team, if your talk was accepted, feel free to ask for mentoship by emailing cfp@bsidestlv.com
 
 #### Available speaking slots:
 
@@ -53,17 +56,17 @@ The 10min slot depends on a minimum number of Lightning Talk applicants.
 
 {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
 
-#### Important BSidesTLV 2022 dates:
+#### Important BSidesTLV 2023 dates:
 
-- February 15th, 2022 - CFP opens
-- April 30th at 23:59:59 - CFP closes
-- May 20th, 2022 - Accepted talks notified
-- June 1st, 2022 - Agenda announced to the public with final talk title & abstract
-- June 15th, 2022 - Presentation/slides due for review
-- June 29th, 2022 - Speakers' dinner (in the event of a physical-presence conference)
-- June 30th, 2022 - BSidesTLV and after-party (in the event of a physical-presence conference)!
+- February 15th, 2023 - CFP opens
+- May 1st, 2023 - CFP closes
+- May 10th, 2023 - Accepted talks notified
+- June 1st, 2023 - Agenda announced to the public with final talk title & abstract
+- June 15th, 2023 - Presentation/slides due for review
+- June 29th, 2023 - Speakers' dinner (in the event of a physical-presence conference)
+- June 30th, 2023 - BSidesTLV and after-party (in the event of a physical-presence conference)!
 
-#### Why you should speak at BSidesTLV 2022
+#### Why you should speak at BSidesTLV 2023
 
 You'll win the audience's admiration and a chance to (hopefully) visit Tel Aviv and be a part of [Cyber Week][cyberweek], This annual event brings over 8000 international guests from 60 countries to Tel Aviv. Pending COVID-19 solutions, of course.
 
@@ -88,3 +91,4 @@ Our Code Of Conduct can be found [here][coc-url]
 [cyberweek]: https://cyberweek.tau.ac.il/
 [coc-url]: /code-of-conduct
  -->
+
