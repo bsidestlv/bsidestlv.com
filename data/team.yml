@@ -177,3 +177,11 @@
   socials:
     - link: "https://www.linkedin.com/in/gadievron"
       name: LinkedIn
+      
+- title: Ilil Blum Shem-Tov
+  type: cfpboard
+  subtitle:
+  key: ilil_blum
+  socials:
+    - link: "https://www.linkedin.com/in/ilil-blum-shem-tov-aa5a4321"
+      name: LinkedIn
