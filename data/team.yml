@@ -185,3 +185,13 @@
   socials:
     - link: "https://www.linkedin.com/in/ilil-blum-shem-tov-aa5a4321"
       name: LinkedIn
+      
+- title: Ohad Zaidenberg
+  type: advillageteam
+  subtitle: Strategic Threat Intelligence Leader | CTI Researcher
+  key: ohad_zaidenberg
+  socials:
+    - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
+      name: LinkedIn
+    - link: "https://twitter.com/ohad_mz"
+      name: Twitter
