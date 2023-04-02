@@ -5,10 +5,6 @@ menu:
     weight: 55
 ---
 
-{{% hero %}}
-Adversary Village at BSidesTLV
-{{%/ hero %}}
-
 ## Adversary Village at BSidesTLV
 
 For the first time in BSidesTLV history, we are excited to introduce the Adversary Village! This year's event will host a range of engaging activities designed to immerse attendees in the world of adversary simulation, emulation, malicious mindset, threat intelligence, and purple teaming. We invite you to join us in this groundbreaking initiative and be part of a collaborative effort to shape the future of cybersecurity.
@@ -44,7 +40,7 @@ Submit your proposal here:
 
 #### Call for Volunteers
 
-We're looking for volunteers to help us run the Adversary Village this year. If you're interested in joining our team, please reach out to us via email at ‫adversaryvillage@bsidestlv.com‬ or on Twitter @AdversaryVillageIL.
+We're looking for volunteers to help us run the Adversary Village this year. If you're interested in joining our team, please reach out to us via email at ‫adversaryvillage@bsidestlv.com‬ or on Twitter [@AdversaryVillageIL](https://twitter.com/BSTLV_Adversary).
 
 
 #### Our Code of Conduct:
@@ -57,5 +53,4 @@ Our Code Of Conduct can be found [here][coc-url]
 [smolarz-map]: https://www.google.com/maps/place/Tel+Aviv+University+Smolarz+Auditorium/@32.1103563,34.8042639,15z/data=!4m5!3m4!1s0x0:0x57e1b1e76143c7f7!8m2!3d32.1103563!4d34.8042639
 [cyberweek]: https://cyberweek.tau.ac.il/
 [coc-url]: /code-of-conduct
- -->
 
