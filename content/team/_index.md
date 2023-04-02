@@ -16,7 +16,7 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 {{% /hero %}}
 
-{{< teams types="team=BSidesTLV Team,cfpboard=CFP Review Board" >}}
+{{< teams types="team=BSidesTLV Team,cfpboard=CFP Review Board,advillageteam=Adversary Village" >}}
 
 <!-- ...
 
