@@ -51,7 +51,7 @@ Submit your proposal here: [Adversary Village CFP](https://cfp.bsidestlv.com/bsi
 
 We're looking for volunteers to help us run the Adversary Village this year.
 
-If you're interested in joining our team, please reach out to us via email at ‫adversaryvillage@bsidestlv.com‬ or on Twitter [@BSTLV_Adversary](https://twitter.com/BSTLV_Adversary).
+If you're interested in joining our team, please reach out to us via email at adversaryvillage@bsidestlv.com or on Twitter [@BSTLV_Adversary](https://twitter.com/BSTLV_Adversary).
 
 
 #### Leadership
