@@ -45,7 +45,7 @@ We encourage outstanding submissions that demonstrate community-driven developme
 - Lightning talk (10 minutes)
 - Panel (30 minutes, which should include a few members)
 
-Submit your proposal here:
+Submit your proposal here: [Adversary Village CFP](https://cfp.bsidestlv.com/bsidestlv-2023-villages)
 
 #### Call for Volunteers
 
