@@ -18,3 +18,15 @@
 // Custom CSS
 @import "page";
 @import "bsidestlv";
+
+#timercontainer {
+	@include mq($until: md) {
+		font-size: 16pt;
+	}
+	@include mq($from: md) {
+		font-size: 28pt;
+	}
+	@include mq($from: lg) {
+		font-size: 32pt;
+	}
+}

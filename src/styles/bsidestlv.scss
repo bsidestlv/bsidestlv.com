@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Permanent+Marker&display=swap");
-@import "node_modules/sass-mq/mq";
 
 :root {
   --primary: #000;
@@ -115,16 +114,4 @@ a.btn {
 
 main img {
   width: 100%;
-}
-
-#timercontainer {
-	@include mq($until: md) {
-		font-size: 16pt;
-	}
-	@include mq($from: md) {
-		font-size: 28pt;
-	}
-	@include mq($from: lg) {
-		font-size: 32pt;
-	}
 }
