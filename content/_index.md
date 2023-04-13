@@ -92,7 +92,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 <!-- {{% partners categories="platinum,gold,silver,bronze,partners" %}} -->
 
-{{% partners categories="bronze,partners" %}}
+{{% partners categories="partners" %}}
 
 ## Our Sponsors
 
