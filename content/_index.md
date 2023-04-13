@@ -47,8 +47,6 @@ Want to help? Volunteer at BSidesTLV 2023:  https://bsidestlv.com/volunteers/
 Stay safe and see you soon, support of sponsors to make everything possible. Please contact us at sponsors@bsidestlv.com
 
 
-![Thank you 2022](/images/thankyou.jpg)
-
 {{% /home-message %}}
 
 
