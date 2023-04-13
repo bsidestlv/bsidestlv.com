@@ -26,6 +26,7 @@ We welcome first time speakers , and offer speaker mentoring and travel support 
 
 ## CFP will close April 29th, 2023
 
+
 {{% timer "2023-05-01T00:00:00+02:00" "April 29th, 2023 @ 00:00" %}}
 
 {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
