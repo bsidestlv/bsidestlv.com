@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&family=Permanent+Marker&display=swap");
+@import "themes/devfest-theme-hugo-2020/src/styles/root";
+@import "themes/devfest-theme-hugo-2020/src/styles/variables";
+@import "node_modules/sass-mq/mq";
 
 :root {
   --primary: #000;

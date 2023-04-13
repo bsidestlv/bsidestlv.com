@@ -7,40 +7,44 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2022" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2023" %}}
 
-<!-- {{% timer "2022-06-30T08:30:00+03:00" "June 30th, 2022 @ 08:30" %}} -->
+{{% timer "2023-06-29T08:30:00+03:00" "June 29th, 2023 @ 08:30" %}}
 
 {{% /jumbo %}}
 
 {{% home-message %}}
 
-## Save the date! BSidesTLV June 29, 2023!
+## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
 
-## CFP will open February 15th, 2023
+Join our celebration of security research and share your ideas with the biggest security community in Israel!  
+Giddy up and Get crackin’, There’s still time to submit your talks: <https://cfp.bsidestlv.com/>
 
-{{% timer "2023-02-15T00:00:00+02:00" "February 15th, 2023 @ 00:00" %}}
+We welcome first time speakers , and offer speaker mentoring and travel support for overseas speakers!
+
+## CFP will close April 29th, 2023
+
+<!-- {{% timer "2023-05-01T00:00:00+02:00" "April 29th, 2023 @ 00:00" %}} -->
 
 {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
 
-It’s a wrap for BSidesTLV 2022, our biggest event yet!
+## Important information
 
-1700+ in person participants, 30 amazing speakers, 100 CFP talk submissions, 666 CTF teams, 14 sponsors, 40 volunteers, 2 tracks and a whole lot of fun on stage!
+BSidesTLV 2023 will take place Thursday, 29/6/2023 from 9:00-19:00 live & in person at Tel Aviv University during Tel Aviv Cyber Week,  with online live streaming for our community.
+**Ticket registration will open about one month before the event**
 
-All 2022 talks from both tracks have been uploaded to [our YouTube channel.](https://www.youtube.com/c/BSidesTLV)
+## Villages
 
-[Please share your feedback with us so we can serve our community better.](https://forms.gle/3jkbQa1skuV2zzw56)
+This year at BSidesTLV 2023 we will host “Villages” for the first time ever- for more info: <https://cfp.bsidestlv.com/bsidestlv-2023-villages>
 
-We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community!
+## Call for sponsors
 
-Save the date: See you at BSidesTLV June 29, 2023!
+Our community powered, volunteer run event depends on the generous supporters.
+Want to help? Volunteer at BSidesTLV 2023:  <https://bsidestlv.com/volunteers/>
 
-PS: Photos will be uploaded in the coming weeks, check back soon! 
-
-![Thank you 2022](/images/thankyou.jpg)
+Stay safe and see you soon, support of sponsors to make everything possible. Please contact us at sponsors@bsidestlv.com
 
 {{% /home-message %}}
-
 
 {{% home-info what="Participants:1700+ ,Years:8, Sessions:30+, CTF Challenges:20+" class="primary" %}}
 
@@ -66,7 +70,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="platinum,gold,silver,bronze,partners" %}}
+{{% partners categories="partners" %}}
 
 ## Our Sponsors
 
