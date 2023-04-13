@@ -9,15 +9,14 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2023" %}}
 
-{{% timer "2023-06-29T08:30:00+03:00" "June 29th, 2023 @ 08:30" %}}
 
 {{% /jumbo %}}
 
 {{% home-message %}}
 
-
 ## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
 
+{{% timer "2023-06-29T08:30:00+03:00" "June 29th, 2023 @ 08:30" %}}
 
 Join our celebration of security research and share your ideas with the biggest security community in Israel!  
 Giddy up and Get crackin’, There’s still time to submit your talks: https://cfp.bsidestlv.com/ 
