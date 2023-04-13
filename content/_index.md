@@ -27,7 +27,7 @@ We welcome first time speakers , and offer speaker mentoring and travel support 
 
 ## CFP will close April 29th, 2023
 
-{{% timer "2023-02-15T00:00:00+02:00" "February 15th, 2023 @ 00:00" %}}
+{{% timer "2023-05-01T00:00:00+02:00" "April 29th, 2023 @ 00:00" %}}
 
 {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
 
@@ -46,7 +46,7 @@ Our community powered, volunteer run event depends on the generous suWant to hel
 Stay safe and see you soon, support of sponsors to make everything possible. Please contact us at sponsors@bsidestlv.com
 
 
-It’s a wrap for BSidesTLV 2022, our biggest event yet!
+## It’s a wrap for BSidesTLV 2022, our biggest event yet!
 
 1700+ in person participants, 30 amazing speakers, 100 CFP talk submissions, 666 CTF teams, 14 sponsors, 40 volunteers, 2 tracks and a whole lot of fun on stage!
 
