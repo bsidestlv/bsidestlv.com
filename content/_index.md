@@ -47,20 +47,6 @@ Want to help? Volunteer at BSidesTLV 2023:  https://bsidestlv.com/volunteers/
 Stay safe and see you soon, support of sponsors to make everything possible. Please contact us at sponsors@bsidestlv.com
 
 
-## It’s a wrap for BSidesTLV 2022, our biggest event yet!
-
-1700+ in person participants, 30 amazing speakers, 100 CFP talk submissions, 666 CTF teams, 14 sponsors, 40 volunteers, 2 tracks and a whole lot of fun on stage!
-
-All 2022 talks from both tracks have been uploaded to [our YouTube channel.](https://www.youtube.com/c/BSidesTLV)
-
-[Please share your feedback with us so we can serve our community better.](https://forms.gle/3jkbQa1skuV2zzw56)
-
-We would like to thank all of our speakers, sponsors, volunteers and partners - and of course our amazing community!
-
-Save the date: See you at BSidesTLV June 29, 2023!
-
-PS: Photos will be uploaded in the coming weeks, check back soon! 
-
 ![Thank you 2022](/images/thankyou.jpg)
 
 {{% /home-message %}}
