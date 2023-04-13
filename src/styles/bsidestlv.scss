@@ -115,3 +115,15 @@ a.btn {
 main img {
   width: 100%;
 }
+
+#timercontainer {
+	@include mq($until: md) {
+		font-size: 16pt;
+	}
+	@include mq($from: md) {
+		font-size: 28pt;
+	}
+	@include mq($from: lg) {
+		font-size: 32pt;
+	}
+}
