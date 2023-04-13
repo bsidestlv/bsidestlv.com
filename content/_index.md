@@ -24,7 +24,6 @@ Giddy up and Get crackin’, There’s still time to submit your talks: https://
 
 We welcome first time speakers , and offer speaker mentoring and travel support for overseas speakers! 
 
-
 ## CFP will close April 29th, 2023
 
 {{% timer "2023-05-01T00:00:00+02:00" "April 29th, 2023 @ 00:00" %}}
