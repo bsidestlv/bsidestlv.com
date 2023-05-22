@@ -7,7 +7,7 @@ draft: false
 ---
 
 <div class="row">
-    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2023.png" widths="540,720,960,1140" %}}</div>
+    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}</div>
 </div>
 
 #  Timetable
