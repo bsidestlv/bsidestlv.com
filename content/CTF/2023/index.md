@@ -17,7 +17,7 @@ Over 48-hours!
 * Start: June 26th 2023, 09:00am (Israel Time)
 * End:   June 28st 2023, 09:00am (Israel Time)
 
-**Winner announcement on June 30th, during our event**
+**Winner announcement on June 29th, during our event**
 
 {{% timer "Jun 26, 2023 09:00:00" "CTF starts in:" %}}
 
@@ -68,7 +68,7 @@ https://ctf23.bsidestlv.com/
 
 1. Remote participation is allowed (for all teams) this year
 1. We only allow physically present teams to claim a prize, make sure a member of your team is in the announcement ceremony!
-1. We will contact winners using the email registered at the [CTF Website](https://ctf22.bsidestlv.com). Use an email you monitor.
+1. We will contact winners using the email registered at the [CTF Website](https://ctf23.bsidestlv.com). Use an email you monitor.
 1. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
 1. Each team may be made of one or more individuals
 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
@@ -105,7 +105,7 @@ Registration ends at the end of the contest
 
 **What is the flag format?**
 
-The valid flag format is: “BSidesTLV2022{…}”
+The valid flag format is: “BSidesTLV2023{…}”
 
 **Will you release the code/containers/VM after the CTF**
 
@@ -134,7 +134,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Alon Livne" />}}handsfree</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Elisha Eshed" />}}handsfree</div>
     <div>{{< imgproc img="/images/ctf/arthur.jpg" label="Artur Avetisyan" />}}Intergalactic Communicator</div> -->
-    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br/>404 Not Found</div>
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b></div>
     <!-- <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br/>404 Not Found</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amir Kourdi" />}}<b>CTF Team</b><br/>DevOps</div>
     <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div> -->
