@@ -7,27 +7,27 @@ draft: false
 ---
 
 <div class="row">
-    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2022.png" widths="540,720,960,1140" %}}</div>
+    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/banner-2023.png" widths="540,720,960,1140" %}}</div>
 </div>
 
 #  Timetable
 
 Over 48-hours!
 
-* Start: June 27th 2022, 09:00am (Israel Time)
-* End:   June 29st 2022, 18:00am (Israel Time)
+* Start: June 26th 2023, 09:00am (Israel Time)
+* End:   June 28st 2023, 09:00am (Israel Time)
 
 **Winner announcement on June 30th, during our event**
 
-{{% timer "Jun 27, 2022 09:00:00" "CTF starts in:" %}}
+{{% timer "Jun 26, 2023 09:00:00" "CTF starts in:" %}}
 
 ---
 
 # Registration
 
-The CTF is played on the CTFd platform, you will need to [register](https://ctf22.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
+The CTF is played on the CTFd platform, you will need to [register](https://ctf23.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
 
-https://ctf22.bsidestlv.com/
+https://ctf23.bsidestlv.com/
 
 <!-- ## Hall of Fame
 
