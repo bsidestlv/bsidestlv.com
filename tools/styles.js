@@ -2,7 +2,7 @@ const { writeFileSync } = require("fs");
 const path = require("path");
 const { sync: glob } = require("glob");
 const { Logger, LogLevel, colorEmojiConfig } = require("plop-logger");
-const sass = require("node-sass");
+const sass = require("sass");
 const rimraf = require("rimraf");
 
 Logger.config = colorEmojiConfig;
@@ -25,12 +25,9 @@ glob(scssFiles).forEach((file) => {
   const output = path.format({ dir: "static/styles", name, ext: ".css" });
   logger.debug(`Compile to ${output} to`, file);
 
-  const result = sass.renderSync({
-    file,
-    indentedSyntax,
-    outputStyle,
-    sourceMap: true,
-    sourceMapEmbed: true,
+  const result = sass.compile(file, {
+    style: outputStyle,
+    loadPaths: ['./']
   });
   if (result.css) {
     writeFileSync(output, result.css, { flag: "w" });

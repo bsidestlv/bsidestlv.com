@@ -32,5 +32,5 @@
   // "postCreateCommand": "npm ci",
   // Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
   "remoteUser": "node",
-  "postCreateCommand": "git submodule update --init && npm install"
+  "postCreateCommand": "git config --global --add safe.directory /workspaces/bsidestlv.com && git submodule update --init && npm install"
 }
