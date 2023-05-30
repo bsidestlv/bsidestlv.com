@@ -17,7 +17,7 @@ oldFiles
   .flatMap((files) => glob(files, { ignore: ["**/_index.md"] }))
   .map((file) => unlinkSync(file));
 
-const baseurl = "https://cfp.bsidestlv.com/api/events/bsidestlv-2022";
+const baseurl = "https://cfp.bsidestlv.com/api/events/bsidestlv-2023";
 
 var speakers = {};
 var talks = {};
