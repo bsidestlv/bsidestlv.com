@@ -17,7 +17,7 @@
 
 - title: Inbar Raz
   type: team
-  subtitle: VP Research, Hunters | Hacker of Things.
+  subtitle: CEO, Unarmed Security | Hacker of Things.
   key: inbar_raz
   socials:
     - link: "https://twitter.com/inbarraz"
@@ -39,7 +39,7 @@
 
 - title: Omer Cohen
   type: team
-  subtitle:
+  subtitle: CSO, Descope
   key: omer_cohen
   socials:
     - link: "https://www.twitter.com/omercnet"
@@ -53,7 +53,7 @@
 
 - title: Reut Menashe
   type: team
-  subtitle: Tetrisponse.io, Founder & CEO | Leading Cyber Ladies CO-leader | BsidesTLV Executive Producer | Yes, I am a criminal.  My crime is that of curiosity.
+  subtitle: Tetrisponse.io, Founder & CEO | Leading Cyber Ladies Co-leader
   key: reut_menashe
   socials:
     - link: "https://twitter.com/Reutooo_"
@@ -133,14 +133,6 @@
       name: LinkedIn
     - link: "https://twitter.com/iCyberFighter"
       name: Twitter
-
-- title: Amit Serper
-  type: cfpboard
-  subtitle:
-  key: amit_serper
-  socials:
-    - link: "https://www.linkedin.com/in/aserper/"
-      name: LinkedIn
 
 - title: Ophir Harpaz
   type: cfpboard
