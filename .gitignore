@@ -32,4 +32,3 @@ static/CNAME
 
 /static/styles/*.css
 *.webp
-*.lock
