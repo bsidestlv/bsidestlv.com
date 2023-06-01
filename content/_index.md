@@ -20,7 +20,7 @@ menu:
 Ready to explore the “wild wild web” with us this summer?
 The moment we’ve all been waiting for is here:
 
-**Registration to BSidesTLV 2023 is now officially open!**
+[**Registration to BSidesTLV 2023 is now officially open!**]({{< ref "/register" >}})
 
 As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
 
