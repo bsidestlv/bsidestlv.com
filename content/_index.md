@@ -17,32 +17,27 @@ menu:
 
 ## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
 
-Join our celebration of security research and share your ideas with the biggest security community in Israel!  
-Giddy up and Get crackin’, There’s still time to submit your talks: <https://cfp.bsidestlv.com/>
+Ready to explore the “wild wild web” with us this summer?
+The moment we’ve all been waiting for is here:
 
-We welcome first time speakers , and offer speaker mentoring and travel support for overseas speakers!
+[**Registration to BSidesTLV 2023 is now officially open!**]({{< ref "/register" >}})
 
-## CFP will close April 29th, 2023
+As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
 
-<!-- {{% timer "2023-05-01T00:00:00+02:00" "April 29th, 2023 @ 00:00" %}} -->
+This year at BSidesTLV 2023 we will host “Villages” for the first time ever - for more info see the [villages page]({{< ref "/villages" >}})
 
-{{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
+For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}})
+
+We would like to thank our fantastic [sponsors this year]({{< ref "/sponsors" >}})
+
+Sign-up as a volunteer and be part of the BSidesTLV 2023 event: <https://signup.com/go/gYvHGjj>
 
 ## Important information
 
-BSidesTLV 2023 will take place Thursday, 29/6/2023 from 9:00-19:00 live & in person at Tel Aviv University during Tel Aviv Cyber Week,  with online live streaming for our community.
-**Ticket registration will open about one month before the event**
+BSidesTLV 2023 will take place Thursday, 29/6/2023 from 8:30-19:00 in person at Tel Aviv University during Tel Aviv Cyber Week.
 
-## Villages
-
-This year at BSidesTLV 2023 we will host “Villages” for the first time ever- for more info: <https://cfp.bsidestlv.com/bsidestlv-2023-villages>
-
-## Call for sponsors
-
-Our community powered, volunteer run event depends on the generous supporters.
-Want to help? Volunteer at BSidesTLV 2023:  <https://bsidestlv.com/volunteers/>
-
-Stay safe and see you soon, support of sponsors to make everything possible. Please contact us at sponsors@bsidestlv.com
+BSidesTLV 2023 requires each person has a valid BSidesTLV ticket. 
+Cyber Week badge does not entitle BSidesTLV access.
 
 {{% /home-message %}}
 
@@ -53,10 +48,8 @@ Stay safe and see you soon, support of sponsors to make everything possible. Ple
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
-<!--{{< button-link label="Register Here!" url="/register" icon="external" >}} -->
-<!-- {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}} -->
-<!--{{< button-link label="Call for sponsors" url="/sponsors" icon="alert" >}} -->
-<!--{{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}} -->
+{{< button-link label="Register Here!" url="/register" icon="external" >}}
+{{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 &nbsp;
 &nbsp;
 
@@ -70,10 +63,8 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="partners" %}}
-
-## Our Sponsors
-
+{{% partners categories="gold,silver,bronze,partners" %}}
+## BSidesTLV 2023 is proudly sponsored by
 {{% /partners %}}
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}

@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Agenda
 menu:
   main:
@@ -7,16 +7,13 @@ menu:
 
 {{% hero %}}
 
-BSidesTLV 2022 will take place IN PERSON on June 30th, 2022 at Smolarz Auditorium,
-Tel Aviv University, from 08:30-19:00, with live streaming online for our global viewers.
-New this year, we have 2 tracks with more content and speakers for our community, as well as two awesome workshops from our sponsors!
-  
-Primary track: The Jungle track, located in Smolarz Main Auditorium.
-2nd track: The Savannah track, located in Smolarz Foyer 2nd floor.
-This is a 'silent disco' style track with headphones broadcasting the speaker's speech directly to our attendees, as well as a live stream of our opening words, opening keynote, CTF summary and closing keynote.
+BSidesTLV 2023 will take place IN PERSON on June 29th, 2023 at Smolarz Auditorium,
+Tel Aviv University, from 08:30-19:00.
+
+As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
+
+This year at BSidesTLV 2023 we will host “Villages” for the first time ever - for more info see the [villages page]({{< ref "/villages" >}})
+
+# Agenda is not final yet, more talks will be published soon, keep checking this page!
 
 {{% /hero %}}
-
-Special workshops sponsored by GE Digital are back! “Introduction to ICS/SCADA for Hackers”.  
-The workshop will have two sessions at 10:00 and 13:30 - [Sign up here](https://questionpro.com/t/AVvMbZtQSX)
- -->

@@ -1,7 +1,7 @@
 ---
 key: sompo
 title: Sompo
-category: silver
+category: gold
 website: 'https://sompo.io/'
 socials: []
 ---

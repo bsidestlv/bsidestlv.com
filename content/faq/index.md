@@ -14,14 +14,6 @@ Started by a group of hackers, security researchers and people passionate about 
 From the Bsides Community Wiki: "Bsides creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening".  
 Read more about it at: http://www.securitybsides.com/
 
-### Where can i see the streaming for BSidesTLV?
-
-You can see it in our website, on the day of the event the main page will display the stream.
-
-### Where is lobbycon in a hybrid conference?
-
-Head over to our slack to engage with the sponsors, speakers, guests and the team! [BSidesTLV Slack](https://slack.bsidestlv.com)
-
 ### I see everything is in english - will the talks be in english, too?
 
 Yes! We will consider Hebrew talks, but prefer to keep everything in english so we can share the knowledge and invite international guests to attend. If we accept presentations in Hebrew, we’ll offer simultaneous translation.
@@ -68,3 +60,17 @@ BSidesTLV is dedicated to providing a safe and harassment-free conference experi
 Commercially photographing the events, participants,or the grounds is prohibited without consent of all parties involved and approval of the BSidesTLV management. Any materials (such as videos or official photography) released by BSidesTLV may be freely used by the community.
 
 More details at http://confcodeofconduct.com/
+
+### Why are we charging for entrance?
+
+For once, We hope this will help us serve our community better, by making sure that people who sign up for our event will participate in person.  Worldwide, many of the larger Security BSides events and other security community conferences also charge a token fee. As we mostly rely on sponsorships , this year we have decided to charge a small fee that will help us offset some of the event production costs. 
+
+### Is BSidesTLV a commercial event?
+
+No. We are a 100% volunteer run, registered nonprofit association, and the team is fully dedicated to hosting the best community oriented, non commercial event possible. 
+
+### Food ticket info
+
+This year due to a limited budget, we decided to offer a pre-paid basic lunch option: beef or vegan hot dog, chips and soft drinks.
+
+Coffee will be available all day at no cost.

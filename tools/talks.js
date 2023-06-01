@@ -17,7 +17,7 @@ oldFiles
   .flatMap((files) => glob(files, { ignore: ["**/_index.md"] }))
   .map((file) => unlinkSync(file));
 
-const baseurl = "https://cfp.bsidestlv.com/api/events/bsidestlv-2022";
+const baseurl = "https://cfp.bsidestlv.com/api/events/bsidestlv-2023";
 
 var speakers = {};
 var talks = {};
@@ -78,16 +78,18 @@ cfpApi(`${baseurl}/speakers/`)
         strSpeakers = "";
         session.speakers.map((speaker) => {
           speaker = speakers[speaker.code];
-          let md = `---
-                  key: ${speaker.key}
-                  name: ${speaker.name}
-                  socials:
-                  ${speaker.social}
-                  photoURL: "${speaker.avatar}"
-                  ---
+          if (!speaker) return;
+          let md = `
+---
+key: ${speaker.key}
+name: ${speaker.name}
+socials:
+${speaker.social}
+photoURL: "${speaker.avatar}"
+---
 
-                  ${speaker.biography}
-                  `.replace(/                  /g, "");
+${speaker.biography}
+            `.replace(/                  /g, "");
           logger.info("Writing ", speaker.key);
           writeFileSync(`content/speakers/${speaker.key}.md`, md, {
             flag: "w",
@@ -104,21 +106,20 @@ cfpApi(`${baseurl}/speakers/`)
         start = session.slot.start;
         end = session.slot.end;
         duration = session.duration;
-        track = session.track.en;
         speakers = "";
-        let md = `---
-                title: '${session.title.replace(/'/g, "''")}'
-                talkType: ${session.submission_type.en}
-                date: ${start}
-                start: ${start}
-                end: ${end}
-                duration: ${duration}
-                track: ${track}
-                tags:
-                  - ${session.submission_type.en}
-                speakers:
-                ${session.speakers}
-                ---
+        let md = `
+---
+title: '${session.title.replace(/'/g, "''")}'
+talkType: ${session.submission_type.en}
+date: ${start}
+start: ${start}
+end: ${end}
+duration: ${duration}
+tags:
+  - ${session.submission_type.en}
+speakers:
+${session.speakers}
+---
                 ${session.abstract}`.replace(/                /g, "");
         logger.info("Writing ", talk_name);
         writeFileSync(`content/agenda/${talk_name}.md`, md, { flag: "w" });

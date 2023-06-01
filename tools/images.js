@@ -18,10 +18,9 @@ const baseWidths = [1140, 960, 720, 540];
 // Cleanup previous images
 const imgs = baseWidths.flatMap((width) => [
   `static/images/**/*-${width}.jpg`,
-  `static/images/**/*-${width}.webp`,
 ]);
-imgs.push(`static/images/*.webp`);
-imgs.forEach((files) => {
+imgs.push(`static/images/**/*.webp`);
+glob(imgs).forEach((files) => {
   logger.info(`Cleanup previous images`, files);
   rimraf.sync(files);
 });
@@ -44,8 +43,7 @@ const imagesFiles = [
 
 imagesFiles.forEach(({ files, opt, format }) => {
   logger.info(
-    `Deal with ${files}: format: ${format}, with ${
-      opt ? JSON.stringify(opt) : ""
+    `Deal with ${files}: format: ${format}, with ${opt ? JSON.stringify(opt) : ""
     }`
   );
   glob(files).forEach((file) => {
