@@ -64,10 +64,8 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="partners" %}}
-
-## Our Sponsors
-
+{{% partners categories="gold,silver,bronze,partners" %}}
+## BSidesTLV 2023 is proudly sponsored by
 {{% /partners %}}
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
