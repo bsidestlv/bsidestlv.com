@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Speakers
 menu:
   main:
@@ -6,6 +6,5 @@ menu:
 ---
 
 {{% hero %}}
-We are proud to present the speakers of BSidesTLV 2022 !
+We are proud to present the speakers of BSidesTLV 2023 !
 {{% /hero %}}
- -->

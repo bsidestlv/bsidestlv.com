@@ -47,6 +47,7 @@ cfpApi(`${baseurl}/speakers/`)
       process.exit();
     }
     results.map((speaker) => {
+      console.log(JSON.stringify(speaker, null, 2))
       speaker.key = speaker.name.replace(/[^\w]/g, "_").toLowerCase();
       speaker.questions = {};
       speaker.answers.map((answer) => {
@@ -78,16 +79,19 @@ cfpApi(`${baseurl}/speakers/`)
         strSpeakers = "";
         session.speakers.map((speaker) => {
           speaker = speakers[speaker.code];
-          let md = `---
-                  key: ${speaker.key}
-                  name: ${speaker.name}
-                  socials:
-                  ${speaker.social}
-                  photoURL: "${speaker.avatar}"
-                  ---
+          if (!speaker) return;
+          console.log(JSON.stringify(speaker, null, 2))
+          let md = `
+---
+key: ${speaker.key}
+name: ${speaker.name}
+socials:
+${speaker.social}
+photoURL: "${speaker.avatar}"
+---
 
-                  ${speaker.biography}
-                  `.replace(/                  /g, "");
+${speaker.biography}
+            `.replace(/                  /g, "");
           logger.info("Writing ", speaker.key);
           writeFileSync(`content/speakers/${speaker.key}.md`, md, {
             flag: "w",
@@ -100,25 +104,25 @@ cfpApi(`${baseurl}/speakers/`)
 
       logger.info("Creating talks");
       for (let [code, session] of Object.entries(talks)) {
+        console.log(JSON.stringify(session, null, 2))
         talk_name = session.title.replace(/[^\w]/g, "_").toLowerCase();
         start = session.slot.start;
         end = session.slot.end;
         duration = session.duration;
-        track = session.track.en;
         speakers = "";
-        let md = `---
-                title: '${session.title.replace(/'/g, "''")}'
-                talkType: ${session.submission_type.en}
-                date: ${start}
-                start: ${start}
-                end: ${end}
-                duration: ${duration}
-                track: ${track}
-                tags:
-                  - ${session.submission_type.en}
-                speakers:
-                ${session.speakers}
-                ---
+        let md = `
+---
+title: '${session.title.replace(/'/g, "''")}'
+talkType: ${session.submission_type.en}
+date: ${start}
+start: ${start}
+end: ${end}
+duration: ${duration}
+tags:
+  - ${session.submission_type.en}
+speakers:
+${session.speakers}
+---
                 ${session.abstract}`.replace(/                /g, "");
         logger.info("Writing ", talk_name);
         writeFileSync(`content/agenda/${talk_name}.md`, md, { flag: "w" });

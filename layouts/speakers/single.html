@@ -24,21 +24,16 @@
 
 		<ul class="talks">
 			{{ $talks := where .Site.RegularPages "Params.speakers" "intersect" (slice .Page.Params.key) }}
-			{{ range $talks.GroupByParam "track"}}
-			<li>
-				<h2>Track {{ .Key }}</h2>
-				<ul>
-					{{ range .Pages }}
-					<li>
-						<a href="{{ .RelPermalink }}" class="visually-hidden">{{.Title }}</a>
-						<a href="{{ .RelPermalink }}" class="talk tag-{{ anchorize (delimit .Params.tags "" ) }}">
-							<h3 class="text">{{ .Title }}</h3>
-						</a>
-					</li>
-					{{ end }}
-				</ul>
-			</li>
-			{{ end }}
+			<ul>
+				{{ range .Pages }}
+				<li>
+					<a href="{{ .RelPermalink }}" class="visually-hidden">{{.Title }}</a>
+					<a href="{{ .RelPermalink }}" class="talk tag-{{ anchorize (delimit .Params.tags "" ) }}">
+						<h3 class="text">{{ .Title }}</h3>
+					</a>
+				</li>
+				{{ end }}
+			</ul>
 		</ul>
 
 	</div>

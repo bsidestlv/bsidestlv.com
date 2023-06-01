@@ -4,9 +4,7 @@
 	{{ .Content }}
 </section>
 
-{{ range .Pages.GroupByParam "Track" }}
 <section class="col-lg-offset-3 col-lg-6">
-	<h1>Track {{ .Key }}</h1>
 	<div class="zebra">
 
 		<div class="row thead">
@@ -38,6 +36,4 @@
 		{{ end }}
 	</div>
 </section>
-{{ end }}
-
 {{ end }}
