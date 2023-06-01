@@ -5,12 +5,6 @@ menu:
     weight: 40
 ---
 
-## Our Sponsors
-
-We would like to thank you loyal sponsors for supporting our event this year!
-
-{{% partners categories="gold,silver,bronze,partners" %}}
-{{% /partners %}}
 
 ## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
 
@@ -27,8 +21,16 @@ Sign-up as a volunteer and be part of the BSidesTLV 2023 event:  https://signup.
 - Where: [Smolarz Auditorium,  Tel Aviv University, Israel.](https://goo.gl/maps/empagm1x9NETBmkX7)
 - Join our mailing list to be notified of any updates and future events 
 
-<iframe src="https://ticks.co.il/webWidget.php?i=5WEA3DB3vZ1" style="border:none; min-width:320px; overflow:hidden; display:block; height:500px; width:100%" allowtransparency="true"></iframe>
+## Our Sponsors
+
+We would like to thank you loyal sponsors for supporting our event this year!
+
+{{% partners categories="gold,silver,bronze,partners" %}}
+{{% /partners %}}
 
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
 {{< button-link url="https://slack.bsidestlv.com" label="Join our Slack!" icon="slack" >}}
+## Register 
+---
+<iframe src="https://ticks.co.il/webWidget.php?i=5WEA3DB3vZ1" style="border:none; min-width:320px; overflow:hidden; display:block; height:1250px; width:100%" allowtransparency="true"></iframe>
