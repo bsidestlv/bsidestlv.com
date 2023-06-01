@@ -32,5 +32,5 @@ We would like to thank you loyal sponsors for supporting our event this year!
 
 {{< button-link url="https://slack.bsidestlv.com" label="Join our Slack!" icon="slack" >}}
 ## Register 
----
-<iframe src="https://ticks.co.il/webWidget.php?i=5WEA3DB3vZ1" style="border:none; min-width:320px; overflow:hidden; display:block; height:1250px; width:100%" allowtransparency="true"></iframe>
+
+[Get your tickets now!](https://ticks.co.il/selectTickets.php?i=5WEA3DB3vZ1)
