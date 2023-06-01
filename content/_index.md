@@ -24,9 +24,9 @@ The moment we’ve all been waiting for is here:
 
 As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
 
-For more information about our tickets this year, please see our FAQ: <{{< ref "/faq" >}}>
+For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}})
 
-We would like to thank our fantastic sponsors this year: <{{< ref "/sponsors" >}}>
+We would like to thank our fantastic [sponsors this year]({{< ref "/sponsors" >}})
 
 Sign-up as a volunteer and be part of the BSidesTLV 2023 event: <https://signup.com/go/gYvHGjj>
 
@@ -37,7 +37,7 @@ BSidesTLV 2023 will take place Thursday, 29/6/2023 from 9:00-19:00 live & in per
 
 ## Villages
 
-This year at BSidesTLV 2023 we will host “Villages” for the first time ever- for more info: <{{< ref "/villages" >}}>
+This year at BSidesTLV 2023 we will host “Villages” for the first time ever - for more info see the [villages page]({{< ref "/villages" >}})
 
 {{% /home-message %}}
 
