@@ -22,6 +22,9 @@ The moment we’ve all been waiting for is here:
 
 [**Registration to BSidesTLV 2023 is now officially open!**]({{< ref "/register" >}})
 
+{{< button-link url="/register" label="REGISTER" icon="subscribe">}}
+
+
 As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
 
 This year at BSidesTLV 2023 we will host “Villages” for the first time ever - for more info see the [villages page]({{< ref "/villages" >}})
