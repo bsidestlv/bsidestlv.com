@@ -16,3 +16,12 @@
 		font-size: 32pt;
 	}
 }
+
+.message > .inner {
+		@include mq($until: md) {
+			width: 90%;
+		}
+		@include mq($from: lg) {
+			width: 100%;
+		}	
+}
