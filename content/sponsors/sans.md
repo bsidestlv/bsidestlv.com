@@ -1,7 +1,7 @@
 ---
 key: sans
 title: SANS
-category: silver
+category: gold
 website: 'https://www.sans.org/emea/'
 socials: []
 ---
