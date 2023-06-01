@@ -47,7 +47,6 @@ cfpApi(`${baseurl}/speakers/`)
       process.exit();
     }
     results.map((speaker) => {
-      console.log(JSON.stringify(speaker, null, 2))
       speaker.key = speaker.name.replace(/[^\w]/g, "_").toLowerCase();
       speaker.questions = {};
       speaker.answers.map((answer) => {
@@ -80,7 +79,6 @@ cfpApi(`${baseurl}/speakers/`)
         session.speakers.map((speaker) => {
           speaker = speakers[speaker.code];
           if (!speaker) return;
-          console.log(JSON.stringify(speaker, null, 2))
           let md = `
 ---
 key: ${speaker.key}
@@ -104,7 +102,6 @@ ${speaker.biography}
 
       logger.info("Creating talks");
       for (let [code, session] of Object.entries(talks)) {
-        console.log(JSON.stringify(session, null, 2))
         talk_name = session.title.replace(/[^\w]/g, "_").toLowerCase();
         start = session.slot.start;
         end = session.slot.end;

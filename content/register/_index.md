@@ -13,6 +13,8 @@ The moment we’ve all been waiting for is here
 
 **Registration to BSidesTLV 2023 is now officially open!**
 
+[Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
+
 {{< button-link url="https://ticks.co.il/selectTickets.php?i=5WEA3DB3vZ1" label="REGISTER" icon="subscribe">}}
 
 For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}})
