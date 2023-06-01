@@ -19,7 +19,7 @@ The moment we’ve all been waiting for is here
 
 **Registration to BSidesTLV 2023 is now officially open!**
 
-For more information about our tickets this year, please see our FAQ: https://bsidestlv.com/faq
+For more information about our tickets this year, please see our FAQ: <{{< ref "/faq" >}}>
 
 Sign-up as a volunteer and be part of the BSidesTLV 2023 event:  https://signup.com/go/gYvHGjj
 
