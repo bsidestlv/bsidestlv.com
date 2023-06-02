@@ -15,7 +15,8 @@ The moment we’ve all been waiting for is here
 
 [Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
 
-{{< button-link url="https://ticks.co.il/selectTickets.php?i=5WEA3DB3vZ1" label="REGISTER" icon="subscribe">}}
+{{< button-link url="https://ticks.co.il/selectTickets.php?i=5WEA3DB3vZ1" label="REGISTER - Hebrew version" icon="subscribe">}}
+{{< button-link url="https://ticks.co.il/selectTickets.php?i=5WEA3DB3vZ2" label="REGISTER - English version" icon="subscribe">}}
 
 For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}})
 
