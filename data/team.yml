@@ -186,4 +186,34 @@
     - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
       name: LinkedIn
     - link: "https://twitter.com/ohad_mz"
+      name: Twitter  
+      
+- title: Benny Meisels
+  type: hwhvillageteam
+  subtitle: CYMOTIVE | Lead Solution Architect
+  key: benny_meisels
+  socials:
+    - link: ""
+      name: LinkedIn
+    - link: ""
+      name: Twitter
+      
+- title: Antriksh Shah
+  type: hwhvillageteam
+  subtitle: 
+  key: antriksh_shah
+  socials:
+    - link: ""
+      name: LinkedIn
+    - link: ""
+      name: Twitter
+      
+- title: Guy Halfon
+  type: leadvillageteam
+  subtitle: Rescana | CEO and Co-founder
+  key: guy_halfon
+  socials:
+    - link: ""
+      name: LinkedIn
+    - link: ""
       name: Twitter
