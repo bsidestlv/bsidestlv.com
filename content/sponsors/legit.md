@@ -1,7 +1,7 @@
 ---
 key: legit
 title: Legit
-category: gold
+category: platinum
 website: 'https://www.legitsecurity.com/'
 socials: []
 ---
