@@ -14,4 +14,4 @@ Our venue is the Smolarz Auditorium in Tel Aviv University and will be able to h
 Our event takes place during [Tel Aviv University’s Cyber Week](https://cyberweek.tau.ac.il/).
 Please reach out to [sponsors@bsidestlv.com](mailto:sponsors@bsidestlv.com) for setting up a call for more details! 
 
-{{% partners categories="gold,silver,bronze,partners" %}}## BSidesTLV 2023 is proudly sponsored by{{% /partners %}} 
+{{% partners categories="platinum,gold,silver,bronze,partners" %}}## BSidesTLV 2023 is proudly sponsored by{{% /partners %}} 

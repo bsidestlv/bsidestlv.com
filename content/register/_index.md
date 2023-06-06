@@ -30,7 +30,7 @@ Sign-up as a volunteer and be part of the BSidesTLV 2023 event:  https://signup.
 
 We would like to thank you loyal sponsors for supporting our event this year!
 
-{{% partners categories="gold,silver,bronze,partners" %}}
+{{% partners categories="platinum,gold,silver,bronze,partners" %}}
 {{% /partners %}}
 
 {{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
