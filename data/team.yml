@@ -53,15 +53,15 @@
 
 - title: Reut Menashe
   type: team
-  subtitle: Tetrisponse.io, Founder & CEO | Leading Cyber Ladies Co-leader
+  subtitle: CEO, Tetrisponse.io | Co-Leader, Leading Cyber Ladies | BsidesTLV Producer & Villages Founder
   key: reut_menashe
   socials:
+    - link: "https://www.reut-menashe.com/"
+      name: Site
     - link: "https://twitter.com/Reutooo_"
       name: Twitter
-    - link: "https://il.linkedin.com/in/reutmenashe"
+    - link: "https://wwww.linkedin.com/in/reutmenashe"
       name: LinkedIn
-    - link: "https://www.facebook.com/reut.menashe"
-      name: Facebook
     - link: "https://leadingcyberladies.com/"
       name: Site
 
