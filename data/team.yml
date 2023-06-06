@@ -217,3 +217,27 @@
       name: LinkedIn
     - link: ""
       name: Twitter
+      
+- title: Gadi Evron
+  type: hellocybervillage
+  subtitle:
+  key: gadi_evron
+  socials:
+    - link: "https://www.linkedin.com/in/gadievron"
+      name: LinkedIn
+      
+- title: Dafna Yanin
+  type: hellocybervillage
+  subtitle: Head of outreach and engagement department at the INCD 
+  key: dafna_yanin
+  socials:
+    - link: ""
+      name: LinkedIn   
+      
+- title: Rotem Bar
+  type: bugbountyvillage
+  subtitle: Cyber Paladin | Leading Israel’s bug bounty community | Appsec Innovation at Palo Alto 
+  key: rotem_bar
+  socials:
+    - link: ""
+      name: LinkedIn

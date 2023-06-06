@@ -16,7 +16,7 @@ To make all this possible, an awesome team of volunteers is working behind the s
 
 {{% /hero %}}
 
-{{< teams types="team=BSidesTLV Team,cfpboard=CFP Review Board,leadvillageteam=Villages Lead,advillageteam=Adversary Village,hwhvillageteam=Hardware Hacking Village," >}}
+{{< teams types="team=BSidesTLV Team,cfpboard=CFP Review Board,leadvillageteam=Villages Lead,advillageteam=Adversary Village,hwhvillageteam=Hardware Hacking Village,hellocybervillage=Hello Cyber World,bugbountyvillage=Bug Bounty Village" >}}
 
 <!-- ...
 
