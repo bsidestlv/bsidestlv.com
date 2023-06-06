@@ -193,9 +193,9 @@
   subtitle: CYMOTIVE | Lead Solution Architect
   key: benny_meisels
   socials:
-    - link: ""
+    - link: "https://www.linkedin.com/in/benny-meisels"
       name: LinkedIn
-    - link: ""
+    - link: "https://twitter.com/benny_meisels"
       name: Twitter
       
 - title: Antriksh Shah
@@ -203,9 +203,9 @@
   subtitle: 
   key: antriksh_shah
   socials:
-    - link: ""
+    - link: "https://www.linkedin.com/in/antriksh-shah"
       name: LinkedIn
-    - link: ""
+    - link: "https://twitter.com/antriksh_s"
       name: Twitter
       
 - title: Guy Halfon
@@ -213,10 +213,8 @@
   subtitle: Rescana | CEO and Co-founder
   key: guy_halfon
   socials:
-    - link: ""
+    - link: "https://www.linkedin.com/in/zecurity"
       name: LinkedIn
-    - link: ""
-      name: Twitter
       
 - title: Gadi Evron
   type: hellocybervillage
@@ -231,7 +229,7 @@
   subtitle: Head of outreach and engagement department at the INCD 
   key: dafna_yanin
   socials:
-    - link: ""
+    - link: "https://www.linkedin.com/in/dafna-yanin-a9954963"
       name: LinkedIn   
       
 - title: Rotem Bar
@@ -239,5 +237,7 @@
   subtitle: Cyber Paladin | Leading Israel’s bug bounty community | Appsec Innovation at Palo Alto 
   key: rotem_bar
   socials:
-    - link: ""
+    - link: "https://www.linkedin.com/in/r0tem/"
       name: LinkedIn
+    - link: "https://twitter.com/rotembar"
+      name: Twitter
