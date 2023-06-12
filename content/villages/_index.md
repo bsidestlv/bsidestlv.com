@@ -15,7 +15,7 @@ Saddle up, partners! BSidesTLV is striking gold in 2023 with a fresh new take on
 The seasoned gunslinger Rotem Bar, famed far and wide for his uncanny knack for hunting down pesky code bugs, will be marshal of this town. This homestead is all about rallying the quickest draws in web application security, hackers, and tech enthusiasts. You can bet your boots there'll be plenty of gabbing, workshops, and Capture The Flag (CTF) contests to keep your hacker skills sharp as a spur​1​​2​.
 
 ## Hardware Hacking Village
-This here is where the blacksmiths play. Antriksh Shah and Benni Meisels are the big cheeses in this burg, and they're aiming to teach you how to pry open those stubborn physical devices and expose their soft underbellies.
+This here is where the blacksmiths play. Antriksh Shah and Benny Meisels are the big cheeses in this burg, and they're aiming to teach you how to pry open those stubborn physical devices and expose their soft underbellies.
 
 ## Hello Cyber World Village
 The posse known as Hackeriot is riding in to run this show. They're a group of pioneers blazing a trail for women on the cyber frontier, offering networking opportunities and a helping hand for those looking to stake their claim in the field. Their leadership suggests that this village might focus on these noble goals as well​​.
