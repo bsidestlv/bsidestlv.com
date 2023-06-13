@@ -1,3 +1,4 @@
+<!--
 ---
 title: Hardware Village
 menu:
@@ -90,3 +91,5 @@ Our amazing CFP Review board members can be found [here]({{< relref "/team#hardv
 Our Code Of Conduct can be found [here][coc-url]
 
 [coc-url]: /code-of-conduct
+
+-->

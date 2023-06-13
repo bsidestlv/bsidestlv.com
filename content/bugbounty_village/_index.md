@@ -1,3 +1,4 @@
+<!--
 ---
 title: Bug Bounty Village at BSidesTLV
 menu:
@@ -47,3 +48,4 @@ If you're interested in joining our team, please contact us via Direct Message.
 
 All attendees, speakers, sponsors, and volunteers at our conference are required to agree with the following code of conduct. [Our Code Of Conduct can be found here]
 
+-->

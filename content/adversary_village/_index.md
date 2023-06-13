@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Adverserial Mindset Village"
 date: 2023-06-12
@@ -63,3 +64,4 @@ Speaker: Jamie Williams
 ## Final Words
 
 Closing remarks by Ohad  
+-->
