@@ -7,7 +7,9 @@ menu:
 
 # BSidesTLV Villages
 
-Saddle up, partners! BSidesTLV is striking gold in 2023 with a fresh new take on the wild west of cybersecurity. For the first time in the good, bad, and ugly world of this here rodeo, we're setting up camp with specialized hacker havens, known as "villages". Each settlement will be as unique as a rattlesnake's rattle, focusing on a different aspect of cybersecurity:
+Saddle up, partners!
+
+BSidesTLV is striking gold in 2023 with a fresh new take on the wild west of cybersecurity. For the first time in the good, bad, and ugly world of this here rodeo, we're setting up camp with specialized hacker havens, known as "villages". Each settlement will be as unique as a rattlesnake's rattle, focusing on a different aspect of cybersecurity:
 
 ---
 
@@ -25,14 +27,21 @@ Join us in this trailblazing journey and let's reshape the future of bug bountie
 ## Schedule
 
 10:00-10:30	Opening Presentation - What is Bug Bounty and why should we care by Rotem Bar
+
 10:30-11:15	Israeli bug bounty programs intro	
+
 11:15-12:00	SSRF Protections, From bounty report to mitigation by	Reuven Elezra, Appsflyer
+
 12:00-13:00	Break	
+
 13:00-13:45	Hacking CI systems in the wild	by Moti Harmats
+
 13:45-14:30	TBA
+
 14:30-16:00	Lightning talks - Registration on site
 
 From 10:30 → 18:00 - Collaboration / Hunting together - Bring a laptop
+
 ●	Hacking Professionals assistant program
 
 ## Our Vision
@@ -76,7 +85,9 @@ This session consists of lightning talks, which are short and concise presentati
 We're looking for volunteers to help us run the Bug Bounty Village this year. Volunteer roles include:
 
 - Main Desk: Provide information about bug bounties, how to start, and general help
+
 - Newbie Assistant: Assist newcomers to the bug bounty field (requires technical knowledge)
+
 - Hacking Guru: Join the hunt, help hunters exploit and identify vulnerabilities, suggest new bypass methods, or provide useful tips to save time.
 
 If you're interested in joining our team, please contact us via Direct Message.
@@ -88,11 +99,17 @@ This here is where the blacksmiths play. Antriksh Shah and Benny Meisels are the
 ## Schedule
 
 11:00-11:30	How to trust your open-source ASIC by Leonid Azriel
+
 11:30-12:00	Firmware security testing with Fault Injection Simulation	by Jan Jager
+
 12:00-12:30	"Bolt-on security for existing and new designs with Secure Flash	by Nir Tasher
+
 12:30-13:30	LUNCH	
+
 13:30	14:45	CYMOCAN - An open-source USB CAN-FD adapter by	Benny Meisels
+
 14:45	15:30	TBA	
+
 15:30	16:00	TBA	
 
 
@@ -158,8 +175,11 @@ Attacks & Countermeasures
 ### Available speaking slots include:
 
 - Regular talk (25 minutes)
+
 - Deep-dive, technical talk (45 minutes, which should include a workshop or a live demo)
+
 - Lightning talk (10 minutes)
+
 - Panel (30 minutes, which should include a few members)
 
 Submit your proposal here: [Hardware Village CFP](https://cfp.bsidestlv.com/bsidestlv-2023-villages)
@@ -189,22 +209,39 @@ Join us in this exciting initiative, and let's navigate the cybersecurity landsc
 
 ## Schedule 
 09:00-09:20 Cyber career path (positions in cyber security) by Moran Sedbon
+
 09:20-09:40	 Cyber positions deep dive: Attack by Tomer Drori 
+
 09:40-09:45	 Break	
+
 09:45-10:05	 Cyber positions deep dive: GRC by	Shelly Braunstein
+
 10:05-10:25	 Cyber positions deep dive: Intelligence by TBD
+
 10:25-10:30	 Break	
+
 10:30-11:15	 Intro to CTF	by Nofar Terenyo
+
 11:15-11:20	 Break
+
 11:15-12:15	 Preparing for the technical interview 	by Barak Itkin
+
 12:15-12:45	 Lunch
+
 12:45-13:00	 Writing your resume by	Yoav Feuerstein
+
 13:00-13:15	 Leveraging LinkedIn for your career by	Nataly Trister
+
 13:15-13:20	 Break
+
 13:20-13:50	 The power of networking by Alon Shahak
+
 13:50-14:20	 Managing your job search	by TBD
+
 14:20-14:25	 Break
+
 14:25-14:45	 How to rock interviews by TBD
+
 14:45-15:00	 Cyber Seniority by	TBD
 
 
@@ -305,13 +342,21 @@ For the first time in BSidesTLV history, we are excited to introduce the Adversa
 ## Schedule
 
 10:00-10:10 Opening Remarks by Ohad Zaidenberg 
+
 10:15-10:40 Becoming A Better Adversary: An exploration into the adversarial mindset by Gal Bitansky 
+
 11:00-11:25 A Ransomware Battle Royal: The Cybersecurity Battle You Can't Afford to Lose: A dive into the intelligence behind ransomware by Danna Pelleg and Sharon Fisher 
+
 11:30-12:15 Keynote - Red Team Tales: 7 Years of Physical Penetration Testing: An engaging narrative of real-world red teaming experiences by our keynote speaker, Justin Wynn 
+
 12:30-12:55 AI Red Teaming LLM's: A cutting-edge look into red teaming for large language models by Alex Polyakov 
+
 13:00-13:25 Recon for the Win: Unveiling the power of OSINT and Reconnasiance for red teamers by Lior Sibonny Leibovitz 
+
 14:30-15:15 Panel Discussion - From Intelligence to Adversary Simulation: An in-depth discussion moderated by Stav Shulman with panelists Ido Rozen, Dr. Amit Elazari, and Hanna Meyerfeld 
+
 15:25-15:50 Closing Keynote - Finding Your Adversarial Voice: Empowering insights by Jamie Williams on finding and using your adversarial voice 
+
 15:55-16:00 Final Words by Ohad Zaidenberg
 
 ## Our Vision
