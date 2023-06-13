@@ -15,9 +15,9 @@ BSidesTLV is striking gold in 2023 with a fresh new take on the wild west of cyb
 
 ## Bug Bounty Village at BSidesTLV:
 
-The seasoned gunslinger Rotem Bar, famed far and wide for his uncanny knack for hunting down pesky code bugs, will be marshal of this town. This homestead is all about rallying the quickest draws in web application security, hackers, and tech enthusiasts. You can bet your boots there'll be plenty of gabbing, workshops, and Capture The Flag (CTF) contests to keep your hacker skills sharp as a spur​1​​2​.
+The seasoned gunslinger Rotem Bar, famed far and wide for his uncanny knack for hunting down pesky code bugs, will be marshal of this town. This homestead is all about rallying the quickest draws in web application security, hackers, and tech enthusiasts. You can bet your boots there'll be plenty of gabbing, hacking, and workshop to keep your hacker skills sharp as a spur​1​​2​.
 
-## Bug Bounty Village at BSidesTLV: Embrace Your Inner Hacker
+## Embrace Your Inner Hacker
 
 Attention all hackers! For the first time in BSidesTLV history, we're excited to unveil the Bug Bounty Village! This year's event is filled with gripping activities that will immerse you in the thrilling world of hacking, bug hunting, and shared knowledge.
 
@@ -36,13 +36,11 @@ Join us in this trailblazing journey and let's reshape the future of bug bountie
 
 13:00-13:45	Hacking CI systems in the wild	by Moti Harmats
 
-13:45-14:30	TBA
+13:45-14:30	Exploiting TikTok: Our Journey to Finding an Account Takeover Vulnerability using XSS by Amit Elbirt & Abir Nadav
 
 14:30-16:00	Lightning talks - Registration on site
 
 From 10:30 → 18:00 - Collaboration / Hunting together - Bring a laptop
-
-●	Hacking Professionals assistant program
 
 ## Our Vision
 
@@ -59,21 +57,38 @@ Whether you're an experienced cybersecurity professional or just starting out, t
 ### Opening Presentation - What is Bug Bounty and why should we care
 by Rotem Bar
 
-In this lecture, Rotem Bar provides an introduction to bug bounty programs. They explain what bug bounties are and why they are important. They might discuss the motivation behind bug bounty programs, the benefits for organizations, and the role of security researchers in finding and reporting vulnerabilities.
+In this lecture, Rotem Bar provides an introduction to bug bounty programs. Why they are important for the community, and why they are vital for every company out there. We will discuss how to start in your bug hunting journey, if you are a complete beginner or only did pentests or other infosec activities, even developers can join the fight :)
 
 ### Israeli bug bounty programs intro
 
-This lecture focuses specifically on bug bounty programs in Israel. The speaker provides an overview of the bug bounty landscape in Israel, including the organizations that run bug bounty programs and the types of vulnerabilities they are interested in. They might also discuss any unique aspects or challenges of bug bounty programs in the Israeli context.
+We will showcase different bug bounty programs and provide an overview of the bug bounty landscape in Israel, including the organizations that run bug bounty programs and the types of vulnerabilities they are interested in.
 
 ### SSRF Protections, From bounty report to mitigation
 by Reuven Elezra, Appsflyer 
 
-They start by explaining what SSRF vulnerabilities are and why they are a significant security concern. The lecture then covers the process of identifying SSRF vulnerabilities through bug bounty programs and provides insights into effective mitigation strategies to protect against SSRF attacks.
+Inspired by a critical SSRF bug bounty report, we embarked on a transformative journey towards enhancing our security practices. Seeking guidance from the security community, we explored the best solution to address SSRF vulnerabilities. To develop a game-changing security library, we prioritized factors such as time efficiency and easy implementation. Our collaborative approach, backed by real-world analysis, led us to create an innovative library that provides robust SSRF protection while simplifying integration for developers.
 
-### Hacking CI systems in the wild
+### What The Fork? Gaining RCE into internal CI's at scale
 by Moti Harmats 
 
-Moti Harmats presents a lecture on hacking Continuous Integration (CI) systems. They discuss the vulnerabilities and attack vectors that can be exploited in CI systems, which are widely used in software development processes. The lecture may cover real-world examples of CI system compromises, potential impact, and best practices for securing CI systems.
+CI/CD systems make great targets for attackers as they often run in privileged environments with access to sensitive secrets and internal systems.
+It is not uncommon to treat INTERNAL CI's as INTERNAL systems that are not exposed to the internet, but the truth is that internal CI’s are just as exposed as your web API’s through version control systems such as GitHub & GitLab.
+
+Although it is commonly known that untrusted & unreviewed pull requests should never be automatically merged to a repository’s main branch (a.k.a “master branch”) - CI pipelines tend to behave differently, they often “build first and ask questions later”.
+
+In this talk Moti will show how this functionality can be exploited against public repositories, why vulnerable pipelines are so abundant and why DevEx / DevOps teams should always design their CI’s in an “assume breached” mindset.
+Moti will showcase the attacks using a new open-source automation attack framework built by him!!
+
+### Exploit TikTok: Our Journey to Finding an Account Takeover Vulnerability using XSS
+by Amit Elbirt & Abir Nadav
+
+Join us as Amit and Abir present their findings on a recently discovered vulnerability that could potentially compromise user accounts on TikTok. 
+Through careful investigation and bug bounty participation, They identified and exploited a Cross-Site Scripting (XSS) vulnerability. 
+
+The presentation will provide an overview of the discovery process, including navigating the challenges posed by a Web Application Firewall (WAF) and demonstrating the potential impact through an OAuth authentication exploit. They will also discuss the timely response from TikTok in addressing the issue. 
+
+This presentation offers valuable insights into the importance of robust security measures in today's digital landscape.
+
 
 ### Lightning talks
 
@@ -90,7 +105,7 @@ We're looking for volunteers to help us run the Bug Bounty Village this year. Vo
 
 - Hacking Guru: Join the hunt, help hunters exploit and identify vulnerabilities, suggest new bypass methods, or provide useful tips to save time.
 
-If you're interested in joining our team, please contact us via Direct Message.
+If you're interested in joining our team, please contact us via email - rotemb@gmail.com
 
 
 ## Hardware Hacking Village
