@@ -108,22 +108,22 @@ We're looking for volunteers to help us run the Bug Bounty Village this year. Vo
 If you're interested in joining our team, please contact us via email - rotemb@gmail.com
 
 
-## Hardware Hacking Village
+## Hardware Village
 This here is where the blacksmiths play. Antriksh Shah and Benny Meisels are the big cheeses in this burg, and they're aiming to teach you how to pry open those stubborn physical devices and expose their soft underbellies.
 
 ## Schedule
 
 11:00-11:30	How to trust your open-source ASIC by Leonid Azriel
 
-11:30-12:00	Firmware security testing with Fault Injection Simulation	by Jan Jager
+11:30-12:00	Firmware security testing with Fault Injection Simulation by Jan Jager
 
-12:00-12:30	"Bolt-on security for existing and new designs with Secure Flash	by Nir Tasher
+12:00-12:30	"Bolt-on security for existing and new designs with Secure Flash by Nir Tasher
 
 12:30-13:30	LUNCH	
 
-13:30	14:45	CYMOCAN - An open-source USB CAN-FD adapter by	Benny Meisels
+13:30	14:45	CYMOCAN - An open-source USB CAN-FD adapter by Benny Meisels
 
-14:45	15:30	TBA	
+14:45	15:30	Introduction to Correlation Power Analysis by Yossi Oren & Michael Amar
 
 15:30	16:00	TBA	
 
@@ -167,6 +167,11 @@ Real world designs today suffer from profound security vulnerabilities. Regardle
 **Jan Jager**
 
 I will address the effect Fault Injection has on the firmware and how to simulate fault injection attacks. I will demonstrate with a sample code with FI attacks before and after mitigation.
+
+### Introduction to Correlation Power Analysis
+**Yossi Oren & Michael Amar**
+
+Introduction to transistors (and other electronic components) Power consumption: Representation and computation Correlation Power Analysis (CPA) CPA on AES step by step Exploring a Power-EM attacker setup.
 
 ## Call for Papers
 
