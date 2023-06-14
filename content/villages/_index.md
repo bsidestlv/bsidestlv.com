@@ -170,6 +170,7 @@ I will address the effect Fault Injection has on the firmware and how to simulat
 
 ### Introduction to Correlation Power Analysis
 **Yossi Oren & Michael Amar**
+
 Introduction to transistors (and other electronic components) Power consumption: Representation and computation Correlation Power Analysis (CPA) CPA on AES step by step Exploring a Power-EM attacker setup.
 
 ## Call for Papers
