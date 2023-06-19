@@ -1,8 +1,5 @@
 ---
 title: Bug Bounty Village
-menu:
-  main:
-    weight: 45
 ---
 
 # Bug Bounty Village at BSidesTLV:

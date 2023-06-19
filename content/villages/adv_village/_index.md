@@ -1,8 +1,5 @@
 ---
 title: Adversarial Mindset Village
-menu:
-  main:
-    weight: 45
 ---
 
 # Adversarial Mindset Village

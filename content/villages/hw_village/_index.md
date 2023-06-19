@@ -1,8 +1,5 @@
 ---
 title: Hardware Village
-menu:
-  main:
-    weight: 45
 ---
 
 # Hardware Village

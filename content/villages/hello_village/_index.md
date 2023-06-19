@@ -1,8 +1,5 @@
 ---
 title: Hello Cyber World Village
-menu:
-  main:
-    weight: 45
 ---
 
 # Hello Cyber World Village
