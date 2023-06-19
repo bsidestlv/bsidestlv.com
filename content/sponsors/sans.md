@@ -1,4 +1,4 @@
----
+<!-----
 key: sans
 title: SANS
 category: gold
@@ -7,3 +7,4 @@ socials: []
 ---
 
 Check out SANS @ https://www.sans.org/emea/
+-->
