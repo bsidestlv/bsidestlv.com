@@ -13,7 +13,7 @@ menu:
 
 {{% /jumbo %}}
 
-<img src="/images/Map.gif" alt="2023 Map">
+<img src="/images/Map.gif" alt="2023 Map" style="margin:0px 50px">
 
 {{% home-message %}}
 
