@@ -13,9 +13,11 @@ menu:
 
 {{% /jumbo %}}
 
-<img src="/images/Map.gif" alt="2023 Map" style="margin:50px">
-
 {{% home-message %}}
+
+
+<img src="/images/Map.gif" alt="2023 Map" style="width:1200px;height:675px;margin:50px">
+
 
 ## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
 
