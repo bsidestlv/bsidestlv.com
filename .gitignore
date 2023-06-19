@@ -32,3 +32,4 @@ static/CNAME
 
 /static/styles/*.css
 *.webp
+.vscode/settings.json
