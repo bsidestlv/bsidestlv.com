@@ -16,7 +16,7 @@ menu:
 {{% home-message %}}
 
 
-<img src="/images/Map.gif" alt="2023 Map" style="margin:50px;horizontal-align:middle">
+<img src="/images/Map.gif" alt="2023 Map" style="margin:50px;margin-left:auto;margin-right: auto">
 
 
 ## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
