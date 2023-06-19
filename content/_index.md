@@ -13,6 +13,8 @@ menu:
 
 {{% /jumbo %}}
 
+{{% img="/images/Map.gif" imgLabel="2023 Map" %}}
+
 {{% home-message %}}
 
 ## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
