@@ -35,7 +35,7 @@ Join us in this exciting initiative, and let's navigate the cybersecurity landsc
 
 14:00-14:15	 Writing your resume by	Yoav Feuerstein
 
-14:15-14:30	 Leveraging LinkedIn for your career by	Nataly Trister
+14:15-14:30	 Let your next job find you - LinkedIn self branding by	Nataly Trister
 
 14:30-14:35	 Break
 
@@ -95,7 +95,7 @@ Barak Itkin provides key strategies for preparing for a technical interview in t
 
 Yoav Feuerstein guides you through crafting an effective resume that highlights your skills, experiences, and achievements in cybersecurity, making you stand out to potential employers.
 
-### Leveraging LinkedIn for your career
+### Let your next job find you - LinkedIn self branding
 **Nataly Trister**
 
 Nataly Trister discusses how to optimize your LinkedIn profile and networking strategies to advance your cybersecurity career, gain visibility, and connect with industry professionals.
