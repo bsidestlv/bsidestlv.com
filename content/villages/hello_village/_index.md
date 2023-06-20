@@ -13,41 +13,41 @@ This year's event will host a series of talks and workshops, aimed at immersing 
 Join us in this exciting initiative, and let's navigate the cybersecurity landscape together!
 
 ## Schedule 
-09:00-09:20 Cyber career path (positions in cyber security) by Moran Sedbon
+10:00-10:30 Cyber career path (positions in cyber security) by Moran Sedbon
 
-09:20-09:40	 Cyber positions deep dive: Attack by Tomer Drori 
+10:30-10:50	 Cyber positions deep dive: Attack by Tomer Drori 
 
-09:40-09:45	 Break	
+10:50-10:55	 Break	
 
-09:45-10:05	 Cyber positions deep dive: GRC by	Shelly Braunstein
+10:55-11:15	 Cyber positions deep dive: Intelligence by Jasmine Sukary Navarro
 
-10:05-10:25	 Cyber positions deep dive: Intelligence by TBD
+11:15-11:35	 Cyber positions deep dive: GRC by Shelly Braunstein
 
-10:25-10:30	 Break	
+11:35-11:40	 Break	
 
-10:30-11:15	 Intro to CTF	by Nofar Terenyo
+11:40-12:25	 Intro to CTF by Nofar Terenyo
 
-11:15-11:20	 Break
+12:25-12:30	 Break
 
-11:15-12:15	 Preparing for the technical interview 	by Barak Itkin
+12:30-13:30	 Preparing for the technical interview by Barak Itkin
 
-12:15-12:45	 Lunch
+13:30-14:00	 Lunch
 
-12:45-13:00	 Writing your resume by	Yoav Feuerstein
+14:00-14:15	 Writing your resume by	Yoav Feuerstein
 
-13:00-13:15	 Leveraging LinkedIn for your career by	Nataly Trister
+14:15-14:30	 Leveraging LinkedIn for your career by	Nataly Trister
 
-13:15-13:20	 Break
+14:30-14:35	 Break
 
-13:20-13:50	 The power of networking by Alon Shahak
+14:35-15:05	 The power of networking by Alon Shahak
 
-13:50-14:20	 Managing your job search	by TBD
+15:05-15:35	 Managing your job search by Adi Kuperly
 
-14:20-14:25	 Break
+15:35-15:40	 Break
 
-14:25-14:45	 How to rock interviews by TBD
+15:40-16:00	 How to rock interviews by TBD
 
-14:45-15:00	 Cyber Seniority by	TBD
+16:00-16:15	 Cyber Seniority by	TBD
 
 
 ## Agenda
@@ -55,7 +55,7 @@ Join us in this exciting initiative, and let's navigate the cybersecurity landsc
 ### Cyber career path (positions in cyber security)
 **Moran Sedbon**
 
-Join Eden Katz as she navigates the myriad roles in cybersecurity and helps you understand the unique responsibilities and skill sets each one demands.
+Join Moran as she navigates the myriad roles in cybersecurity and helps you understand the unique responsibilities and skill sets each one demands.
 
 ### Cyber positions deep dive – Attack
 **Tomer Drori**
@@ -70,7 +70,7 @@ Tomer Drori provides a deep dive into the critical cybersecurity role of Attack,
 Shelly Braunstein explores the world of Governance, Risk, and Compliance (GRC) in cybersecurity, offering insights into the roles and responsibilities involved in maintaining organizational compliance and managing risk.
 
 ### Cyber positions deep dive - Intelligence
-**TBD**
+**Jasmine Sukary Navarro**
 
 Delve into the heart of cybersecurity intelligence, where you'll gain insights into the role of a cyber intelligence analyst and learn about the crucial tools, techniques, and processes used in cyber intelligence.
 
@@ -108,7 +108,7 @@ Nataly Trister discusses how to optimize your LinkedIn profile and networking st
 Alon Shahak underscores the importance of networking in the cybersecurity field, discussing how to build and maintain professional relationships, attend networking events, and leverage those connections to boost your career.
 
 ### Managing your job search
-**TBD**
+**Adi Kuperly**
 
 Discover effective strategies for managing your job search in the cybersecurity field, including how to target suitable roles, understand job descriptions, navigate application processes, and follow-up effectively with potential employers.
 
