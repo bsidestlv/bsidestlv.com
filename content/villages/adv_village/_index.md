@@ -14,14 +14,23 @@ For the first time in BSidesTLV history, we are excited to introduce the Adversa
 ## Schedule
 
 10:00 - 10:10: Opening Remarks by Ohad Zaidenberg 
+
 10:15 - 10:40: Becoming A Better Adversary: An Exploration into the adversarial mindset by Gal Bitansky 
+
 10:45 - 11:10: A Ransomware Battle Royal: The Cybersecurity Battle You Can't Afford to Lose: A Dive into the intelligence behind ransomware by Danna Pelleg and Sharon Fisher 
+
 11:15 - 12:00: Keynote - Red Team Tales: 7 Years of Physical Penetration Testing: An engaging narrative of real-world red teaming experiences by our keynote speaker, Justin Wynn 
+
 12:15 - 12:40: AI Red Teaming LLMs: A cutting-edge look into red teaming for large language models by Alex Polyakov 
+
 12:45 - 13:10: Recon for the Win: Unveiling the power of OSINT and Reconnaissance for red teamers by Lior Sibonny Leibovitz 
+
 14:15 - 15:15: Panel Discussion - From Intelligence to Adversary Simulation: An in-depth discussion moderated by Stav Shulman with panelists Ido Rozen, Dr. Amit Elazari, and Hanna Meyerfeld 
+
 15:20 - 15:35: Demo: Backdooring like an APT by Dor Alt
+
 15:40 - 16:05: Closing Keynote - Finding Your Adversarial Voice: Empowering Insights by Jamie Williams on finding and using your adversarial voice 
+
 16:05 - 16:10: Final Words by Ohad Zaidenberg
 
 ## Our Vision
