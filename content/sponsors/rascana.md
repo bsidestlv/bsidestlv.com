@@ -1,7 +1,7 @@
 ---
 key: rescana
 title: Rescana
-category: bronze
+category: silver
 website: 'https://www.rescana.com/'
 socials: []
 ---
