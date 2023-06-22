@@ -35,6 +35,8 @@ However, we understand that not everyone can commit to a full day. So, if spaces
 
 Please note that tickets on the day of the event will only be available if existing orders get cancelled. To cancel your tickets, just send us an email at info@bsidestlv.com with your order details. Should any tickets become available, they can be purchased at the price of 50 NIS.
 
+Thank you for your understanding. We can't wait to see you and share this fantastic event together!
+
 As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
 
 This year at BSidesTLV 2023 we will host “Villages” for the first time ever - for more info see the [villages page]({{< ref "/villages" >}})
