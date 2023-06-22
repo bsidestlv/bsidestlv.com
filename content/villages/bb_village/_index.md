@@ -1,8 +1,9 @@
----
+---  
 title: Bug Bounty Village
----
+---  
 
 # Bug Bounty Village at BSidesTLV:
+{{% picture img="/images/banners/bugbounty.png" widths="540,720,960,1140" %}}
 
 The seasoned gunslinger Rotem Bar, famed far and wide for his uncanny knack for hunting down pesky code bugs, will be marshal of this town. This homestead is all about rallying the quickest draws in web application security, hackers, and tech enthusiasts. You can bet your boots there'll be plenty of gabbing, hacking, and workshop to keep your hacker skills sharp as a spur​1​​2​.
 
@@ -12,24 +13,105 @@ Attention all hackers! For the first time in BSidesTLV history, we're excited to
 
 Join us in this trailblazing journey and let's reshape the future of bug bounties together!
 
-
 ## Schedule
 
-10:00-10:30	Opening Presentation - What is Bug Bounty and why should we care by Rotem Bar
+{{< rawhtml >}}
 
-10:30-11:15	Israeli bug bounty programs intro	
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+  <meta charset="UTF-8">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <style>  
+    table {  
+      width: 100%;  
+      border-collapse: collapse;  
+    }  
+    th, td {  
+      border: 1px solid black;  
+      padding: 8px;  
+      text-align: center;  
+    }  
+    th {  
+      background-color: #f2f2f2;  
+    }  
+    tr:hover {
+        background-color: #f3f3f3;
+        cursor: pointer;
+    }
+    @media screen and (min-width: 768px) {  
+      th, td {  
+        text-align: center;  
+      }  
+      th:nth-child(1), td:nth-child(1) {  
+        width: 150px;  
+      }  
+      th:nth-child(3), td:nth-child(3) {  
+        width: 150px;  
+      }  
+    }  
+  </style> 
 
-11:15-12:00	SSRF Protections, From bounty report to mitigation by	Reuven Elezra, Appsflyer
+<script>  
+    function goToSection(id) {  
+      document.getElementById(id).scrollIntoView();  
+    }  
+  </script>
 
-12:00-13:00	Break	
+<table>  
+  <tr>  
+    <th>Time</th>  
+    <th>Topic</th>  
+    <th>Speaker</th>  
+  </tr>  
+  <tr onclick="goToSection('opening-presentation---what-is-bug-bounty-and-why-should-we-care')">  
+    <td>10:00-10:30</td>  
+    <td>Opening Presentation - What is Bug Bounty and why should we care</td>  
+    <td> Rotem Bar</td>  
+  </tr>  
+  <tr onclick="goToSection('israeli-bug-bounty-programs-intro')">
+    <td>10:30-11:15</td>  
+    <td>Israeli bug bounty programs intro</td>  
+    <td> </td></td>  
+  </tr>  
+  <tr onclick="goToSection('ssrf-protections-from-bounty-report-to-mitigation')">  
+    <td>11:15-12:00</td>  
+    <td>SSRF Protections, From bounty report to mitigation</td>  
+    <td> Reuven Elezra, Appsflyer</td>  
+  </tr>  
+  <tr>  
+    <td>12:00-13:00</td>  
+    <td>Break</td>  
+    <td></td>  
+  </tr>  
+  <tr onclick="goToSection('what-the-fork-gaining-rce-into-internal-cis-at-scale')">
+    <td>13:00-13:45</td>  
+    <td>Hacking CI systems in the wild</td>  
+    <td> Moti Harmats</td>  
+  </tr>  
+  <tr onclick="goToSection('exploit-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-using-xss')">  
+    <td>13:45-14:15</td>  
+    <td>Exploiting TikTok: Our Journey to Finding an Account Takeover Vulnerability using XSS</td>  
+    <td> Amit Elbirt & Abir Nadav</td>  
+  </tr>
+    <tr onclick="goToSection('deja-vu-in-cyberspace-old-techniques-new-exploits-in-rdp')">  
+    <td>14:15-15:00</td>  
+    <td>Deja Vu in Cyberspace: Old Techniques, New Exploits in RDP</td>  
+    <td> Dor Dali</td>  
+  </tr>
+  <tr>  
+    <td>14:30-16:00</td>  
+    <td>Lightning talks - Registration on site</td>  
+    <td> </td>  
+  </tr>  
+  <tr>
+<td colspan="3">From 10:30 → 18:00 - Collaboration / Hunting together - Bring a laptop*</td>
+</tr>
+</table>  
 
-13:00-13:45	Hacking CI systems in the wild	by Moti Harmats
 
-13:45-14:30	Exploiting TikTok: Our Journey to Finding an Account Takeover Vulnerability using XSS by Amit Elbirt & Abir Nadav
+{{< /rawhtml >}}
 
-14:30-16:00	Lightning talks - Registration on site
-
-From 10:30 → 18:00 - Collaboration / Hunting together - Bring a laptop
 
 ## Our Vision
 
@@ -78,6 +160,12 @@ The presentation will provide an overview of the discovery process, including na
 
 This presentation offers valuable insights into the importance of robust security measures in today's digital landscape.
 
+### Deja Vu in Cyberspace: Old Techniques, New Exploits in RDP
+by Dor Dali
+
+In an era where cutting-edge technology and sophisticated security measures take center stage, it's easy to overlook the ghosts of the past. This talk revisits two classic techniques that, combined, allowed us to achieve Remote Code Execution (RCE) on the Remote Desktop Protocol (RDP) Client, which plays a crucial part in the realm of remote access.
+
+Throughout this presentation, we will delve into the comprehensive details of the vulnerability - from the initial discovery to the final reporting stage via the Microsoft Bug Bounty Program.
 
 ### Lightning talks
 
