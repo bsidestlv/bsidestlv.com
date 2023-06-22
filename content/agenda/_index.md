@@ -14,6 +14,4 @@ As always, amazing keynote speakers, pioneering content and fun surprises that y
 
 This year at BSidesTLV 2023 we will host “Villages” for the first time ever - for more info see the [villages page]({{< ref "/villages" >}})
 
-# Agenda is not final yet, more talks will be published soon, keep checking this page!
-
 {{% /hero %}}
