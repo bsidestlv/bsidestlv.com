@@ -23,10 +23,19 @@ menu:
 Ready to explore the “wild wild web” with us this summer?
 The moment we’ve all been waiting for is here:
 
-[**Registration to BSidesTLV 2023 is now officially open!**]({{< ref "/register" >}})
+<!--Registration to BSidesTLV 2023 is now officially open!**]({{< ref "/register" >}}) 
 
-{{< button-link url="/register" label="REGISTER" icon="subscribe">}}
+{{< button-link url="/register" label="REGISTER" icon="subscribe">}}-->
+**We are SOLD OUT - read below for details!**
 
+Last year, we noticed a few of our registrants unfortunately had to wait outside under the warm sun because we ran out of space inside our venue.
+Learning from last year's experience, we've made a few changes this year to ensure everyone's comfort. So this year, we're limiting ticket sales to match the venue's maximum capacity. This ensures that each ticket holder has a guaranteed spot inside.
+
+However, we understand that not everyone can commit to a full day. So, if spaces free up later in the day (around 16:00), we'll happily invite those without a ticket to join us, free of charge. So, if you're around and interested, feel free to join us then on a first-come-first-serve basis, free of charge!
+
+Please note that tickets on the day of the event will only be available if existing orders get cancelled. To cancel your tickets, just send us an email at info@bsidestlv.com with your order details. Should any tickets become available, they can be purchased at the price of 50 NIS.
+
+Thank you for your understanding. We can't wait to see you and share this fantastic event together!
 
 As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
 
