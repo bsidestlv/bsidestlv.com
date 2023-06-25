@@ -20,6 +20,21 @@ At BSidesTLV, we’ll host technical talks, live demos, and a special workshop t
 
 Whether you’re a seasoned cybersecurity pro or just starting out, we’ve got something for everyone. So saddle up and join us at the Hardware Village! Yeehaw!
 
+## Schedule
+11:00-11:30	How to trust your open-source ASIC by Leonid Azriel
+
+11:30-12:00	Firmware security testing with Fault Injection Simulation by Jan Jager
+
+12:00-12:30	Bolt-on security for existing and new designs with Secure Flash by Nir Tasher
+
+12:30-13:30	LUNCH	
+
+13:30-14:45 CYMOCAN - An open-source USB CAN-FD adapter by Benny Meisels
+
+14:45-15:30 Introduction to Correlation Power Analysis by Yossi Oren & Michael Amar
+
+15:30-16:00 Side Channel  & Fault Injection Attacks on Modern Embedded Devices by Oren Hollander
+
 ## Agenda
 
 ### How to trust your open-source ASIC
