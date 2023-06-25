@@ -38,7 +38,7 @@ Whether you’re a seasoned cybersecurity pro or just starting out, we’ve got 
 ## Agenda
 
 ### How to trust your open-source ASIC
-**Leonid Azriel**
+**Dr. Leonid Azriel**
 
 Open-source IC is not a new concept. Nevertheless, usage of open-source by the hardware community has been limited until recently. In the last few years, the introduction of the RISC-V open architecture helped to bring fresh energy to open-source IC, and many new projects have emerged. In addition to many benefits in productivity and quality, the open-source model contributes to product security by following the Kerckhoff's principle of open algorithm. However, unlike in software, in the IC world there is a long way from the source to the finished product, and it is hard to guarantee that the product indeed implements the algorithm as advertised. In this talk, I will discuss possible schemes, methodologies and policies to verify the compliance of the integrated circuit to the claimed open source and propose a scheme based on the existing Design-for-Test technology.
 
@@ -57,10 +57,12 @@ Real world designs today suffer from profound security vulnerabilities. Regardle
 
 CYMOCAN is a hardware tool which allows a Linux system to connect to a CAN bus over USB. The commercial products in this space can be very costly and some require software licenses. With CYMOCAN we aim to offer a cheaper alternative for hobbyists and professionals while also supporting both the CAN and CAN-FD protocols.
 
-### Introduction to Correlation Power Analysis
+### Uncovering Secrets with Correlation Power Analysis
 **Yossi Oren & Michael Amar**
 
-Introduction to transistors (and other electronic components) Power consumption: Representation and computation Correlation Power Analysis (CPA) CPA on AES step by step Exploring a Power-EM attacker setup.
+Did you know that the power consumption of a device contains information about the data it processes and the instructions it executes?
+In this talk, we will show how to exploit this power side channel to gain insights about the secret internal state of a device, and how to use these insights as a stepping stone for reverse engineering. 
+The talk will show how a typical attacker setup looks like, and will include a live demo on a ChipWhisperer Nano device.
 
 ### Side Channel  & Fault Injection Attacks on Modern Embedded Devices
 **Oren Hollander**
@@ -71,6 +73,43 @@ Fault injection involves manipulating environmental variables in a system (e.g. 
 As execution continues, the disturbance propagates, which results in undesired state.
 Many MPUs, MCUs and FPGAs are vulnerable to such attacks.
 In this talk we are going to understand how these attacks work.
+
+## Speakers
+
+### Dr. Leonid Azriel
+Dr. Leonid Azriel is a hardware security researcher at the Computer Science department in the Technion - Israel Institute of Technology. His main specialization is IC reverse engineering.Dr Azriel spent about 15 years in the industry before returning to academia. He served at different technical and managerial positions at National Semiconductor, Winbond Electronics and Nuvoton Technologies companies, where he lead the development of the Trusted Platform Module (TPM).
+https://www.linkedin.com/in/azriel/
+
+### Jan Jager
+
+### Nir Tasher
+Mr. Nir Tasher serves as Technology Executive for Winbond and has been with the Winbond group since 2005 serving in various technology related positions. In his current position, Mr Tasher is in charge of the technology and architecture group of Winbond's security products. Mr Tasher has over 25 years of experience in the technology industry. He holds over 30 US patents in various fields of security and system design. Mr. Tasher hold a MSc. EE. Cum Laude from Tel Aviv University.
+
+### Benny Meisels
+Benny Meisels is a security architect with 10 years of security research experience in Both IT and embedded systems. In his current role Benny is the Lead Solution Architect at CYMOTIVE. He enjoys figuring out how complex systems operate and how to improve their design. His research topics include embedded software security, automotive architecture security, and HW security. After work hours Benny enjoys long walks and working on electronic conference badges. For the past 5 years, Benny has been working in CYMOTIVE on automotive research and architecture.
+https://www.linkedin.com/in/benny-meisels
+https://twitter.com/benny_meisels
+
+### Dr. Yossi Oren
+Dr. Yossi Oren is a Senior Lecturer in the Department of Software and Information Systems Engineering at Ben Gurion University of the Negev, and a member of BGU's Cyber Security Research Center. His research interests include implementation security (side-channel attacks, micro-architectural attacks, power analysis and other hardware attacks and countermeasures; low-resource cryptographic constructions for lightweight computers) and cryptography in the real world (consumer and voter privacy in the digital era; web application security). He has been recognized by The Register as a Top Boffin. 
+
+https://twitter.com/yossioren
+https://linkedin.com/in/yossioren
+
+### Michael Amar
+
+Michael Amar received the Bachelor of Science (B.Sc.) in Software Engineering from Ben Gurion University of the Negev (BGU), Beer-Sheva, Israel. He is pursuing his Master of Science (M.Sc.) in the Software and Information Systems Engineering Department at Ben Gurion University of the Negev (BGU), Beer-Sheva, Israel. Michael's current research interests are side channel analysis and machine learning. 
+
+https://twitter.com/amarmic96
+https://linkedin.com/in/michael-amar
+
+### Oren Hollander
+Mr Oren Hollander has over 20 years of FPGA, ARM, Security design & training experience.
+Oren is an Intel, ARM, NXP, ST, NewAE, eShard, and Microchip authorized trainer.
+Oren trained over the years thousands of engineers around the world in FPGA design, Arm architecture, security for Embedded systems & FPGA security.
+Oren trains the top noche silicon vendors such as Apple, Samsung, Marvell, NXP, Intel, Broadcom, Microchip to name a few, so his knowledge is always one step ahead of the general market.
+Oren specialized in the military field as well, and works as senior consultant to the top notch military companies in Israel and abroad.
+Oren works closely with the silicon vendors and security researchers to bring the latest and greatest know-how and experience to the market.
 
 
 ## Call for Papers
