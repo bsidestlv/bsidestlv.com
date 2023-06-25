@@ -27,25 +27,36 @@ Whether you’re a seasoned cybersecurity pro or just starting out, we’ve got 
 
 Open-source IC is not a new concept. Nevertheless, usage of open-source by the hardware community has been limited until recently. In the last few years, the introduction of the RISC-V open architecture helped to bring fresh energy to open-source IC, and many new projects have emerged. In addition to many benefits in productivity and quality, the open-source model contributes to product security by following the Kerckhoff's principle of open algorithm. However, unlike in software, in the IC world there is a long way from the source to the finished product, and it is hard to guarantee that the product indeed implements the algorithm as advertised. In this talk, I will discuss possible schemes, methodologies and policies to verify the compliance of the integrated circuit to the claimed open source and propose a scheme based on the existing Design-for-Test technology.
 
-### CYMOCAN - An open-source USB CAN-FD adapter
-**Benny Meisels**
+### Firmware security testing with Fault Injection Simulation
+**Jan Jager**
 
-CYMOCAN is a hardware tool which allows a Linux system to connect to a CAN bus over USB. The commercial products in this space can be very costly and some require software licenses. With CYMOCAN we aim to offer a cheaper alternative for hobbyists and professionals while also supporting both the CAN and CAN-FD protocols.
+I will address the effect Fault Injection has on the firmware and how to simulate fault injection attacks. I will demonstrate with a sample code with FI attacks before and after mitigation.
 
 ### Bolt-on security for existing and new designs with Secure Flash
 **Nir Tasher**
 
 Real world designs today suffer from profound security vulnerabilities. Regardless of platform type, once they are connected to any network, it opens up numerous attack vectors. Chaos agents exploit software vulnerabilities to upload and execute malicious code, with focus on making attacks persistent. Persistent attacks are much harder to detect and recover from, and allow the attackers to fine tune the timing and scale of their attacks. A persistent attack requires modification of the system non-volatile storage. The most sensitive and thus sought after is the boot loader. Pawning the system boot loader allows an attacker to achieve almost anything in terms of compromising the system and in many cases, the entire infrastructure. Protecting the non-volatile code storage, and in particular the boot loader, is the essence of the secure flash. The secure flash guarantees that code can only be modified by a trusted entity. It prevents rolling back the system to older code, and allows the system and infrastructure to create a root of trust for various operations such as platform attestation. And it offers this security hardening with almost zero changes to the system and existing software stack.
 
-### Firmware security testing with Fault Injection Simulation
-**Jan Jager**
+### CYMOCAN - An open-source USB CAN-FD adapter
+**Benny Meisels**
 
-I will address the effect Fault Injection has on the firmware and how to simulate fault injection attacks. I will demonstrate with a sample code with FI attacks before and after mitigation.
+CYMOCAN is a hardware tool which allows a Linux system to connect to a CAN bus over USB. The commercial products in this space can be very costly and some require software licenses. With CYMOCAN we aim to offer a cheaper alternative for hobbyists and professionals while also supporting both the CAN and CAN-FD protocols.
 
 ### Introduction to Correlation Power Analysis
 **Yossi Oren & Michael Amar**
 
 Introduction to transistors (and other electronic components) Power consumption: Representation and computation Correlation Power Analysis (CPA) CPA on AES step by step Exploring a Power-EM attacker setup.
+
+### Side Channel  & Fault Injection Attacks on Modern Embedded Devices
+**Oren Hollander**
+
+All modern cryptographic algorithms, whether they are implemented by hardware or by software, are all based on the digital  computations that are performed on physical devices.
+When executing the cryptographic computations, the device consumes power and emits heat, electromagnetic radiation, and so on.
+Fault injection involves manipulating environmental variables in a system (e.g. clock, power, temperature, etc.) in order to cause a fault – a disturbance in the normal operation of the chip.
+As execution continues, the disturbance propagates, which results in undesired state.
+Many MPUs, MCUs and FPGAs are vulnerable to such attacks.
+In this talk we are going to understand how these attacks work.
+
 
 ## Call for Papers
 
