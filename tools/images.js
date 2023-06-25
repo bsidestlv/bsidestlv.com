@@ -36,8 +36,10 @@ const imagesFiles = [
     opt: { height: 180 },
     format: "webp",
   },
-  { files: `static/images/team/*.*`, opt: { width: 150 }, format: "webp" },
+
   { files: `static/images/ctf/*.*`, opt: { width: 150 }, format: "webp" },
+  { files: `static/images/team/*.jpg`, opt: { width: 150 }, format: "webp" },
+  { files: `static/images/speakers/**/*.jpg`, opt: { width: 150 }, format: "webp" },
   { files: `static/images/*.jpg`, format: "webp" },
 ];
 

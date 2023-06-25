@@ -77,39 +77,46 @@ In this talk we are going to understand how these attacks work.
 ## Speakers
 
 ### Dr. Leonid Azriel
-{{% picture img="/images/speakers/hw-village/leonid_azriel.jpg" %}}
+<img src="/images/speakers/hw-village/leonid_azriel.jpg" class="speaker-img"/>
+
 Dr. Leonid Azriel is a hardware security researcher at the Computer Science department in the Technion - Israel Institute of Technology. His main specialization is IC reverse engineering.Dr Azriel spent about 15 years in the industry before returning to academia. He served at different technical and managerial positions at National Semiconductor, Winbond Electronics and Nuvoton Technologies companies, where he lead the development of the Trusted Platform Module (TPM).
 https://www.linkedin.com/in/azriel/
 
 ### Jan Jager
-{{% picture img="/images/speakers/hw-village/jan_jager.jpg" %}}
+<img src="/images/speakers/hw-village/jan_jager.jpg" class="speaker-img"/>
+
 
 ### Nir Tasher
-{{% picture img="/images/speakers/hw-village/nir_tasher.jpg" %}}
+<img src="/images/speakers/hw-village/nir_tasher.jpg" class="speaker-img"/>
+
 Mr. Nir Tasher serves as Technology Executive for Winbond and has been with the Winbond group since 2005 serving in various technology related positions. In his current position, Mr Tasher is in charge of the technology and architecture group of Winbond's security products. Mr Tasher has over 25 years of experience in the technology industry. He holds over 30 US patents in various fields of security and system design. Mr. Tasher hold a MSc. EE. Cum Laude from Tel Aviv University.
 
 ### Benny Meisels
-{{% picture img="/images/speakers/hw-village/benny_meisels.jpg" %}}
+<img src="/images/speakers/hw-village/benny_meisels.jpg" class="speaker-img"/>
+
 Benny Meisels is a security architect with 10 years of security research experience in Both IT and embedded systems. In his current role Benny is the Lead Solution Architect at CYMOTIVE. He enjoys figuring out how complex systems operate and how to improve their design. His research topics include embedded software security, automotive architecture security, and HW security. After work hours Benny enjoys long walks and working on electronic conference badges. For the past 5 years, Benny has been working in CYMOTIVE on automotive research and architecture.
 https://www.linkedin.com/in/benny-meisels
 https://twitter.com/benny_meisels
 
 ### Dr. Yossi Oren
-{{% picture img="/images/speakers/hw-village/yossi_oren.jpg" %}}
+<img src="/images/speakers/hw-village/yossi_oren.jpg" class="speaker-img"/>
+
 Dr. Yossi Oren is a Senior Lecturer in the Department of Software and Information Systems Engineering at Ben Gurion University of the Negev, and a member of BGU's Cyber Security Research Center. His research interests include implementation security (side-channel attacks, micro-architectural attacks, power analysis and other hardware attacks and countermeasures; low-resource cryptographic constructions for lightweight computers) and cryptography in the real world (consumer and voter privacy in the digital era; web application security). He has been recognized by The Register as a Top Boffin. 
 
 https://twitter.com/yossioren
 https://linkedin.com/in/yossioren
 
 ### Michael Amar
-{{% picture img="/images/speakers/hw-village/michael_amar.jpg" %}}
+<img class="speaker-img" src="/images/speakers/hw-village/michael_amar.webp"/>
+
 Michael Amar received the Bachelor of Science (B.Sc.) in Software Engineering from Ben Gurion University of the Negev (BGU), Beer-Sheva, Israel. He is pursuing his Master of Science (M.Sc.) in the Software and Information Systems Engineering Department at Ben Gurion University of the Negev (BGU), Beer-Sheva, Israel. Michael's current research interests are side channel analysis and machine learning. 
 
 https://twitter.com/amarmic96
 https://linkedin.com/in/michael-amar
 
 ### Oren Hollander
-{{% picture img="/images/speakers/hw-village/oren_hollander.jpg" %}}
+<img src="/images/speakers/hw-village/oren_hollander.jpg" class="speaker-img"/>
+
 Mr Oren Hollander has over 20 years of FPGA, ARM, Security design & training experience.
 Oren is an Intel, ARM, NXP, ST, NewAE, eShard, and Microchip authorized trainer.
 Oren trained over the years thousands of engineers around the world in FPGA design, Arm architecture, security for Embedded systems & FPGA security.
@@ -157,14 +164,16 @@ If you’re interested in joining our team, please reach out to us via email at 
 
 ## Leadership
 ### Benny Meisels
-{{% picture img="/images/team/benny_meisels.jpg" %}}
+<img src="/images/team/benny_meisels.jpg" class="speaker-img" />
+
 Benny Meisels  is an Automotive Security Researcher which loves tinkering with hardware and learning what makes it tick. He is currently Lead Solution Architect at CYMOTIVE working on advancing Automotive Security.
 https://www.linkedin.com/in/benny-meisels
 https://twitter.com/benny_meisels
 
 
 ### Antriksh Shah
-{{% picture img="/images/team/antriksh_shah.jpg" %}}
+<img src="/images/team/antriksh_shah.jpg" class="speaker-img" />
+
 Antriksh Shah is a security enthusiast from Goa and a serial entrepreneur in the field of information security (Nullcon , Payatu, Hardwear.io)
 https://www.linkedin.com/in/antriksh-shah
 https://twitter.com/antriksh_s
