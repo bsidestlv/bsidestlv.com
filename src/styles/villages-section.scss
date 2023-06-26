@@ -15,3 +15,13 @@
 
 // Custom CSS
 @import "bsidestlv";
+
+.speaker-img {
+    --size: 128px;
+    height: var(--size, 6rem);
+    width: var(--size, 6rem);
+    min-width: var(--size, 6rem);
+    border-radius: 100%;
+    box-shadow: 0 0 var(--space-3) var(--darken-3);
+    margin-right: var(--space-4);
+}
