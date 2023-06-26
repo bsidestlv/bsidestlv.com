@@ -15,9 +15,13 @@ Join us in this exciting initiative, and let's navigate the cybersecurity landsc
 **This year we a Capture The Flag (CTF) Workshop!**
 
 Join us with your laptops, no pre-requierments, we'll give you guidance, hints and help you set your mind on the right path to solving the challenges.
+
 CTF staff:
+
 10:00-12:00 Or Sahar, Ilil Blum Shem-Tov, Moriya Weitzman
+
 13:00-15:00 Noy Pearl, Aviya Erenfeld, Chedva Zeivald (Gottesman)
+
 15:00-17:00 Daniel Tamari, Niv Asraf, Benny 
 
 ## Schedule 
