@@ -10,6 +10,17 @@ draft: false
     <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}</div>
 </div>
 
+
+<div class="row">
+    <div class="col-xs-12 col-md-7">
+    <h1>
+    Sponsored by: Correlium
+    {{% picture img="/images/ctf/correlium.png" widths="540,720,960,1140" %}}
+    </h1>
+    </div>
+</div>
+
+
 #  Timetable
 
 Over 48-hours!
