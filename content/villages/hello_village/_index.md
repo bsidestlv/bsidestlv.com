@@ -34,7 +34,7 @@ CTF staff:
 
 10:55-11:15	 Cyber positions deep dive: Intelligence by Jasmine Sukary Navarro
 
-11:15-11:35	 Cyber positions deep dive: GRC by Shelly Braunstein
+11:15-11:35	 Cyber positions deep dive: GRC by Shelly Brownshtein
 
 11:35-11:40	 Break	
 
@@ -52,15 +52,14 @@ CTF staff:
 
 14:30-14:35	 Break
 
-14:35-15:05	 The power of networking by Alon Shahak
+14:35-15:05	 How to rock interviews by Adi Kuperly 
 
-15:05-15:35	 Managing your job search by Adi Kuperly
+15:05-15:35	 The power of networking by Alon Shahak
 
 15:35-15:40	 Break
 
-15:40-16:00	 How to rock interviews by TBD
+15:40-16:00	  by TBD
 
-16:00-16:15	 Cyber Seniority by	TBD
 
 
 ## Agenda
@@ -121,23 +120,11 @@ Nataly Trister discusses how to optimize your LinkedIn profile and networking st
 Alon Shahak underscores the importance of networking in the cybersecurity field, discussing how to build and maintain professional relationships, attend networking events, and leverage those connections to boost your career.
 
 ### Managing your job search
-**Adi Kuperly**
+**How to rock interviews**
 
 Discover effective strategies for managing your job search in the cybersecurity field, including how to target suitable roles, understand job descriptions, navigate application processes, and follow-up effectively with potential employers.
 
 ### Break
-
-### How to rock interviews
-**TBD**
-
-This session will equip you with the tools and techniques to excel in your cybersecurity job interviews, including how to communicate effectively, answer challenging questions, and make a lasting positive impression on interviewers.
-
-### Cyber Seniority
-**TBD**
-
-Get insights into the career progression in the cybersecurity field. Learn about different levels of seniority, the expectations for each role, and the strategies to progress from a junior to a senior role in cybersecurity.
-
-## Call for Volunteers
 
 We’re looking for volunteers to help us run the Hardware Village this year.
 
