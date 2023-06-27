@@ -12,7 +12,8 @@ This year's event will host a series of talks and workshops, aimed at immersing 
 
 Join us in this exciting initiative, and let's navigate the cybersecurity landscape together!
 
-**This year we a Capture The Flag (CTF) Workshop!**
+
+**This year we have a Capture The Flag (CTF) Workshop!**
 
 Join us with your laptops, no pre-requierments, we'll give you guidance, hints and help you set your mind on the right path to solving the challenges.
 
