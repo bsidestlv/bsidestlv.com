@@ -17,11 +17,6 @@ Join us in this trailblazing journey and let's reshape the future of bug bountie
 
 {{< rawhtml >}}
 
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-  <meta charset="UTF-8">  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
   <style>  
     table {  
       width: 100%;  
@@ -67,17 +62,28 @@ Join us in this trailblazing journey and let's reshape the future of bug bountie
   <tr onclick="goToSection('opening-presentation---what-is-bug-bounty-and-why-should-we-care')">  
     <td>10:00-10:30</td>  
     <td>Opening Presentation - What is Bug Bounty and why should we care</td>  
-    <td> Rotem Bar</td>  
+    <td>Rotem Bar</td>  
   </tr>  
   <tr onclick="goToSection('israeli-bug-bounty-programs-intro')">
     <td>10:30-11:15</td>  
-    <td>Israeli bug bounty programs intro</td>  
-    <td> </td></td>  
+    <td>
+
+        Israeli bug bounty programs intro
+        <hr style="boder: 1px solid black" />
+        <ul style="list-style-type: none;">
+            <li>Danny Robinson from Appsflyer</li>
+            <li>Zohar Shachar From Wix</li>
+            <li>Ariel Rachamim From Moon Active</li>   
+            <li>Erez Mor From Rapyd</li>
+            <li>And more ...</li>
+        </ul>
+    </td>  
+    <td></td>
   </tr>  
   <tr onclick="goToSection('ssrf-protections-from-bounty-report-to-mitigation')">  
     <td>11:15-12:00</td>  
     <td>SSRF Protections, From bounty report to mitigation</td>  
-    <td> Reuven Elezra, Appsflyer</td>  
+    <td>Reuven Elezra, Appsflyer</td>  
   </tr>  
   <tr>  
     <td>12:00-13:00</td>  
@@ -87,28 +93,37 @@ Join us in this trailblazing journey and let's reshape the future of bug bountie
   <tr onclick="goToSection('what-the-fork-gaining-rce-into-internal-cis-at-scale')">
     <td>13:00-13:45</td>  
     <td>Hacking CI systems in the wild</td>  
-    <td> Moti Harmats</td>  
+    <td>Moti Harmats, Wix</td>  
   </tr>  
   <tr onclick="goToSection('exploit-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-using-xss')">  
     <td>13:45-14:15</td>  
     <td>Exploiting TikTok: Our Journey to Finding an Account Takeover Vulnerability using XSS</td>  
-    <td> Amit Elbirt & Abir Nadav</td>  
+    <td>Amit Elbirt & Abir Nadav, EY</td>  
   </tr>
-    <tr onclick="goToSection('deja-vu-in-cyberspace-old-techniques-new-exploits-in-rdp')">  
+  <tr onclick="goToSection('deja-vu-in-cyberspace-old-techniques-new-exploits-in-rdp')">  
     <td>14:15-15:00</td>  
     <td>Deja Vu in Cyberspace: Old Techniques, New Exploits in RDP</td>  
-    <td> Dor Dali</td>  
+    <td>Dor Dali, Cyolo</td>  
+  </tr>
+<tr onclick="goToSection('a-little-step-for-devops-a-big-step-for-security')">  
+    <td>15:00-15:30</td>  
+    <td>A little step for DevOps, a big step for Security</td>  
+    <td>Valeri Goltsman, Rapyd</td>  
   </tr>
   <tr>  
-    <td>14:30-16:00</td>  
+    <td>15:30-17:00</td>  
     <td>Lightning talks - Registration on site</td>  
     <td> </td>  
-  </tr>  
+  </tr>
+  <tr>  
+    <td>17:00-17:30</td>  
+    <td>Ask us Anything</td>  
+    <td>BugBounty Panel</td>  
+  </tr>
   <tr>
 <td colspan="3">From 10:30 → 18:00 - Collaboration / Hunting together - Bring a laptop*</td>
 </tr>
-</table>  
-
+</table>
 
 {{< /rawhtml >}}
 
@@ -166,6 +181,10 @@ by Dor Dali
 In an era where cutting-edge technology and sophisticated security measures take center stage, it's easy to overlook the ghosts of the past. This talk revisits two classic techniques that, combined, allowed us to achieve Remote Code Execution (RCE) on the Remote Desktop Protocol (RDP) Client, which plays a crucial part in the realm of remote access.
 
 Throughout this presentation, we will delve into the comprehensive details of the vulnerability - from the initial discovery to the final reporting stage via the Microsoft Bug Bounty Program.
+
+### A little step for DevOps, a big step for Security
+by Valeri Goltsman
+
 
 ### Lightning talks
 
