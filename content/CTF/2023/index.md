@@ -13,7 +13,7 @@ draft: false
 
 <div class="row">
     <div class="col-xs-12 col-md-7">
-    {{% picture img="/images/ctf/2023_correlium.jpg" widths="540,720,960,1140" %}}
+    {{% picture img="/images/ctf/2023_correlium.png" %}}
     <h1>
     Sponsored by: Correlium
     </h1>
