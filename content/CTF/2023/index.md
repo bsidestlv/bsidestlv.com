@@ -120,20 +120,20 @@ Yes, plan to release our entire repo
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br>Browselicious<br>APPerolSpritz<br>
 FangLight</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Arie Haenel" />}}Tsebrakhn</div>
+    <div>{{< imgproc img="/images/ctf/arie.jpg" label="Arie Haenel" />}}Tsebrakhn</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Moti Markovitz" />}}CTF</div>
-    <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Ha Gootvilig" />}}compare_me<br>lost-basis</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviya Erenfeld" />}}Outside The Asylum<br>Lonely At The Top</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Yahav" />}}n0tes-revenge<br>Zen(d) Master</div>
+    <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Hai Gootvilig" />}}compare_me<br>lost-basis</div>
+    <div>{{< imgproc img="/images/ctf/moti.jpg" label="Aviya Erenfeld" />}}Outside The Asylum<br>Lonely At The Top</div>
+    <div>{{< imgproc img="/images/ctf/aviv.jpg" label="Aviv Yahav" />}}n0tes-revenge<br>Zen(d) Master</div>
     <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
     <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br>Browselicious<br>APPerolSpritz</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amit Huri" />}}Out-of-Character</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}UAF S.H.I.E.L.D</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}Opa Opa Opa Opa Hei<br>UAF S.H.I.E.L.D<br>Leakage Brothers... Leakage</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Tomer Laor" />}}Leakage Brothers... Leakage</div>
+    <div>{{< imgproc img="/images/ctf/yaacov.png" label="Yaakov Cohen" />}}Opa Opa Opa Opa Hei<br>UAF S.H.I.E.L.D<br>Leakage Brothers... Leakage</div>
+    <div>{{< imgproc img="/images/ctf/tomer.png" label="Tomer Laor" />}}Leakage Brothers... Leakage</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Tiko" />}}Acid</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Osher Bello" />}}CD-KEY</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Matter Bernhard" />}}Strange Traffic<br>The dog ate my QR!</div>
+    <div>{{< imgproc img="/images/ctf/mattar.jpg" label="Matter Bernhard" />}}Strange Traffic<br>The dog ate my QR!</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Take Me to Prom</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Daniel Abeles" />}}Take Me to Prom</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Ben Salem" />}}Back To The Future</div>
@@ -142,6 +142,6 @@ FangLight</div>
     <div>{{< imgproc img="/images/ctf/arthur.jpg" label="Artur Avetisyan" />}}Gamma Authentication</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Avraham Levy" />}}Breaking The Vault: Uncover the Secrets</div>
     <div>{{< imgproc img="/images/ctf/SharonBrizinov.png" label="Sharon Brizinov" />}}passino</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Rubin" />}}KeyHunter</div>
+    <div>{{< imgproc img="/images/ctf/israel.jpg" label="Israel Rubin" />}}KeyHunter</div>
 </div>
 
