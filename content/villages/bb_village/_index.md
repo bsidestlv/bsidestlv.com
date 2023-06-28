@@ -185,6 +185,8 @@ Throughout this presentation, we will delve into the comprehensive details of th
 ### A little step for DevOps, a big step for Security
 by Valeri Goltsman
 
+Uncover the significance of moving beyond the realm of security and acquiring DevOps expertise.
+Explore how incorporating DevOps principles can bolster security practices, optimize operations, and adapt to the ever-changing technological landscape.
 
 ### Lightning talks
 
