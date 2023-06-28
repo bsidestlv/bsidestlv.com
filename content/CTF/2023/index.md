@@ -6,20 +6,11 @@ date: 2023-05-23
 draft: false
 ---
 
-<div class="row">
-    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}</div>
-</div>
+{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}
 
 
-<div class="row">
-    <div class="col-xs-12 col-md-7">
-    {{% picture img="/images/ctf/2023_correlium.png" widths="540,720,960,1140" %}}
-    <h1>
-    Sponsored by: Correlium
-    </h1>
-    </div>
-</div>
-
+# Sponsored by: Correlium
+![](/images/ctf/2023_correlium.png)
 
 #  Timetable
 
