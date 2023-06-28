@@ -6,7 +6,8 @@ date: 2023-05-23
 draft: false
 ---
 
-![](/images/banners/2023-BSidesTLV-CTF.png)
+{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}
+
 
 # Sponsored by: Correlium
 ![](/images/ctf/2023_correlium.png)
