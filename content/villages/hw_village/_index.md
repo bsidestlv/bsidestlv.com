@@ -27,9 +27,11 @@ Whether you’re a seasoned cybersecurity pro or just starting out, we’ve got 
 
 12:00-12:30	Bolt-on security for existing and new designs with Secure Flash by Nir Tasher
 
-12:30-13:30	LUNCH	
+12:30-13:00	CYMOCAN - An open-source USB CAN-FD adapter by Benny Meisel
 
-13:30-14:45 CYMOCAN - An open-source USB CAN-FD adapter by Benny Meisels
+13:00-14:00 LUNCH
+
+14:00-14:45 Networking & Demo Time
 
 14:45-15:30 Introduction to Correlation Power Analysis by Yossi Oren & Michael Amar
 
