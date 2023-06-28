@@ -6,9 +6,11 @@ date: 2023-05-23
 draft: false
 ---
 
-<div class="row">
-    <div class="col-xs-12 col-md-7">{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}</div>
-</div>
+{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}
+
+
+# Sponsored by: Correlium
+![](/images/ctf/2023_correlium.png)
 
 #  Timetable
 
@@ -116,27 +118,30 @@ Yes, plan to release our entire repo
 ## Our Team
 
 <div class="row around-xs avatars shuffle" style="text-align:center">
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Oren Yomtov" />}}Code is Law 1<br/>Code is Law 2</div>
-    <div>{{< imgproc img="/images/ctf/RonMasas.jpg" label="Ron Masas" />}}Jurassic W0r1d<br/>Tropical API<br/>Wild DevTools</div>
-    <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Ha Gootvilig" />}}SEV</div>
-    <div>{{< imgproc img="/images/ctf/ors.jpg" label="Or Sahar" />}}Pokedex</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}The Prefetcher</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}The Prefetcher</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Yahav" />}}mod_pwn<br/>n0tes</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Yona" />}}We Are Hiring</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Arie Haenel" />}}Only Hope</div>
-    <div>{{< imgproc img="/images/ctf/michael_maltsev.png" label="Michael Maltsev" />}}Reverse Moving<br/>Black Box Moving<br/>Intergalactic Communicator</div>
-    <div>{{< imgproc img="/images/ctf/VeraMens.png" label="Vera Mens" />}}James Webb</div>
-    <div>{{< imgproc img="/images/ctf/SharonBrizinov.png" label="Sharon Brizinov" />}}Guess the she__c0__(#1)<br/>Guess the she__c0__(#2)<br/>Guess the she__c0__(#3)</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Moti Mark" />}}Wordle</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviya Erenfeld" />}}Roll The Impossible<br/>High Expectations<br/>Medium Expectations<br/>Wordle</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Smuggler</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Alon Livne" />}}handsfree</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Elisha Eshed" />}}handsfree</div>
-    <div>{{< imgproc img="/images/ctf/arthur.jpg" label="Artur Avetisyan" />}}Intergalactic Communicator</div> -->
-    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b></div>
-    <!-- <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br/>404 Not Found</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amir Kourdi" />}}<b>CTF Team</b><br/>DevOps</div>
-    <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div> -->
+    <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br>Browselicious<br>APPerolSpritz<br>
+FangLight</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Arie Haenel" />}}Tsebrakhn</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Moti Markovitz" />}}CTF</div>
+    <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Ha Gootvilig" />}}compare_me<br>lost-basis</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviya Erenfeld" />}}Outside The Asylum<br>Lonely At The Top</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Yahav" />}}n0tes-revenge<br>Zen(d) Master</div>
+    <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br>Browselicious<br>APPerolSpritz</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amit Huri" />}}Out-of-Character</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}UAF S.H.I.E.L.D</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Yaakov Cohen" />}}Opa Opa Opa Opa Hei<br>UAF S.H.I.E.L.D<br>Leakage Brothers... Leakage</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Tomer Laor" />}}Leakage Brothers... Leakage</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Tiko" />}}Acid</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Osher Bello" />}}CD-KEY</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Matter Bernhard" />}}Strange Traffic<br>The dog ate my QR!</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Take Me to Prom</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Daniel Abeles" />}}Take Me to Prom</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Ben Salem" />}}Back To The Future</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Cohen" />}}Opa Opa Opa Opa Hei</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Yona" />}}Opa Opa Opa Opa Hei</div>
+    <div>{{< imgproc img="/images/ctf/arthur.jpg" label="Artur Avetisyan" />}}Gamma Authentication</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Avraham Levy" />}}Breaking The Vault: Uncover the Secrets</div>
+    <div>{{< imgproc img="/images/ctf/SharonBrizinov.png" label="Sharon Brizinov" />}}passino</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Rubin" />}}KeyHunter</div>
 </div>
 
