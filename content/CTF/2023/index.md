@@ -121,9 +121,9 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br>Browselicious<br>APPerolSpritz<br>
 FangLight</div>
     <div>{{< imgproc img="/images/ctf/arie.jpg" label="Arie Haenel" />}}Tsebrakhn</div>
-    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Moti Markovitz" />}}CTF</div>
+    <div>{{< imgproc img="/images/ctf/moti.jpg" label="Moti Markovitz" />}}CTF</div>
     <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Hai Gootvilig" />}}compare_me<br>lost-basis</div>
-    <div>{{< imgproc img="/images/ctf/moti.jpg" label="Aviya Erenfeld" />}}Outside The Asylum<br>Lonely At The Top</div>
+    <div>{{< imgproc img="/images/ctf/aviyae.jpg" label="Aviya Erenfeld" />}}Outside The Asylum<br>Lonely At The Top</div>
     <div>{{< imgproc img="/images/ctf/aviv.jpg" label="Aviv Yahav" />}}n0tes-revenge<br>Zen(d) Master</div>
     <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
     <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br>Browselicious<br>APPerolSpritz</div>
