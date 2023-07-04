@@ -9,50 +9,38 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2023" %}}
 
-{{% timer "2023-06-29T08:30:00+03:00" "June 29th, 2023 @ 08:30" %}}
-
 {{% /jumbo %}}
 
 {{% home-message %}}
 
-<img src="/images/map.gif" alt="2023 Map">
+## 🤠 BSidesTLV 2023  - Thank you for attending 🐎
 
+Thank you for joining us for the Wild Wild Web at BSidesTLV 2023!  
+With your participation and support from our sponsors, we are proud to wrap up another edition of Israel’s largest security community event 🤠   
+Photos from our event can be found [on this album](https://photos.app.goo.gl/mvAjs3RV9EgGEhbt8)  
+Videos of main stage talks will be uploaded to our YouTube channel in the coming weeks!
 
-## BSidesTLV 2023 : The “Wild Wild Web” 🤠👢🐎🤪
+## BSidesTLV 2023 In Numbers
+* 1000+ people attended in person throughout the day
+* 20 speakers on our main stage & 20 speakers in our villages 
+* 4 “BSidesTLV villages” which were a huge success:  
+  * The Bug bounty village
+  * The Hardware Village
+  * The Adversarial Mindset Village
+  * “Hello Cyber World” Village
+* 50 incredible volunteers making sure everyone had a great time
+* 10 sponsors & partners who made our event possible  
+* 1337 CTF participants
+* 600 hot dogs 
 
-Ready to explore the “wild wild web” with us this summer?
-The moment we’ve all been waiting for is here:
+As always, we would really like to know what worked well, and what didn’t.
+Please share your feedback with us [using this form](https://forms.gle/7CBosUUQFooPiXLEA)
 
-<!--Registration to BSidesTLV 2023 is now officially open!**]({{< ref "/register" >}}) 
+## BSidesTLV 2024 !
 
-{{< button-link url="/register" label="REGISTER" icon="subscribe">}}-->
-**We are SOLD OUT - read below for details!**
-
-Last year, we noticed a few of our registrants unfortunately had to wait outside under the warm sun because we ran out of space inside our venue.
-Learning from last year's experience, we've made a few changes this year to ensure everyone's comfort. So this year, we're limiting ticket sales to match the venue's maximum capacity. This ensures that each ticket holder has a guaranteed spot inside.
-
-However, we understand that not everyone can commit to a full day. So, if spaces free up later in the day (around 16:00), we'll happily invite those without a ticket to join us, free of charge. So, if you're around and interested, feel free to join us then on a first-come-first-serve basis, free of charge!
-
-Please note that tickets on the day of the event will only be available if existing orders get cancelled. To cancel your tickets, just send us an email at info@bsidestlv.com with your order details. Should any tickets become available, they can be purchased at the price of 50 NIS.
-
-Thank you for your understanding. We can't wait to see you and share this fantastic event together!
-
-As always, amazing keynote speakers, pioneering content and fun surprises that you won’t want to miss 😉
-
-This year at BSidesTLV 2023 we will host “Villages” for the first time ever - for more info see the [villages page]({{< ref "/villages" >}})
-
-For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}})
-
-We would like to thank our fantastic [sponsors this year]({{< ref "/sponsors" >}})
-
-Sign-up as a volunteer and be part of the BSidesTLV 2023 event: <https://signup.com/go/gYvHGjj>
-
-## Important information
-
-BSidesTLV 2023 will take place Thursday, 29/6/2023 from 8:30-19:00 in person at Tel Aviv University during Tel Aviv Cyber Week.
-
-BSidesTLV 2023 requires each person has a valid BSidesTLV ticket. 
-Cyber Week badge does not entitle BSidesTLV access.
+Save the date for next year’s event: Thursday, June 27, 2024!  
+Never to early to be a sponsor for next year sponsors@bsidestlv.com  
+Thank you for joining us, The BSidesTLV 2023 team
 
 {{% /home-message %}}
 
