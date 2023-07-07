@@ -17,7 +17,7 @@ menu:
 
 Thank you for joining us for the Wild Wild Web at BSidesTLV 2023!  
 With your participation and support from our sponsors, we are proud to wrap up another edition of Israel’s largest security community event 🤠   
-Photos from our event can be found [on this album](https://photos.app.goo.gl/mvAjs3RV9EgGEhbt8)  
+Photos from our event can be found [on this album](https://photos.app.goo.gl/yyAdDsidja6Ke1m28)  
 Videos of main stage talks will be uploaded to our YouTube channel in the coming weeks!
 
 ## BSidesTLV 2023 In Numbers
@@ -72,10 +72,10 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
-### Some pictures of **BSidesTLV 2022**
+### Some pictures of **BSidesTLV 2023**
 
     {{< button-link
-      url="//photos.app.goo.gl/NCu6pYR9RBdNXGc16"
+      url="//photos.app.goo.gl/yyAdDsidja6Ke1m28"
       label="See all photos"
       icon="right" >}}
 
