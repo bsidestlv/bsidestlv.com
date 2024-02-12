@@ -18,17 +18,18 @@ menu:
 “Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
 
 Dear friends and supporters.  
-The time has come for us to regroup, organize and grow stronger - together.
-We are actively planning BSidesTLV 2024: June 27, 2024 at Smolarz Auditorium, Tel Aviv University.
-Our theme this year will focus on the local community’s resilience and strength. We would like to feature stories of how security researchers and friendly hackers responded to the crisis and war going on in Israel since the Oct 7 attacks.
+The time has come for us to regroup, organize and grow stronger - together.  
+We are actively planning BSidesTLV 2024 for June 27, 2024 at Smolarz Auditorium, Tel Aviv University.  
+Our theme this year will focus on the local community’s resilience and strength.  
+We would like to feature stories of how security researchers and friendly hackers responded to the crisis and war going on in Israel since the October 7 attacks.
 
 ### Highlights of our event
 
 - The event will take place live & in person at Tel Aviv University during [Tel Aviv Cyber Week](https://cyberweek.tau.ac.il/), on June 27, 2024 from 9am to 6pm.  
 - Ticket sales & registration will open 1/6/2024
 - State of the art, modern & accessible auditorium - seats for 1200 participants
-- huge stage for live talks, networking and chillout areas, and sponsor zone!
-- Content presented in english, filmed and uploaded to YouTube after the event
+- Huge stage for live talks, networking and chillout areas, and sponsor zone!
+- Content presented in English, filmed and uploaded to YouTube after the event
 
 Have an idea to share on our main stage? Join our local celebration of security research and resilience.  
 Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com/>
