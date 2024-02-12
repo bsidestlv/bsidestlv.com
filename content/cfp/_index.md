@@ -9,12 +9,27 @@ menu:
 BSidesTLV 2024 Call for Papers
 {{%/ hero %}} -->
 
+Regarding AI, Copilots, and ChatGPT: Submissions are welcome, but bear in mind that due to everyone's tendency to jump on the band wagon, the bar for acceptance will be very high, so unless you have something really jaw-dropping to say, we recommend you choose another subject.
+
+## Some news regarding our CFP process
+
+We replaced the platform we use for our CFP, from pretalx to Sessionize.
+Following the good experience we had last year, this year as well we will be performing our review process in a "Double-Blind" mode - that means our reviewers won't see the submitter details, and will vote on submissions based only on the submission content, and submitters who wish to get their reviews feedback will be able to get it in anonymized version. The exception is the head of the CFP committee.
+
 ## Our CFP Review board
 
 Our amazing CFP Review board members can be found [here]({{< relref "/team#cfpreviewboard" >}}).
 This year, we will be employing a "Double Blind" review process! This means the reviewers won't be able to see any personal details of the submitters, and submitters will be able to receive anonymized feedback on their submissions.
 
 ## When: Thursday, June 27 , 2024
+
+“Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
+
+Dear friends and supporters.  
+The time has come for us to regroup, organize and grow stronger - together.  
+We are actively planning BSidesTLV 2024 for June 27, 2024 at Smolarz Auditorium, Tel Aviv University.  
+Our theme this year will focus on the local community’s resilience and strength.  
+We would like to feature stories of how security researchers and friendly hackers responded to the crisis and war going on in Israel since the October 7 attacks.
 
 The 2024 edition of Security BSides in Israel, BSidesTLV 2024, is returning during Tel Aviv University's Cyber Week (June 23th - June 27th, 2024).
 
