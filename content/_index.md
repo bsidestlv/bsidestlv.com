@@ -61,7 +61,7 @@ The BSidesTLV 2024 Team
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}}
+<!-- {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 &nbsp;
 &nbsp;
