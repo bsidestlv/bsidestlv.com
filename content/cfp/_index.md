@@ -21,7 +21,7 @@ BSidesTLV 2024 Call for Papers
 Our theme this year will focus on the local community’s resilience and strength.
 We would like to feature stories of how security researchers and friendly hackers responded to the crisis and war going on in Israel since the October 7th attacks.
 
-
+{{< button-link label="Call for speakers" url="<https://sessionize.com/bsidestlv-2024/>" icon="cfp" >}}
 <a href="https://sessionize.com/" style="color: rgba(0,0,0,.8); text-decoration: none;"><strong>Call for Speakers</strong> powered by <strong style="color: #1AB394;">Sessionize.com</strong></a>
 
 ### Our Code of Conduct
