@@ -11,7 +11,7 @@ BSidesTLV 2024 Call for Papers
 
 ## “Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
 
-## Important BSidesTLV 2024 dates
+### Important BSidesTLV 2024 dates
 * February 15th, 2024 - CFP opens at 10:00
 * April 15th, 2024 - CFP closes at 23:59
 * May 10th, 2024 - Accepted talks notified
