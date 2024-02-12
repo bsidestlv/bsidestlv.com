@@ -24,9 +24,10 @@ The 2024 edition of Security BSides in Israel, BSidesTLV 2024, is returning duri
 BSidesTLV will take place on Thursday, June 27th, 2024, from 09:00 am until 19:00 pm, and might even be followed by our traditional after-party.
 
 
-{{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
+{{< button-link label="Call for speakers" url="<https://cfp.bsidestlv.com>" icon="cfp" >}}
+<a href="https://sessionize.com/" style="color: rgba(0,0,0,.8); text-decoration: none;"><strong>Call for Speakers</strong> powered by <strong style="color: #1AB394;">Sessionize.com</strong></a>
 
-#### Important BSidesTLV 2024 dates:
+### Important BSidesTLV 2024 dates
 
 - February 15th, 2024 - CFP opens
 - April 15th, 2024 - CFP closes
@@ -37,13 +38,11 @@ BSidesTLV will take place on Thursday, June 27th, 2024, from 09:00 am until 19:0
 - June 27th, 2024 - BSidesTLV and after-party (in the event of a physical-presence conference)!
 
 
-#### Our Code of Conduct:
+### Our Code of Conduct
 
 **All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct.**
 
 Our Code Of Conduct can be found [here][coc-url]
 
-[smolarz-url]: https://english.tau.ac.il/campus/smolarz_auditorium
-[smolarz-map]: https://www.google.com/maps/place/Tel+Aviv+University+Smolarz+Auditorium/@32.1103563,34.8042639,15z/data=!4m5!3m4!1s0x0:0x57e1b1e76143c7f7!8m2!3d32.1103563!4d34.8042639
 [cyberweek]: https://cyberweek.tau.ac.il/
 [coc-url]: /code-of-conduct
