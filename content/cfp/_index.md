@@ -9,9 +9,7 @@ menu:
 BSidesTLV 2024 Call for Papers
 {{%/ hero %}} -->
 
-## When: Thursday, June 27 , 2024
-
-“Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
+## “Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
 
 Dear friends and supporters.  
 The time has come for us to regroup, organize and grow stronger - together.  
