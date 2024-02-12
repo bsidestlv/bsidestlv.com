@@ -21,8 +21,7 @@ The 2024 edition of Security BSides in Israel, BSidesTLV 2024, is returning duri
 
 BSidesTLV will take place on Thursday, June 27th, 2024, from 09:00 am until 18:00 pm, and might even be followed by our traditional after-party.
 
-
-{{< button-link label="Call for speakers" url="<https://cfp.bsidestlv.com>" icon="cfp" >}}
+{{< button-link label="Call for speakers" url="<https://cfp.bsidestlv.com>" icon="cfp" >}}  
 <a href="https://sessionize.com/" style="color: rgba(0,0,0,.8); text-decoration: none;"><strong>Call for Speakers</strong> powered by <strong style="color: #1AB394;">Sessionize.com</strong></a>
 
 ### Important BSidesTLV 2024 dates
@@ -35,12 +34,10 @@ BSidesTLV will take place on Thursday, June 27th, 2024, from 09:00 am until 18:0
 - June 25th, 2024 - Speakers' dinner (in the event of a physical-presence conference)
 - June 27th, 2024 - BSidesTLV and after-party (in the event of a physical-presence conference)!
 
-
 ### Our Code of Conduct
 
 **All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct.**
 
 Our Code Of Conduct can be found [here][coc-url]
 
-[cyberweek]: https://cyberweek.tau.ac.il/
 [coc-url]: /code-of-conduct
