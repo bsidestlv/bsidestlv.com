@@ -9,7 +9,7 @@ menu:
 BSidesTLV 2024 Call for Papers
 {{%/ hero %}} -->
 
-## “Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
+## “Together we stand, Together we hack - יחד ננצח, יחד נפצח”
 
 ### Important BSidesTLV 2024 dates
 * February 15th, 2024 - CFP opens at 10:00

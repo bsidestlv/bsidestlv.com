@@ -15,7 +15,7 @@ menu:
 
 ## BSidesTLV 2024
 
-“Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
+“Together we stand, Together we hack - יחד ננצח, יחד נפצח”
 
 Dear friends and supporters.  
 The time has come for us to regroup, organize and grow stronger - together.  
