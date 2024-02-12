@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: CFP
 menu:
   main:
@@ -6,7 +6,7 @@ menu:
 ---
 
 {{% hero %}}
-BSidesTLV 2023 Call for Papers
+BSidesTLV 2024 Call for Papers
 {{%/ hero %}}
 
 ## Our CFP Review board
@@ -14,11 +14,11 @@ BSidesTLV 2023 Call for Papers
 Our amazing CFP Review board members can be found [here]({{< relref "/team#cfpreviewboard" >}}).
 This year, we will be employing a "Double Blind" review process! This means the reviewers won't be able to see any personal details of the submitters, and submitters will be able to receive anonymized feedback on their submissions.
 
-## When: Thursday, June 29 , 2023
+## When: Thursday, June 27 , 2024
 
-The 2023 edition of Security BSides in Israel, BSidesTLV 2023, is returning during Tel Aviv University's Cyber Week (June 25th - June 29th, 2023).
+The 2024 edition of Security BSides in Israel, BSidesTLV 2024, is returning during Tel Aviv University's Cyber Week (June 23th - June 27th, 2024).
 
-BSidesTLV will take place on Thursday, June 29th, 2023, from 10:00 am until 19:00 pm, and (depending on COVID) might even be followed by our traditional after-party.
+BSidesTLV will take place on Thursday, June 27th, 2024, from 09:00 am until 19:00 pm, and might even be followed by our traditional after-party.
 
 ## Where: Tel Aviv University, Smolartz auditorium, Israel
 
@@ -56,17 +56,17 @@ The 10min slot depends on a minimum number of Lightning Talk applicants.
 
 {{< button-link label="Call for speakers" url="https://cfp.bsidestlv.com" icon="cfp" >}}
 
-#### Important BSidesTLV 2023 dates:
+#### Important BSidesTLV 2024 dates:
 
-- February 15th, 2023 - CFP opens
-- May 1st, 2023 - CFP closes
-- May 10th, 2023 - Accepted talks notified
-- June 1st, 2023 - Agenda announced to the public with final talk title & abstract
-- June 15th, 2023 - Presentation/slides due for review
-- June 29th, 2023 - Speakers' dinner (in the event of a physical-presence conference)
-- June 30th, 2023 - BSidesTLV and after-party (in the event of a physical-presence conference)!
+- February 15th, 2024 - CFP opens
+- April 15th, 2024 - CFP closes
+- May 10th, 2024 - Accepted talks notified
+- June 1st, 2024 - Agenda announced to the public with final talk title & abstract
+- June 15th, 2024 - Presentation/slides due for review
+- June 25th, 2024 - Speakers' dinner (in the event of a physical-presence conference)
+- June 27th, 2024 - BSidesTLV and after-party (in the event of a physical-presence conference)!
 
-#### Why you should speak at BSidesTLV 2023
+#### Why you should speak at BSidesTLV 2024
 
 You'll win the audience's admiration and a chance to (hopefully) visit Tel Aviv and be a part of [Cyber Week][cyberweek], This annual event brings over 8000 international guests from 60 countries to Tel Aviv. Pending COVID-19 solutions, of course.
 
@@ -90,4 +90,3 @@ Our Code Of Conduct can be found [here][coc-url]
 [smolarz-map]: https://www.google.com/maps/place/Tel+Aviv+University+Smolarz+Auditorium/@32.1103563,34.8042639,15z/data=!4m5!3m4!1s0x0:0x57e1b1e76143c7f7!8m2!3d32.1103563!4d34.8042639
 [cyberweek]: https://cyberweek.tau.ac.il/
 [coc-url]: /code-of-conduct
- -->
