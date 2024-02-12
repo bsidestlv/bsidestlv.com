@@ -21,7 +21,7 @@ We would like to feature stories of how security researchers and friendly hacker
 
 The 2024 edition of Security BSides in Israel, BSidesTLV 2024, is returning during Tel Aviv University's Cyber Week (June 23th - June 27th, 2024).
 
-BSidesTLV will take place on Thursday, June 27th, 2024, from 09:00 am until 19:00 pm, and might even be followed by our traditional after-party.
+BSidesTLV will take place on Thursday, June 27th, 2024, from 09:00 am until 18:00 pm, and might even be followed by our traditional after-party.
 
 
 {{< button-link label="Call for speakers" url="<https://cfp.bsidestlv.com>" icon="cfp" >}}
