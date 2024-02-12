@@ -1,7 +1,7 @@
-ARG NODE_VARIANT=18
+ARG NODE_VARIANT=20
 
 # [Choice] Node.js version: 14, 12, 10
-FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${NODE_VARIANT}
+FROM mcr.microsoft.com/devcontainers/javascript-node:${NODE_VARIANT}
 
 ARG HUGO_VARIANT=hugo_extended
 ARG HUGO_VERSION=0.81.0
@@ -32,4 +32,5 @@ EXPOSE 1313
 #     && apt-get -y install --no-install-recommends hugo
 
 # [Optional] Uncomment if you want to install more global node modules
-RUN su node -c "npm install -g npm-check-updates"
+# RUN su node -c "npm install -g npm-check-updates"
+RUN corepack enable

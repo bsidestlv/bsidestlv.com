@@ -7,40 +7,49 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2023" %}}
+<!-- {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2023" %}}
 
-{{% /jumbo %}}
+{{% /jumbo %}} -->
 
 {{% home-message %}}
 
-## 🤠 BSidesTLV 2023  - Thank you for attending 🐎
+## BSidesTLV 2024
 
-Thank you for joining us for the Wild Wild Web at BSidesTLV 2023!  
-With your participation and support from our sponsors, we are proud to wrap up another edition of Israel’s largest security community event 🤠   
-Photos from our event can be found [on this album](https://photos.app.goo.gl/yyAdDsidja6Ke1m28)  
-Videos of main stage talks will be uploaded to our YouTube channel in the coming weeks!
+“Together we stand, Together we hack - ביחד ננצח, ביחד נפצח”
 
-## BSidesTLV 2023 In Numbers
-* 1000+ people attended in person throughout the day
-* 20 speakers on our main stage & 20 speakers in our villages 
-* 4 “BSidesTLV villages” which were a huge success:  
-  * The Bug bounty village
-  * The Hardware Village
-  * The Adversarial Mindset Village
-  * “Hello Cyber World” Village
-* 50 incredible volunteers making sure everyone had a great time
-* 10 sponsors & partners who made our event possible  
-* 1337 CTF participants
-* 600 hot dogs 
+Dear friends and supporters.  
+The time has come for us to regroup, organize and grow stronger - together.
+We are actively planning BSidesTLV 2024: June 27, 2024 at Smolarz Auditorium, Tel Aviv University.
+Our theme this year will focus on the local community’s resilience and strength. We would like to feature stories of how security researchers and friendly hackers responded to the crisis and war going on in Israel since the Oct 7 attacks.
 
-As always, we would really like to know what worked well, and what didn’t.
-Please share your feedback with us [using this form](https://forms.gle/7CBosUUQFooPiXLEA)
+### Highlights of our event
 
-## BSidesTLV 2024 !
+- The event will take place live & in person at Tel Aviv University during [Tel Aviv Cyber Week](https://cyberweek.tau.ac.il/), on June 27, 2024 from 9am to 6pm.  
+- Ticket sales & registration will open 1/6/2024
+- State of the art, modern & accessible auditorium - seats for 1200 participants
+- huge stage for live talks, networking and chillout areas, and sponsor zone!
+- Content presented in english, filmed and uploaded to YouTube after the event
 
-Save the date for next year’s event: Thursday, June 27, 2024!  
-Never to early to be a sponsor for next year sponsors@bsidestlv.com  
-Thank you for joining us, The BSidesTLV 2023 team
+Have an idea to share on our main stage? Join our local celebration of security research and resilience.  
+Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com/>
+
+We welcome first time speakers, and we can offer speaker mentoring and support overseas speakers!
+
+### IMPORTANT DATES
+
+- CFP Opens: 15/2/2024 at 10:00:00 Israel time
+- CFP Closes: 15/4/2024 at 23:59:59 Israel time
+- CFP decisions will be sent to submitters by 10/5/2024
+- Agenda published by 1/6/2024
+
+Need some inspiration? [Watch videos from our past events!](https://www.youtube.com/@BSidesTLV)
+
+Want to support our event? We need Sponsors!  
+Our community powered, volunteer run event depends on the generous sponsors to make everything possible.  
+Please contact us at <sponsors@bsidestlv.com>
+
+Thank you and stay safe,  
+The BSidesTLV 2024 Team
 
 {{% /home-message %}}
 
@@ -49,7 +58,7 @@ Thank you for joining us, The BSidesTLV 2023 team
 <!-- Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com) -->
 
 Sign up to our newsletter to receive updates throughout the year
-{{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
+{{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
 
 {{< button-link label="Register Here!" url="/register" icon="external" >}}
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
