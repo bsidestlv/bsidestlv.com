@@ -8,5 +8,8 @@
     },
     "[markdown]": {
         "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
     }
 }

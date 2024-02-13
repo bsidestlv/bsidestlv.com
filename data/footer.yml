@@ -23,9 +23,3 @@ content:
       - nameKey: footer_coc
         url: /code-of-conduct/
         newTab: false
-      - name: BSidesTLV 2021
-        url: https://2021.bsidestlv.com
-        newTab: true
-      - name: BSidesTLV 2020
-        url: https://2020.bsidestlv.com
-        newTab: true

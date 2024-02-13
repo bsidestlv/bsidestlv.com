@@ -7,9 +7,9 @@ menu:
     weight: -1
 ---
 
-<!-- {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2023" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2024" %}}
 
-{{% /jumbo %}} -->
+{{% /jumbo %}}
 
 {{% home-message %}}
 
