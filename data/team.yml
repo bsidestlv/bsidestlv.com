@@ -53,7 +53,7 @@
 
 - title: Reut Menashe
   type: team
-  subtitle: CEO, Tetrisponse.io | Co-Leader, Leading Cyber Ladies | BsidesTLV Producer & Villages Founder
+  subtitle: CEO, Tetrisponse.io | Co-Leader, Leading Cyber Ladies | BSidesTLV Producer
   key: reut_menashe
   socials:
     - link: "https://www.reut-menashe.com/"
@@ -97,32 +97,6 @@
   socials:
     - link: "https://www.linkedin.com/in/inbal-pearlson-91709730/"
       name: Linkdin
-
-- title: Nimrod Levy
-  type: team
-  subtitle: CTO, Co-Founder | SCORPIONES LTD
-  key: nimrod_levy
-  socials:
-    - link: "https://twitter.com/El3ct71k"
-      name: Twitter
-    - link: "https://www.linkedin.com/in/nimrodlevy/"
-      name: LinkedIn
-    - link: "https://www.scorpiones.io"
-      name: Site
-    - link: "https://github.com/El3ct71k"
-      name: Github
-
-- title: Tomer Zait
-  type: team
-  subtitle: Security Researcher, OpenSource Developer & CTF Junkie
-  key: tomer_zait
-  socials:
-    - link: "https://twitter.com/realgam3"
-      name: Twitter
-    - link: "https://www.linkedin.com/in/realgam3"
-      name: LinkedIn
-    - link: "https://github.com/realgam3"
-      name: Github
 
 - title: Limor Kessem
   type: cfpboard
@@ -178,66 +152,3 @@
     - link: "https://www.linkedin.com/in/ilil-blum-shem-tov-aa5a4321"
       name: LinkedIn
       
-- title: Ohad Zaidenberg
-  type: advillageteam
-  subtitle: Strategic Threat Intelligence Leader | CTI Researcher
-  key: ohad_zaidenberg
-  socials:
-    - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
-      name: LinkedIn
-    - link: "https://twitter.com/ohad_mz"
-      name: Twitter  
-      
-- title: Benny Meisels
-  type: hwhvillageteam
-  subtitle: CYMOTIVE | Lead Solution Architect
-  key: benny_meisels
-  socials:
-    - link: "https://www.linkedin.com/in/benny-meisels"
-      name: LinkedIn
-    - link: "https://twitter.com/benny_meisels"
-      name: Twitter
-      
-- title: Antriksh Shah
-  type: hwhvillageteam
-  subtitle: 
-  key: antriksh_shah
-  socials:
-    - link: "https://www.linkedin.com/in/antriksh-shah"
-      name: LinkedIn
-    - link: "https://twitter.com/antriksh_s"
-      name: Twitter
-      
-- title: Guy Halfon
-  type: leadvillageteam
-  subtitle: Rescana | CEO and Co-founder
-  key: guy_halfon
-  socials:
-    - link: "https://www.linkedin.com/in/zecurity"
-      name: LinkedIn
-      
-- title: Gadi Evron
-  type: hellocybervillage
-  subtitle:
-  key: gadi_evron
-  socials:
-    - link: "https://www.linkedin.com/in/gadievron"
-      name: LinkedIn
-      
-- title: Dafna Yanin
-  type: hellocybervillage
-  subtitle: Head of outreach and engagement department at the INCD 
-  key: dafna_yanin
-  socials:
-    - link: "https://www.linkedin.com/in/dafna-yanin-a9954963"
-      name: LinkedIn   
-      
-- title: Rotem Bar
-  type: bugbountyvillage
-  subtitle: Cyber Paladin | Leading Israel’s bug bounty community | Appsec Innovation at Palo Alto 
-  key: rotem_bar
-  socials:
-    - link: "https://www.linkedin.com/in/r0tem/"
-      name: LinkedIn
-    - link: "https://twitter.com/rotembar"
-      name: Twitter
