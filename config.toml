@@ -37,7 +37,7 @@ enableGitInfo = true
 [params.logos]
     jumbo = "/images/logos/bstlv_color_no_bg.png"
     header = "/images/logos/bstlv_color.png"
-    footer = "/images/logos/bstlv_color.png"
+    footer = "/images/logos/bstlv_color_no_bg.png"
 
 [taxonomies]
   tag = "tags"
