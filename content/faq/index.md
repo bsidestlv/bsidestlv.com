@@ -69,8 +69,8 @@ For once, We hope this will help us serve our community better, by making sure t
 
 No. We are a 100% volunteer run, registered nonprofit association, and the team is fully dedicated to hosting the best community oriented, non commercial event possible. 
 
-### Food ticket info
+<!-- ### Food ticket info
 
 This year due to a limited budget, we decided to offer a pre-paid basic lunch option: beef or vegan hot dog, chips and soft drinks. **The food option  is Kosher. - Kosher by the Migdal Hamemek rabbinate**
-
+-->
 Coffee will be available all day at no cost.

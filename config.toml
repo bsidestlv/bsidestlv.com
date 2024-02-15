@@ -35,9 +35,9 @@ enableGitInfo = true
     googleMapsApiKey = "AIzaSyAWrX0-FFQ3oJhCjxRgEBbD8FObWg1FXI0"
 
 [params.logos]
-    jumbo = "/images/logos/bstlv_color.png"
+    jumbo = "/images/logos/bstlv_color_no_bg.png"
     header = "/images/logos/bstlv_color.png"
-    footer = "/images/logos/bstlv_color.png"
+    footer = "/images/logos/bstlv_color_no_bg.png"
 
 [taxonomies]
   tag = "tags"

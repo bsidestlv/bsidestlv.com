@@ -25,7 +25,7 @@ We would like to feature stories of how security researchers and friendly hacker
 
 ### Highlights of our event
 
-- The event will take place live & in person at Tel Aviv University during [Tel Aviv Cyber Week](https://cyberweek.tau.ac.il/), on June 27, 2024 from 9am to 6pm.  
+- The event will take place live & in person at Tel Aviv University during [Tel Aviv Cyber Week](https://cyberweektau.com/), on June 27, 2024 from 9am to 6pm.  
 - Ticket sales & registration will open 1/6/2024
 - State of the art, modern & accessible auditorium - seats for 1200 participants
 - Huge stage for live talks, networking and chillout areas, and sponsor zone!
@@ -59,7 +59,7 @@ The BSidesTLV 2024 Team
 <!-- Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com) -->
 
 Sign up to our newsletter to receive updates throughout the year
-{{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
+{{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
 
 <!-- {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
