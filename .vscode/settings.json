@@ -5,5 +5,11 @@
     "terminal.integrated.defaultProfile.linux": "zsh",
     "[powershell]": {
         "editor.defaultFormatter": "ms-vscode.powershell"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
     }
 }
