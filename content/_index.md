@@ -82,8 +82,6 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /partners %}} -->
 
-{{% partners categories="gold,bronze,partners" %}}## BSidesTLV 2024 is proudly sponsored by{{% /partners %}}
-
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
 ### Some pictures of **BSidesTLV 2023**
