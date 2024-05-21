@@ -63,8 +63,6 @@ Sign up to our newsletter to receive updates throughout the year
 
 <!-- {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
-&nbsp;
-&nbsp;
 
 {{% /home-info %}}
 
@@ -76,13 +74,15 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-<!-- {{% partners categories="platinum,gold,silver,bronze,partners" %}} -->
+<!-- {{% partners categories="platinum,gold,silver,bronze,partners" %}}
 
 {{% partners categories="gold,bronze,partners" %}}
 
 ## BSidesTLV 2024 is proudly sponsored by
 
-{{% /partners %}}
+{{% /partners %}} -->
+
+{{% partners categories="gold,bronze,partners" %}}## BSidesTLV 2024 is proudly sponsored by{{% /partners %}}
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
