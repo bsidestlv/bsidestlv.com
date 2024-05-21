@@ -2,8 +2,8 @@
 key: cyberweek
 title: CyberWeek
 category: partners
-website: 'https://cyberweektau.com/2023/'
+website: 'https://cyberweektau.com/'
 socials: []
 ---
 
-Check out CyberWeek @ htthttps://cyberweektau.com/
+Check out CyberWeek @ https://cyberweektau.com/
