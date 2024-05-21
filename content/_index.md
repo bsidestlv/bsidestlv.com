@@ -76,7 +76,8 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="platinum,gold,silver,bronze,partners" %}}
+<!-- {{% partners categories="platinum,gold,silver,bronze,partners" %}} -->
+{{% partners categories="gold,bronze,partners" %}}
 ## BSidesTLV 2024 is proudly sponsored by
 {{% /partners %}}
 

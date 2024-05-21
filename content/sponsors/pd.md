@@ -1,7 +1,7 @@
 ---
 key: pd
 title: Porsche Digital
-category: Gold
+category: gold
 website: 'https://www.porsche.digital/'
 socials: []
 ---

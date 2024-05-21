@@ -1,7 +1,7 @@
 ---
 key: sygnia
 title: Sygnia
-category: Gold
+category: gold
 website: 'https://www.sygnia.co/'
 socials: []
 ---

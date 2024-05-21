@@ -1,7 +1,7 @@
 ---
 key: pa
 title: Palo Alto Networks
-category: Gold
+category: gold
 website: 'https://jobs.paloaltonetworks.com/en/israel'
 socials: []
 ---

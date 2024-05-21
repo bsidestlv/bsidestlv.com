@@ -1,7 +1,7 @@
 ---
 key: varonis
 title: Varonis
-category: CTF
+category: ctf
 website: 'https://www.varonis.com/careers'
 socials: []
 ---
