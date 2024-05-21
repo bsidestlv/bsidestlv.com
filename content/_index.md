@@ -31,10 +31,10 @@ We would like to feature stories of how security researchers and friendly hacker
 - Huge stage for live talks, networking and chillout areas, and sponsor zone!
 - Content presented in English, filmed and uploaded to YouTube after the event
 
-Have an idea to share on our main stage? Join our local celebration of security research and resilience.  
+<!-- Have an idea to share on our main stage? Join our local celebration of security research and resilience.  
 Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com/>
 
-We welcome first time speakers, and we can offer speaker mentoring and support overseas speakers!
+We welcome first time speakers, and we can offer speaker mentoring and support overseas speakers! -->
 
 ### IMPORTANT DATES
 
@@ -81,6 +81,8 @@ Sign up to our newsletter to receive updates throughout the year
 ## BSidesTLV 2024 is proudly sponsored by
 
 {{% /partners %}} -->
+
+{{% partners categories="gold,bronze,partners" %}}## BSidesTLV 2024 is proudly sponsored by{{% /partners %}}
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
