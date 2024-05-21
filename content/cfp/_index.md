@@ -1,9 +1,9 @@
----
+<!-- ---
 title: CFP
 menu:
   main:
     weight: 50
----
+--- -->
 
 <!-- {{% hero %}}
 BSidesTLV 2024 Call for Papers
