@@ -34,7 +34,7 @@ We would like to feature stories of how security researchers and friendly hacker
 <!-- Have an idea to share on our main stage? Join our local celebration of security research and resilience.  
 Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com/>
 
-We welcome first time speakers, and we can offer speaker mentoring and support overseas speakers! -->
+We welcome first time speakers, and we can offer speaker mentoring and support overseas speakers! 
 
 ### IMPORTANT DATES
 
@@ -43,7 +43,7 @@ We welcome first time speakers, and we can offer speaker mentoring and support o
 - CFP decisions will be sent to submitters by 10/5/2024
 - Agenda published by 1/6/2024
 
-Need some inspiration? [Watch videos from our past events!](https://www.youtube.com/@BSidesTLV)
+Need some inspiration? [Watch videos from our past events!](https://www.youtube.com/@BSidesTLV) -->
 
 Want to support our event? We need Sponsors!  
 Our community powered, volunteer run event depends on the generous sponsors to make everything possible.  
