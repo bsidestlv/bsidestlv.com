@@ -43,11 +43,11 @@ We welcome first time speakers, and we can offer speaker mentoring and support o
 - CFP decisions will be sent to submitters by 10/5/2024
 - Agenda published by 1/6/2024
 
-Need some inspiration? [Watch videos from our past events!](https://www.youtube.com/@BSidesTLV) -->
+Need some inspiration? [Watch videos from our past events!](https://www.youtube.com/@BSidesTLV) 
 
 Want to support our event? We need Sponsors!  
 Our community powered, volunteer run event depends on the generous sponsors to make everything possible.  
-Please contact us at <sponsors@bsidestlv.com>
+Please contact us at <sponsors@bsidestlv.com> -->
 
 Thank you and stay safe,  
 The BSidesTLV 2024 Team
