@@ -6,9 +6,7 @@ menu:
 --- -->
 
 
-## BSidesTLV 2024 : The “Wild Wild Web” 🤠👢🐎🤪
-
-BSidesTLV 2024: “Together we stand, Together we hack - יחד ננצח, יחד נפצח”
+## BSidesTLV 2024: “Together we stand, Together we hack - יחד ננצח, יחד נפצח”
 🎉 Get Ready for the Ultimate Cybersecurity Event! 🎉
 
 **Registration to BSidesTLV 2023 is now officially open!**
