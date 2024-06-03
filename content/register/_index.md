@@ -13,6 +13,10 @@ menu:
 
 [Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
 
+## The use of ID is required for our vendor payment backend, it is collected and handled by our payment provider and we do not keep/store this data. This is used by our vendor for fraud prevention and is a regulatory requirement.
+
+# We do not validate, verify or check ID and\or ID numbers provided at the registration in the conference entrance
+
 <script>!function(t){t.addEventListener("message",function(a){a.data&&"eva"===a.data.event&&a.origin.match("^https:(\/\/|[^\.]+\.)eventer\.(co.il|us)$")&&a.data.t&&t[a.data.t]&&t[a.data.t](...a.data.e)},!1)}(window);</script><script src="https://www.eventer.co.il/js/vendor/iframeResizer.min.js"></script><iframe src="https://www.eventer.co.il/BSidesTLV24?colorScheme=%23FFFFFF&colorScheme2=%23000000&colorSchemeButton=%231FA3FF&lpsec_poweredByBox=false&lpsec_purchaseBox_2=true&lpsec_eventDetails_3=false&lpf_showBackground=false&lpf_showLocationDescription=false" width="100%" scrolling="no" class="resizableFrame" frameborder="0"></iframe><script>iFrameResize({checkOrigin: false}, "iframe.resizableFrame");</script>
 
 Food will be available to be purchased on site, kosher, vegan, vegetarian.
