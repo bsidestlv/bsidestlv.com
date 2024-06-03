@@ -1,9 +1,9 @@
-<!-- ---
+---
 title: Register
 menu:
   main:
     weight: 40
---- -->
+---
 
 # BSidesTLV 2024: “Together we stand, Together we hack - יחד ננצח, יחד נפצח”
 
