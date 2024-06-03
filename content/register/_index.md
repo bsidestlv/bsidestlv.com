@@ -19,7 +19,7 @@ Food will be available to be purchased on site, kosher, vegan, vegetarian.
 
 For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}}).
 
-Sign-up as a volunteer and be part of the BSidesTLV 2024 event: <https://signup.com/go/gYvHGjj>.
+Sign-up as a volunteer and be part of the BSidesTLV 2024 event: <https://signup.com/go/HXiCtNg>.
 
 - When: Thursday, June 27th 2024 09:00-19:00 Israel (GMT+3)
 - Where: [Smolarz Auditorium,  Tel Aviv University, Israel.](https://goo.gl/maps/empagm1x9NETBmkX7)
