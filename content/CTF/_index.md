@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: CTF
 menu:
   main:
@@ -9,6 +9,7 @@ draft: false
 
 You can find all details for the previous CTFs below
 
+* [2024](2024)
 * [2023](2023)
 * [2022](2022)
 * [2021](2021)
@@ -23,4 +24,3 @@ You can find all details for the previous CTFs below
 twitter: [@bsidestlv_ctf](https://twitter.com/BSidesTLV_CTF)  
 email: [ctf@bsidestlv.com](mailto:ctf@bsidestlv.com)
 
--->
