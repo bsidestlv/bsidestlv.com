@@ -13,55 +13,38 @@ menu:
 
 {{% home-message %}}
 
-## BSidesTLV 2024
+## BSidesTLV 2024 - Registration is OPEN
 
-“Together we stand, Together we hack - יחד ננצח, יחד נפצח”
+Registration is now open for BSidesTLV 2024, Taking place June 27 from 9am to 6pm at [Smolarz Auditorium, Tel Aviv University](https://english.tau.ac.il/campus/smolarz_auditorium).
 
-Dear friends and supporters.  
-The time has come for us to regroup, organize and grow stronger - together.  
-We are actively planning BSidesTLV 2024 for June 27, 2024 at Smolarz Auditorium, Tel Aviv University.  
-Our theme this year will focus on the local community’s resilience and strength.  
-We would like to feature stories of how security researchers and friendly hackers responded to the crisis and war going on in Israel since the October 7 attacks.
+{{< button-link label="Register Here!" url="/register" icon="external" >}}
 
-### Highlights of our event
+The theme this year is **"Together we stand, Together we hack"** - focusing on the local Israeli  community’s resilience and strength.   Please stay tuned for more agenda announcements and special guests,  to be published in the coming weeks!
 
-- The event will take place live & in person at Tel Aviv University during [Tel Aviv Cyber Week](https://cyberweektau.com/), on June 27, 2024 from 9am to 6pm.  
-- Ticket sales & registration will open 3/6/2024
-- State of the art, modern & accessible auditorium - seats for 1200 participants
-- Huge stage for live talks, networking and chillout areas, and sponsor zone!
-- Content presented in English, filmed and uploaded to YouTube after the event
+### Practical information
 
-<!-- Have an idea to share on our main stage? Join our local celebration of security research and resilience.  
-Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com/>
+* BSidesTLV 2024 will take place live & in person at [Smolarz Auditorium, Tel Aviv University](https://english.tau.ac.il/campus/smolarz_auditorium) during [Tel Aviv Cyber Week](https://cyberweek.tau.ac.il/), on June 27, 2024 from 9am to 6pm.  
+* Important: BSidesTLV 2024 requires a ticket with SEPARATE registration.
+**A Tel Aviv Cyber Week badge will not get you in so please get your ticket now!**
+* State of the art, modern & accessible auditorium - seats for 1200 participants,
+huge stage for live talks, networking and chillout areas, and a sponsor zone!
+* Content presented in english, most talks filmed and uploaded to YouTube after the event
 
-We welcome first time speakers, and we can offer speaker mentoring and support overseas speakers! 
+Want to support our event? We need you with us! Our community powered, volunteer run event depends on people like you to sign up and help make our event run smoothly .
+Please contact us at <https://signup.com/go/HXiCtNg> to volunteer.
 
-### IMPORTANT DATES
-
-- CFP Opens: 15/2/2024 at 10:00:00 Israel time
-- CFP Closes: 15/4/2024 at 23:59:59 Israel time
-- CFP decisions will be sent to submitters by 10/5/2024
-- Agenda published by 1/6/2024
-
-Need some inspiration? [Watch videos from our past events!](https://www.youtube.com/@BSidesTLV) 
-
-Want to support our event? We need Sponsors!  
-Our community powered, volunteer run event depends on the generous sponsors to make everything possible.  
-Please contact us at <sponsors@bsidestlv.com> -->
-
-Thank you and stay safe,  
-The BSidesTLV 2024 Team
+Thank you and stay safe,  The BSidesTLV 2024 Team
 
 {{% /home-message %}}
 
-{{% home-info what="Participants:1700+ ,Years:8, Sessions:30+, CTF Challenges:20+" class="primary" %}}
+{{% home-info what="Participants:1700+ ,Years:9, Sessions:30+, CTF Challenges:20+" class="primary" %}}
 
 <!-- Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com) -->
 
 Sign up to our newsletter to receive updates throughout the year
-{{< button-link url="https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US" label="Subscribe" icon="subscribe">}}
+{{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
 
-<!-- {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
+{{< button-link label="Register Here!" url="/register" icon="external" >}}
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 
 {{% /home-info %}}
