@@ -49,11 +49,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-info %}}
 
-<!-- {{< youtube-section link="xS6WPGG_tTc" title="Watch 2023 Videos" class="" >}} -->
-
-## Watch 2023 Videos
-
-<script><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=PFtAd1Aqtc-1F0WO&amp;list=PLkNlAwTF5yEuFqzHOirH6xxYsnqBNlNfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </script>
+{{< youtube-section link="videoseries?si=PFtAd1Aqtc-1F0WO&amp;list=PLkNlAwTF5yEuFqzHOirH6xxYsnqBNlNfY" title="Watch 2023 Videos" class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
