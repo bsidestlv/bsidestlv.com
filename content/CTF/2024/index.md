@@ -118,29 +118,27 @@ Yes, plan to release our entire repo
 ## Our Team
 
 <div class="row around-xs avatars shuffle" style="text-align:center">
-    <!-- <div>{{< imgproc img="/images/ctf/TomerZait.png" label="Tomer Zait" />}}<b>CTF Lead</b><br>Browselicious<br>APPerolSpritz<br>FangLight</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/arie.jpg" label="Arie Haenel" />}}Tsebrakhn</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/moti.jpg" label="Moti Markovitz" />}}CTF</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/DavidHaiGootvilig.jpg" label="David Hai Gootvilig" />}}compare_me<br>lost-basis</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/aviyae.jpg" label="Aviya Erenfeld" />}}Outside The Asylum<br>Lonely At The Top</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/aviv.jpg" label="Aviv Yahav" />}}n0tes-revenge<br>Zen(d) Master</div> -->
     <div>{{< imgproc img="/images/ctf/guybm.jpg" label="Guy Barnhart-Magen" />}}<b>CTF Team</b><br/>Moral Support</div>
-    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b><br>Browselicious<br>APPerolSpritz</div>
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Amit Huri" />}}Out-of-Character</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Israel Erlich" />}}UAF S.H.I.E.L.D</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/yaacov.png" label="Yaakov Cohen" />}}Opa Opa Opa Opa Hei<br>UAF S.H.I.E.L.D<br>Leakage Brothers... Leakage</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/tomer.png" label="Tomer Laor" />}}Leakage Brothers... Leakage</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Tiko" />}}Acid</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Osher Bello" />}}CD-KEY</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/mattar.jpg" label="Matter Bernhard" />}}Strange Traffic<br>The dog ate my QR!</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Gal Goldshtein" />}}Take Me to Prom</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Daniel Abeles" />}}Take Me to Prom</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Ben Salem" />}}Back To The Future</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Cohen" />}}Opa Opa Opa Opa Hei</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="David Yona" />}}Opa Opa Opa Opa Hei</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/arthur.jpg" label="Artur Avetisyan" />}}Gamma Authentication</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Aviv Avraham Levy" />}}Breaking The Vault: Uncover the Secrets</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/SharonBrizinov.png" label="Sharon Brizinov" />}}passino</div> -->
-    <!-- <div>{{< imgproc img="/images/ctf/israel.jpg" label="Israel Rubin" />}}KeyHunter</div> -->
+    <div>{{< imgproc img="/images/ctf/NimrodLevy.png" label="Nimrod Levy" />}}<b>CTF Team</b></div>
+    <div>{{< imgproc img="/images/ctf/image6.png" label="Nofar Terenyo" />}}<b>CTF Team</b></div>
+    <div>{{< imgproc img="/images/ctf/lavie.jpg" label="Lavie Ben-Baruch" />}}<b>CTF Team</b></div>
+    <div>{{< imgproc img="/images/ctf/image9.jpg" label="Rotem Reiss" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image3.png" label="Shaked Klein Orbach" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image10.png" label="Idan Strovinsky" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image2.jpg" label="Liav Gutman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image8.jpg" label="Shay Gover" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image16.png" label="Ron Azulay" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image11.jpg" label="Aviya Erenfeld" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image13.png" label="Dor Konis" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image4.png" label="Maor Tal" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image5.jpg" label="David Hai Gootvilig" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image15.jpg" label="Eli Mashiah" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Simcha" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image14.jpg" label="Or Yam Cherpack Snir" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image7.png" label=Moriya Weitzman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image12.jpg" label="Amit Laish" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="yocheved butterman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="Tamar neiman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image17.jpg" label="Sharon Brizinov" />}}</div>
 </div>
 
