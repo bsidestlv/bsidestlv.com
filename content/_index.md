@@ -49,7 +49,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-info %}}
 
-{{< youtube-section link="xS6WPGG_tTcxS6WPGG_tTc&list=PLkNlAwTF5yEuFqzHOirH6xxYsnqBNlNfY" title="Watch 2023 Videos" class="" >}}
+{{< youtube-section link="playlist?list=PLkNlAwTF5yEuFqzHOirH6xxYsnqBNlNfY&si=PFtAd1Aqtc-1F0WO" title="Watch 2023 Videos" class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
