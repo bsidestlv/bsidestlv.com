@@ -10,8 +10,8 @@ draft: false
 
 
 # Sponsored by: Varonis
-![](/images/ctf/Varonis_Logo_Black.svg)
-[Varonis](https://www.varonis.com/careers)
+
+[![](/images/ctf/Varonis_Logo_Black.svg)](https://www.varonis.com/careers)
 
 <!-- #  Timetable
 
