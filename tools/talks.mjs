@@ -52,9 +52,9 @@ if (!speakers) {
 }
 
 logger.info("Fetching talks");
-await fetch(`${baseurl}/Sessions`)
+await fetch(`${baseurl}/GridSmart`)
   .then((res) => res.json())
-  .then((sessions) => sessions[0].sessions.map((session) => {
+  .then((schedule) => schedule[0].rooms[0].sessions.map((session) => {
     const key = session.title?.replace(/[^\w]/g, "_").toLowerCase();
     const md = `
 ---
@@ -68,7 +68,7 @@ tags:
 speakers:
 ${session.speakers?.map(speaker => `- ${speakers[speaker.id].key}`).join("\n")}
 ---
-${session.description}`;
+${session.description ?? ""}`;
     logger.info("Writing ", key);
     writeFileSync(`content/agenda/${key}.md`, md, { flag: "w" });
 
