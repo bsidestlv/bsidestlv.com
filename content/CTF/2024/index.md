@@ -9,8 +9,9 @@ draft: false
 <!-- {{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}} -->
 
 
-<!-- # Sponsored by: Correlium
-![](/images/ctf/2023_correlium.png) -->
+# Sponsored by: Varonis
+![](/images/ctf/Varonis_Logo_Black.svg)
+[Varonis](https://www.varonis.com/careers)
 
 <!-- #  Timetable
 
