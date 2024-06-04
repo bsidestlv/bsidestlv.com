@@ -6,22 +6,22 @@ date: 2024-06-03
 draft: false
 ---
 
-{{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}}
+<!-- {{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}} -->
 
 
 <!-- # Sponsored by: Correlium
 ![](/images/ctf/2023_correlium.png) -->
 
-#  Timetable
+<!-- #  Timetable
 
 Over 48-hours!
 
 * Start: June 26th 2023, 09:00am (Israel Time)
 * End:   June 28st 2023, 09:00am (Israel Time)
 
-**Winner announcement on June 29th, during our event**
+**Winner announcement on June 27th, during our event** -->
 
-{{% timer "Jun 26, 2023 09:00:00" "CTF starts in:" %}}
+<!-- {{% timer "Jun 27, 2024 09:00:00" "CTF starts in:" %}} -->
 
 ---
 
@@ -31,40 +31,6 @@ The CTF is played on the CTFd platform, you will need to [register](https://ctf2
 
 https://ctf24.bsidestlv.com/
 
-<!-- ## Hall of Fame
-
-<div class="row around-xs avatars" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/avatar_group.jpeg" label="1st Place" />}}<b>idek</b></div>
-</div>
-<div class="row around-xs avatars" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="2nd Place" />}}<b>BobbyTables</b></div>
-    <div>{{< imgproc img="/images/ctf/avatar_group.png" label="3rd Place" />}}<b>TheHotDogSellers</b></div>
-</div>
-
----
-
-## Resources and WriteUps
-
-- [BSidesTLV 2022 CTF — “Roll The Impossible” Writeup](https://medium.com/@__omertal__/bsidestlv-2022-ctf-roll-the-impossible-writeup-e5d5a2583909)
-- [BSidesTLV 2022 CTF - "Medium Expectations"](https://www.thesecuritywind.com/post/bsidestlv-2022-ctf-medium-expectations)
-- [BSidesTLV 2022 CTF – SEV](https://sekai.team/blog/bsidestlv-2022/sev/)
-- [BSidesTLV 2022 CTF – Intergalactic Communicator](https://sekai.team/blog/bsidestlv-2022/intergalactic_communicator/)
-- [BSidesTLV 2022 CTF – Code is Law](https://sekai.team/blog/bsidestlv-2022/code_is_law/)
-- [Code is Law 1: Solidity CTF Challenge Writeup](https://medium.com/@patternrecognizer/solidity-ctf-writeup-code-is-law-1-465428bf4bd5)
-
-## Statistics
-
-* 26 Challenges
-* 7 Categories
-* 1158 Registered users
-    * From 7963 IP addresses
-* 681 Registered teams
-* 678 Solved challenges
-* 190 Teams solved at least 1 challenge
-
-[Winner announcements presentation](/static.bsidestlv.com/BSidesTLV2022.pdf)
----
- -->
 ---
 # Rules and Guidelines
 
@@ -135,7 +101,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/image15.jpg" label="Eli Mashiah" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Simcha" />}}</div>
     <div>{{< imgproc img="/images/ctf/image14.jpg" label="Or Yam Cherpack Snir" />}}</div>
-    <div>{{< imgproc img="/images/ctf/image7.png" label=Moriya Weitzman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image7.png" label="Moriya Weitzman" />}}</div>
     <div>{{< imgproc img="/images/ctf/image12.jpg" label="Amit Laish" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="yocheved butterman" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="Tamar neiman" />}}</div>
