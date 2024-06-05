@@ -24,6 +24,7 @@
 			<div class="col-xs-12 col-sm-3 col-md-2">
 				{{ dateFormat "03:04 PM" .Params.Start }}-{{ dateFormat "03:04 PM" .Params.End }}
 			</div>
+			{{ if .Params.Speakers }}
 			<div class="col-xs-4  col-sm-3 col-md-4">
 				{{ range .Params.Speakers }}
 				{{ with site.GetPage path.Join "/speakers" . }}
@@ -31,7 +32,12 @@
 				{{ end }}
 				{{ end }}
 			</div>
+			{{ end }}
+			{{ if .Params.Speakers }}
 			<div class="col-xs-8 col-sm"><a href={{ .RelPermalink }}>{{ .Title }}</a></div>
+			{{ else }}
+			<div class="col-xs-12 col-sm center"><a href={{ .RelPermalink }}>{{ .Title }}</a></div>
+			{{ end }}
 		</div>
 		{{ end }}
 	</div>
