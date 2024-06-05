@@ -11,18 +11,21 @@ draft: false
 
 # Sponsored by: Varonis
 
-[![](/images/ctf/Varonis_Logo_Black.svg)](https://www.varonis.com/careers)
+[![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?33Yfenwm)
 
-<!-- #  Timetable
+#  Timetable
+
+We will be sharing our timetable shortly
 
 Over 48-hours!
 
-* Start: June 26th 2023, 09:00am (Israel Time)
-* End:   June 28st 2023, 09:00am (Israel Time)
+* Start: June 25th 2023, 09:00am (Israel Time)
+* End:   June 27st 2023, 09:00am (Israel Time) 
 
-**Winner announcement on June 27th, during our event** -->
 
-<!-- {{% timer "Jun 27, 2024 09:00:00" "CTF starts in:" %}} -->
+**Winner announcement on June 27th, during our event**
+
+{{% timer "Jun 25, 2024 09:00:00" "CTF starts in:" %}}
 
 ---
 
@@ -35,16 +38,21 @@ https://ctf24.bsidestlv.com/
 ---
 # Rules and Guidelines
 
-1. Remote participation is allowed (for all teams) this year
+1. This year we have 3 kinds of challenges:
+    - Remote challenges
+    - Local challenges (on site)
+    - “0 knowledge” treasure hunt challenges (on site) – juniors this is for you!
 1. We only allow physically present teams to claim a prize, make sure a member of your team is in the announcement ceremony!
-1. We will contact winners using the email registered at the [CTF Website](https://ctf23.bsidestlv.com). Use an email you monitor.
+1. We will contact winners using the email registered at the CTF Website. Use an email you monitor.
 1. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
-1. Each team may be made of one or more individuals
-1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called 'BSidesTLV' please make sure to work with sessions to retain access to the same container
-1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files.
-1. Team recommended size is 5 (limited to 10)
-1. **Note**: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure)
-1. We usually keep the challenges alive for a couple more (~1 week) days after the event to enable write-ups
+1. Each team may be made of one or more individuals.
+1. The winning team will get a collective prize which will be shared between the team participants.
+<!-- 1. The CTF challenges are containerized and scalable, as such most web challenges use a sticky cookie called ‘BSidesTLV’ please make
+sure to work with sessions to retain access to the same container -->
+<!-- 1. For any persistency challenges with files, please note that we do an hourly cleanup of large and old files. -->
+<!-- 1. Note: You must use the BSidesTLV cookie for the challenges to work properly if it is supplied (it is not part of the CTF just part of the infrastructure) -->
+
+> We usually keep the challenges alive for a couple more days after the event to enable write-ups
 
 ---
 
@@ -62,7 +70,9 @@ No, you can register as a team of one member
 
 **Is the CTF aimed at beginners?**
 
-some of the challenges will be in beginner level, some on expert level. try solving from the lower scores working up 
+some of the challenges will be in beginner level, some on expert level. try
+solving from the lower scores working up. Moreover, this year we have a
+special treasure hunt challenge for “0 knowledge” participants. 
 
 **Are there binary exploitation challenges in the CTF?**
 
@@ -74,7 +84,7 @@ Registration ends at the end of the contest
 
 **What is the flag format?**
 
-The valid flag format is: “BSidesTLV2023{…}”
+The valid flag format is: “BSidesTLV2024{…}”
 
 **Will you release the code/containers/VM after the CTF**
 
