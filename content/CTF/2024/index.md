@@ -31,9 +31,11 @@ Over 48-hours!
 
 # Registration
 
-The CTF is played on the CTFd platform, you will need to [register](https://ctf24.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
+The CTF is played on the CTFd platform, you will need to register 
+<!-- [register](https://ctf24.bsidestlv.com)  -->
+yourself and join a team in order to play (you can be a member of a single player team)
 
-https://ctf24.bsidestlv.com/
+<!-- https://ctf24.bsidestlv.com/ -->
 
 ---
 # Rules and Guidelines
