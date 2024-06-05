@@ -58,7 +58,9 @@ sure to work with sessions to retain access to the same container -->
 
 ---
 
-You're invited to join our [Slack channel](https://slack.bsidestlv.com), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
+You're invited to 
+<!-- join our [Slack channel](https://slack.bsidestlv.com), or  -->
+follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
 *please check this page for any updates prior to the competition*
 
