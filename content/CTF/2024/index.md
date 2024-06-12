@@ -15,12 +15,11 @@ draft: false
 
 #  Timetable
 
-We will be sharing our timetable shortly
-
 Over 48-hours!
 
-* Start: June 25th 2023, 09:00am (Israel Time)
-* End:   June 27st 2023, 09:00am (Israel Time) 
+* Start: June 25th 2024, 09:00am (Israel Time)
+* On-site will be on the 27th, from 09:00am-15:00am
+* End:   June 27st 2024, 15:00am (Israel Time) 
 
 
 **Winner announcement on June 27th, during our event**
