@@ -15,7 +15,7 @@ We have very limited seats for the workshop and will honor signups in order.
 
 ## Wokwi for Embedded System Security Research
 
-### Session details: 
+### Session details
 
 Wokwi is an embedded system simulation tool that runs entirely in your browser / VSCode.
 Wokwi is well known in the Maker / professional embedded development space and has many useful capabilities for embedded security research.
@@ -30,7 +30,7 @@ In order to participate, you will need free [gitpod.io](http://gitpod.io/) and [
 
 
 
-### Speakers details:
+### Speakers details
 
 #### Benny Meisels
 Lead Solution Architect @ CYMOTIVE
