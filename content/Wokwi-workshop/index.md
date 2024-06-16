@@ -1,4 +1,4 @@
----
+ ---
 title: Wokwi Workshop
 menu:
   main:
@@ -8,6 +8,10 @@ menu:
 {{% hero %}}
 
 During BSidesTLV 2024, we will offer an embedded security research workshop using wokwi.com.
+The workshop is suitable for intermediate / experts.
+Curious? 
+To participate you must  first solve our [puzzle](https://wokwi.com/projects/400674559151102977)... 
+
 We have very limited seats for the workshop and will honor signups in order.
 
 [**Details and signup on this page**](https://forms.gle/W72rkXZPALq68uTy7)
