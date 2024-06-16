@@ -40,7 +40,7 @@ Benny Meisels is a security architect with 10 years of security research experie
 https://www.linkedin.com/in/benny-meisels
 https://twitter.com/benny_meisels
 
-####Uri Shaked
+#### Uri Shaked
 
 Maker@Wokwi and Chippin'@Tiny TapeoutUri Shaked is a long-time maker. He's currently working on Wokwi.com, an online IoT and embedded systems simulation platform, and on Tiny Tapeout, making custom ASIC manufacturing affordable and accessible. 
 https://twitter.com/UriShaked
