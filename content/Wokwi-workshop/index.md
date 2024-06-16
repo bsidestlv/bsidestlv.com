@@ -9,6 +9,7 @@ menu:
 
 During BSidesTLV 2024, we will offer an embedded security research workshop using wokwi.com.
 We have very limited seats for the workshop and will honor signups in order.
+
 [**Details and signup on this page**](https://forms.gle/W72rkXZPALq68uTy7)
 
 {{% /hero %}}
@@ -40,5 +41,6 @@ https://www.linkedin.com/in/benny-meisels
 https://twitter.com/benny_meisels
 
 ####Uri Shaked
+
 Maker@Wokwi and Chippin'@Tiny TapeoutUri Shaked is a long-time maker. He's currently working on Wokwi.com, an online IoT and embedded systems simulation platform, and on Tiny Tapeout, making custom ASIC manufacturing affordable and accessible. 
 https://twitter.com/UriShaked
