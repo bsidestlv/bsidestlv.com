@@ -5,14 +5,14 @@ menu:
     weight: 85
 ---
 
-{{% hero %}}
+<!-- {{% hero %}}  -->
 
 During BSidesTLV 2024, we will offer an embedded security research workshop using wokwi.com.
 We have very limited seats for the workshop and will honor signups in order.
 
 [**Details and signup on this page**](https://forms.gle/W72rkXZPALq68uTy7)
 
-{{% /hero %}}
+<!-- {{% /hero %}} -->
 
 ## Wokwi for Embedded System Security Research
 
