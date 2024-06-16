@@ -2,7 +2,7 @@
 title: Wokwi Workshop
 menu:
   main:
-    weight: 25
+    weight: 85
 ---
 
 {{% hero %}}
