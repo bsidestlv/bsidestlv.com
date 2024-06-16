@@ -17,9 +17,9 @@ draft: false
 
 Over 48-hours!
 
-* Start: June 25th 2024, 09:00am (Israel Time)
-* On-site will be on the 27th, from 09:00am-15:00am
-* End:   June 27st 2024, 15:00am (Israel Time) 
+* Start: June 25th 2024, 09:00 (Israel Time)
+* On-site will be on the 27th, from 09:00-15:00
+* End:   June 27st 2024, 15:00 (Israel Time) 
 
 
 **Winner announcement on June 27th, during our event**
@@ -120,5 +120,6 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="yocheved butterman" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="Tamar neiman" />}}</div>
     <div>{{< imgproc img="/images/ctf/image17.jpg" label="Sharon Brizinov" />}}</div>
+    <div>{{< imgproc img="/images/ctf/image2024.jpeg" label="Liam Troper" />}}</div>
 </div>
 
