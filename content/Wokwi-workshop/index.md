@@ -8,7 +8,7 @@ menu:
 {{% hero %}}
 
 During BSidesTLV 2024, we will offer an embedded security research workshop using wokwi.com.
-The workshop is suitable for intermediate / experts.
+The workshop is suitable for all levels.
 Curious? 
 To participate you must first solve our [puzzle](https://wokwi.com/projects/400674559151102977)... 
 
