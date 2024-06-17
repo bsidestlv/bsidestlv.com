@@ -30,11 +30,9 @@ Over 48-hours!
 
 # Registration
 
-The CTF is played on the CTFd platform, you will need to register 
-<!-- [register](https://ctf24.bsidestlv.com)  -->
-yourself and join a team in order to play (you can be a member of a single player team)
+The CTF is played on the CTFd platform, you will need to [register](https://ctf24.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
 
-<!-- https://ctf24.bsidestlv.com/ -->
+https://ctf24.bsidestlv.com/
 
 ---
 # Rules and Guidelines
@@ -59,7 +57,7 @@ sure to work with sessions to retain access to the same container -->
 
 You're invited to 
 <!-- join our [Slack channel](https://slack.bsidestlv.com), or  -->
-follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
+join our [Discord channel](https://discord.gg/vQu4NYKv), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
 *please check this page for any updates prior to the competition*
 
