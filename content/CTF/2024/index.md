@@ -22,6 +22,8 @@ Over 48-hours!
 * End:   June 27st 2024, 15:00 (Israel Time) 
 
 
+<div><h1>The local CTF will be held at the upstairs gallery!<h1></div>
+
 **Winner announcement on June 27th, during our event**
 
 {{% timer "Jun 25, 2024 09:00:00" "CTF starts in:" %}}
