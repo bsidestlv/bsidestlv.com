@@ -115,6 +115,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/image15.jpg" label="Eli Mashiah" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Simcha" />}}</div>
     <div>{{< imgproc img="/images/ctf/image14.jpg" label="Or Yam Cherpack Snir" />}}</div>
+    <div>{{< imgproc img="/images/ctf/avatar_male.jpg" label="Roy Sorojon" />}}</div>
     <div>{{< imgproc img="/images/ctf/image7.png" label="Moriya Weitzman" />}}</div>
     <div>{{< imgproc img="/images/ctf/image12.jpg" label="Amit Laish" />}}</div>
     <div>{{< imgproc img="/images/ctf/avatar_female.jpg" label="yocheved butterman" />}}</div>
