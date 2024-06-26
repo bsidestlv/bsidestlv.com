@@ -1,1 +1,39 @@
-<meta http-equiv="refresh" content="0; url=/live/track1" />
+{{ define "main" }}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" crossorigin="anonymous"
+    referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js" crossorigin="anonymous"
+    referrerpolicy="no-referrer"></script>
+<script src="https://www.youtube.com/player_api"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.js" referrerpolicy="no-referrer"></script>
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function () {
+        api = '//bsidestlv-slackmirror.herokuapp.com'
+
+        const fMsg = (msg) => {
+            return `<div class="slack-message col-xs-12">
+      <img class="avatar" src="${msg.image_48}" aria-hidden="true" title="">
+      <div class="content">
+      <strong class="username">${msg.user}</strong>
+      <small class="timestamp">${moment.unix(msg.ts).calendar()}</small>
+      <div class="message">${msg.text}</div>
+      </div>
+      </div>`
+        }
+
+        var socket = io(api);
+        $.get(api + '/log', data => data.forEach(msg => $('#mirror').prepend(fMsg(msg))));
+        socket.on('msg', msg => $('#mirror').prepend(fMsg(msg)));
+        window.setInterval(function () {
+            var elem = document.getElementById('mirror');
+            elem.scrollTop = elem.scrollHeight;
+        }, 1000);
+    });
+</script>
+
+<section class="content">
+    {{ .Content }}
+</section>
+
+
+{{ end }}
