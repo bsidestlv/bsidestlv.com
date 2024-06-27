@@ -7,6 +7,8 @@ menu:
     weight: -1
 ---
 
+<meta http-equiv="refresh" content="0; url=/live" />
+
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2024" %}}
 
 {{% /jumbo %}}
