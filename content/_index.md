@@ -13,38 +13,47 @@ menu:
 
 {{% home-message %}}
 
-## BSidesTLV 2024 - Registration is OPEN
+## That’s a wrap on BSidesTLV 2024 💙🇮🇱💙 - Thank you
 
-Registration is now open for BSidesTLV 2024, Taking place June 27 from 9am to 6pm at [Smolarz Auditorium, Tel Aviv University](https://english.tau.ac.il/campus/smolarz_auditorium).
+Thank you for joining BSidesTLV 2024!  
+With over 1,200 tickets sold, this year was sold out once again :)  
+We are thankful and honored to serve our community, in particular during this difficult ear. Our theme "Together We Hack" focused on the local community’s resilience and strength, despite the crisis and war going on in Israel since the Oct 7 attacks.
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}}
+Videos and photos from our 2024 events will be posted here and on our youtube channel soon!
 
-The theme this year is **"Together we stand, Together we hack"** - focusing on the local Israeli  community’s resilience and strength.   Please stay tuned for more agenda announcements and special guests,  to be published in the coming weeks!
+### Highlights of our event
 
-### Practical information
+* BSidesTLV 2024 took place June 27, 2024 at Smolarz Auditorium, Tel Aviv University.
+* Sold out event! 1200+ people attended in person throughout the day
+* 25 speakers on our main stage & 1 special hardware workshop
+* 43 unique CTF challenges (both online and on-site!)
+* 36 incredible volunteers making sure everyone had a great time
+* 7 sponsors & partners who made our event possible
+  * Palo Alto Networks
+  * Porsche Digital
+  * Sygnia
+  * Oasis
+  * Sans
+  * Varonis
+  * Tel Aviv University ICRC!
 
-* BSidesTLV 2024 will take place live & in person at [Smolarz Auditorium, Tel Aviv University](https://english.tau.ac.il/campus/smolarz_auditorium) during [Tel Aviv Cyber Week](https://cyberweek.tau.ac.il/), on June 27, 2024 from 9am to 6pm.  
-* Important: BSidesTLV 2024 requires a ticket with SEPARATE registration.
-**A Tel Aviv Cyber Week badge will not get you in so please get your ticket now!**
-* State of the art, modern & accessible auditorium - seats for 1200 participants,
-huge stage for live talks, networking and chillout areas, and a sponsor zone!
-* Content presented in english, most talks filmed and uploaded to YouTube after the event
+Have an idea to share on our main stage?  
+Want to join us in 2025 as a volunteer, workshop leader, speaker or sponsor ?  
+Make sure to join our mailing list to be notified when the 2025 CFP kicks off.  
+Our community powered, volunteer run event depends on the generous sponsors to make everything possible.
 
-Want to support our event? We need you with us! Our community powered, volunteer run event depends on people like you to sign up and help make our event run smoothly .
-Please contact us at <https://signup.com/go/HXiCtNg> to volunteer.
+Please contact us at <sponsors@bsidestlv.com> for more info.
 
-Thank you and stay safe,  The BSidesTLV 2024 Team
+Thank you and stay safe,  
+The BSidesTLV 2024 Team
 
 {{% /home-message %}}
 
 {{% home-info what="Participants:1700+ ,Years:9, Sessions:30+, CTF Challenges:20+" class="primary" %}}
 
-<!-- Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com) -->
-
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}}
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 
 {{% /home-info %}}

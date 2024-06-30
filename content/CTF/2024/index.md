@@ -8,19 +8,19 @@ draft: false
 
 <!-- {{% picture img="/images/banners/2023-BSidesTLV-CTF.png" widths="540,720,960,1140" %}} -->
 
-
 # Sponsored by: Varonis
 
 [![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?33Yfenwm)
 
-#  Timetable
+# Timetable
 
 Over 48-hours!
 
 * Start: June 25th 2024, 09:00 (Israel Time)
 * On-site will be on the 27th, from 09:00-15:00
-* End:   June 27st 2024, 15:00 (Israel Time) 
+* End:   June 27th 2024, 15:00 (Israel Time) 
 
+<div><h1>The local CTF will be held at the upstairs gallery!<h1></div>
 
 <div><h1>The local CTF will be held at the upstairs gallery!<h1></div>
 
@@ -34,15 +34,16 @@ Over 48-hours!
 
 The CTF is played on the CTFd platform, you will need to [register](https://ctf24.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
 
-https://ctf24.bsidestlv.com/
+<https://ctf24.bsidestlv.com/>
 
 ---
+
 # Rules and Guidelines
 
 1. This year we have 3 kinds of challenges:
-    - Remote challenges
-    - Local challenges (on site)
-    - “0 knowledge” treasure hunt challenges (on site) – juniors this is for you!
+    * Remote challenges
+    * Local challenges (on site)
+    * “0 knowledge” treasure hunt challenges (on site) – juniors this is for you!
 1. We only allow physically present teams to claim a prize, make sure a member of your team is in the announcement ceremony!
 1. We will contact winners using the email registered at the CTF Website. Use an email you monitor.
 1. This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
@@ -57,9 +58,9 @@ sure to work with sessions to retain access to the same container -->
 
 ---
 
-You're invited to 
+You're invited to
 <!-- join our [Slack channel](https://slack.bsidestlv.com), or  -->
-join our [Discord channel](https://discord.gg/vQu4NYKv), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
+join our [Discord channel](https://discord.gg/bPSfb6ZM), or follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
 *please check this page for any updates prior to the competition*
 
@@ -75,7 +76,7 @@ No, you can register as a team of one member
 
 some of the challenges will be in beginner level, some on expert level. try
 solving from the lower scores working up. Moreover, this year we have a
-special treasure hunt challenge for “0 knowledge” participants. 
+special treasure hunt challenge for “0 knowledge” participants.
 
 **Are there binary exploitation challenges in the CTF?**
 
@@ -123,4 +124,3 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/image17.jpg" label="Sharon Brizinov" />}}</div>
     <div>{{< imgproc img="/images/ctf/image2024.jpeg" label="Liam Troper" />}}</div>
 </div>
-

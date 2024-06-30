@@ -1,0 +1,32 @@
+<!-- ---
+
+title: Live!
+
+--- -->
+
+## BSidesTLV 2024 - Live Stream
+
+<div class="row">
+ <div class="col-xs-12" style=" --aspect-ratio: 16/9;
+  max-width: 85%;
+  margin: 0px auto;">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tlBnIA9FQrg?si=8CQCfmRpi7f4p8cx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12" id="slack">
+      {{< button-link
+      url="//slack.bsidestlv.com"
+      label="Slack Lobbycon"
+      icon="slack"
+      target="_blank" >}}
+  </div>
+  <div class="col-xs-12 col-md-offset-3 col-md-6" id="mirror"></div>
+  
+  <div class="col-xs-12">
+  <h2><center>BSidesTLV 2024 is proudly sponsored by</center></h2>
+  &nbsp;
+    {{% partners categories="gold,silver,bronze,partners" %}}{{% /partners %}}
+  </div>
+</div>
