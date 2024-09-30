@@ -18,7 +18,7 @@
     "start": "hugo server --bind=0.0.0.0 --buildFuture --renderToDisk"
   },
   "devDependencies": {
-    "@babel/core": "7.23.9",
+    "@babel/core": "7.25.2",
     "@babel/preset-env": "7.23.9",
     "@rollup/plugin-babel": "6.0.4",
     "@rollup/plugin-terser": "^0.4.4",
