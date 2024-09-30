@@ -2462,7 +2462,7 @@ __metadata:
     sass: "npm:1.70.0"
     sass-mq: "npm:6.0.0"
     sharp: "npm:^0.33.2"
-    terser: "npm:5.27.0"
+    terser: "npm:5.34.0"
   languageName: unknown
   linkType: soft
 
@@ -5727,7 +5727,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"terser@npm:5.27.0, terser@npm:^5.17.4":
+"terser@npm:5.34.0":
+  version: 5.34.0
+  resolution: "terser@npm:5.34.0"
+  dependencies:
+    "@jridgewell/source-map": "npm:^0.3.3"
+    acorn: "npm:^8.8.2"
+    commander: "npm:^2.20.0"
+    source-map-support: "npm:~0.5.20"
+  bin:
+    terser: bin/terser
+  checksum: 74e8ef4e565e5600415cd9377a90eed419b8076465d453c0c76aef4053c45371512d2de76c34d01e004cdd49ea5a749d77eeb343f7e665b2d172158ca08ba23e
+  languageName: node
+  linkType: hard
+
+"terser@npm:^5.17.4":
   version: 5.27.0
   resolution: "terser@npm:5.27.0"
   dependencies:
