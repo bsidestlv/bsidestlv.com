@@ -2024,7 +2024,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rollup/plugin-terser@npm:^0.4.4":
+"@rollup/plugin-terser@npm:0.4.4":
   version: 0.4.4
   resolution: "@rollup/plugin-terser@npm:0.4.4"
   dependencies:
@@ -2448,7 +2448,7 @@ __metadata:
     "@babel/core": "npm:7.23.9"
     "@babel/preset-env": "npm:7.23.9"
     "@rollup/plugin-babel": "npm:6.0.4"
-    "@rollup/plugin-terser": "npm:^0.4.4"
+    "@rollup/plugin-terser": "npm:0.4.4"
     axios: "npm:1.7.4"
     cssnano: "npm:6.0.3"
     glob: "npm:10.3.10"
@@ -2461,7 +2461,7 @@ __metadata:
     rollup: "npm:4.22.4"
     sass: "npm:1.70.0"
     sass-mq: "npm:6.0.0"
-    sharp: "npm:^0.33.2"
+    sharp: "npm:0.33.2"
     terser: "npm:5.27.0"
   languageName: unknown
   linkType: soft
@@ -5332,7 +5332,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sharp@npm:^0.33.2":
+"sharp@npm:0.33.2":
   version: 0.33.2
   resolution: "sharp@npm:0.33.2"
   dependencies:
