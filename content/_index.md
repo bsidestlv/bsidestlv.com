@@ -19,7 +19,8 @@ Thank you for joining BSidesTLV 2024!
 With over 1,200 tickets sold, this year was sold out once again :)  
 We are thankful and honored to serve our community, in particular during this difficult ear. Our theme "Together We Hack" focused on the local community’s resilience and strength, despite the crisis and war going on in Israel since the Oct 7 attacks.
 
-Videos and photos from our 2024 events will be posted here and on our youtube channel soon!
+Videos and photos from BSidesTLV 2024 can be found [here](https://photos.google.com/share/AF1QipM8dR_oWZpvkic0C1tNkB4lMYOZXLXiA6MvHRods_dKkLVO_PF98yWmmOJbUZkDUA?key=dUpEVGxyU0RJOXJHSUJWcm9QXzE1am9KQnBVcUVR) and on our [YouTube channel](https://youtu.be/hrunCTSxgFU?si=wyvdo3EkCI0Ou3QX
+)
 
 ### Highlights of our event
 
@@ -58,7 +59,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-info %}}
 
-{{< youtube-section link="videoseries?si=PFtAd1Aqtc-1F0WO&list=PLkNlAwTF5yEuFqzHOirH6xxYsnqBNlNfY" title="Watch 2023 Videos" class="" >}}
+{{< youtube-section link="playlist?list=PLkNlAwTF5yEsxhdzTmwYCt2WJsq72U4zl&si=VHWITrxdnxtU04uw" title="Watch 2024 Videos" class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
