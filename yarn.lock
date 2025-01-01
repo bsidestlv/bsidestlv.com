@@ -2331,14 +2331,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:1.7.4":
-  version: 1.7.4
-  resolution: "axios@npm:1.7.4"
+"axios@npm:1.7.9":
+  version: 1.7.9
+  resolution: "axios@npm:1.7.9"
   dependencies:
     follow-redirects: "npm:^1.15.6"
     form-data: "npm:^4.0.0"
     proxy-from-env: "npm:^1.1.0"
-  checksum: 5ea1a93140ca1d49db25ef8e1bd8cfc59da6f9220159a944168860ad15a2743ea21c5df2967795acb15cbe81362f5b157fdebbea39d53117ca27658bab9f7f17
+  checksum: b7a41e24b59fee5f0f26c1fc844b45b17442832eb3a0fb42dd4f1430eb4abc571fe168e67913e8a1d91c993232bd1d1ab03e20e4d1fee8c6147649b576fc1b0b
   languageName: node
   linkType: hard
 
@@ -2449,7 +2449,7 @@ __metadata:
     "@babel/preset-env": "npm:7.23.9"
     "@rollup/plugin-babel": "npm:6.0.4"
     "@rollup/plugin-terser": "npm:^0.4.4"
-    axios: "npm:1.7.4"
+    axios: "npm:1.7.9"
     cssnano: "npm:6.0.3"
     glob: "npm:10.3.10"
     html-minifier: "npm:4.0.0"
