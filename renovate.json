@@ -1,38 +1,37 @@
 {
-   "extends":[
+   "extends": [
       "config:best-practices",
       "npm:unpublishSafe",
       "config:semverAllMonthly",
       "replacements:all",
-      "security:openssf-scorecard",
-
+      "security:openssf-scorecard"
    ],
-   "platformAutomerge":true,
-   "automerge":true,
-   "major":{
-      "automerge":false
+   "platformAutomerge": true,
+   "automerge": true,
+   "major": {
+      "automerge": false
    },
-   "masterIssue":true,
+   "dependencyDashboard": true,
    "prCreation": "not-pending",
-   "semanticCommits":true,
-   "semanticCommitType":"build",
-   "prConcurrentLimit":10,
-   "separateMajorMinor":false,
-   "timezone":"Asia/Jerusalem",
-   "rangeStrategy":"pin",
-   "packageRules":[
+   "semanticCommits": "enabled",
+   "semanticCommitType": "build",
+   "prConcurrentLimit": 10,
+   "separateMajorMinor": false,
+   "timezone": "Asia/Jerusalem",
+   "rangeStrategy": "pin",
+   "packageRules": [
       {
-         "matchUpdateTypes":[
+         "matchUpdateTypes": [
             "minor",
             "patch",
             "pin",
             "digest"
          ],
-         "automerge":true
+         "automerge": true
       }
    ],
    "vulnerabilityAlerts": {
-    "enabled": true
-  },
-  "osvVulnerabilityAlerts": true
+      "enabled": true
+   },
+   "osvVulnerabilityAlerts": true
 }
