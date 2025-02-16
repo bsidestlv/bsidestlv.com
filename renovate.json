@@ -1,7 +1,11 @@
 {
    "extends":[
+      "config:best-practices",
       "npm:unpublishSafe",
-      "schedule:monthly"
+      "config:semverAllMonthly",
+      "replacements:all",
+      "security:openssf-scorecard",
+
    ],
    "platformAutomerge":true,
    "automerge":true,
@@ -26,5 +30,9 @@
          ],
          "automerge":true
       }
-   ]
+   ],
+   "vulnerabilityAlerts": {
+    "enabled": true
+  },
+  "osvVulnerabilityAlerts": true
 }
