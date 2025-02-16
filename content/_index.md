@@ -7,7 +7,7 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2025" %}}
+{{% jumbo imgLabel="BSidesTLV 2025" %}}
 
 {{% /jumbo %}}
 
@@ -77,8 +77,6 @@ Sign up to our newsletter to receive updates throughout the year
 {{% /partners %}} -->
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
-
-### Some pictures of **BSidesTLV 2024**
 
 ### Some pictures of **BSidesTLV 2024**
 
