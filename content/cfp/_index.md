@@ -18,9 +18,6 @@ BSidesTLV 2025 Call for Papers
 * May 5th, 2025 - Accepted talks notified
 * May 20th, 2025 - Agenda announced to the public with final talk title & abstract
 
-Our theme this year will focus on the local community’s resilience and strength.
-We would like to feature stories of how security researchers and friendly hackers responded to the crisis and war going on in Israel since the October 7th attacks.
-
 {{< button-link label="Call for speakers" url="<https://cfp.bsidestlv.com/>" icon="cfp" >}}
 
 <!-- [**Call for Speakers** powered by **Sessionize.com**](https://sessionize.com/) -->
