@@ -18,7 +18,7 @@ BSidesTLV 2025 Call for Papers
 * May 5th, 2025 - Accepted talks notified
 * May 20th, 2025 - Agenda announced to the public with final talk title & abstract
 
-{{< button-link label="Call for speakers" url="<https://cfp.bsidestlv.com/>" icon="cfp" >}}
+{{< button-link label="Call for speakers" url="//cfp.bsidestlv.com/" icon="cfp" >}}
 
 <!-- [**Call for Speakers** powered by **Sessionize.com**](https://sessionize.com/) -->
 
