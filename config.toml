@@ -1,6 +1,6 @@
 baseURL = "https://bsidestlv.com/"
 languageCode = "en"
-title = "BSidesTLV 2024"
+title = "BSidesTLV 2025"
 
 # Theme
 theme = "devfest-theme-hugo-2020"
@@ -15,8 +15,8 @@ googleAnalytics = "UA-171723556-1"
 enableGitInfo = true
 
 [params]
-    title = "BSidesTLV 2024"
-    date = "2024-06-27"
+    title = "BSidesTLV 2025"
+    date = "2025-06-27"
     description = "BSidesTLV registration is open!"
     images = ["/images/logos/bstlv_color.png"]
     email = "info@bsidestlv.com"

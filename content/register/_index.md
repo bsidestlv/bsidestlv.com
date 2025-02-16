@@ -1,19 +1,19 @@
----
+<!-- ---
 title: Register
 menu:
   main:
     weight: 40
----
+--- -->
 
-# BSidesTLV 2024: “Together we stand, Together we hack - יחד ננצח, יחד נפצח”
+# BSidesTLV 2025: “Together we stand, Together we hack - יחד ננצח, יחד נפצח”
 
 🎉 Get Ready for the Ultimate Cybersecurity Event! 🎉
 
-**Registration to BSidesTLV 2024 is now officially open!**
+**Registration to BSidesTLV 2025 is now officially open!**
 
 [Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
 
-## The use of ID is required for our vendor payment backend, it is collected and handled by our payment provider and we do not keep/store this data. This is used by our vendor for fraud prevention and is a regulatory requirement.
+## The use of ID is required for our vendor payment backend, it is collected and handled by our payment provider and we do not keep/store this data. This is used by our vendor for fraud prevention and is a regulatory requirement
 
 # We do not validate, verify or check ID and\or ID numbers provided at the registration in the conference entrance
 
@@ -23,9 +23,9 @@ Food will be available to be purchased on site, kosher, vegan, vegetarian.
 
 For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}}).
 
-Sign-up as a volunteer and be part of the BSidesTLV 2024 event: <https://signup.com/go/HXiCtNg>.
+Sign-up as a volunteer and be part of the BSidesTLV 2025 event: <https://signup.com/go/HXiCtNg>.
 
-- When: Thursday, June 27th 2024 09:00-19:00 Israel (GMT+3)
+- When: Thursday, June 27th 2025 09:00-19:00 Israel (GMT+3)
 - Where: [Smolarz Auditorium,  Tel Aviv University, Israel.](https://goo.gl/maps/empagm1x9NETBmkX7)
 - Join our mailing list to be notified of any updates and future events
 

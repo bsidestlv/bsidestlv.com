@@ -7,39 +7,53 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2024" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2025" %}}
 
 {{% /jumbo %}}
 
 {{% home-message %}}
 
-## BSidesTLV 2024 - Registration is OPEN
+## BSidesTLV 2025: "Comic Book Multiverse Edition - Everything is Possible"
 
-Registration is now open for BSidesTLV 2024, Taking place June 27 from 9am to 6pm at [Smolarz Auditorium, Tel Aviv University](https://english.tau.ac.il/campus/smolarz_auditorium).
+Alerting all dimensions: BSidesTLV 2025 will take place on June 26, 2025 at Smolarz Auditorium, Tel Aviv University!
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}}
+The theme for our 10th security research community conference will focus on alternate realities and multiple possibilities, imagining a better future while living in a chaotic present! In the age of disinformation, GenAI and Quantum Computers - we believe everything is possible (at least in the realm of security research🤓 ).
 
-The theme this year is **"Together we stand, Together we hack"** - focusing on the local Israeli  community’s resilience and strength.   Please stay tuned for more agenda announcements and special guests,  to be published in the coming weeks!
+Have an idea to share on our main stage? Join our local celebration of security research, creativity, and resilience. We welcome first time speakers and offer speaker mentoring and might be able to offer travel support for international (or interdimensional) speakers!
 
-### Practical information
+Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com>
 
-* BSidesTLV 2024 will take place live & in person at [Smolarz Auditorium, Tel Aviv University](https://english.tau.ac.il/campus/smolarz_auditorium) during [Tel Aviv Cyber Week](https://cyberweek.tau.ac.il/), on June 27, 2024 from 9am to 6pm.  
-* Important: BSidesTLV 2024 requires a ticket with SEPARATE registration.
-**A Tel Aviv Cyber Week badge will not get you in so please get your ticket now!**
-* State of the art, modern & accessible auditorium - seats for 1200 participants,
-huge stage for live talks, networking and chillout areas, and a sponsor zone!
-* Content presented in english, most talks filmed and uploaded to YouTube after the event
+<!-- {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 
-Want to support our event? We need you with us! Our community powered, volunteer run event depends on people like you to sign up and help make our event run smoothly .
-Please contact us at <https://signup.com/go/HXiCtNg> to volunteer.
+**TLDR: The security multiverse needs heroes , so join us at BSidesTLV 2025, June 26! Call for Papers is now open! <https://cfp.bsidestlv.com>**
 
-Thank you and stay safe,  The BSidesTLV 2024 Team
+### IMPORTANT DATES and details
 
+* CFP Opens:  16/2/2025 at  10:00:00 Israel time
+* CFP Closes:  15/4/2025  at 23:59:59 Israel time
+* CFP decisions will be sent to submitters by 5/5/2025
+* Agenda announced by 20/5/2025
+* Ticket sales, T shirt orders & registration will open 1/6/2025
+* BSidesTLV 2025 26/6/2025  from 9am to 6pm.  
+* Live & in person at Tel Aviv University during Tel Aviv Cyber Week, in Smolarz auditorium, a state of the art, safe & accessible hall with seats for 1000+ participants
+* Main stage with live talks, networking and chillout areas, and dedicated  sponsor zone!
+* Unique villages focusing on hardware hacking, bug bounty programs and more!
+* All talks presented in english, filmed and uploaded to YouTube after the event
+
+[Need some inspiration? Watch videos from our past events!](https://www.youtube.com/@BSidesTLV)
+
+Want to support our event? We need Sponsors! Our community powered, volunteer run event depends on the generous sponsors to make everything possible.  
+Please contact us at <sponsors@bsidestlv.com>
+
+Thank you and stay safe,  
+The BSidesTLV 2025 Team
+
+_BSidesTLV 2025 logo design by Vladislav Trigub @vldislovely_
 {{% /home-message %}}
 
-{{% home-info what="Participants:1700+ ,Years:9, Sessions:30+, CTF Challenges:20+" class="primary" %}}
+{{% home-info what="Participants:1700+ ,Years:10, Sessions:30+, CTF Challenges:20+" class="primary" %}}
 
-<!-- Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com) -->
+Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com)
 
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
@@ -49,7 +63,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-info %}}
 
-{{< youtube-section link="videoseries?si=PFtAd1Aqtc-1F0WO&list=PLkNlAwTF5yEuFqzHOirH6xxYsnqBNlNfY" title="Watch 2023 Videos" class="" >}}
+{{< youtube-section link="videoseries?list=PLkNlAwTF5yEsxhdzTmwYCt2WJsq72U4zl" title="Watch 2024 Videos" class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
@@ -57,15 +71,15 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="gold,silver,bronze,partners" %}}
+<!-- {{% partners categories="gold,silver,bronze,partners" %}}
 
-## BSidesTLV 2024 is proudly sponsored by
+## BSidesTLV 2025 is proudly sponsored by
 
-{{% /partners %}}
+{{% /partners %}} -->
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
-### Some pictures of **BSidesTLV 2023**
+### Some pictures of **BSidesTLV 2024**
 
     {{< button-link
       url="//photos.app.goo.gl/yyAdDsidja6Ke1m28"

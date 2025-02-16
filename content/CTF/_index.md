@@ -23,4 +23,3 @@ You can find all details for the previous CTFs below
 
 twitter: [@bsidestlv_ctf](https://twitter.com/BSidesTLV_CTF)  
 email: [ctf@bsidestlv.com](mailto:ctf@bsidestlv.com)
-

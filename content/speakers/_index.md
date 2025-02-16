@@ -6,5 +6,5 @@ menu:
 --- -->
 
 {{% hero %}}
-We are proud to present the speakers of BSidesTLV 2024 !
+We are proud to present the speakers of BSidesTLV 2025 !
 {{% /hero %}}
