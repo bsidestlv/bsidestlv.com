@@ -1,6 +1,6 @@
 {
   "name": "bsidestlv-website",
-  "version": "2024.0.0",
+  "version": "2025.0.0",
   "description": "The website for BSidesTLV conference based on GDGToulouse theme",
   "repository": "https://github.com/bsidestlv/bsidestlv.com",
   "author": "Omer Cohen <omer@bsidestlv.com>",
@@ -12,7 +12,7 @@
     "build:styles": "node tools/styles.js",
     "build:scripts": "node tools/scripts.js",
     "build:minify": "node tools/minify.js",
-    "build:talks": "node tools/talks.mjs",
+    "build:talks": "echo node tools/talks.mjs",
     "build:site": "hugo --minify --gc --buildFuture",
     "build": "run-s 'build:**'",
     "start": "hugo server --bind=0.0.0.0 --buildFuture --renderToDisk"

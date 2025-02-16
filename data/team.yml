@@ -79,18 +79,6 @@
     - link: "https://github.com/xfreed0m"
       name: Github
 
-- title: Irena Damsky
-  type: team
-  subtitle:
-  key: ID
-  socials:
-    - link: "https://twitter.com/DmaskyIrena"
-      name: Twitter
-    - link: "http://damsky.tech"
-      name: Site
-    - link: "https://www.linkedin.com/in/irenadam"
-      name: LinkedIn
-
 - title: Inbal Pearlson
   type: team
   key: inbal
@@ -100,7 +88,7 @@
 
 - title: Limor Kessem
   type: cfpboard
-  subtitle:
+  subtitle: X-Force Cyber Crisis Management, Global Lead at IBM
   key: limor_kessem
   socials:
     - link: "https://www.linkedin.com/in/limor-sylvie-kessem/"
@@ -108,47 +96,96 @@
     - link: "https://twitter.com/iCyberFighter"
       name: Twitter
 
-- title: Ophir Harpaz
+- title: Migo Kedem
   type: cfpboard
-  subtitle:
-  key: ophir_harpaz
+  subtitle: EIR at Team8
+  key: migo_kedem
   socials:
-    - link: "https://twitter.com/OphirHarpaz"
-      name: Twitter
-
-#- title: Ohad Zaidenberg
-#  type: cfpboard
-#  subtitle: Strategic Threat Intelligence Leader | CTI Researcher
-#  key: ohad_zaidenberg
-#  socials:
-#    - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
-#      name: LinkedIn
-#    - link: "https://twitter.com/ohad_mz"
-#      name: Twitter
-
-- title: Omri Segev Moyal
-  type: cfpboard
-  subtitle:
-  key: omri_segev_moyal
-  socials:
-    - link: "https://www.linkedin.com/in/omrimoyal/"
+    - link: "https://www.linkedin.com/in/migokedem/"
       name: LinkedIn
-    - link: "https://twitter.com/gelossnake"
+
+- title: Ohad Zaidenberg
+  type: cfpboard
+  subtitle: Strategic Threat Intelligence Leader | CTI Researcher
+  key: ohad_zaidenberg
+  socials:
+    - link: "https://www.linkedin.com/in/ohad-zaidenberg/"
+      name: LinkedIn
+    - link: "https://twitter.com/ohad_mz"
       name: Twitter
 
-- title: Gadi Evron
+- title: Noy Pearl
   type: cfpboard
-  subtitle:
-  key: gadi_evron
+  subtitle: Security Researcher at Planet Nine
+  key: noy_pearl
   socials:
-    - link: "https://www.linkedin.com/in/gadievron"
+    - link: "https://www.linkedin.com/in/noy-pearl-419812188/"
+      name: LinkedIn
+
+- title: Sharon Brizinov
+  type: cfpboard
+  subtitle: Director of Research at Claroty
+  key: sharon_brizinov
+  socials:
+    - link: "https://www.linkedin.com/in/sharonbrizinov/"
       name: LinkedIn
       
 - title: Ilil Blum Shem-Tov
   type: cfpboard
-  subtitle:
+  subtitle: Security Research Team Manager at Intel
   key: ilil_blum
   socials:
-    - link: "https://www.linkedin.com/in/ilil-blum-shem-tov-aa5a4321"
+    - link: "https://www.linkedin.com/in/ilil-blum-shem-tov-ph-d-aa5a4321/"
       name: LinkedIn
       
+- title: Gal Bitensky
+  type: cfpboard
+  subtitle: Principal Security Researcher at Palo Alto Networks
+  key: gal_bitensky
+  socials:
+    - link: "https://www.linkedin.com/in/gal-bitensky/"
+      name: LinkedIn
+
+- title: Yossi Sassi
+  type: cfpboard
+  subtitle: Co-Founder, Chief Security Architect at Ten Root Cyber Security
+  key: yossi_sassi
+  socials:
+    - link: "https://www.linkedin.com/in/yossisassi/"
+      name: LinkedIn
+
+- title: Guy Halfon
+  type: team
+  subtitle: 
+  key: 
+  socials:
+
+- title: Eden Katz
+  type: team
+  subtitle: 
+  key: 
+  socials:
+
+- title: Nofar Terenyo
+  type: team
+  subtitle: 
+  key: 
+  socials:
+
+- title: Lavie Ben-Baruch
+  type: team
+  subtitle: 
+  key: 
+  socials:
+
+- title: Benny Meisels
+  type: team
+  subtitle: 
+  key: 
+  socials:
+
+- title: Michal Kamensky 
+  type: team
+  subtitle: 
+  key: 
+  socials:

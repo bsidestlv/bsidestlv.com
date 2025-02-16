@@ -1,5 +1,12 @@
 .jumbo .jumbo-cover {
   background-image: url("/images/backgrounds/back-0.webp");
+  /* Scale width to 100% and height auto */
+  background-size: 100% auto;
+  /* Prevent tiling */
+  background-repeat: no-repeat;
+  /* Center it horizontally */
+  background-position-x: center;
+  background-position-y: 10vh;
 
   @include mq($until: sm) {
     background-image: url("/images/backgrounds/back-0-540.webp");

@@ -4,7 +4,7 @@ title: Live!
 
 --- -->
 
-## BSidesTLV 2024 - Live Stream
+## BSidesTLV 2025 - Live Stream
 
 <div class="row">
  <div class="col-xs-12" style=" --aspect-ratio: 16/9;
@@ -25,7 +25,7 @@ title: Live!
   <div class="col-xs-12 col-md-offset-3 col-md-6" id="mirror"></div>
   
   <div class="col-xs-12">
-  <h2><center>BSidesTLV 2024 is proudly sponsored by</center></h2>
+  <h2><center>BSidesTLV 2025 is proudly sponsored by</center></h2>
   &nbsp;
     {{% partners categories="gold,silver,bronze,partners" %}}{{% /partners %}}
   </div>

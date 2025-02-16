@@ -7,49 +7,53 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="BSidesTLV 2024" %}}
+{{% jumbo imgLabel="BSidesTLV 2025" %}}
 
 {{% /jumbo %}}
 
 {{% home-message %}}
 
-## That’s a wrap on BSidesTLV 2024 💙🇮🇱💙 - Thank you
+## BSidesTLV 2025: "Comic Book Multiverse Edition - Everything is Possible"
 
-Thank you for joining BSidesTLV 2024!  
-With over 1,200 tickets sold, this year was sold out once again :)  
-We are thankful and honored to serve our community, in particular during this difficult ear. Our theme "Together We Hack" focused on the local community’s resilience and strength, despite the crisis and war going on in Israel since the Oct 7 attacks.
+Alerting all dimensions: BSidesTLV 2025 will take place on June 26, 2025 at Smolarz Auditorium, Tel Aviv University!
 
-Videos and photos from BSidesTLV 2024 can be found [here](https://photos.google.com/share/AF1QipM8dR_oWZpvkic0C1tNkB4lMYOZXLXiA6MvHRods_dKkLVO_PF98yWmmOJbUZkDUA?key=dUpEVGxyU0RJOXJHSUJWcm9QXzE1am9KQnBVcUVR) and on our [YouTube channel](https://youtu.be/hrunCTSxgFU?si=wyvdo3EkCI0Ou3QX)
+The theme for our 10th security research community conference will focus on alternate realities and multiple possibilities, imagining a better future while living in a chaotic present! In the age of disinformation, GenAI and Quantum Computers - we believe everything is possible (at least in the realm of security research🤓 ).
 
-### Highlights of our event
+Have an idea to share on our main stage? Join our local celebration of security research, creativity, and resilience. We welcome first time speakers and offer speaker mentoring and might be able to offer travel support for international (or interdimensional) speakers!
 
-* BSidesTLV 2024 took place June 27, 2024 at Smolarz Auditorium, Tel Aviv University.
-* Sold out event! 1200+ people attended in person throughout the day
-* 25 speakers on our main stage & 1 special hardware workshop
-* 43 unique CTF challenges (both online and on-site!)
-* 36 incredible volunteers making sure everyone had a great time
-* 7 sponsors & partners who made our event possible
-  * Palo Alto Networks
-  * Porsche Digital
-  * Sygnia
-  * Oasis
-  * Sans
-  * Varonis
-  * Tel Aviv University ICRC!
+Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com>
 
-Have an idea to share on our main stage?  
-Want to join us in 2025 as a volunteer, workshop leader, speaker or sponsor ?  
-Make sure to join our mailing list to be notified when the 2025 CFP kicks off.  
-Our community powered, volunteer run event depends on the generous sponsors to make everything possible.
+<!-- {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 
-Please contact us at <sponsors@bsidestlv.com> for more info.
+**TLDR: The security multiverse needs heroes , so join us at BSidesTLV 2025, June 26! Call for Papers is now open! <https://cfp.bsidestlv.com>**
+
+### IMPORTANT DATES and details
+
+* CFP Opens:  16/2/2025 at  10:00:00 Israel time
+* CFP Closes:  15/4/2025  at 23:59:59 Israel time
+* CFP decisions will be sent to submitters by 5/5/2025
+* Agenda announced by 20/5/2025
+* Ticket sales, T shirt orders & registration will open 1/6/2025
+* BSidesTLV 2025 26/6/2025  from 9am to 6pm.  
+* Live & in person at Tel Aviv University during Tel Aviv Cyber Week, in Smolarz auditorium, a state of the art, safe & accessible hall with seats for 1000+ participants
+* Main stage with live talks, networking and chillout areas, and dedicated  sponsor zone!
+* Unique villages focusing on hardware hacking, bug bounty programs and more!
+* All talks presented in english, filmed and uploaded to YouTube after the event
+
+[Need some inspiration? Watch videos from our past events!](https://www.youtube.com/@BSidesTLV)
+
+Want to support our event? We need Sponsors! Our community powered, volunteer run event depends on the generous sponsors to make everything possible.  
+Please contact us at <sponsors@bsidestlv.com>
 
 Thank you and stay safe,  
-The BSidesTLV 2024 Team
+The BSidesTLV 2025 Team
 
+_BSidesTLV 2025 logo design by Vladislav Trigub @vldislovely_
 {{% /home-message %}}
 
-{{% home-info what="Participants:1700+ ,Years:9, Sessions:30+, CTF Challenges:20+" class="primary" %}}
+{{% home-info what="Participants:1700+ ,Years:10, Sessions:30+, CTF Challenges:20+" class="primary" %}}
+
+Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com)
 
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
@@ -58,7 +62,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-info %}}
 
-{{< youtube-section link="playlist?list=PLkNlAwTF5yEsxhdzTmwYCt2WJsq72U4zl&si=VHWITrxdnxtU04uw" title="Watch 2024 Videos" class="" >}}
+{{< youtube-section link="videoseries?list=PLkNlAwTF5yEsxhdzTmwYCt2WJsq72U4zl" title="Watch 2024 Videos" class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
@@ -66,11 +70,11 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="gold,silver,bronze,partners" %}}
+<!-- {{% partners categories="gold,silver,bronze,partners" %}}
 
-## BSidesTLV 2024 is proudly sponsored by
+## BSidesTLV 2025 is proudly sponsored by
 
-{{% /partners %}}
+{{% /partners %}} -->
 
 {{% album images="/images/album/1.jpg,/images/album/2.jpg,/images/album/3.jpg,/images/album/4.jpg,/images/album/5.jpg" %}}
 
