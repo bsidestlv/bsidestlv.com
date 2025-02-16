@@ -58,7 +58,6 @@ Watching the event virtually? [Join our Slack!](https://slack.bsidestlv.com)
 Sign up to our newsletter to receive updates throughout the year
 {{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}}
 {{< button-link label="Call for volunteers" url="/volunteers" icon="site" >}}
 
 {{% /home-info %}}
@@ -81,8 +80,10 @@ Sign up to our newsletter to receive updates throughout the year
 
 ### Some pictures of **BSidesTLV 2024**
 
+### Some pictures of **BSidesTLV 2024**
+
     {{< button-link
-      url="//photos.app.goo.gl/yyAdDsidja6Ke1m28"
+      url="//photos.app.goo.gl/GJi7XjENFwUg2yEh9"
       label="See all photos"
       icon="right" >}}
 
