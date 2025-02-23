@@ -95,6 +95,14 @@
       name: LinkedIn
     - link: "https://twitter.com/iCyberFighter"
       name: Twitter
+      
+- title: Marion Marschalek
+  type: cfpboard
+  subtitle: Founder, BlackHoodie women RE workshop
+  key: marion_marschalek
+  socials:
+    - link: "https://www.linkedin.com/in/marion-marschalek-06b79642/"
+      name: LinkedIn
 
 - title: Migo Kedem
   type: cfpboard
@@ -157,7 +165,7 @@
 - title: Guy Halfon
   type: team
   subtitle: 
-  key: 
+  key: guy_halfon
   socials:
 
 - title: Eden Katz
@@ -169,23 +177,23 @@
 - title: Nofar Terenyo
   type: team
   subtitle: 
-  key: 
+  key: nofar_terenyo
   socials:
 
 - title: Lavie Ben-Baruch
   type: team
   subtitle: 
-  key: 
+  key: lavie_ben_baruch
   socials:
 
 - title: Benny Meisels
   type: team
   subtitle: 
-  key: 
+  key: benny_meisels
   socials:
 
 - title: Michal Kamensky 
   type: team
   subtitle: 
-  key: 
+  key: michal_kamensky
   socials:
