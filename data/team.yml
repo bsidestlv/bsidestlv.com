@@ -15,6 +15,18 @@
     - link: "https://productsecurity.info"
       name: Site
 
+- title: Irena Damsky
+  type: team
+  subtitle:
+  key: ID
+  socials:
+    - link: "https://twitter.com/DmaskyIrena"
+      name: Twitter
+    - link: "http://damsky.tech"
+      name: Site
+    - link: "https://www.linkedin.com/in/irenadam"
+      name: LinkedIn
+
 - title: Inbar Raz
   type: team
   subtitle: CEO, Unarmed Security | Hacker of Things.
