@@ -174,16 +174,20 @@
     - link: "https://www.linkedin.com/in/yossisassi/"
       name: LinkedIn
 
+- title: Eden Katz
+  type: team
+  subtitle: Security Researcher, GenAI Security Tech Lead
+  key: eden_katz
+  socials:
+    - link: "https://www.linkedin.com/in/edenkatz5"
+      name: LinkedIn
+    - link: "https://x.com/wwcyber"
+      name: Twitter
+
 - title: Guy Halfon
   type: team
   subtitle: 
   key: guy_halfon
-  socials:
-
-- title: Eden Katz
-  type: team
-  subtitle: 
-  key: 
   socials:
 
 - title: Nofar Terenyo
