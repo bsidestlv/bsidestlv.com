@@ -21,11 +21,11 @@ The theme for our 10th security research community conference will focus on alte
 
 Have an idea to share on our main stage? Join our local celebration of security research, creativity, and resilience. We welcome first time speakers and offer speaker mentoring and might be able to offer travel support for international (or interdimensional) speakers!
 
-Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com>
+<!-- Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com>
 
-<!-- {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
+{{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 
-**TLDR: The security multiverse needs heroes , so join us at BSidesTLV 2025, June 26! Call for Papers is now open! <https://cfp.bsidestlv.com>**
+**TLDR: The security multiverse needs heroes, so join us at BSidesTLV 2025, June 26! Call for Volunteers is now open! <https://signup.com/go/XWAtoJV>**
 
 ### IMPORTANT DATES and details
 
