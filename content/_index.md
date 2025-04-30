@@ -25,7 +25,7 @@ Have an idea to share on our main stage? Join our local celebration of security 
 
 {{< button-link label="Register Here!" url="/register" icon="external" >}} -->
 
-**TLDR: The security multiverse needs heroes, so join us at BSidesTLV 2025, June 26! Call for Volunteers is now open! <https://signup.com/go/XWAtoJV>**
+**TLDR: The security multiverse needs heroes, so join us at BSidesTLV 2025, June 26! Call for Volunteers is now open! [Wanna help?](https://signup.com/go/XWAtoJV)**
 
 ### IMPORTANT DATES and details
 
