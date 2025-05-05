@@ -1,8 +1,7 @@
 ---
 title: 2025 Electronic Badges
 brief: BSidesTLV Badges
-# image: /images/blog/cfp.jpg
-date: 2024-06-03
+date: 2025-05-05
 draft: false
 ---
 
