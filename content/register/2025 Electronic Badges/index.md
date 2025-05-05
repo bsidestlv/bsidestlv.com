@@ -51,7 +51,7 @@ It’s your gateway into technical challenges, creative puzzles, and hands-on fu
 
 
 ## How to Get Yours
-1. Click the link below to pre-order.
+1. Click the link to pre-order -> [Registration!]({{<ref "/register" >}}).
 2. Complete your purchase.
 3. Pick up your badge at the conference.
 
