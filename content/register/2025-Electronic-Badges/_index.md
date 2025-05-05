@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-{{% picture img="/images/Elec_badge/BsidesTLV_2025_1080x1920.png" widths="540,720,960,1140" %}}
+<img src="/images/Elec_badge/BsidesTLV_2025_1080x1920.png" alt="BsidesTLV 2025 Badge">
 
 
 ## BSidesTLV 2025 Badge Sale - Multiverse Comics Edition
@@ -24,10 +24,9 @@ Whether you’re just starting out or a seasoned multiversal explorer, this badg
 It’s your gateway into technical challenges, creative puzzles, and hands-on fun – no matter your level.
 
 
-{{% picture img="/images/Elec_badge/front.png" widths="540,720,960,1140" %}}
+<img src="/images/Elec_badge/front.png" alt="front">
 
-
-{{% picture img="/images/Elec_badge/back.png" widths="540,720,960,1140" %}}
+<img src="/images/Elec_badge/back.png" alt="back">
 
 
 ## About the Badge
@@ -45,10 +44,9 @@ It’s your gateway into technical challenges, creative puzzles, and hands-on fu
 
 
 ## Badge Details
-
-*Price: 180 ILS + VAT  including your BSidesTLV 2025 entry ticket
-*Availability: Strictly limited – pre-order to guarantee yours.
-*Pickup: On-site at BSidesTLV 2025.
+* Price: 180 ILS + VAT  including your BSidesTLV 2025 entry ticket
+* Availability: Strictly limited – pre-order to guarantee yours.
+* Pickup: On-site at BSidesTLV 2025.
 
 
 ## How to Get Yours
@@ -64,9 +62,9 @@ It’s your gateway into technical challenges, creative puzzles, and hands-on fu
 
 
 ## Who Is This For?
-*New to CTFs? No problem – the badge includes entry-level challenges to help you start your journey.
-*Experienced hacker? We’ve packed advanced puzzles and hidden surprises to test even the most battle-hardened.
-*Just want an epic collectible? This is the one you’ll want to display.
+* New to CTFs? No problem – the badge includes entry-level challenges to help you start your journey.
+* Experienced hacker? We’ve packed advanced puzzles and hidden surprises to test even the most battle-hardened.
+* Just want an epic collectible? This is the one you’ll want to display.
 
 
 ## Questions?
