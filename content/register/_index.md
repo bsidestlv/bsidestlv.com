@@ -11,7 +11,7 @@ menu:
 
 **Registration to BSidesTLV 2025 is now officially open!**
 
-[2025 Electronic Badges]({{<ref "/register/2025-Electronic-Badges" >}})
+[2025 Electronic Badges]({{<ref "/register/2025-electronic-badges" >}})
 
 [Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
 
