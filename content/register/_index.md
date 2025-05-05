@@ -11,6 +11,9 @@ menu:
 
 **Registration to BSidesTLV 2025 is now officially open!**
 
+* [2025 Electronic Badges](2025 Electronic Badges)
+
+
 [Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
 
 ## The use of ID is required for our vendor payment backend, it is collected and handled by our payment provider and we do not keep/store this data. This is used by our vendor for fraud prevention and is a regulatory requirement

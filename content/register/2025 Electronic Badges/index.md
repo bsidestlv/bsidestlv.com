@@ -12,7 +12,7 @@ draft: false
 
 Unleash the Power of the Multiverse
 
-* [2025 Electronic Badges](2025 Electronic Badges)
+
 
 This year, BSidesTLV takes you deep into the Multiverse Comics universe.
 To match the theme, we’re bringing you something truly legendary:
