@@ -1,9 +1,10 @@
 ---
 title: 2025 Electronic Badges
 brief: BSidesTLV Badges
-date: 2025-05-05
+date: 2025-05-04
 draft: false
 ---
+
 
 {{% picture img="/images/Elec_badge/BsidesTLV_2025_1080x1920.png" widths="540,720,960,1140" %}}
 
