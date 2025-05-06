@@ -44,7 +44,7 @@ It’s your gateway into technical challenges, creative puzzles, and hands-on fu
 
 
 ## Badge Details
-* Price: 180 ILS + VAT  including your BSidesTLV 2025 entry ticket
+* Price: 180 ILS (VAT included) including your BSidesTLV 2025 entry ticket
 * Availability: Strictly limited – pre-order to guarantee yours.
 * Pickup: On-site at BSidesTLV 2025.
 
