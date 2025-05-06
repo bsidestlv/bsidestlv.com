@@ -33,7 +33,7 @@ Have an idea to share on our main stage? Join our local celebration of security 
 * CFP Closes:  15/4/2025  at 23:59:59 Israel time
 * CFP decisions will be sent to submitters by 5/5/2025
 * Agenda announced by 20/5/2025
-* Ticket sales, T shirt orders & registration will open 1/6/2025
+* Ticket sales, T shirt orders & registration will open during May 2025 - go to [Registration!]({{<ref "/register" >}})
 * BSidesTLV 2025 26/6/2025  from 9am to 6pm.  
 * Live & in person at Tel Aviv University during Tel Aviv Cyber Week, in Smolarz auditorium, a state of the art, safe & accessible hall with seats for 1000+ participants
 * Main stage with live talks, networking and chillout areas, and dedicated  sponsor zone!
