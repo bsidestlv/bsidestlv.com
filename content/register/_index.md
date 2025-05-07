@@ -26,7 +26,7 @@ For more information about our tickets this year, please see our [FAQ]({{< relre
 
 Sign-up as a volunteer and be part of the BSidesTLV 2025 event: <https://signup.com/go/XWAtoJV>.
 
-- When: Thursday, June 27th 2025 09:00-19:00 Israel (GMT+3)
+- When: Thursday, June 26th 2025 09:00-19:00 Israel (GMT+3)
 - Where: [Smolarz Auditorium,  Tel Aviv University, Israel.](https://goo.gl/maps/empagm1x9NETBmkX7)
 - Join our mailing list to be notified of any updates and future events
 
