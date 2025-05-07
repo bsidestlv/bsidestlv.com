@@ -16,7 +16,7 @@ enableGitInfo = true
 
 [params]
     title = "BSidesTLV 2025"
-    date = "2025-06-27"
+    date = "2025-06-26"
     description = "BSidesTLV registration is open!"
     images = ["/images/logos/bstlv_color.png"]
     email = "info@bsidestlv.com"
