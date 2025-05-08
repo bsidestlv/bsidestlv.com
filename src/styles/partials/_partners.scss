@@ -6,12 +6,12 @@
   --partner-font-size-silver: 1.5rem;
   --partner-font-size-bronze: 1rem;
   --partner-font-size-CTF: 1rem;
-  --zoom-link-height: 55px;
+  --zoom-link-height: 255px;
   --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
   --partner-platinum-height: calc(var(--partner-support-height) * 1.75 + var(--zoom-link-height));
   --partner-gold-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
   --partner-silver-height: calc(var(--partner-support-height) * 3 + var(--zoom-link-height));
-  --partner-bronze-height: calc(var(--partner-support-height) * 1 + var(--zoom-link-height));
+  --partner-bronze-height: calc(var(--partner-support-height) * 0.5 + var(--zoom-link-height));
   --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
 }
 
