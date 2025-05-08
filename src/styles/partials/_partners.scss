@@ -1,17 +1,17 @@
 :root {
   --partner-support-height: 90px;
-  --partner-font-size-titanium: 1.75rem;
-  --partner-font-size-platinum: 1.5rem;
-  --partner-font-size-gold: 1.25rem;
-  --partner-font-size-silver: 1.15rem;
+  --partner-font-size-titanium: 2rem;
+  --partner-font-size-platinum: 1.75rem;
+  --partner-font-size-gold: 1.50rem;
+  --partner-font-size-silver: 1.35rem;
   --partner-font-size-bronze: 1.15rem;
   --partner-font-size-CTF: 1rem;
   --zoom-link-height: 55px;
   --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
-  --partner-platinum-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
-  --partner-gold-height: calc(var(--partner-support-height) * 1.25 + var(--zoom-link-height));
-  --partner-silver-height: calc(var(--partner-support-height) * 1.2 + var(--zoom-link-height));
-  --partner-bronze-height: calc(var(--partner-support-height) * 1.2 + var(--zoom-link-height));
+  --partner-platinum-height: calc(var(--partner-support-height) * 1.75 + var(--zoom-link-height));
+  --partner-gold-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
+  --partner-silver-height: calc(var(--partner-support-height) * 1.35 + var(--zoom-link-height));
+  --partner-bronze-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
   --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
 }
 
@@ -33,28 +33,28 @@
 
   &.partner-titanium ul li {
     height: var(--partner-titanium-height);
-    flex-basis: 500px;
+    flex-basis: 700px;
   }
 
   &.partner-platinum ul li {
     height: var(--partner-platinum-height);
-    flex-basis: 400px;
+    flex-basis: 500px;
   }
 
   &.partner-partners ul li,
   &.partner-gold ul li {
     height: var(--partner-gold-height);
-    flex-basis: 300px;
+    flex-basis: 450px;
   }
 
   &.partner-silver ul li {
     height: var(--partner-silver-height);
-    flex-basis: 300px;
+    flex-basis: 350px;
   }
   
   &.partner-bronze ul li {
     height: var(--partner-bronze-height);
-    flex-basis: 300px;
+    flex-basis: 250px;
   }
 
   &.partner-CTF ul li{

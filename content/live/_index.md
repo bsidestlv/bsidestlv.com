@@ -27,6 +27,6 @@ title: Live!
   <div class="col-xs-12">
   <h2><center>BSidesTLV 2025 is proudly sponsored by</center></h2>
   &nbsp;
-    {{% partners categories="gold,silver,bronze,partners" %}}{{% /partners %}}
+    {{% partners categories="silver,bronze,partners" %}}{{% /partners %}}
   </div>
 </div>
