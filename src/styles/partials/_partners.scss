@@ -3,14 +3,14 @@
   --partner-font-size-titanium: 2rem;
   --partner-font-size-platinum: 1.75rem;
   --partner-font-size-gold: 1.50rem;
-  --partner-font-size-silver: 1.35rem;
+  --partner-font-size-silver: 2rem;
   --partner-font-size-bronze: 1rem;
   --partner-font-size-CTF: 1rem;
   --zoom-link-height: 55px;
   --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
   --partner-platinum-height: calc(var(--partner-support-height) * 1.75 + var(--zoom-link-height));
   --partner-gold-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
-  --partner-silver-height: calc(var(--partner-support-height) * 1.35 + var(--zoom-link-height));
+  --partner-silver-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
   --partner-bronze-height: calc(var(--partner-support-height) * 1 + var(--zoom-link-height));
   --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
 }
@@ -49,12 +49,12 @@
 
   &.partner-silver ul li {
     height: var(--partner-silver-height);
-    flex-basis: 500px;
+    flex-basis: 700px;
   }
   
   &.partner-bronze ul li {
     height: var(--partner-bronze-height);
-    flex-basis: 250px;
+    flex-basis: 350px;
   }
 
   &.partner-CTF ul li{
