@@ -16,7 +16,7 @@ oldFiles
   .flatMap((files) => glob(files, { ignore: ["**/_index.md"] }))
   .map((file) => unlinkSync(file));
 
-const baseurl = "https://sessionize.com/api/v2/m6m3lkxo/view/";
+const baseurl = "https://sessionize.com/api/v2/xzjbcgbk/view/";
 
 
 logger.info("Fetching speakers");
