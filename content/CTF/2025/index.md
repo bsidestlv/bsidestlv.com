@@ -105,135 +105,33 @@ Yes, plan to release our entire repo
 # Our Team
 <h2>CTF Team</h2>
 <div class="row around-xs avatars shuffle" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/image6.png" label="Nofar Terenyo" />}}<b>CTF Team Lead</b></div>
+    <div>{{< imgproc img="/images/ctf/Nofar_Terenyo.jpg" label="Nofar Terenyo" />}}<b>CTF Team Lead</b></div>
     <div>{{< imgproc img="/images/ctf/LavieBB.jpg" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
-    <div>{{< imgproc img="/images/ctf/DanielAbeles.jpg" label="Daniel Abeles" />}}</div>
-    <div>{{< imgproc img="/images/ctf/image9.jpg" label="Rotem Reiss" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Daniel_Ables.jpg" label="Daniel Abeles" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Rotem_Reiss.jpg" label="Rotem Reiss" />}}</div>
 </div>
 <h2> CTF Writers </h2>
 <div class="row around-xs avatars shuffle" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/image3.png" label="Shaked Klein Orbach" />}}</div>
-
+    <div>{{< imgproc img="/images/ctf/logo.jpg" label="Amichai Yifrach" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Avishai_Elia.jpeg" label="Avishai Elia" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Aviya_Erenfeld.jpg" label="Aviya Erenfeld" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Chen_Gruber.jpg" label="Chen Gruber" />}}</div>
+    <div>{{< imgproc img="/images/ctf/logo.jpg" label="Dor Konis" />}}</div>
+    <div>{{< imgproc img="/images/ctf/logo.jpg" label="Eli Kaski" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Gal_Moshkovitz.jpg" label="Gal Moshkovitz" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Hen_Golubenko.jpg" label="Hen Golubenko" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Itay_Tores.jpg" label="Itay Tores" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Idan_Strovinsky.jpg" label="Idan Strovinsky" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Liam_Troper.jpg" label="Liam Troper" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Liav_Gutman.jpg" label="Liav Gutman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Moriya_Weitzman.jpg" label="Moriya Weitzman" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Nave_Ben_Naim.png" label="Nave Ben Naim" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Noam_Lifshitz.jpg" label="Noam Lifshitz" />}}</div>
+    <div>{{< imgproc img="/images/ctf/logo.jpg" label="Noam Moshka" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Orly_Katabi.jpg" label="Orly Katabi" />}}</div>
+    <div>{{< imgproc img="/images/ctf/logo.jpg" label="Ron Sorojon" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Shay_Gover.jpg" label="Shay Gover" />}}</div>
+    <div>{{< imgproc img="/images/ctf/Tuv_Levav.jpg" label="Tuv Levav" />}}</div>
+    <div>{{< imgproc img="/images/ctf/logo.jpg" label="Yeudit Yudelevich" />}}</div>
+    <div>{{< imgproc img="/images/ctf/logo.jpg" label="Yogev Bushari" />}}</div>
 </div>
-
-
-# Our Team
-========
-
-### CTF Team
-
-![**Nofar Terenyo**](/images/ctf/Nofar_Terenyo.jpg)
-
-
-
-CTF Team Lead
-
-![](/images/ctf/Lavie_Ben-Baruch.jpg)
-
-**Lavie Ben-Baruch**
-
-CTF Team Lead
-
-![](/images/ctf/Daniel_Ables.jpg)
-
-**Daniel Abeles**
-
-CTF Team
-
-![](/images/ctf/Rotem_Reiss.jpg)
-
-**Rotem Reiss**
-
-CTF Team
-
-### CTF Writers
-
-![](/images/ctf/logo.jpg)
-
-**Amichai Yifrach**
-
-![](/images/ctf/Avishai_Elia.jpeg)
-
-**Avishai Elia**
-
-![](/images/ctf/Aviya_Erenfeld.jpg)
-
-**Aviya Erenfeld**
-
-![](/images/ctf/Chen_Gruber.jpg)
-
-**Chen Gruber**
-
-![](/images/ctf/logo.jpg)
-
-**Dor Konis**
-
-![](/images/ctf/logo.jpg)
-
-**Eli\_Kaski**
-
-![](/images/ctf/Gal_Moshkovitz.jpg)
-
-**Gal Moshkovitz**
-
-![](/images/ctf/Hen_Golubenko.jpg)
-
-**Hen Golubenko**
-
-![](/images/ctf/Itay_Tores.jpg)
-
-**Itay Tores**
-
-![](/images/ctf/Idan_Strovinsky.jpg)
-
-**Idan Strovinsky**
-
-![](/images/ctf/Liam_Troper.jpg)
-
-**Liam Troper**
-
-![](/images/ctf/Liav_Gutman.jpg)
-
-**Liav Gutman**
-
-![](/images/ctf/Moriya_Weitzman.jpg)
-
-**Moriya Weitzman**
-
-![](/images/ctf/Nave_Ben_Naim.png)
-
-**Nave Ben Naim**
-
-![](/images/ctf/Noam_Lifshitz.jpg)
-
-**Noam Lifshitz**
-
-![](/images/ctf/logo.jpg)
-
-**Noam Moshka**
-
-![](/images/ctf/Orly_Katabi.jpg)
-
-**Orly Katabi**
-
-![](/images/ctf/logo.jpg)
-
-**Ron Sorojon**
-
-![](/images/ctf/Shay_Gover.jpg)
-
-**Shay Gover**
-
-![](/images/ctf/Tuv_Levav.jpg)
-
-**Tuv Levav**
-
-![](/images/ctf/logo.jpg)
-
-**Yeudit Yudelevich**
-
-![](/images/ctf/logo.jpg)
-
-**Yogev Bushari**
-
-* * *
