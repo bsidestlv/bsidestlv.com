@@ -3,7 +3,7 @@ title: 2025 CTF
 brief: BSidesTLV Capture The Flag
 # image: /images/blog/cfp.jpg
 date: 2025-06-09
-draft: true
+draft: false
 ---
 
 {{% picture img="https://ctf25.bsidestlv.com/files/f3cbc6423db8d4d832794eb5422808c4/ctf_logo_1.png" widths="540,720,960,1140" %}}
