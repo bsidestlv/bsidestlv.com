@@ -9,6 +9,7 @@ draft: false
 
 You can find all details for the previous CTFs below
 
+* [2025](2025)
 * [2024](2024)
 * [2023](2023)
 * [2022](2022)
