@@ -8,9 +8,9 @@ draft: true
 
 {{% picture img="https://ctf25.bsidestlv.com/files/f3cbc6423db8d4d832794eb5422808c4/ctf_logo_1.png" widths="540,720,960,1140" %}}
 
-# Sponsored by: xxxUPDATExxx
+<!-- # Sponsored by: xxxUPDATExxx -->
 
-xxxUPDATExxx [![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?33Yfenwm)
+<!-- xxxUPDATExxx [![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?33Yfenwm) -->
 
 # Timetable
 
@@ -32,7 +32,7 @@ xxxUPDATExxx [![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?
 
 # Registration
 
-**The Remote CTF** is played on the CTFd platform, you will need to [register](https://ctf25.bsidestlv.com) yourself and join a team in order to play (you can be a member of a single player team)
+**The Remote CTF** is played on the CTFd platform, you will need to [register](https://ctf25.bsidestlv.com/register) yourself and join a team in order to play (you can be a member of a single player team)
 
 **The Local CTF** is played on the CTFd platform for no score / low score.
 
@@ -135,3 +135,18 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/logo.jpg" label="Yeudit Yudelevich" />}}</div>
     <div>{{< imgproc img="/images/ctf/logo.jpg" label="Yogev Bushari" />}}</div>
 </div>
+
+---
+
+You can find all details for the previous CTFs below
+
+* [2025](2025)
+* [2024](2024)
+* [2023](2023)
+* [2022](2022)
+* [2021](2021)
+* [2020](2020)
+* [2019](2019)
+* [2018](2018)
+* 2017
+* [2016](2016)
