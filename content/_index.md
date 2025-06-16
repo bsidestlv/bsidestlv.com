@@ -13,17 +13,33 @@ menu:
 
 {{% home-message %}}
 
-## BSidesTLV 2025: "Comic Book Multiverse Edition - Everything is Possible"
+## POSTPONED!! BSidesTLV 2025: "Comic Book Multiverse Edition - Everything is Possible"
 
-Alerting all dimensions: BSidesTLV 2025 will take place on June 26, 2025 at Smolarz Auditorium, Tel Aviv University!
+~~Alerting all dimensions: BSidesTLV 2025 will take place on June 26, 2025 at Smolarz Auditorium, Tel Aviv University!~~
 
-The theme for our 10th security research community conference will focus on alternate realities and multiple possibilities, imagining a better future while living in a chaotic present! In the age of disinformation, GenAI and Quantum Computers - we believe everything is possible (at least in the realm of security research🤓 ).
+### 📢 BSidesTLV 2025 – Postponed
 
-Have an idea to share on our main stage? Join our local celebration of security research, creativity, and resilience. We welcome first time speakers and offer speaker mentoring and might be able to offer travel support for international (or interdimensional) speakers!
+![BSidesTLV 2025 Postponed](/images/logos/bstlv25_postpone.png)
+
+Due to the ongoing war and the postponement of Cyber Week by Tel Aviv University, we’ve made the difficult but necessary decision to postpone BSidesTLV 2025.
+All tickets remain valid for our event, to be held at a future date. 
+ 
+We’re currently reviewing next steps regarding tshirts, badges and more.
+
+We are also evaluating  options in order to deliver some of our amazing BSidesTLV community content to everyone on 26.6,  in a virtual format— and will share updates soon.
+
+Meanwhile, our hearts go out to everyone affected, and especially to those bravely serving on the front lines. 💙
+
+Stay safe — and thank you for being part of this incredible community.
+#BSidesTLV #CyberSecurity #CommunityFirst
+
+~~The theme for our 10th security research community conference will focus on alternate realities and multiple possibilities, imagining a better future while living in a chaotic present! In the age of disinformation, GenAI and Quantum Computers - we believe everything is possible (at least in the realm of security research🤓 ).~~
+
+~~Have an idea to share on our main stage? Join our local celebration of security research, creativity, and resilience. We welcome first time speakers and offer speaker mentoring and might be able to offer travel support for international (or interdimensional) speakers!~~
 
 <!-- Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com>
 
-{{< button-link label="Register Here!" url="/register" icon="external" >}} -->
+{{< button-link label="Register Here!" url="/register" icon="external" >}} 
 
 **TLDR: The security multiverse needs heroes, so join us at BSidesTLV 2025, June 26! Call for Volunteers is now open! [Wanna help?](https://signup.com/go/XWAtoJV)**
 
@@ -38,7 +54,7 @@ Have an idea to share on our main stage? Join our local celebration of security 
 * Live & in person at Tel Aviv University during Tel Aviv Cyber Week, in Smolarz auditorium, a state of the art, safe & accessible hall with seats for 1000+ participants
 * Main stage with live talks, networking and chillout areas, and dedicated  sponsor zone!
 * Unique villages focusing on hardware hacking, bug bounty programs and more!
-* All talks presented in english, filmed and uploaded to YouTube after the event
+* All talks presented in english, filmed and uploaded to YouTube after the event -->
 
 [Need some inspiration? Watch videos from our past events!](https://www.youtube.com/@BSidesTLV)
 
