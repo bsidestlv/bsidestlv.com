@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Register
 menu:
   main:
@@ -38,3 +38,6 @@ We would like to thank you loyal sponsors for supporting our event this year!
 {{% /partners %}}
 
 {{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
+
+
+-->
