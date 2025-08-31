@@ -1,4 +1,4 @@
-ARG NODE_VARIANT=20
+ARG NODE_VARIANT=24@sha256:eac37fbeb0dd1ded8ae31a93f1f3e0defc413715e7541e2ba5a5c10079777f62
 
 # [Choice] Node.js version: 14, 12, 10
 FROM mcr.microsoft.com/devcontainers/javascript-node:${NODE_VARIANT}
