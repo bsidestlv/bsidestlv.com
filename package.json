@@ -22,7 +22,7 @@
     "@babel/preset-env": "7.23.9",
     "@rollup/plugin-babel": "6.0.4",
     "@rollup/plugin-terser": "0.4.4",
-    "axios": "1.8.2",
+    "axios": "1.12.0",
     "cssnano": "6.0.3",
     "glob": "10.3.10",
     "html-minifier": "4.0.0",
