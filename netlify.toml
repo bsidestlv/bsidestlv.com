@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "yarn run build"
+command = "yarn install && yarn run build:styles && yarn run build:site"
 
 [build.environment]
 HUGO_VERSION = "0.150.1"
