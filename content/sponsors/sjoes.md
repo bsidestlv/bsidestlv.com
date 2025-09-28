@@ -1,7 +1,7 @@
 ---
 key: sjoes
 title: Security Joes
-category: bronze
+category: chillout
 website: 'https://www.securityjoes.com/'
 socials: []
 ---
