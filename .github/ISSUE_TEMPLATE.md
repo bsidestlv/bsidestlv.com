@@ -35,8 +35,9 @@ body:
       options:
         - Bronze
         - Silver
-		- Gold
-		- Platinum
+        - Chillout
+        - Gold
+        - Platinum
     validations:
       required: true
 	  
