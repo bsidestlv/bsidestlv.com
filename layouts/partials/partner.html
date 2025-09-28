@@ -1,6 +1,18 @@
 {{- $path := path.Join "images" "partners" .Params.key }}
 {{- $img := printf "%s.%s" (relURL $path) "png" }}
+{{- $logoSize := "100%" }}
+{{- if eq .Params.category "silver" }}
+  {{- $logoSize = "140%" }}
+{{- else if eq .Params.category "chillout" }}
+  {{- $logoSize = "80%" }}
+{{- else if eq .Params.category "bronze" }}
+  {{- $logoSize = "60%" }}
+{{- else if eq .Params.category "gold" }}
+  {{- $logoSize = "120%" }}
+{{- else if eq .Params.category "platinum" }}
+  {{- $logoSize = "150%" }}
+{{- end }}
 <a class="partner" href="{{ .Params.website }}" title="{{ .Title }}">
-    {{ partial "picture" (dict "img" $img "ext" "png") }}
+    <img src="{{ $img }}" alt="{{ .Title }}" style="max-width: {{ $logoSize }}; max-height: {{ $logoSize }}; object-fit: contain;">
     <span class="visually-hidden">{{ .Title }}</span>
 </a>
