@@ -83,7 +83,7 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="silver,bronze,partners" %}}
+{{% partners categories="silver,chillout,bronze,partners" %}}
 
 ## BSidesTLV 2025 is proudly sponsored by
 
