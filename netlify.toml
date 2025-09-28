@@ -5,6 +5,7 @@ command = "yarn install && yarn run build:styles && yarn run build:site"
 [build.environment]
 HUGO_VERSION = "0.150.1"
 HUGO_ENABLEGITINFO = "true"
+NODE_VERSION = "20.18.1"
 
 [context.production.environment]
 HUGO_ENV = "production"
