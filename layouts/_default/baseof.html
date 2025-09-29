@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Home.Language | default "en" }}">
+{{ partial "head.html" . }}
+
+<body class="{{ .Kind }} {{ with .File }}{{ anchorize .ContentBaseName }}{{ end }} {{ .Section }}">
+
+{{ readFile "static/icons.svg" | safeHTML }}
+
+{{ block "header" . }}
+{{ partial "header.html" . }}
+{{ end }}
+
+<main>
+	{{ block "main" . }}
+	<!-- Missing main block -->
+	{{ end }}
+</main>
+
+{{ block "footer.html" . }}
+{{ partialCached "footer.html" . }}
+{{ end }}
+
+{{ partial "scripts" . }}
+</body>
+
+</html>
