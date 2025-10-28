@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Register
 menu:
   main:
@@ -7,7 +7,7 @@ menu:
 
 # BSidesTLV 2025 – The Multiverse Awaits. Are You Ready to Grab Your Tickets?
 
-🎉 Greetings and May the Fourth be with you! This year, BSidesTLV will dive deep into the Multiverse with our comic book theme. To match the theme, we’re building something truly legendary: LIMITED EDITION INFINITY GLOVE ELECTRONIC BADGES. Be sure to grab yours early as electronic badge registration will close May 14.  General registration is also open and will stay open until tickets run out - so don’t delay and get your tickets now : registration is now open. 
+🎉 Greetings and May the Fourth be with you! This year, BSidesTLV will dive deep into the Multiverse with our comic book theme. To match the theme, we're building something truly legendary: LIMITED EDITION INFINITY GLOVE ELECTRONIC BADGES. Be sure to grab yours early as electronic badge registration will close May 14.  General registration is also open and will stay open until tickets run out - so don't delay and get your tickets now : registration is now open. 
 
 **Registration to BSidesTLV 2025 is now officially open!**
 
@@ -38,6 +38,3 @@ We would like to thank you loyal sponsors for supporting our event this year!
 {{% /partners %}}
 
 {{< button-link url="<https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US>" label="Subscribe" icon="subscribe">}}
-
-
--->
