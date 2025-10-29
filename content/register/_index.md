@@ -7,7 +7,7 @@ menu:
 
 # BSidesTLV 2025 – The Multiverse Awaits. Are You Ready to Grab Your Tickets?
 
-🎉 Greetings and May the Fourth be with you! This year, BSidesTLV will dive deep into the Multiverse with our comic book theme. To match the theme, we're building something truly legendary: LIMITED EDITION INFINITY GLOVE ELECTRONIC BADGES. Be sure to grab yours early as electronic badge registration will close May 14.  General registration is also open and will stay open until tickets run out - so don't delay and get your tickets now : registration is now open. 
+🎉 Greetings and May the Fourth be with you! This year, BSidesTLV will dive deep into the Multiverse with our comic book theme. To match the theme, we're building something truly legendary: LIMITED EDITION INFINITY GLOVE ELECTRONIC BADGES. Remember, remember! Grab yours early as electronic badge registration will close November 5th.  General registration is also open and will stay open until tickets run out - so don't delay and get your tickets now : registration is now open. 
 
 **Registration to BSidesTLV 2025 is now officially open!**
 
@@ -26,7 +26,7 @@ For more information about our tickets this year, please see our [FAQ]({{< relre
 
 Sign-up as a volunteer and be part of the BSidesTLV 2025 event: <https://signup.com/go/XWAtoJV>.
 
-- When: Thursday, June 26th 2025 09:00-19:00 Israel (GMT+3)
+- When: Thursday, December 11th 2025 09:00-19:00 Israel (GMT+3)
 - Where: [Smolarz Auditorium,  Tel Aviv University, Israel.](https://goo.gl/maps/empagm1x9NETBmkX7)
 - Join our mailing list to be notified of any updates and future events
 
