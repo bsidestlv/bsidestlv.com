@@ -45,7 +45,9 @@
 
   &.partner-partners ul li,
   &.partner-gold ul li {
-    height: var(--partner-gold-height);
+    -height: var(--partner-gold-height);
+    width: 100%;
+    height: 100%;
     flex-basis: 450px;
   }
 
@@ -138,8 +140,8 @@
   }
 
   &.partner-gold .partner img {
-    max-width: 140% !important;
-    max-height: 140% !important;
+    -max-width: 140% !important;
+    -max-height: 140% !important;
   }
 
   &.partner-silver .partner img {
