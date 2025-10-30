@@ -79,11 +79,11 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% home-subscribe class="primary" %}}
 
-## Get notified about important conference updates
+## Get notified about important conference uכpdates
 
 {{% /home-subscribe %}}
 
-{{% partners categories="silver,chillout,bronze,partners" %}}
+{{% partners categories="gold,silver,chillout,bronze,partners" %}}
 
 ## BSidesTLV 2025 is proudly sponsored by
 
