@@ -10,8 +10,8 @@
   --zoom-link-height: 110px;
   --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
   --partner-platinum-height: calc(var(--partner-support-height) * 1.75 + var(--zoom-link-height));
-  --partner-gold-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
-  --partner-silver-height: calc(var(--partner-support-height) * 3 + var(--zoom-link-height));
+  --partner-gold-height: calc(var(--partner-support-height) * 6 + var(--zoom-link-height));
+  --partner-silver-height: calc(var(--partner-support-height) * 2.5 + var(--zoom-link-height));
   --partner-chillout-height: calc(var(--partner-support-height) * 2.25 + var(--zoom-link-height));
   --partner-bronze-height: calc(var(--partner-support-height) * 1.25 + var(--zoom-link-height));
   --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
@@ -45,7 +45,9 @@
 
   &.partner-partners ul li,
   &.partner-gold ul li {
-    height: var(--partner-gold-height);
+    -height: var(--partner-gold-height);
+    width: 100%;
+    height: 100%;
     flex-basis: 450px;
   }
 
@@ -53,24 +55,26 @@
     height: var(--partner-silver-height);
     flex-basis: 700px;
   }
-  
+
   &.partner-chillout ul li {
     height: var(--partner-chillout-height);
     flex-basis: 525px;
   }
-  
+
   &.partner-bronze ul li {
     height: var(--partner-bronze-height);
     flex-basis: 350px;
   }
 
-  &.partner-CTF ul li{
+  &.partner-CTF ul li {
     height: var(--partner-CTF-height);
     flex-basis: 200px;
   }
 
   .fancy {
-      span:before, span:after {
+
+    span:before,
+    span:after {
       top: 20%;
       border-bottom: 1px solid currentColor;
     }
@@ -80,7 +84,8 @@
     font-size: var(--partner-font-size-titanium);
     color: var(--color-titanium);
 
-    span:before, span:after {
+    span:before,
+    span:after {
       border-bottom: 2px solid currentColor;
       border-top: 2px solid currentColor;
     }
@@ -90,7 +95,8 @@
     font-size: var(--partner-font-size-platinum);
     color: var(--color-platinum);
 
-    span:before, span:after {
+    span:before,
+    span:after {
       border-bottom: 1px solid currentColor;
       border-top: 1px solid currentColor;
     }
@@ -106,25 +112,25 @@
     font-size: var(--partner-font-size-silver);
     color: var(--color-silver);
   }
-  
+
   &.partner-chillout .fancy {
     font-size: var(--partner-font-size-chillout);
     color: var(--color-chillout);
   }
-  
+
   &.partner-bronze .fancy {
     font-size: var(--partner-font-size-bronze);
     color: var(--color-bronze);
-  }  
+  }
 
   .partner {
-      background-color: inherit;
-      box-shadow: none;
-      transition: box-shadow var(--animation), background-color var(--animation);
+    background-color: inherit;
+    box-shadow: none;
+    transition: box-shadow var(--animation), background-color var(--animation);
   }
 
   .partner:hover {
-      background-color: ghostwhite;
+    background-color: ghostwhite;
   }
 
   // Logo sizing by sponsor tier
@@ -134,13 +140,13 @@
   }
 
   &.partner-gold .partner img {
-    max-width: 120% !important;
-    max-height: 120% !important;
+    -max-width: 140% !important;
+    -max-height: 140% !important;
   }
 
   &.partner-silver .partner img {
-    max-width: 140% !important;
-    max-height: 140% !important;
+    max-width: 120% !important;
+    max-height: 120% !important;
   }
 
   &.partner-chillout .partner img {
