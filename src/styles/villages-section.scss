@@ -1,27 +1,78 @@
-@import "themes/devfest-theme-hugo-2020/src/styles/root";
-@import "themes/devfest-theme-hugo-2020/src/styles/variables";
-@import "node_modules/sass-mq/mq";
+@import "page";
 
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/base";
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/main";
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/buttons";
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/icons";
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/header";
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/footer";
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/socials";
+// Style villages pages to match CTF and other pages
+.villages {
+    // Override hero padding and align with content
+    .hero {
+        h1 {
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
 
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/table_of_contents";
-@import "themes/devfest-theme-hugo-2020/src/styles/partials/hero";
+    // Center both hero and content within max-width
+    main h1, main .content {
+        max-width: var(--theJdrSize);
+        margin: 0 auto;
+    }
 
-// Custom CSS
-@import "bsidestlv";
+    section.content {
+        text-align: left;
+        padding-left: 0;
+        padding-right: 0;
+        margin: 2rem var(--container-margin);
 
-.speaker-img {
-    --size: 128px;
-    height: var(--size, 6rem);
-    width: var(--size, 6rem);
-    min-width: var(--size, 6rem);
-    border-radius: 100%;
-    box-shadow: 0 0 var(--space-3) var(--darken-3);
-    margin-right: var(--space-4);
+        @include mq($until: md) {
+            margin: 1rem;
+        }
+
+        // Ensure all headings are left-aligned and black
+        > h1, > h2, > h3, > h4, > h5, > h6,
+        h1, h2, h3, h4, h5, h6 {
+            color: #000;
+            font-style: normal;
+            font-weight: 400;
+            text-align: left !important;
+        }
+
+        h1, h2, h3 {
+            margin-top: 1.25rem;
+            margin-bottom: 0.625rem;
+        }
+
+        h4, h5, h6 {
+            margin-top: 0.625rem;
+            margin-bottom: 0.625rem;
+        }
+
+        p {
+            text-align: justify;
+            margin-bottom: 1.5rem;
+            line-height: 1.7rem;
+        }
+
+        ul {
+            margin-left: 1rem;
+
+            li {
+                line-height: 1.7rem;
+            }
+        }
+    }
+
+    // Center buttons container (but don't affect content section)
+    section.content div[style*="text-align: center"] {
+        text-align: center;
+        margin: 3rem 0;
+        
+        .btn {
+            display: inline-flex;
+            margin: var(--space-2);
+        }
+    }
+    
+    // Ensure content after buttons div is left-aligned
+    section.content div[style*="text-align: center"] ~ * {
+        text-align: left;
+    }
 }
