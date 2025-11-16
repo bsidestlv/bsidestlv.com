@@ -7,13 +7,7 @@ menu:
 
 # BSidesTLV 2025 – The Multiverse Awaits. Are You Ready to Grab Your Tickets?
 
-🎉 Greetings and May the Fourth be with you! This year, BSidesTLV will dive deep into the Multiverse with our comic book theme. To match the theme, we're building something truly legendary: LIMITED EDITION INFINITY GLOVE ELECTRONIC BADGES. Remember, remember! Grab yours early as electronic badge registration will close November 5th.  General registration is also open and will stay open until tickets run out - so don't delay and get your tickets now : registration is now open. 
-
-**Registration to BSidesTLV 2025 is now officially open!**
-
-[2025 Electronic Badges](2025-electronic-badges)
-
-[Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
+[Check out our agenda!]({{<ref "/agenda" >}})
 
 ## The use of ID is required for our vendor payment backend, it is collected and handled by our payment provider and we do not keep/store this data. This is used by our vendor for fraud prevention and is a regulatory requirement
 
