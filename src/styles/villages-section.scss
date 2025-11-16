@@ -75,4 +75,35 @@
     section.content div[style*="text-align: center"] ~ * {
         text-align: left;
     }
+
+    // Responsive table styling
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        
+        @include mq($until: md) {
+            display: block;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            font-size: 0.875rem;
+        }
+        
+        th, td {
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            text-align: left;
+            vertical-align: top;
+        }
+        
+        th {
+            background-color: var(--primary);
+            color: var(--primary-txt);
+            font-weight: 600;
+        }
+        
+        tr:nth-child(even) {
+            background-color: var(--darken-1);
+        }
+    }
 }
