@@ -17,7 +17,7 @@ BSidesTLV features unique villages focusing on specialized areas of security res
 <div style="text-align: center; margin: 3rem 0;">
 {{< button-link label="Hardware Village" url="/villages/hardware" icon="site" >}}
 {{< button-link label="Bug Bounty Village" url="/villages/bug-bounty" icon="site" >}}
-{{< button-link label="AI Hacking Village" url="/villages/ai-hacking" icon="site" >}}
+{{< button-link label="AI Hacking Village" url="https://aihackingvillage.com/" icon="site" >}}
 </div>
 
 ## About Our Villages
