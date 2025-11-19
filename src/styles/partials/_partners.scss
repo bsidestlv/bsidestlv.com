@@ -127,6 +127,11 @@
     background-color: inherit;
     box-shadow: none;
     transition: box-shadow var(--animation), background-color var(--animation);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
   }
 
   .partner:hover {
