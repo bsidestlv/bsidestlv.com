@@ -1,4 +1,4 @@
----
+<!-- ---
 title: CFP
 menu:
   main:
@@ -29,3 +29,6 @@ BSidesTLV 2025 Call for Papers
 Our Code Of Conduct can be found [here][coc-url]
 
 [coc-url]: /code-of-conduct
+
+
+-->

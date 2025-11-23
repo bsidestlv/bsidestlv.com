@@ -186,9 +186,11 @@
 
 - title: Guy Halfon
   type: team
-  subtitle: 
+  subtitle: CEO, Rescana
   key: guy_halfon
   socials:
+    - link: "https://www.linkedin.com/in/zecurity/"
+      name: LinkedIn
 
 - title: Nofar Terenyo
   type: team
