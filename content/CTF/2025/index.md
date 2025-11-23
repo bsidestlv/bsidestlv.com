@@ -8,25 +8,25 @@ draft: true
 
 {{% picture img="https://ctf25.bsidestlv.com/files/f3cbc6423db8d4d832794eb5422808c4/ctf_logo_1.png" widths="540,720,960,1140" %}}
 
-# Sponsored by: xxxUPDATExxx
+# Sponsored by: *UpdateSponserNameHere*
 
-xxxUPDATExxx [![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?33Yfenwm)
+*UpdateSponserNameHere* [![](/images/ctf/2025_ctf_sponser.png)](http://app.jobvite.com/m?33Yfenwm)
 
 # Timetable
 
-### Over 69-hours!
+### 54 hours !
 ### Remote CTF
- - Start: June 23th 2025, 21:00 (Israel Time)
- - End: June 25st 2025, 18:00 (Israel Time)
-*The Remote CTF time might change, check this page for updates
+ - Start: December 7th 2025, 18:00 (Israel Time)
+ - End: December 9th 2025, 23:59 (Israel Time)
+*The Remote CTF time might change, check this page for updates or the CTF platform
 
-{{% timer "Jun 23, 2025 21:00:00" "Remote CTF starts in:" %}}
+{{% timer "Dec 07, 2025 18:00:00" "Remote CTF starts in:" %}}
 
 ### On-site
- - will be on the 26th, from 09:00-16:00
+ - Will take place on the 11th, from 09:00-16:00
  - The local CTF will be held at the upstairs gallery!
 
-### **Winner announcement on June 26th, during our event**
+### **Winner announcement on December 11th, during our event**
 
 ---
 
@@ -42,11 +42,12 @@ xxxUPDATExxx [![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?
 
 # Rules and Guidelines
 
-1. **This year we have 6 types of challenges:**
+1. **This year we have 7 types of challenges:**
    * **Remote challenges** - a.k.a regular CTF (easy-hard), prize awarded.
    * **Agent X Adventure** - physical challenge on site (easy-medium), prize awarded.
    * **Hunted House** - physical challenge on site (easy-medium), no prizes, just for fun.
    * **Hardware CTF** - physical challenge on site for those who purchased badges only (easy-hard), prize awarded.
+   * **Hack The Cloud challenge**
    * **"Zero Knowledge" \ "Treasure Hunt"** challenges (on site) – juniors this is for you! - no prizes, just for fun.
    * **A day in the life of an architect** - Simulation local tabletop exercise
    * **Lockpicking \ Brain Teasers** - play with stuff
@@ -58,14 +59,13 @@ xxxUPDATExxx [![](/images/ctf/Varonis_Logo_Black.svg)](http://app.jobvite.com/m?
    * The winners will be contacted via the email registered at the CTF Website - Use a real / active email !
    * This is a game, play fairly - we reserve the right to disqualify participants (and we came pretty close to do that in the past)
 1. The prize for the local challenges is personal.
-1. We usually keep the challenges alive for a couple more days after the event to enable write-ups
 
 > We usually keep the challenges alive for a couple more days after the event to enable write-ups
 
 ---
 # Media
 You're invited to visit our media channels
- - join our [Discord channel](https://discord.gg/bPSfb6ZM)  for technical support
+ - join our [Discord channel](https://discord.gg/N9a2nVQRGZ)  for technical support
  - follow us on social media: [@BSidesTLV_CTF](https://twitter.com/BSidesTLV_CTF)
 
 *please check this page for any updates prior to the competition*
@@ -107,133 +107,79 @@ Yes, plan to release our entire repo
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/image6.png" label="Nofar Terenyo" />}}<b>CTF Team Lead</b></div>
     <div>{{< imgproc img="/images/ctf/LavieBB.jpg" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
-    <div>{{< imgproc img="/images/ctf/DanielAbeles.jpg" label="Daniel Abeles" />}}</div>
-    <div>{{< imgproc img="/images/ctf/image9.jpg" label="Rotem Reiss" />}}</div>
+    <div>{{< imgproc img="/images/ctf/DanielAbeles.jpg" label="Daniel Abeles" />}}<b>CTF Team</b></div>
+    <div>{{< imgproc img="/images/ctf/image9.jpg" label="Rotem Reiss" />}}<b>CTF Team</b></div>
 </div>
 <h2> CTF Writers </h2>
 <div class="row around-xs avatars shuffle" style="text-align:center">
-    <div>{{< imgproc img="/images/ctf/image3.png" label="Shaked Klein Orbach" />}}</div>
+
+    <div>{{< imgproc img="/images/ctf/avishai_elia.png" label="Avishai Elia" />}}</div>	
+
+    <div>{{< imgproc img="/images/ctf/aviya_erenfeld.png" label="Aviya Erenfeld" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/chen_gruber.png" label="Chen Gruber" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/dor_konis.png" label="Dor Konis" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/eli_kaski.png" label="Eli_Kaski" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/gal_moshkovitz.png" label="Gal Moshkovitz" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/hen_golubenko.png" label="Hen Golubenko" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/itay_tores.png" label="Itay Tores" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/idan_strovinsky.png" label="Idan Strovinsky" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/liam_troper.png" label="Liam Troper" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/liav_gutman.png" label="Liav Gutman" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/moriya_weitzman.png" label="Moriya Weitzman" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/nave_ben_naim.png" label="Nave Ben Naim" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/noam_lifshitz.png" label="Noam Lifshitz" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/noam_moshka.png" label="Noam Moshka" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/orly_katabi.png" label="Orly Katabi" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/ron_sorojon.png" label="Ron Sorojon" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/shay_gover.png" label="Shay Gover" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/tuv_levav.png" label="Tuv Levav" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/yeudit_yudelevich.png" label="Yeudit Yudelevich" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/yogev_bushari.png" label="Yogev Bushari" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/amichai_yifrach.png" label="Amichai Yifrach" />}}</div>
+	
+
+    <div>{{< imgproc img="/images/ctf/peter_zuzanov.png" label="Peter Zuzanov" />}}</div>
 
 </div>
-
-
-# Our Team
-========
-
-### CTF Team
-
-![**Nofar Terenyo**](/images/ctf/Nofar_Terenyo.jpg)
-
-
-
-CTF Team Lead
-
-![](/images/ctf/Lavie_Ben-Baruch.jpg)
-
-**Lavie Ben-Baruch**
-
-CTF Team Lead
-
-![](/images/ctf/Daniel_Ables.jpg)
-
-**Daniel Abeles**
-
-CTF Team
-
-![](/images/ctf/Rotem_Reiss.jpg)
-
-**Rotem Reiss**
-
-CTF Team
-
-### CTF Writers
-
-![](/images/ctf/logo.jpg)
-
-**Amichai Yifrach**
-
-![](/images/ctf/Avishai_Elia.jpeg)
-
-**Avishai Elia**
-
-![](/images/ctf/Aviya_Erenfeld.jpg)
-
-**Aviya Erenfeld**
-
-![](/images/ctf/Chen_Gruber.jpg)
-
-**Chen Gruber**
-
-![](/images/ctf/logo.jpg)
-
-**Dor Konis**
-
-![](/images/ctf/logo.jpg)
-
-**Eli\_Kaski**
-
-![](/images/ctf/Gal_Moshkovitz.jpg)
-
-**Gal Moshkovitz**
-
-![](/images/ctf/Hen_Golubenko.jpg)
-
-**Hen Golubenko**
-
-![](/images/ctf/Itay_Tores.jpg)
-
-**Itay Tores**
-
-![](/images/ctf/Idan_Strovinsky.jpg)
-
-**Idan Strovinsky**
-
-![](/images/ctf/Liam_Troper.jpg)
-
-**Liam Troper**
-
-![](/images/ctf/Liav_Gutman.jpg)
-
-**Liav Gutman**
-
-![](/images/ctf/Moriya_Weitzman.jpg)
-
-**Moriya Weitzman**
-
-![](/images/ctf/Nave_Ben_Naim.png)
-
-**Nave Ben Naim**
-
-![](/images/ctf/Noam_Lifshitz.jpg)
-
-**Noam Lifshitz**
-
-![](/images/ctf/logo.jpg)
-
-**Noam Moshka**
-
-![](/images/ctf/Orly_Katabi.jpg)
-
-**Orly Katabi**
-
-![](/images/ctf/logo.jpg)
-
-**Ron Sorojon**
-
-![](/images/ctf/Shay_Gover.jpg)
-
-**Shay Gover**
-
-![](/images/ctf/Tuv_Levav.jpg)
-
-**Tuv Levav**
-
-![](/images/ctf/logo.jpg)
-
-**Yeudit Yudelevich**
-
-![](/images/ctf/logo.jpg)
-
-**Yogev Bushari**
 
 * * *
