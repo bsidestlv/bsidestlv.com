@@ -1,7 +1,7 @@
 ---
 key: heron
 title: Heron AI Initiative
-category: silver
+category: gold
 website: 'https://www.heronsec.ai/'
 socials: []
 ---
