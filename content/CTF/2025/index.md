@@ -2,15 +2,15 @@
 title: 2025 CTF
 brief: BSidesTLV Capture The Flag
 # image: /images/blog/cfp.jpg
-date: 2025-06-09
-draft: true
+date: 2025-11-24
+draft: false
 ---
 
-{{% picture img="https://ctf25.bsidestlv.com/files/f3cbc6423db8d4d832794eb5422808c4/ctf_logo_1.png" widths="540,720,960,1140" %}}
+{{% picture img="/images/logo/ctf_logo_2025.png" widths="540,720,960,1140" %}}
 
-# Sponsored by: *UpdateSponserNameHere*
+<!-- # Sponsored by: *UpdateSponserNameHere* -->
 
-*UpdateSponserNameHere* [![](/images/ctf/2025_ctf_sponser.png)](http://)
+<!-- *UpdateSponserNameHere* [![](/images/ctf/2025_ctf_sponser.png)](http://) -->
 
 # Timetable
 
@@ -154,5 +154,3 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/peter_zuzanov.jpg" label="Peter Zuzanov" />}}</div>
 
 </div>
-
-* * *
