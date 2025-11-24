@@ -8,7 +8,10 @@ draft: false
 
 {{% picture img="/images/logo/ctf_logo_2025.png" widths="540,720,960,1140" %}}
 
-<!-- # Sponsored by: *UpdateSponserNameHere* -->
+# Sponsored by: The Community !
+Feel like sponsuring the CTF ? 
+
+Please reach out to sponsors@bsidestlv.com for setting up a call for more details!
 
 <!-- *UpdateSponserNameHere* [![](/images/ctf/2025_ctf_sponser.png)](http://) -->
 
