@@ -115,16 +115,10 @@ Yes, plan to release our entire repo
 </div>
 <h2> CTF Writers </h2>
 <div class="row around-xs avatars shuffle" style="text-align:center">
-
     <div>{{< imgproc img="/images/ctf/avishai_elia.jpg" label="Avishai Elia" />}}</div>	
     <div>{{< imgproc img="/images/ctf/aviya_erenfeld.jpg" label="Aviya Erenfeld" />}}</div>
     <div>{{< imgproc img="/images/ctf/chen_gruber.jpg" label="Chen Gruber" />}}</div>
-    <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Dor Konis" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Eli_Kaski" />}}</div>
-    <!-- 
-    <div>{{< imgproc img="/images/ctf/dor_konis.jpg" label="Dor Konis" />}}</div>
-    <div>{{< imgproc img="/images/ctf/eli_kaski.jpg" label="Eli_Kaski" />}}</div> 
-    -->
     <div>{{< imgproc img="/images/ctf/gal_moshkovitz.jpg" label="Gal Moshkovitz" />}}</div>
     <div>{{< imgproc img="/images/ctf/hen_golubenko.jpg" label="Hen Golubenko" />}}</div>
     <div>{{< imgproc img="/images/ctf/itay_tores.jpg" label="Itay Tores" />}}</div>
@@ -135,25 +129,12 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/nave_ben_naim.png" label="Nave Ben Naim" />}}</div>
     <div>{{< imgproc img="/images/ctf/noam_lifshitz.jpg" label="Noam Lifshitz" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Noam Moshka" />}}</div>
-<!-- 
-    <div>{{< imgproc img="/images/ctf/noam_moshka.jpg" label="Noam Moshka" />}}</div>
- -->
     <div>{{< imgproc img="/images/ctf/orly_katabi.jpg" label="Orly Katabi" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Ron Sorojon" />}}</div>
-<!-- 
-    <div>{{< imgproc img="/images/ctf/ron_sorojon.jpg" label="Ron Sorojon" />}}</div>
- -->
     <div>{{< imgproc img="/images/ctf/shay_gover.jpg" label="Shay Gover" />}}</div>
     <div>{{< imgproc img="/images/ctf/tuv_levav.jpg" label="Tuv Levav" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Yeudit Yudelevich" />}}</div>
-<!-- 
-    <div>{{< imgproc img="/images/ctf/yeudit_yudelevich.jpg" label="Yeudit Yudelevich" />}}</div>
- -->
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Yogev Bushari" />}}</div>
-<!-- 
-    <div>{{< imgproc img="/images/ctf/yogev_bushari.jpg" label="Yogev Bushari" />}}</div>
- -->
     <div>{{< imgproc img="/images/ctf/amichai_yifrach.jpg" label="Amichai Yifrach" />}}</div>
     <div>{{< imgproc img="/images/ctf/peter_zuzanov.jpg" label="Peter Zuzanov" />}}</div>
-
 </div>
