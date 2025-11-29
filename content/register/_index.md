@@ -7,19 +7,13 @@ menu:
 
 # BSidesTLV 2025 – The Multiverse Awaits. Are You Ready to Grab Your Tickets?
 
-🎉 Greetings and May the Fourth be with you! This year, BSidesTLV will dive deep into the Multiverse with our comic book theme. To match the theme, we're building something truly legendary: LIMITED EDITION INFINITY GLOVE ELECTRONIC BADGES. Remember, remember! Grab yours early as electronic badge registration will close November 5th.  General registration is also open and will stay open until tickets run out - so don't delay and get your tickets now : registration is now open. 
+<script>!function(t){t.addEventListener("message",function(a){a.data&&"eva"===a.data.event&&a.origin.match("^https:(\/\/|[^\.]+\.)eventer\.(co.il|us)$")&&a.data.t&&t[a.data.t]&&t[a.data.t](...a.data.e)},!1)}(window);</script><script src="https://www.eventer.co.il/js/vendor/iframeResizer.min.js"></script><iframe src="https://www.eventer.co.il/BSidesTLV25?colorScheme=%23FFFFFF&colorScheme2=%23000000&colorSchemeButton=%231FA3FF&lpsec_poweredByBox=false&lpsec_purchaseBox_2=true&lpsec_eventDetails_3=false&lpf_showBackground=false&lpf_showLocationDescription=false" width="100%" scrolling="no" class="resizableFrame" frameborder="0"></iframe><script>iFrameResize({checkOrigin: false}, "iframe.resizableFrame");</script>
 
-**Registration to BSidesTLV 2025 is now officially open!**
-
-[2025 Electronic Badges](2025-electronic-badges)
-
-[Check out our agenda - more talks to be confirmed soon!]({{<ref "/agenda" >}})
+[Check out our agenda!]({{<ref "/agenda" >}})
 
 ## The use of ID is required for our vendor payment backend, it is collected and handled by our payment provider and we do not keep/store this data. This is used by our vendor for fraud prevention and is a regulatory requirement
 
 # We do not validate, verify or check ID and\or ID numbers provided at the registration in the conference entrance
-
-<script>!function(t){t.addEventListener("message",function(a){a.data&&"eva"===a.data.event&&a.origin.match("^https:(\/\/|[^\.]+\.)eventer\.(co.il|us)$")&&a.data.t&&t[a.data.t]&&t[a.data.t](...a.data.e)},!1)}(window);</script><script src="https://www.eventer.co.il/js/vendor/iframeResizer.min.js"></script><iframe src="https://www.eventer.co.il/BSidesTLV25?colorScheme=%23FFFFFF&colorScheme2=%23000000&colorSchemeButton=%231FA3FF&lpsec_poweredByBox=false&lpsec_purchaseBox_2=true&lpsec_eventDetails_3=false&lpf_showBackground=false&lpf_showLocationDescription=false" width="100%" scrolling="no" class="resizableFrame" frameborder="0"></iframe><script>iFrameResize({checkOrigin: false}, "iframe.resizableFrame");</script>
 
 
 For more information about our tickets this year, please see our [FAQ]({{< relref "/faq" >}}).
