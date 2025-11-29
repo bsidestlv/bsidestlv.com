@@ -215,3 +215,21 @@
   subtitle: 
   key: michal_kamensky
   socials:
+
+- title: Gili Yankovitch
+  type: team
+  subtitle: HW Village Maintainer
+  key: Gili_Yankovitch
+  socials:
+
+- title: Rotem Reiss
+  type: team
+  subtitle: Bug Bounty Village Lead & CTF Organizing Team Member
+  key: Rotem_Reiss
+  socials:
+
+- title: Tal Eliyahu
+  type: team
+  subtitle: AI Hacking Village Lead
+  key: Tal_Eliyahu
+  socials:
