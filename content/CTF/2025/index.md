@@ -50,7 +50,7 @@ Please reach out to sponsors@bsidestlv.com for setting up a call for more detail
    * **Agent X Adventure** - physical challenge on site (easy-medium), prize awarded.
    * **Hunted House** - physical challenge on site (easy-medium), no prizes, just for fun.
    * **Hardware CTF** - physical challenge on site for those who purchased badges only (easy-hard), prize awarded.
-   * **Hack The Cloud challenge**
+   * ~~**Hack The Cloud challenge**~~ -  Maybe next year...
    * **"Zero Knowledge" \ "Treasure Hunt"** challenges (on site) – juniors this is for you! - no prizes, just for fun.
    * **A day in the life of an architect** - Simulation local tabletop exercise
    * **Lockpicking \ Brain Teasers** - play with stuff
