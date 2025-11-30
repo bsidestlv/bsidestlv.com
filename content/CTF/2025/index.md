@@ -110,7 +110,7 @@ Yes, plan to release our entire repo
 <h2>CTF Team</h2>
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/image6.png" label="Nofar Terenyo" />}}<b>CTF Team Lead</b></div>
-    <div>{{< imgproc img="/images/ctf/LavieBB.jpg" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
+    <div>{{< imgproc img="/images/ctf/Lavie_Ben-Baruch" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
     <div>{{< imgproc img="/images/ctf/DanielAbeles.jpg" label="Daniel Abeles" />}}<b>CTF Team</b></div>
     <div>{{< imgproc img="/images/ctf/image9.jpg" label="Rotem Reiss" />}}<b>CTF Team</b></div>
 </div>
@@ -131,7 +131,7 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Noam Moshka" />}}</div>
     <div>{{< imgproc img="/images/ctf/orly_katabi.jpg" label="Orly Katabi" />}}</div>
     <div>{{< imgproc img="/images/ctf/shay_gover.jpg" label="Shay Gover" />}}</div>
-    <div>{{< imgproc img="/images/ctf/tuv_levav.jpg" label="Tuv Levav" />}}</div>
+    <div>{{< imgproc img="/images/ctf/tuv_levav.png" label="Tuv Levav" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Yeudit Yudelevich" />}}</div>
     <div>{{< imgproc img="/images/ctf/amichai_yifrach.jpg" label="Amichai Yifrach" />}}</div>
 </div>
