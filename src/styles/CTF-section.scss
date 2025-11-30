@@ -3,6 +3,43 @@
 
 // <link rel="stylesheet" href="https://cdn.cloud.ctfd.io/bstlv25/themes/bsides-comics-2025/static/assets/main-07a2a4a4.css">
 
+
+/* Homepage Avatars Styles */
+  .avatar-grid {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      justify-content: center !important;
+      gap: 2rem !important;
+      margin-bottom: 2rem;
+  }
+  .avatar-grid figure {
+      padding: .25rem;
+      margin: 1rem 0;
+      width: 150px;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  .avatar-grid img {
+      border-radius: 50%;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .avatar-grid figcaption {
+      margin-top: 0.5rem;
+  }
+
+  .avatar-grid .avatar-text {
+    color: #198754;
+  }
+  
 .modal-content {
     color: var(--off-white)!important;
     background: rgba(45,55,72,.95)!important;

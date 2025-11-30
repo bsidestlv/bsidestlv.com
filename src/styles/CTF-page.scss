@@ -2,6 +2,43 @@
 @import "partials/flexboxgrid";
 @import url("https://fonts.googleapis.com/css2?family=Bangers&amp;family=Fredoka+One:wght@400&amp;family=Orbitron:wght@400;700;900&amp;family=Exo+2:wght@400;700;800&amp;family=Source+Sans+Pro:wght@300;400;600;700&amp;family=Creepster&amp;family=Bungee&amp;display=swap");
 
+
+/* Homepage Avatars Styles */
+  .avatar-grid {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      justify-content: center !important;
+      gap: 2rem !important;
+      margin-bottom: 2rem;
+  }
+  .avatar-grid figure {
+      padding: .25rem;
+      margin: 1rem 0;
+      width: 150px;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  .avatar-grid img {
+      border-radius: 50%;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .avatar-grid figcaption {
+      margin-top: 0.5rem;
+  }
+
+  .avatar-grid .avatar-text {
+    color: #198754;
+  }
+  
 .avatars div {
 	margin: 10px;
 }
