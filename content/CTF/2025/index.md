@@ -6,10 +6,12 @@ date: 2025-11-24
 draft: false
 ---
 
+<link rel="stylesheet" href="https://cdn.cloud.ctfd.io/bstlv25/themes/bsides-comics-2025/static/assets/main-07a2a4a4.css">
+
 {{% picture img="/images/logo/ctf_logo_2025.png" widths="540,720,960,1140" %}}
 
 # Sponsored by: The Community !
-**Feel like sponsuring the CTF ?**
+**Feel like sponsoring the CTF ?**
 
 Please reach out to sponsors@bsidestlv.com for setting up a call for more details!
 
@@ -110,7 +112,7 @@ Yes, plan to release our entire repo
 <h2>CTF Team</h2>
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/image6.png" label="Nofar Terenyo" />}}<b>CTF Team Lead</b></div>
-    <div>{{< imgproc img="/images/ctf/Lavie_Ben-Baruch" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
+    <div>{{< imgproc img="/images/ctf/Lavie_Ben-Baruch.jpg" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
     <div>{{< imgproc img="/images/ctf/DanielAbeles.jpg" label="Daniel Abeles" />}}<b>CTF Team</b></div>
     <div>{{< imgproc img="/images/ctf/image9.jpg" label="Rotem Reiss" />}}<b>CTF Team</b></div>
 </div>
