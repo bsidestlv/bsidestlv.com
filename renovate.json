@@ -1,7 +1,7 @@
 {
    "extends": [
       "config:best-practices",
-      "npm:unpublishSafe",
+      "security:minimumReleaseAgeNpm",
       "config:semverAllMonthly",
       "replacements:all",
       "security:openssf-scorecard"
