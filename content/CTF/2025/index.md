@@ -6,10 +6,12 @@ date: 2025-11-24
 draft: false
 ---
 
+<link rel="stylesheet" href="https://cdn.cloud.ctfd.io/bstlv25/themes/bsides-comics-2025/static/assets/main-07a2a4a4.css">
+
 {{% picture img="/images/logo/ctf_logo_2025.png" widths="540,720,960,1140" %}}
 
 # Sponsored by: The Community !
-Feel like sponsuring the CTF ? 
+**Feel like sponsoring the CTF ?**
 
 Please reach out to sponsors@bsidestlv.com for setting up a call for more details!
 
@@ -18,6 +20,16 @@ Please reach out to sponsors@bsidestlv.com for setting up a call for more detail
 # Timetable
 
 ### 54 hours !
+**This year we have 7 types of challenges:**
+   * **Remote challenges** - a.k.a regular CTF (easy-hard), prize awarded.
+   * **Agent X Adventure** - physical challenge on site (easy-medium), prize awarded.
+   * **Hunted House** - physical challenge on site (easy-medium), no prizes, just for fun.
+   * **Hardware CTF** - physical challenge on site for those who purchased badges only (easy-hard), prize awarded.
+   * ~~**Hack The Cloud challenge**~~ -  Maybe next year...
+   * **"Zero Knowledge" \ "Treasure Hunt"** challenges (on site) – juniors this is for you! - no prizes, just for fun.
+   * **A day in the life of an architect** - Simulation local tabletop exercise
+   * **Lockpicking \ Brain Teasers** - play with stuff
+
 ### Remote CTF
  - Start: December 7th 2025, 18:00 (Israel Time)
  - End: December 9th 2025, 23:59 (Israel Time)
@@ -45,15 +57,6 @@ Please reach out to sponsors@bsidestlv.com for setting up a call for more detail
 
 # Rules and Guidelines
 
-1. **This year we have 7 types of challenges:**
-   * **Remote challenges** - a.k.a regular CTF (easy-hard), prize awarded.
-   * **Agent X Adventure** - physical challenge on site (easy-medium), prize awarded.
-   * **Hunted House** - physical challenge on site (easy-medium), no prizes, just for fun.
-   * **Hardware CTF** - physical challenge on site for those who purchased badges only (easy-hard), prize awarded.
-   * **Hack The Cloud challenge**
-   * **"Zero Knowledge" \ "Treasure Hunt"** challenges (on site) – juniors this is for you! - no prizes, just for fun.
-   * **A day in the life of an architect** - Simulation local tabletop exercise
-   * **Lockpicking \ Brain Teasers** - play with stuff
 1. We only allow physically present individuals or teams to **claim a prize**
    * The winning team will get a collective prize which will be shared between the team participants.
    * Make sure a member of your team is in the announcement ceremony!
@@ -109,7 +112,7 @@ Yes, plan to release our entire repo
 <h2>CTF Team</h2>
 <div class="row around-xs avatars shuffle" style="text-align:center">
     <div>{{< imgproc img="/images/ctf/image6.png" label="Nofar Terenyo" />}}<b>CTF Team Lead</b></div>
-    <div>{{< imgproc img="/images/ctf/LavieBB.jpg" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
+    <div>{{< imgproc img="/images/ctf/Lavie_Ben-Baruch.jpg" label="Lavie Ben-Baruch" />}}<b>CTF Team Lead</b></div>
     <div>{{< imgproc img="/images/ctf/DanielAbeles.jpg" label="Daniel Abeles" />}}<b>CTF Team</b></div>
     <div>{{< imgproc img="/images/ctf/image9.jpg" label="Rotem Reiss" />}}<b>CTF Team</b></div>
 </div>
@@ -119,7 +122,6 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/aviya_erenfeld.jpg" label="Aviya Erenfeld" />}}</div>
     <div>{{< imgproc img="/images/ctf/chen_gruber.jpg" label="Chen Gruber" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Eli_Kaski" />}}</div>
-    <div>{{< imgproc img="/images/ctf/gal_moshkovitz.jpg" label="Gal Moshkovitz" />}}</div>
     <div>{{< imgproc img="/images/ctf/hen_golubenko.jpg" label="Hen Golubenko" />}}</div>
     <div>{{< imgproc img="/images/ctf/itay_tores.jpg" label="Itay Tores" />}}</div>
     <div>{{< imgproc img="/images/ctf/idan_strovinsky.jpg" label="Idan Strovinsky" />}}</div>
@@ -130,11 +132,8 @@ Yes, plan to release our entire repo
     <div>{{< imgproc img="/images/ctf/noam_lifshitz.jpg" label="Noam Lifshitz" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Noam Moshka" />}}</div>
     <div>{{< imgproc img="/images/ctf/orly_katabi.jpg" label="Orly Katabi" />}}</div>
-    <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Ron Sorojon" />}}</div>
     <div>{{< imgproc img="/images/ctf/shay_gover.jpg" label="Shay Gover" />}}</div>
-    <div>{{< imgproc img="/images/ctf/tuv_levav.jpg" label="Tuv Levav" />}}</div>
+    <div>{{< imgproc img="/images/ctf/tuv_levav.png" label="Tuv Levav" />}}</div>
     <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Yeudit Yudelevich" />}}</div>
-    <div>{{< imgproc img="/images/ctf/ctf_2025_logo.jpg" label="Yogev Bushari" />}}</div>
     <div>{{< imgproc img="/images/ctf/amichai_yifrach.jpg" label="Amichai Yifrach" />}}</div>
-    <div>{{< imgproc img="/images/ctf/peter_zuzanov.jpg" label="Peter Zuzanov" />}}</div>
 </div>
