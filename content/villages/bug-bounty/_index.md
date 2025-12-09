@@ -37,11 +37,14 @@ Perfect for:
 - Security professionals interested in vulnerability research
 - Program managers seeking to improve their bug bounty programs
 
-{{% /home-message %}}
-
-{{% home-info what="Platforms:Multiple, Challenges:Real-world, Hunters:Expert" class="primary" %}}
-
 Join us in the Bug Bounty Village at BSidesTLV 2025!
 
-{{% /home-info %}}
+{{% /home-message %}}
 
+## Village Sponsors
+
+<div class="partners-group partner-bugbounty" style="text-align: center; margin: 2rem 0;">
+<a href="https://projectdiscovery.io/" title="ProjectDiscovery" style="display: inline-block;">
+<img src="/images/partners/projectdiscovery.png" alt="ProjectDiscovery" style="max-width: 300px; height: auto;">
+</a>
+</div>

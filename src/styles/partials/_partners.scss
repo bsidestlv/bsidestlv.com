@@ -7,6 +7,7 @@
   --partner-font-size-chillout: 1.75rem;
   --partner-font-size-bronze: 1rem;
   --partner-font-size-CTF: 1rem;
+  --partner-font-size-bugbounty: 1.50rem;
   --zoom-link-height: 110px;
   --partner-titanium-height: calc(var(--partner-support-height) * 2 + var(--zoom-link-height));
   --partner-platinum-height: calc(var(--partner-support-height) * 1.75 + var(--zoom-link-height));
@@ -15,6 +16,7 @@
   --partner-chillout-height: calc(var(--partner-support-height) * 2.25 + var(--zoom-link-height));
   --partner-bronze-height: calc(var(--partner-support-height) * 1.25 + var(--zoom-link-height));
   --partner-CTF-height: calc(var(--partner-support-height) * 1.15 + var(--zoom-link-height));
+  --partner-bugbounty-height: calc(var(--partner-support-height) * 1.5 + var(--zoom-link-height));
 }
 
 .partners-group {
@@ -71,6 +73,11 @@
     flex-basis: 200px;
   }
 
+  &.partner-bugbounty ul li {
+    height: var(--partner-bugbounty-height);
+    flex-basis: 350px;
+  }
+
   .fancy {
 
     span:before,
@@ -123,6 +130,11 @@
     color: var(--color-bronze);
   }
 
+  &.partner-bugbounty .fancy {
+    font-size: var(--partner-font-size-bugbounty);
+    color: var(--color-gold);
+  }
+
   .partner {
     background-color: inherit;
     box-shadow: none;
@@ -162,5 +174,10 @@
   &.partner-bronze .partner img {
     max-width: 60% !important;
     max-height: 60% !important;
+  }
+
+  &.partner-bugbounty .partner img {
+    max-width: 100% !important;
+    max-height: 100% !important;
   }
 }
