@@ -5,7 +5,7 @@ menu:
     weight: 40
 ---
 
-# BSidesTLV 2025 – Join the Waitlist!
+# BSidesTLV 2025
 
 <!-- {{< waitlist-form >}} -->
 
