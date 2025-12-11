@@ -1,8 +1,8 @@
-<!-- ---
+---
 
 title: Live!
 
---- -->
+---
 
 ## BSidesTLV 2025 - Live Stream
 
@@ -10,7 +10,7 @@ title: Live!
  <div class="col-xs-12" style=" --aspect-ratio: 16/9;
   max-width: 85%;
   margin: 0px auto;">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tlBnIA9FQrg?si=8CQCfmRpi7f4p8cx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OHsdZVvQ2oM?si=U_yVeWDfnZAlXLgD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 

@@ -7,6 +7,8 @@ menu:
   weight: -1
 ---
 
+<meta http-equiv="refresh" content="0; url=/live" />
+
 {{% jumbo imgLabel="BSidesTLV 2025" %}}
 
 {{% /jumbo %}}
@@ -15,13 +17,12 @@ menu:
 
 ## BSidesTLV 2025 - new date announcement , 11.12.2025
 
-### 📢 Greetings Hackers & earthlings! 
+### 📢 Greetings Hackers & earthlings
 
+Following the June 2025 postponement, we have an update about our new expected date:
+Tel Aviv University Cyber Week 2025 Will Take Place December 8-11. This means that our BSidesTLV2025 event is scheduled for December 11, Thursday!
 
-Following the June 2025 postponement, we have an update about our new expected date: 
-Tel Aviv University Cyber Week 2025 Will Take Place December 8-11. This means that our BSidesTLV2025 event is scheduled for December 11, Thursday! 
-
-Most of our planned agenda and village content remain the same, and any current tickets will be valid for the new date. 
+Most of our planned agenda and village content remain the same, and any current tickets will be valid for the new date.
 
 We will be in touch in September with event updates, info about electronic badges and more surprises.
 
@@ -35,7 +36,6 @@ Have an idea to share on our main stage? Join our local celebration of security 
 <!-- Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com>
 
 {{< button-link label="Register Here!" url="/register" icon="external" >}} 
-
 
 **TLDR: The security multiverse needs heroes, so join us at BSidesTLV 2025, December 11! Call for Volunteers is now open! [Wanna help?](https://signup.com/go/XWAtoJV)**
 
@@ -55,10 +55,10 @@ Have an idea to share on our main stage? Join our local celebration of security 
 
 [Need some inspiration? Watch videos from our past events!](https://www.youtube.com/@BSidesTLV)
 
-Want to support our event? We need Sponsors! Our community powered, volunteer run event depends on the generous sponsors to make everything possible. 
+Want to support our event? We need Sponsors! Our community powered, volunteer run event depends on the generous sponsors to make everything possible.
 Please contact us at <sponsors@bsidestlv.com>
 
-Thank you and stay safe, 
+Thank you and stay safe,
 The BSidesTLV 2025 Team
 
 _BSidesTLV 2025 logo design by Vladislav Trigub @vldislovely_
