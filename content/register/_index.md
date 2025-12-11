@@ -7,11 +7,11 @@ menu:
 
 # BSidesTLV 2025 – Join the Waitlist!
 
-{{< waitlist-form >}}
+<!-- {{< waitlist-form >}} -->
 
-<!-- EVENTER IFRAME - Uncomment when ticket sales open
+
 <script>!function(t){t.addEventListener("message",function(a){a.data&&"eva"===a.data.event&&a.origin.match("^https:(\/\/|[^\.]+\.)eventer\.(co.il|us)$")&&a.data.t&&t[a.data.t]&&t[a.data.t](...a.data.e)},!1)}(window);</script><script src="https://www.eventer.co.il/js/vendor/iframeResizer.min.js"></script><iframe src="https://www.eventer.co.il/BSidesTLV25?colorScheme=%23FFFFFF&colorScheme2=%23000000&colorSchemeButton=%231FA3FF&lpsec_poweredByBox=false&lpsec_purchaseBox_2=true&lpsec_eventDetails_3=false&lpf_showBackground=false&lpf_showLocationDescription=false" width="100%" scrolling="no" class="resizableFrame" frameborder="0"></iframe><script>iFrameResize({checkOrigin: false}, "iframe.resizableFrame");</script>
--->
+
 
 [Check out our agenda!]({{<ref "/agenda" >}})
 
