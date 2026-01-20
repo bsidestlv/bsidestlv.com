@@ -1,7 +1,8 @@
----
-
+<!-- ---
 title: Live!
-
+# menu:
+#   main:
+#     weight: 20
 ---
 
 ## BSidesTLV 2025 - Live Stream
@@ -30,3 +31,4 @@ title: Live!
     {{% partners categories="silver,bronze,partners" %}}{{% /partners %}}
   </div>
 </div>
+-->

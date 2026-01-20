@@ -1,10 +1,12 @@
-<!-- ---
+---
 title: Speakers
 menu:
   main:
     weight: 40
---- -->
+---
 
 {{% hero %}}
-We are proud to present the speakers of BSidesTLV 2025 !
+
+## Details coming soon! Check back later for updates! 🚀
+
 {{% /hero %}}
