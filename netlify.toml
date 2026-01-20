@@ -5,6 +5,7 @@ command = "yarn run build"
 [build.environment]
 HUGO_VERSION = "0.81.0"
 HUGO_ENABLEGITINFO = "true"
+GOOGLE_MAPS_API_KEY = "AIzaSyAWrX0-FFQ3oJhCjxRgEBbD8FObWg1FXI0"
 
 [context.production.environment]
 HUGO_ENV = "production"
