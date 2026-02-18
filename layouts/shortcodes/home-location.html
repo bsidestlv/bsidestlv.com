@@ -2,8 +2,9 @@
 <section class="location">
 
 	<div class="map">
+		{{ $apiKey := default .Site.Params.googleMapsApiKey (getenv "GOOGLE_MAPS_API_KEY") }}
 		<iframe width="100%" height="100%" frameborder="0" style="border:0"
-			src='https://www.google.com/maps/embed/v1/place?key={{ .Site.Params.googleMapsApiKey }}&q={{ .Get " address"}}'
+			src='https://www.google.com/maps/embed/v1/place?key={{ $apiKey }}&q={{ .Get " address"}}'
 			allowfullscreen></iframe>
 	</div>
 

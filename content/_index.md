@@ -7,62 +7,21 @@ menu:
   weight: -1
 ---
 
-<meta http-equiv="refresh" content="0; url=/live" />
+{{% jumbo imgLabel="BSidesTLV 2026" %}}
 
-{{% jumbo imgLabel="BSidesTLV 2025" %}}
+Hey everyone 👋❤️
+We're officially opening applications for the BSidesTLV 2026 Organizing Team — June 25, 2026 (Tel Aviv).
+
+BSidesTLV is built by volunteers, and this year we're regrouping to build a strong, committed, and accountable team — with clear ownership, better processes, and stronger community energy (without burnout). If you've ever wanted to be part of something meaningful in the cyber community — this is it.
+
+Read the manifesto + apply here:
+https://bsidestlv-2026-xwutuzg.gamma.site/
+
+ 🙏 
+
+Let's build BSidesTLV 2026 together 🚀
 
 {{% /jumbo %}}
-
-{{% home-message %}}
-
-## BSidesTLV 2025 - new date announcement , 11.12.2025
-
-### 📢 Greetings Hackers & earthlings
-
-Following the June 2025 postponement, we have an update about our new expected date:
-Tel Aviv University Cyber Week 2025 Will Take Place December 8-11. This means that our BSidesTLV2025 event is scheduled for December 11, Thursday!
-
-Most of our planned agenda and village content remain the same, and any current tickets will be valid for the new date.
-
-We will be in touch in September with event updates, info about electronic badges and more surprises.
-
-We hope to see everyone there, and we thank you for your continued support!
-The BSidesTLV 2025 team
-
-The theme for our 10th security research community conference will focus on alternate realities and multiple possibilities, imagining a better future while living in a chaotic present! In the age of disinformation, GenAI and Quantum Computers - we believe everything is possible (at least in the realm of security research🤓 ).
-
-Have an idea to share on our main stage? Join our local celebration of security research, creativity, and resilience. We welcome first time speakers and offer speaker mentoring and might be able to offer travel support for international (or interdimensional) speakers!
-
-<!-- Share your ideas with the biggest security community in Israel: <https://cfp.bsidestlv.com>
-
-{{< button-link label="Register Here!" url="/register" icon="external" >}} 
-
-**TLDR: The security multiverse needs heroes, so join us at BSidesTLV 2025, December 11! Call for Volunteers is now open! [Wanna help?](https://signup.com/go/XWAtoJV)**
-
-### IMPORTANT DATES and details
-
-* CFP Opens: 16/2/2025 at 10:00:00 Israel time
-* CFP Closes: 15/4/2025 at 23:59:59 Israel time
-* CFP decisions will be sent to submitters by 5/5/2025
-* Agenda announced by 20/5/2025
-* Ticket sales, T shirt orders & registration will open during May 2025 - go to [Registration!]({{<ref "/register" >}})
-* BSidesTLV 2025 26/6/2025 from 9am to 6pm. 
-* Live & in person at Tel Aviv University during Tel Aviv Cyber Week, in Smolarz auditorium, a state of the art, safe & accessible hall with seats for 1000+ participants
-* Main stage with live talks, networking and chillout areas, and dedicated sponsor zone!
-* Unique villages focusing on hardware hacking, bug bounty programs and more!
-* All talks presented in english, filmed and uploaded to YouTube after the event 
--->
-
-[Need some inspiration? Watch videos from our past events!](https://www.youtube.com/@BSidesTLV)
-
-Want to support our event? We need Sponsors! Our community powered, volunteer run event depends on the generous sponsors to make everything possible.
-Please contact us at <sponsors@bsidestlv.com>
-
-Thank you and stay safe,
-The BSidesTLV 2025 Team
-
-_BSidesTLV 2025 logo design by Vladislav Trigub @vldislovely_
-{{% /home-message %}}
 
 {{% home-info what="Participants:1700+ ,Years:10, Sessions:30+, CTF Challenges:20+" class="primary" %}}
 
@@ -83,9 +42,9 @@ Sign up to our newsletter to receive updates throughout the year
 
 {{% /home-subscribe %}}
 
-{{% partners categories="gold,chillout,bronze,partners" %}}
+{{% partners categories="partners" %}}
 
-## BSidesTLV 2025 is proudly sponsored by
+## BSidesTLV 2026 Partners
 
 {{% /partners %}}
 

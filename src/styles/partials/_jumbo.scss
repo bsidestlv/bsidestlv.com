@@ -1,65 +1,97 @@
 .jumbo .jumbo-cover {
-  background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
-  /* Scale width to 100% and height auto */
-  background-size: 100% auto;
-  /* Prevent tiling */
+  /* Remove busy background image - use clean gradient instead */
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-size: cover;
   background-repeat: no-repeat;
-  /* Center it horizontally */
-  background-position-x: center;
-  background-position-y: 10vh;
+  background-position: center center;
+  
+  /* Alternative: very subtle background image if needed */
+  // background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
+  // background-size: cover;
+  // background-position: center center;
+  // opacity: 0.1;
+}
 
-  @include mq($until: sm) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
-  }
-
-  @include mq($until: md) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
-  }
-
-  @include mq($until: lg) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
-  }
-
-  @include mq($until: xl) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
+.jumbo {
+  /* Make jumbo section more compact, not full viewport */
+  min-height: auto !important;
+  padding: 4rem 2rem !important;
+  
+  .inner-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 2rem !important;
   }
 }
 
-.no-webp .jumbo .jumbo-cover {
-  background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
-
-  @include mq($until: sm) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
+.jumbo .inner {
+  margin-top: 0 !important;
+  text-align: center !important;
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 2rem !important;
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15) !important;
+  
+  * {
+    color: #333 !important;
+    text-shadow: none !important;
   }
-
-  @include mq($until: md) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
+  
+  p {
+    font-size: 1.4rem !important;
+    line-height: 1.7 !important;
+    margin: 1rem 0 !important;
+    font-weight: 400 !important;
+    
+    @include mq($until: md) {
+      font-size: 1.2rem !important;
+    }
+    
+    @include mq($until: sm) {
+      font-size: 1.1rem !important;
+    }
   }
-
-  @include mq($until: lg) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
-  }
-
-  @include mq($until: xl) {
-    background-image: url("/images/backgrounds/bsidestlv2025-new-date-banner.png");
+  
+  a {
+    color: #1976d2 !important;
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    font-size: 1.4rem !important;
+    font-weight: 500 !important;
+    
+    &:hover {
+      color: #1565c0 !important;
+    }
+    
+    @include mq($until: md) {
+      font-size: 1.2rem !important;
+    }
+    
+    @include mq($until: sm) {
+      font-size: 1.1rem !important;
+    }
   }
 }
 
 .jumbo .inner p {
-  font-size: 1.25rem;
-  background-color: rgba(0, 0, 0, 0.125);
-  border-radius: var(--space-3);
-  text-shadow: 0 1px rgba(0, 0, 0, .5);
-  box-shadow: 0 0 var(--space-3) rgba(0, 0, 0, .125);
+  background-color: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
 }
 
 .jumbo-cover::after {
-  background-color: var(--primary-txt) !important;
+  /* Remove or reduce overlay for cleaner look */
+  background-color: rgba(0, 0, 0, 0.2) !important;
   content: '';
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  opacity: var(--jumbo-overlay-opacity);
+  opacity: 0.2 !important;
 }
