@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import ComingSoon from '../../components/ComingSoon.astro';
+import site from '../../data/site.json';
+---
+
+<BaseLayout title="Register">
+  <PageHero
+    title="Register"
+    subtitle={`Secure your spot at BSidesTLV 2026 — ${site.dateDisplay}, ${site.location}.`}
+    tag="BSidesTLV 2026"
+  />
+  <div class="section-container pb-24">
+    <ComingSoon
+      message="Registration for BSidesTLV 2026 will open soon. Subscribe to our newsletter to get notified."
+    />
+
+    <div class="mt-8 text-center">
+      <a href={site.subscriptionUrl} target="_blank" rel="noopener noreferrer" class="btn-primary">
+        Get notified when tickets go live
+      </a>
+    </div>
+  </div>
+</BaseLayout>

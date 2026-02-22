@@ -1,0 +1,134 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+
+export async function getStaticPaths() {
+  const villages = await getCollection('villages', ({ data }) => !data.draft);
+  return villages.map((village) => ({
+    params: { slug: village.data.slug || village.slug },
+    props: { village },
+  }));
+}
+
+const { village } = Astro.props;
+const { Content } = await render(village);
+---
+
+<BaseLayout title={village.data.title} description={village.data.description}>
+  <PageHero title={village.data.title} subtitle={village.data.description} tag="Village" />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-4xl">
+      <div class="prose-village">
+        <Content />
+      </div>
+
+      {
+        village.data.sponsor && (
+          <div class="mt-12 border-t border-gray-800 pt-8">
+            <h3 class="font-display mb-6 text-sm font-semibold tracking-widest text-gray-500 uppercase">
+              Village Sponsor
+            </h3>
+            <a href={`/sponsors/${village.data.sponsor}/`} class="inline-block">
+              <img
+                src={`/images/partners/${village.data.sponsor}.png`}
+                alt="Village Sponsor"
+                class="h-10 w-auto opacity-70 brightness-0 invert filter transition-opacity hover:opacity-100"
+              />
+            </a>
+          </div>
+        )
+      }
+
+      <div class="mt-8">
+        <a href="/villages/" class="btn-outline">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 19l-7-7 7-7"></path>
+          </svg>
+          Back to Villages
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .prose-village :global(h2) {
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 0.025em;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .prose-village :global(h3) {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #d1d5db;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .prose-village :global(p) {
+    color: #9ca3af;
+    line-height: 1.75;
+    margin-bottom: 1rem;
+  }
+
+  .prose-village :global(ul),
+  .prose-village :global(ol) {
+    color: #9ca3af;
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+    space-y: 0.5rem;
+  }
+
+  .prose-village :global(li) {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+  }
+
+  .prose-village :global(strong) {
+    color: #e5e7eb;
+    font-weight: 600;
+  }
+
+  .prose-village :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.875rem;
+  }
+
+  .prose-village :global(th) {
+    background-color: #111827;
+    color: #9ca3af;
+    font-family: var(--font-display);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.75rem;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid #1f2937;
+  }
+
+  .prose-village :global(td) {
+    padding: 0.75rem 1rem;
+    color: #d1d5db;
+    border-bottom: 1px solid #1f2937;
+    vertical-align: top;
+  }
+
+  .prose-village :global(tr:hover td) {
+    background-color: #111827;
+  }
+</style>

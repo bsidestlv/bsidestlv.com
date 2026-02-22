@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+
+const villages = await getCollection('villages', ({ data }) => !data.draft);
+const sorted = villages.sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const villageIcons: Record<string, string> = {
+  'ai-hacking': '🤖',
+  'bug-bounty': '🐛',
+  hardware: '🔧',
+};
+---
+
+<BaseLayout title="Villages">
+  <PageHero
+    title="Villages"
+    subtitle="Focused tracks diving deep into specific areas of security."
+    tag="BSidesTLV 2026"
+  />
+
+  <div class="section-container pb-24">
+    <div class="grid grid-cols-1 gap-6 md:grid-cols-3">
+      {
+        sorted.map((village) => (
+          <a
+            href={`/villages/${village.data.slug || village.slug}/`}
+            class="card hover:border-brand-700 group p-6 transition-colors duration-200"
+          >
+            <div class="mb-4 text-4xl">
+              {villageIcons[village.data.slug || village.slug] || '🏕️'}
+            </div>
+            <h2 class="font-display group-hover:text-brand-300 mb-2 text-xl font-bold text-white transition-colors">
+              {village.data.title}
+            </h2>
+            {village.data.description && (
+              <p class="text-sm leading-relaxed text-gray-400">{village.data.description}</p>
+            )}
+            <div class="text-brand-400 mt-4 flex items-center gap-1 text-sm font-medium">
+              View details
+              <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                />
+              </svg>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</BaseLayout>

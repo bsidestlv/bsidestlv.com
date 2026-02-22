@@ -1,0 +1,20 @@
+---
+interface Props {
+  message?: string;
+}
+
+const { message = 'Details coming soon! Check back later for updates.' } = Astro.props;
+---
+
+<div class="py-24 text-center">
+  <div class="mb-6 inline-flex h-16 w-16 items-center justify-center rounded-full bg-gray-800">
+    <svg class="h-8 w-8 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="1.5"
+        d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+    </svg>
+  </div>
+  <p class="mx-auto max-w-md text-lg text-gray-400">{message}</p>
+</div>

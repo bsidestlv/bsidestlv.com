@@ -1,0 +1,119 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+
+export async function getStaticPaths() {
+  const sponsors = await getCollection('sponsors', ({ data }) => !data.draft);
+  return sponsors.map((sponsor) => ({
+    params: { slug: sponsor.slug },
+    props: { sponsor },
+  }));
+}
+
+const { sponsor } = Astro.props;
+const { Content } = await render(sponsor);
+
+const logoSizeMap: Record<string, string> = {
+  platinum: 'h-20',
+  gold: 'h-16',
+  silver: 'h-14',
+  default: 'h-12',
+  chillout: 'h-10',
+  bronze: 'h-9',
+};
+const logoSize = logoSizeMap[sponsor.data.category] ?? logoSizeMap.default;
+const logo = sponsor.data.logo ?? `/images/partners/${sponsor.data.key}.png`;
+
+const tierLabel: Record<string, string> = {
+  platinum: 'Platinum Sponsor',
+  gold: 'Gold Sponsor',
+  silver: 'Silver Sponsor',
+  bronze: 'Bronze Sponsor',
+  chillout: 'Chill-out Lounge Sponsor',
+  bugbounty: 'Bug Bounty Village Sponsor',
+  partners: 'Partner',
+};
+---
+
+<BaseLayout title={sponsor.data.title}>
+  <PageHero title={sponsor.data.title} tag={tierLabel[sponsor.data.category] ?? 'Sponsor'} />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-3xl">
+      <div class="card p-8 sm:p-10">
+        <!-- Logo -->
+        <div class="mb-8 flex justify-center">
+          <a href={sponsor.data.website} target="_blank" rel="noopener noreferrer">
+            <img
+              src={logo}
+              alt={sponsor.data.title}
+              class={`${logoSize} w-auto object-contain filter brightness-0 invert opacity-90 hover:opacity-100 transition-opacity`}
+            />
+          </a>
+        </div>
+
+        <!-- Website -->
+        <div class="mb-8 text-center">
+          <a
+            href={sponsor.data.website}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-primary"
+          >
+            Visit {sponsor.data.title}
+            <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+              ></path>
+            </svg>
+          </a>
+        </div>
+
+        <!-- Content -->
+        <div class="space-y-4 leading-relaxed text-gray-300">
+          <Content />
+        </div>
+
+        <!-- Socials -->
+        {
+          sponsor.data.socials && sponsor.data.socials.length > 0 && (
+            <div class="mt-8 border-t border-gray-800 pt-6">
+              <h3 class="font-display mb-4 text-sm font-semibold tracking-widest text-gray-500 uppercase">
+                Find them at
+              </h3>
+              <div class="flex flex-wrap gap-3">
+                {sponsor.data.socials.map((social) => (
+                  <a
+                    href={social.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="rounded-lg bg-gray-800 px-4 py-2 text-sm text-gray-300 transition-colors hover:bg-gray-700 hover:text-white"
+                  >
+                    {social.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          )
+        }
+      </div>
+
+      <div class="mt-6">
+        <a href="/sponsors/" class="btn-outline">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 19l-7-7 7-7"></path>
+          </svg>
+          Back to Sponsors
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

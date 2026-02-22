@@ -1,0 +1,235 @@
+[
+  {
+    "key": "elad_shuster",
+    "name": "Elad Shuster",
+    "type": "team",
+    "subtitle": null,
+    "socials": []
+  },
+  {
+    "key": "guy_bm",
+    "name": "Guy Barnhart-Magen",
+    "type": "team",
+    "subtitle": "Profero, founder and CTO",
+    "socials": [
+      { "name": "Twitter", "url": "https://twitter.com/barnhartguy" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/guy-barnhart-magen" },
+      { "name": "Site", "url": "https://productsecurity.info" }
+    ]
+  },
+  {
+    "key": "ID",
+    "name": "Irena Damsky",
+    "type": "team",
+    "subtitle": null,
+    "socials": [
+      { "name": "Twitter", "url": "https://twitter.com/DmaskyIrena" },
+      { "name": "Site", "url": "http://damsky.tech" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/irenadam" }
+    ]
+  },
+  {
+    "key": "inbar_raz",
+    "name": "Inbar Raz",
+    "type": "team",
+    "subtitle": "CEO, Unarmed Security | Hacker of Things",
+    "socials": [
+      { "name": "Twitter", "url": "https://twitter.com/inbarraz" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/inbarraz/" }
+    ]
+  },
+  {
+    "key": "keren_elazari",
+    "name": "Keren Elazari",
+    "type": "team",
+    "subtitle": "Hack The Planet | Founder, BSidesTLV & Leading Cyber Ladies",
+    "socials": [
+      { "name": "Twitter", "url": "https://twitter.com/k3r3n3" },
+      { "name": "Site", "url": "http://www.k3r3n3.com/" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/kerene" }
+    ]
+  },
+  {
+    "key": "omer_cohen",
+    "name": "Omer Cohen",
+    "type": "team",
+    "subtitle": "CSO, Descope",
+    "socials": [
+      { "name": "Twitter", "url": "https://www.twitter.com/omercnet" },
+      { "name": "Site", "url": "http://omer.cohen.io/" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/omercohen" },
+      { "name": "GitHub", "url": "https://github.com/omercnet" }
+    ]
+  },
+  {
+    "key": "reut_menashe",
+    "name": "Reut Menashe",
+    "type": "team",
+    "subtitle": "CEO, Tetrisponse.io | Co-Leader, Leading Cyber Ladies | BSidesTLV Producer",
+    "socials": [
+      { "name": "Site", "url": "https://www.reut-menashe.com/" },
+      { "name": "Twitter", "url": "https://twitter.com/Reutooo_" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/reutmenashe" }
+    ]
+  },
+  {
+    "key": "RS",
+    "name": "Roei Sherman",
+    "type": "team",
+    "subtitle": "Not how many, but where.",
+    "socials": [
+      { "name": "Twitter", "url": "https://twitter.com/x_Freed0m" },
+      { "name": "Site", "url": "http://betheadversary.com/" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/freed0m/" },
+      { "name": "GitHub", "url": "https://github.com/xfreed0m" }
+    ]
+  },
+  {
+    "key": "inbal",
+    "name": "Inbal Pearlson",
+    "type": "team",
+    "subtitle": null,
+    "socials": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/inbal-pearlson-91709730/" }
+    ]
+  },
+  {
+    "key": "eden_katz",
+    "name": "Eden Katz",
+    "type": "team",
+    "subtitle": "Security Researcher, GenAI Security Tech Lead",
+    "socials": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/edenkatz5" },
+      { "name": "Twitter", "url": "https://x.com/wwcyber" }
+    ]
+  },
+  {
+    "key": "guy_halfon",
+    "name": "Guy Halfon",
+    "type": "team",
+    "subtitle": "CEO, Rescana",
+    "socials": [{ "name": "LinkedIn", "url": "https://www.linkedin.com/in/zecurity/" }]
+  },
+  {
+    "key": "nofar_terenyo",
+    "name": "Nofar Terenyo",
+    "type": "team",
+    "subtitle": null,
+    "socials": []
+  },
+  {
+    "key": "lavie_ben_baruch",
+    "name": "Lavie Ben-Baruch",
+    "type": "team",
+    "subtitle": null,
+    "socials": []
+  },
+  {
+    "key": "benny_meisels1",
+    "name": "Benny Meisels",
+    "type": "team",
+    "subtitle": null,
+    "socials": []
+  },
+  {
+    "key": "michal_kamensky",
+    "name": "Michal Kamensky",
+    "type": "team",
+    "subtitle": null,
+    "socials": []
+  },
+  {
+    "key": "Gili_Yankovitch",
+    "name": "Gili Yankovitch",
+    "type": "team",
+    "subtitle": "HW Village Maintainer",
+    "socials": []
+  },
+  {
+    "key": "Rotem_Reiss",
+    "name": "Rotem Reiss",
+    "type": "team",
+    "subtitle": "Bug Bounty Village Lead & CTF Organizing Team Member",
+    "socials": []
+  },
+  {
+    "key": "Tal_Eliyahu",
+    "name": "Tal Eliyahu",
+    "type": "team",
+    "subtitle": "AI Hacking Village Lead",
+    "socials": []
+  },
+  {
+    "key": "limor_kessem",
+    "name": "Limor Kessem",
+    "type": "cfpboard",
+    "subtitle": "X-Force Cyber Crisis Management, Global Lead at IBM",
+    "socials": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/limor-sylvie-kessem/" },
+      { "name": "Twitter", "url": "https://twitter.com/iCyberFighter" }
+    ]
+  },
+  {
+    "key": "marion_marschalek",
+    "name": "Marion Marschalek",
+    "type": "cfpboard",
+    "subtitle": "Founder, BlackHoodie women RE workshop",
+    "socials": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/marion-marschalek-06b79642/" }
+    ]
+  },
+  {
+    "key": "migo_kedem",
+    "name": "Migo Kedem",
+    "type": "cfpboard",
+    "subtitle": "VP, Office of the CEO & Strategic Initiatives at CrowdStrike",
+    "socials": [{ "name": "LinkedIn", "url": "https://www.linkedin.com/in/migokedem/" }]
+  },
+  {
+    "key": "ohad_zaidenberg",
+    "name": "Ohad Zaidenberg",
+    "type": "cfpboard",
+    "subtitle": "Strategic Threat Intelligence Leader | CTI Researcher",
+    "socials": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/ohad-zaidenberg/" },
+      { "name": "Twitter", "url": "https://twitter.com/ohad_mz" }
+    ]
+  },
+  {
+    "key": "noy_pearl",
+    "name": "Noy Pearl",
+    "type": "cfpboard",
+    "subtitle": "Security Researcher at Planet Nine",
+    "socials": [{ "name": "LinkedIn", "url": "https://www.linkedin.com/in/noy-pearl-419812188/" }]
+  },
+  {
+    "key": "sharon_brizinov",
+    "name": "Sharon Brizinov",
+    "type": "cfpboard",
+    "subtitle": "Director of Research at Claroty",
+    "socials": [{ "name": "LinkedIn", "url": "https://www.linkedin.com/in/sharonbrizinov/" }]
+  },
+  {
+    "key": "ilil_blum",
+    "name": "Ilil Blum Shem-Tov",
+    "type": "cfpboard",
+    "subtitle": "Security Research Team Manager at Intel",
+    "socials": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/ilil-blum-shem-tov-ph-d-aa5a4321/" }
+    ]
+  },
+  {
+    "key": "gal_bitensky",
+    "name": "Gal Bitensky",
+    "type": "cfpboard",
+    "subtitle": "Principal Security Researcher at Palo Alto Networks",
+    "socials": [{ "name": "LinkedIn", "url": "https://www.linkedin.com/in/gal-bitensky/" }]
+  },
+  {
+    "key": "yossi_sassi",
+    "name": "Yossi Sassi",
+    "type": "cfpboard",
+    "subtitle": "Co-Founder, Chief Security Architect at Ten Root Cyber Security",
+    "socials": [{ "name": "LinkedIn", "url": "https://www.linkedin.com/in/yossisassi/" }]
+  }
+]

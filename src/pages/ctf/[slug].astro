@@ -1,0 +1,137 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('ctf', ({ data }) => !data.draft);
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<BaseLayout title={entry.data.title} description={`BSidesTLV CTF ${entry.data.year}`}>
+  <PageHero title={entry.data.title} tag={`CTF ${entry.data.year}`} />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-4xl">
+      {
+        (entry.data.platform || entry.data.flagFormat) && (
+          <div class="mb-10 flex flex-wrap gap-4">
+            {entry.data.platform && (
+              <div class="card px-5 py-3">
+                <p class="mb-1 text-xs tracking-widest text-gray-500 uppercase">Platform</p>
+                <a
+                  href={`https://${entry.data.platform}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="text-brand-400 hover:text-brand-300 font-mono text-sm"
+                >
+                  {entry.data.platform}
+                </a>
+              </div>
+            )}
+            {entry.data.flagFormat && (
+              <div class="card px-5 py-3">
+                <p class="mb-1 text-xs tracking-widest text-gray-500 uppercase">Flag format</p>
+                <code class="text-brand-400 font-mono text-sm">{entry.data.flagFormat}</code>
+              </div>
+            )}
+          </div>
+        )
+      }
+
+      <div class="prose-village">
+        <Content />
+      </div>
+
+      <div class="mt-10">
+        <a href="/ctf/" class="btn-outline">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 19l-7-7 7-7"></path>
+          </svg>
+          All CTF editions
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .prose-village :global(h2) {
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 0.025em;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  .prose-village :global(h3) {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #d1d5db;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  .prose-village :global(p) {
+    color: #9ca3af;
+    line-height: 1.75;
+    margin-bottom: 1rem;
+  }
+  .prose-village :global(ul),
+  .prose-village :global(ol) {
+    color: #9ca3af;
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .prose-village :global(li) {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+  }
+  .prose-village :global(strong) {
+    color: #e5e7eb;
+    font-weight: 600;
+  }
+  .prose-village :global(a) {
+    color: var(--color-brand-400);
+    text-decoration: underline;
+  }
+  .prose-village :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.875rem;
+  }
+  .prose-village :global(th) {
+    background-color: #111827;
+    color: #9ca3af;
+    font-family: var(--font-display);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.75rem;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid #1f2937;
+  }
+  .prose-village :global(td) {
+    padding: 0.75rem 1rem;
+    color: #d1d5db;
+    border-bottom: 1px solid #1f2937;
+    vertical-align: top;
+  }
+  .prose-village :global(tr:hover td) {
+    background-color: #111827;
+  }
+</style>

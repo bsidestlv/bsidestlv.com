@@ -1,0 +1,81 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import site from '../../data/site.json';
+
+const ctfEntries = await getCollection('ctf', ({ data }) => !data.draft);
+
+// Merge real entries with the 2017 stub (no page) and sort descending
+type CtfItem =
+  | { year: number; slug: string; date?: string; noPage?: never }
+  | { year: number; noPage: true; slug?: never; date?: never };
+
+const allYears: CtfItem[] = [
+  ...ctfEntries.map((e) => ({ year: e.data.year, slug: e.slug, date: e.data.date })),
+  { year: 2017, noPage: true as const },
+].sort((a, b) => b.year - a.year);
+---
+
+<BaseLayout title="CTF">
+  <PageHero
+    title="BSidesTLV CTF"
+    subtitle="Our annual Capture the Flag competition brings together hackers from around the world."
+    tag="Capture The Flag"
+  />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-3xl">
+      <!-- Contact -->
+      <div class="card mb-10 flex flex-col items-center justify-between gap-4 p-6 sm:flex-row">
+        <div>
+          <p class="font-semibold text-white">CTF Team</p>
+          <p class="text-sm text-gray-400">Questions, team registration, or feedback?</p>
+        </div>
+        <div class="flex gap-3">
+          <a
+            href="https://twitter.com/BSidesTLV_CTF"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-outline px-4 py-2 text-sm"
+          >
+            @bsidestlv_ctf
+          </a>
+          <a href={`mailto:${site.ctfEmail}`} class="btn-primary px-4 py-2 text-sm"> Email us </a>
+        </div>
+      </div>
+
+      <!-- Year index -->
+      <h2 class="font-display mb-6 text-lg font-semibold tracking-widest text-gray-400 uppercase">
+        Previous CTFs
+      </h2>
+
+      <div class="grid grid-cols-2 gap-3 sm:grid-cols-3">
+        {
+          allYears.map((item) =>
+            item.noPage ? (
+              <div class="flex flex-col items-center gap-1">
+                <div class="card w-full cursor-not-allowed p-5 text-center opacity-40">
+                  <span class="font-display text-3xl font-bold text-gray-500">{item.year}</span>
+                </div>
+                <p class="text-xs text-gray-600">no CTF this year</p>
+              </div>
+            ) : (
+              <div class="flex flex-col items-center gap-1">
+                <a
+                  href={`/ctf/${item.slug}/`}
+                  class="card group hover:border-brand-700 w-full p-5 text-center transition-colors"
+                >
+                  <span class="font-display group-hover:text-brand-300 text-3xl font-bold text-white transition-colors">
+                    {item.year}
+                  </span>
+                </a>
+                {item.date && <p class="text-xs text-gray-500">{item.date}</p>}
+              </div>
+            )
+          )
+        }
+      </div>
+    </div>
+  </div>
+</BaseLayout>

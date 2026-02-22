@@ -1,40 +1,37 @@
 {
-  "name": "Node.js",
+  "name": "BSidesTLV",
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
-      "NODE_VARIANT": "20",
-      "HUGO_VARIANT": "hugo",
-      "HUGO_VERSION": "0.81.0"
+      "NODE_VARIANT": "24"
     }
   },
   "customizations": {
     "vscode": {
-      // Set *default* container specific settings.json values on container create.
       "settings": {
-        "terminal.integrated.defaultProfile.osx": "zsh",
-        "terminal.integrated.defaultProfile.linux": "zsh"
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "[astro]": {
+          "editor.defaultFormatter": "astro-build.astro-vscode"
+        }
       },
-      // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "bungcip.better-toml",
-        "christian-kohler.npm-intellisense",
-        "DavidAnson.vscode-markdownlint",
+        "astro-build.astro-vscode",
+        "bradlc.vscode-tailwindcss",
         "dbaeumer.vscode-eslint",
-        "eg2.vscode-npm-script",
-        "ms-azuretools.vscode-docker",
-        "ms-vscode.sublime-keybindings",
-        "Tyriar.luna-paint"
+        "esbenp.prettier-vscode",
+        "DavidAnson.vscode-markdownlint",
+        "ms-azuretools.vscode-docker"
       ]
     }
   },
-  // Use 'forwardPorts' to make a list of ports inside the container available locally.
-  "forwardPorts": [
-    1313
-  ],
-  // Use 'postCreateCommand' to run commands after the container is created.
-  // "postCreateCommand": "npm ci",
-  // Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+  "forwardPorts": [4321],
+  "portsAttributes": {
+    "4321": {
+      "label": "Astro Dev Server"
+    }
+  },
   "remoteUser": "node",
-  "postCreateCommand": "git config --global --add safe.directory /workspaces/bsidestlv.com && git submodule update --init && corepack enable && yarn install"
+  "postCreateCommand": "git config --global --add safe.directory /workspaces/bsidestlv.com && bun install && bunx playwright install chromium webkit"
 }

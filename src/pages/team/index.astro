@@ -1,0 +1,132 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import SocialIcon from '../../components/SocialIcon.astro';
+import teamData from '../../data/team.json';
+
+const team = teamData.filter((m) => m.type === 'team');
+const cfpBoard = teamData.filter((m) => m.type === 'cfpboard');
+
+// Shuffle array for random display order
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+const shuffledTeam = shuffle(team);
+const shuffledBoard = shuffle(cfpBoard);
+---
+
+<BaseLayout title="Team">
+  <PageHero
+    title="The Team"
+    subtitle="BSidesTLV is a community-driven security conference in Tel Aviv. To make all this possible, an awesome team of volunteers is working behind the scenes."
+    tag="Meet the People"
+  />
+
+  <div class="section-container pb-24">
+    <!-- Core Team -->
+    <section class="mb-20">
+      <h2 class="font-display mb-8 flex items-center gap-3 text-2xl font-bold text-white">
+        <span class="h-px flex-1 bg-gray-800"></span>
+        <span>BSidesTLV Team</span>
+        <span class="h-px flex-1 bg-gray-800"></span>
+      </h2>
+
+      <div
+        class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"
+      >
+        {
+          shuffledTeam.map((member) => {
+            const photo = `/images/team/${member.key}.jpg`;
+            return (
+              <div class="card group hover:border-brand-700 p-4 text-center transition-colors">
+                <div class="group-hover:ring-brand-700 mx-auto mb-3 h-16 w-16 overflow-hidden rounded-full bg-gray-800 ring-2 ring-gray-700 transition-colors">
+                  <img
+                    src={photo}
+                    alt={member.name}
+                    class="h-full w-full object-cover"
+                    onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=\'w-full h-full flex items-center justify-center text-gray-600 text-xl font-bold\'>' + member.name[0] + '</div>'"
+                  />
+                </div>
+                <p class="text-sm leading-tight font-semibold text-white">{member.name}</p>
+                {member.subtitle && (
+                  <p class="mt-1 line-clamp-2 text-xs leading-tight text-gray-500">
+                    {member.subtitle}
+                  </p>
+                )}
+                {member.socials && member.socials.length > 0 && (
+                  <div class="mt-2 flex justify-center gap-2">
+                    {member.socials.slice(0, 3).map((social) => (
+                      <a
+                        href={social.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="hover:text-brand-400 text-xs text-gray-600 transition-colors"
+                        aria-label={`${member.name} on ${social.name}`}
+                      >
+                        <SocialIcon name={social.name} />
+                      </a>
+                    ))}
+                  </div>
+                )}
+              </div>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <!-- CFP Review Board -->
+    <section>
+      <h2 class="font-display mb-2 flex items-center gap-3 text-2xl font-bold text-white">
+        <span class="h-px flex-1 bg-gray-800"></span>
+        <span>CFP Review Board</span>
+        <span class="h-px flex-1 bg-gray-800"></span>
+      </h2>
+      <p class="mb-8 text-center text-sm text-gray-500">
+        Security experts who review and select our talk submissions.
+      </p>
+
+      <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+        {
+          shuffledBoard.map((member) => {
+            const photo = `/images/team/${member.key}.jpg`;
+            return (
+              <div class="card group hover:border-brand-700 p-4 text-center transition-colors">
+                <div class="group-hover:ring-brand-700 mx-auto mb-3 h-16 w-16 overflow-hidden rounded-full bg-gray-800 ring-2 ring-gray-700 transition-colors">
+                  <img src={photo} alt={member.name} class="h-full w-full object-cover" />
+                </div>
+                <p class="text-sm leading-tight font-semibold text-white">{member.name}</p>
+                {member.subtitle && (
+                  <p class="mt-1 line-clamp-2 text-xs leading-tight text-gray-500">
+                    {member.subtitle}
+                  </p>
+                )}
+                {member.socials && member.socials.length > 0 && (
+                  <div class="mt-2 flex justify-center gap-2">
+                    {member.socials.slice(0, 2).map((social) => (
+                      <a
+                        href={social.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="hover:text-brand-400 text-xs text-gray-600 transition-colors"
+                        aria-label={`${member.name} on ${social.name}`}
+                      >
+                        <SocialIcon name={social.name} />
+                      </a>
+                    ))}
+                  </div>
+                )}
+              </div>
+            );
+          })
+        }
+      </div>
+    </section>
+  </div>
+</BaseLayout>

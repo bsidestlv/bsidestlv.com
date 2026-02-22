@@ -1,0 +1,97 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import site from '../../data/site.json';
+
+const faqs = [
+  {
+    q: 'What is Security BSides?',
+    a: 'Started by a group of hackers, security researchers, and people passionate about cybersecurity who are keen to share their knowledge and ideas. Security BSides is a global network of community-oriented, grassroots non-profit security events. BSidesTLV brings this spirit to Tel Aviv.',
+  },
+  {
+    q: 'Will talks be in English?',
+    a: 'Yes. We prioritize English presentations to accommodate our diverse international audience. Hebrew talks may be considered with simultaneous translation provided.',
+  },
+  {
+    q: 'How can I become a sponsor or partner?',
+    a: `We welcome sponsors who support the community! Reach out to us at ${site.email} for partnership details and sponsorship packages.`,
+  },
+  {
+    q: 'How do I submit a talk (CFP)?',
+    a: `Submit your talk, workshop, or demo via our CFP portal at ${site.cfpUrl}. We welcome topics across all areas of security and privacy.`,
+  },
+  {
+    q: 'How can I participate?',
+    a: 'There are many ways to get involved: submit a talk or demo via the CFP, volunteer at the event, design logos or artwork, ask questions at talks, network with attendees, contribute to social events, or run a village or workshop.',
+  },
+  {
+    q: 'How can I contact you?',
+    a: `Reach out via Twitter (@bsidestlv) or email us at ${site.email}.`,
+  },
+  {
+    q: 'Will talks be recorded?',
+    a: 'Most talks will be recorded and uploaded to our YouTube channel after the event.',
+  },
+  {
+    q: 'Can media or journalists attend?',
+    a: 'We consider media requests on a case-by-case basis. Please reach out in advance to discuss coverage.',
+  },
+  {
+    q: 'What is the Code of Conduct?',
+    a: 'BSidesTLV is dedicated to providing a safe and harassment-free conference experience for everyone. Commercial photography requires consent. Violations may result in expulsion. Read the full policy on our Code of Conduct page.',
+  },
+  {
+    q: 'Why is there an entrance fee?',
+    a: 'The ticket fee helps ensure commitment from attendees and offsets production costs. BSidesTLV relies primarily on sponsorships and keeps ticket prices as low as possible.',
+  },
+  {
+    q: 'Is BSidesTLV commercial?',
+    a: 'No. BSidesTLV is a 100% volunteer-run, registered non-profit association. Every penny goes back into making the conference better for the community.',
+  },
+];
+---
+
+<BaseLayout title="FAQs">
+  <PageHero
+    title="Frequently Asked Questions"
+    subtitle="Everything you need to know about BSidesTLV."
+    tag="Info"
+  />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-3xl">
+      <div class="space-y-4">
+        {
+          faqs.map((faq, i) => (
+            <details class="card group" id={`faq-${i}`}>
+              <summary class="hover:text-brand-300 flex cursor-pointer list-none items-center justify-between gap-4 p-6 font-semibold text-white transition-colors select-none">
+                <span class="font-display text-lg">{faq.q}</span>
+                <svg
+                  class="h-5 w-5 shrink-0 text-gray-500 transition-transform duration-200 group-open:rotate-180"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M19 9l-7 7-7-7"
+                  />
+                </svg>
+              </summary>
+              <div class="px-6 pb-6">
+                <p class="leading-relaxed text-gray-400">{faq.a}</p>
+              </div>
+            </details>
+          ))
+        }
+      </div>
+
+      <div class="mt-12 rounded-xl border border-gray-800 bg-gray-900/30 p-8 text-center">
+        <p class="mb-4 text-gray-400">Still have questions?</p>
+        <a href={`mailto:${site.email}`} class="btn-outline"> Contact us </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

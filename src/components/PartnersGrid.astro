@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  categories?: string[];
+  title?: string;
+}
+
+const { categories, title = 'Our Partners & Sponsors' } = Astro.props;
+
+const allSponsors = await getCollection('sponsors', ({ data }) => !data.draft);
+
+const filtered = categories
+  ? allSponsors.filter((s) => categories.includes(s.data.category))
+  : allSponsors;
+
+// Sort by order field, then alphabetically
+const sponsors = filtered.sort((a, b) => {
+  const orderA = a.data.order ?? 999;
+  const orderB = b.data.order ?? 999;
+  if (orderA !== orderB) return orderA - orderB;
+  return a.data.title.localeCompare(b.data.title);
+});
+
+// Logo size by tier
+function logoSize(category: string): string {
+  const sizes: Record<string, string> = {
+    platinum: 'h-14',
+    gold: 'h-11',
+    silver: 'h-10',
+    default: 'h-9',
+    chillout: 'h-8',
+    bronze: 'h-7',
+  };
+  return sizes[category] ?? sizes.default;
+}
+---
+
+{
+  sponsors.length > 0 && (
+    <section class="py-20">
+      <div class="section-container">
+        <div class="mb-12 text-center">
+          <h2 class="section-title">{title}</h2>
+          <div class="bg-brand-600 mx-auto mt-2 h-1 w-16 rounded-full" />
+        </div>
+
+        <div class="flex flex-wrap items-center justify-center gap-10">
+          {sponsors.map((sponsor) => {
+            const logoPath = sponsor.data.logo ?? `/images/partners/${sponsor.data.key}.png`;
+            return (
+              <a
+                href={sponsor.data.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex items-center opacity-70 transition-opacity duration-200 hover:opacity-100"
+                aria-label={sponsor.data.title}
+                title={sponsor.data.title}
+              >
+                <img
+                  src={logoPath}
+                  alt={sponsor.data.title}
+                  class={`${logoSize(sponsor.data.category)} w-auto object-contain brightness-0 invert filter`}
+                />
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  )
+}

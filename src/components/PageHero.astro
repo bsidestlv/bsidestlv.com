@@ -1,0 +1,32 @@
+---
+interface Props {
+  title: string;
+  subtitle?: string;
+  tag?: string;
+}
+
+const { title, subtitle, tag } = Astro.props;
+---
+
+<section class="relative overflow-hidden py-24">
+  <div class="from-brand-950/20 absolute inset-0 bg-linear-to-b to-transparent" aria-hidden="true">
+  </div>
+  <div
+    class="via-brand-800/50 absolute top-0 right-0 left-0 h-px bg-linear-to-r from-transparent to-transparent"
+    aria-hidden="true"
+  >
+  </div>
+
+  <div class="section-container relative text-center">
+    {
+      tag && (
+        <div class="border-brand-800 bg-brand-950/60 text-brand-300 mb-6 inline-flex items-center gap-2 rounded-full border px-3 py-1 text-xs font-semibold tracking-widest uppercase">
+          {tag}
+        </div>
+      )
+    }
+    <h1 class="section-title mb-4 text-4xl sm:text-5xl">{title}</h1>
+    {subtitle && <p class="mx-auto max-w-2xl text-lg leading-relaxed text-gray-400">{subtitle}</p>}
+    <div class="bg-brand-600 mx-auto mt-4 h-1 w-16 rounded-full"></div>
+  </div>
+</section>

@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import StatsBar from '../components/StatsBar.astro';
+import YouTubeEmbed from '../components/YouTubeEmbed.astro';
+import SubscribeCTA from '../components/SubscribeCTA.astro';
+import PartnersGrid from '../components/PartnersGrid.astro';
+import PhotoAlbum from '../components/PhotoAlbum.astro';
+import site from '../data/site.json';
+---
+
+<BaseLayout>
+  <Hero showDate>
+    <div class="mx-auto max-w-2xl text-center">
+      <div
+        class="border-brand-800 bg-brand-950/50 text-brand-300 mb-6 inline-flex items-center gap-2 rounded-full border px-4 py-1.5 text-sm font-medium"
+      >
+        <span class="h-1.5 w-1.5 animate-pulse rounded-full bg-green-400"></span>
+        Applications open — Join the 2026 team
+      </div>
+
+      <h1
+        class="font-display mb-6 text-5xl leading-tight font-bold tracking-wide text-white sm:text-7xl"
+      >
+        BSidesTLV <span class="text-brand-400">2026</span>
+      </h1>
+
+      <p class="mb-8 text-lg leading-relaxed text-gray-300 sm:text-xl">
+        Community-driven cybersecurity conference in Tel Aviv.<br />
+        Built by volunteers, for the security community.
+      </p>
+
+      <p class="mx-auto mb-10 max-w-xl text-base leading-relaxed text-gray-400">
+        We're officially opening applications for the BSidesTLV 2026 Organizing Team. If you've ever
+        wanted to be part of something meaningful in the cyber community — this is it.
+      </p>
+
+      <div class="flex flex-col justify-center gap-4 sm:flex-row">
+        <a
+          href="https://bsidestlv-2026-xwutuzg.gamma.site/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn-primary px-8 py-3.5 text-base"
+        >
+          Read the manifesto &amp; apply
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
+          </svg>
+        </a>
+        <a
+          href={site.slackUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn-outline px-8 py-3.5 text-base"
+        >
+          Join our Slack
+        </a>
+      </div>
+    </div>
+  </Hero>
+
+  <StatsBar
+    stats={[
+      { label: 'Participants', value: '1700+' },
+      { label: 'Years', value: '10' },
+      { label: 'Sessions', value: '30+' },
+      { label: 'CTF Challenges', value: '20+' },
+    ]}
+  />
+
+  <YouTubeEmbed playlistId={site.youtubePlaylist} title="Watch BSidesTLV 2024 Talks" />
+
+  <SubscribeCTA />
+
+  <PartnersGrid categories={['partners']} title="BSidesTLV 2026 Partners" />
+
+  <PhotoAlbum
+    images={[
+      '/images/album/1.jpg',
+      '/images/album/2.jpg',
+      '/images/album/3.jpg',
+      '/images/album/4.jpg',
+      '/images/album/5.jpg',
+    ]}
+    title="BSidesTLV 2024 Photos"
+    albumUrl="https://photos.app.goo.gl/GJi7XjENFwUg2yEh9"
+  />
+</BaseLayout>

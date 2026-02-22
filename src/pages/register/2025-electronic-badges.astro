@@ -1,0 +1,117 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+---
+
+<BaseLayout
+  title="2025 Electronic Badges — BSidesTLV"
+  description="The BSidesTLV 2025 Infinity Glove electronic badge — a hardware CTF with multiverse-themed challenges."
+>
+  <PageHero
+    title="2025 Electronic Badges"
+    subtitle="The Infinity Glove — Multiverse Comics Edition"
+    tag="BSidesTLV 2025"
+  />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-3xl">
+      <div class="card mb-8 p-8 text-center">
+        <img
+          src="/images/Elec_badge/BsidesTLV_2025_1080x1920.png"
+          alt="BSidesTLV 2025 Badge"
+          class="mx-auto mb-6 max-h-96 rounded-lg"
+        />
+        <p class="leading-relaxed text-gray-400">
+          This year, BSidesTLV took you deep into the Multiverse Comics universe. We brought
+          something truly legendary: <strong class="text-white"
+            >The Infinity Glove Electronic Badge</strong
+          > — a custom-designed hardware CTF unlike anything you've seen before.
+        </p>
+      </div>
+
+      <div class="mb-8 grid gap-4 sm:grid-cols-2">
+        <img src="/images/Elec_badge/front.png" alt="Badge front" class="w-full rounded-lg" />
+        <img src="/images/Elec_badge/back.png" alt="Badge back" class="w-full rounded-lg" />
+      </div>
+
+      <div class="prose-village space-y-8">
+        <section>
+          <h2>About the Badge</h2>
+          <ul>
+            <li><strong>Iconic Design</strong> — Inspired by the legendary Infinity Glove</li>
+            <li>
+              <strong>Interactive Challenge</strong> — A fully functional hardware CTF loaded with hidden
+              puzzles and multiverse secrets
+            </li>
+            <li>
+              <strong>Crafted for Hackers</strong> — Designed for explorers of all levels: noobs and veterans
+              alike
+            </li>
+            <li>
+              <strong>Self-Paced</strong> — Choose your own path: solve a few challenges or aim for full
+              multiverse domination
+            </li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Why You Want It</h2>
+          <ul>
+            <li><strong>Exclusive</strong> — Only a limited number of badges were available</li>
+            <li>
+              <strong>Challenge Access</strong> — Special CTF stages that only badge-holders could unlock
+            </li>
+            <li><strong>Collectible</strong> — A unique BSidesTLV 2025 memento that stands out</li>
+            <li>
+              <strong>Multiversal Status</strong> — Show your skills — or build them — with a badge that
+              fits every traveler
+            </li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Badge Details</h2>
+          <ul>
+            <li>
+              <strong>Price:</strong> 240 ILS (VAT included), including BSidesTLV 2025 entry ticket
+            </li>
+            <li><strong>Availability:</strong> Strictly limited, pre-order only</li>
+            <li><strong>Pickup:</strong> On-site at BSidesTLV 2025</li>
+          </ul>
+        </section>
+      </div>
+
+      <div class="mt-10 border-t border-gray-800 pt-8">
+        <p class="text-center text-sm text-gray-500 italic">
+          BSidesTLV 2025 — The Multiverse Awaits. Sale is now closed.
+        </p>
+        <div class="mt-6 text-center">
+          <a href="/register/" class="btn-outline">Back to Register</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .prose-village :global(h2) {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 0.025em;
+    margin-bottom: 0.75rem;
+  }
+  .prose-village :global(ul) {
+    color: #9ca3af;
+    padding-left: 1.5rem;
+  }
+  .prose-village :global(li) {
+    margin-bottom: 0.4rem;
+    line-height: 1.6;
+  }
+  .prose-village :global(strong) {
+    color: #e5e7eb;
+    font-weight: 600;
+  }
+</style>

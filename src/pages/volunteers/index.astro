@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import site from '../../data/site.json';
+---
+
+<BaseLayout title="Volunteer">
+  <PageHero
+    title="Volunteer at BSidesTLV"
+    subtitle="Help us make BSidesTLV 2026 an unforgettable experience for the community."
+    tag="Get Involved"
+  />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-2xl text-center">
+      <div class="card p-10">
+        <div
+          class="bg-brand-950 border-brand-800 mb-6 inline-flex h-16 w-16 items-center justify-center rounded-full border"
+        >
+          <svg class="text-brand-400 h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="1.5"
+              d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z"
+            ></path>
+          </svg>
+        </div>
+
+        <h2 class="font-display mb-4 text-2xl font-bold text-white">Join the volunteer team</h2>
+        <p class="mb-8 leading-relaxed text-gray-400">
+          BSidesTLV is built entirely by volunteers. As a volunteer, you'll get an inside look at
+          how the conference runs, meet the security community, and help make the event great.
+        </p>
+
+        <div class="flex flex-col justify-center gap-4 sm:flex-row">
+          <a
+            href={site.volunteersFormUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-primary"
+          >
+            Sign up to volunteer
+          </a>
+          <a href={`mailto:${site.volunteersEmail}`} class="btn-outline">
+            {site.volunteersEmail}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

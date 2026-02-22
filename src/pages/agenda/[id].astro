@@ -1,0 +1,151 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import { getAllSessions, getSpeakers, slugify } from '../../lib/sessionize';
+
+export async function getStaticPaths() {
+  const sessions = await getAllSessions();
+  return sessions.map((session) => ({
+    params: { id: session.id },
+    props: { session },
+  }));
+}
+
+const { session } = Astro.props;
+const speakers = await getSpeakers();
+const sessionSpeakers = speakers.filter((sp) => session.speakers.some((s) => s.id === sp.id));
+
+function formatTime(iso: string) {
+  return new Date(iso).toLocaleTimeString('en-IL', {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
+}
+---
+
+<BaseLayout title={session.title} description={session.description}>
+  <PageHero title={session.title} tag="Session" />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-3xl">
+      <div class="card p-8 sm:p-10">
+        <!-- Meta info -->
+        <div class="mb-8 flex flex-wrap gap-4">
+          {
+            session.startsAt && (
+              <div class="flex items-center gap-2 text-sm text-gray-400">
+                <svg
+                  class="h-4 w-4 text-gray-600"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+                  />
+                </svg>
+                {formatTime(session.startsAt)}
+                {session.endsAt && ` – ${formatTime(session.endsAt)}`}
+              </div>
+            )
+          }
+          {
+            session.room && (
+              <div class="flex items-center gap-2 text-sm text-gray-400">
+                <svg
+                  class="h-4 w-4 text-gray-600"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                  />
+                </svg>
+                {session.room}
+              </div>
+            )
+          }
+        </div>
+
+        <!-- Speakers -->
+        {
+          sessionSpeakers.length > 0 && (
+            <div class="mb-8 flex flex-wrap gap-4">
+              {sessionSpeakers.map((speaker) => (
+                <a
+                  href={`/speakers/${slugify(speaker.fullName)}/`}
+                  class="group flex items-center gap-3"
+                >
+                  <div class="group-hover:ring-brand-700 h-10 w-10 shrink-0 overflow-hidden rounded-full bg-gray-800 ring-1 ring-gray-700 transition-colors">
+                    {speaker.profilePicture ? (
+                      <img
+                        src={speaker.profilePicture}
+                        alt={speaker.fullName}
+                        class="h-full w-full object-cover"
+                      />
+                    ) : (
+                      <div class="flex h-full w-full items-center justify-center font-bold text-gray-500">
+                        {speaker.fullName[0]}
+                      </div>
+                    )}
+                  </div>
+                  <div>
+                    <p class="group-hover:text-brand-300 text-sm font-semibold text-white transition-colors">
+                      {speaker.fullName}
+                    </p>
+                    {speaker.tagLine && <p class="text-xs text-gray-500">{speaker.tagLine}</p>}
+                  </div>
+                </a>
+              ))}
+            </div>
+          )
+        }
+
+        <!-- Description -->
+        {
+          session.description && (
+            <div class="border-t border-gray-800 pt-6">
+              <p class="leading-relaxed whitespace-pre-line text-gray-300">{session.description}</p>
+            </div>
+          )
+        }
+
+        <!-- Tags -->
+        {
+          session.categories && session.categories.length > 0 && (
+            <div class="mt-6 flex flex-wrap gap-2 border-t border-gray-800 pt-4">
+              {session.categories.flatMap((c) =>
+                c.categoryItems.map((item) => (
+                  <span class="rounded-full bg-gray-800 px-3 py-1 text-xs font-medium text-gray-400">
+                    {item.name}
+                  </span>
+                ))
+              )}
+            </div>
+          )
+        }
+      </div>
+
+      <div class="mt-6">
+        <a href="/agenda/" class="btn-outline">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 19l-7-7 7-7"></path>
+          </svg>
+          Full Agenda
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

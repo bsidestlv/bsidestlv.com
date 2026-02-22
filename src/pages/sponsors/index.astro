@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import ComingSoon from '../../components/ComingSoon.astro';
+
+const sponsors = await getCollection('sponsors', ({ data }) => !data.draft);
+
+const tiers = [
+  { id: 'platinum', label: 'Platinum', logoClass: 'h-16' },
+  { id: 'gold', label: 'Gold', logoClass: 'h-12' },
+  { id: 'silver', label: 'Silver', logoClass: 'h-11' },
+  { id: 'bronze', label: 'Bronze', logoClass: 'h-9' },
+  { id: 'chillout', label: 'Chill-out Lounge', logoClass: 'h-9' },
+  { id: 'bugbounty', label: 'Bug Bounty Village', logoClass: 'h-9' },
+  { id: 'partners', label: 'Partners', logoClass: 'h-9' },
+];
+
+const byCat = Object.fromEntries(
+  tiers.map((t) => [
+    t.id,
+    sponsors
+      .filter((s) => s.data.category === t.id)
+      .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999)),
+  ])
+);
+const hasSponsors = sponsors.length > 0;
+---
+
+<BaseLayout title="Sponsors">
+  <PageHero
+    title="Sponsors & Partners"
+    subtitle="BSidesTLV is made possible by the generous support of our sponsors."
+    tag="BSidesTLV 2026"
+  />
+
+  <div class="section-container pb-24">
+    {
+      hasSponsors ? (
+        <div class="space-y-16">
+          {tiers.map((tier) => {
+            const tierSponsors = byCat[tier.id];
+            if (!tierSponsors || tierSponsors.length === 0) return null;
+            return (
+              <div>
+                <h2 class="font-display mb-8 text-center text-sm font-semibold tracking-widest text-gray-500 uppercase">
+                  {tier.label}
+                </h2>
+                <div class="flex flex-wrap items-center justify-center gap-12">
+                  {tierSponsors.map((sponsor) => {
+                    const logo = sponsor.data.logo ?? `/images/partners/${sponsor.data.key}.png`;
+                    return (
+                      <a
+                        href={`/sponsors/${sponsor.slug}/`}
+                        class="group flex flex-col items-center gap-3 opacity-70 transition-opacity hover:opacity-100"
+                        title={sponsor.data.title}
+                      >
+                        <img
+                          src={logo}
+                          alt={sponsor.data.title}
+                          class={`${tier.logoClass} w-auto object-contain brightness-0 invert filter`}
+                        />
+                        <span class="text-xs text-gray-500 transition-colors group-hover:text-gray-300">
+                          {sponsor.data.title}
+                        </span>
+                      </a>
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })}
+
+          <div class="mt-16 border-t border-gray-800 pt-8 text-center">
+            <p class="mb-4 text-gray-400">Interested in sponsoring BSidesTLV 2026?</p>
+            <a href="mailto:info@bsidestlv.com" class="btn-outline">
+              Get in touch
+            </a>
+          </div>
+        </div>
+      ) : (
+        <ComingSoon message="Sponsorship details for 2026 are coming soon." />
+      )
+    }
+  </div>
+</BaseLayout>

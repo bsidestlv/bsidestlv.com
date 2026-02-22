@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import ComingSoon from '../../components/ComingSoon.astro';
+import { getSpeakers, slugify } from '../../lib/sessionize';
+
+const speakers = await getSpeakers();
+const hasSpeakers = speakers.length > 0;
+---
+
+<BaseLayout title="Speakers">
+  <PageHero
+    title="Speakers"
+    subtitle="Meet the security researchers, practitioners, and experts presenting at BSidesTLV 2026."
+    tag="BSidesTLV 2026"
+  />
+
+  <div class="section-container pb-24">
+    {
+      hasSpeakers ? (
+        <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+          {speakers.map((speaker) => {
+            const slug = slugify(speaker.fullName);
+            return (
+              <a
+                href={`/speakers/${slug}/`}
+                class="card group hover:border-brand-700 p-4 text-center transition-colors"
+              >
+                <div class="group-hover:ring-brand-700 mx-auto mb-3 h-20 w-20 overflow-hidden rounded-full bg-gray-800 ring-2 ring-gray-700 transition-colors">
+                  {speaker.profilePicture ? (
+                    <img
+                      src={speaker.profilePicture}
+                      alt={speaker.fullName}
+                      class="h-full w-full object-cover"
+                      loading="lazy"
+                    />
+                  ) : (
+                    <div class="font-display flex h-full w-full items-center justify-center text-2xl font-bold text-gray-500">
+                      {speaker.fullName[0]}
+                    </div>
+                  )}
+                </div>
+                <p class="group-hover:text-brand-300 text-sm leading-tight font-semibold text-white transition-colors">
+                  {speaker.fullName}
+                </p>
+                {speaker.tagLine && (
+                  <p class="mt-1 line-clamp-2 text-xs leading-tight text-gray-500">
+                    {speaker.tagLine}
+                  </p>
+                )}
+              </a>
+            );
+          })}
+        </div>
+      ) : (
+        <ComingSoon message="Speaker announcements for BSidesTLV 2026 are coming soon! Subscribe to our newsletter to get notified." />
+      )
+    }
+  </div>
+</BaseLayout>
