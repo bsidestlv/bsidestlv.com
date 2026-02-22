@@ -1,44 +1,64 @@
 {
-  "name": "bsidestlv-website",
-  "version": "2025.0.0",
-  "description": "The website for BSidesTLV conference based on GDGToulouse theme",
-  "repository": "https://github.com/bsidestlv/bsidestlv.com",
-  "author": "Omer Cohen <omer@bsidestlv.com>",
-  "license": "MIT",
-  "private": true,
+  "name": "bsidestlv-com",
+  "type": "module",
+  "version": "2026.0.0",
+  "engines": {
+    "node": ">=24.0.0",
+    "bun": ">=1.3.0"
+  },
   "scripts": {
-    "build:images": "node tools/images.js",
-    "build:icons": "node tools/icons.js",
-    "build:styles": "node tools/styles.js",
-    "build:scripts": "node tools/scripts.js",
-    "build:minify": "node tools/minify.js",
-    "build:talks": "echo node tools/talks.mjs",
-    "build:site": "hugo --minify --gc --buildFuture",
-    "build": "run-s 'build:**'",
-    "start": "hugo server --bind=0.0.0.0 --buildFuture --renderToDisk"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "test": "bun test",
+    "test:unit": "bun test tests/unit",
+    "test:e2e": "bunx playwright test",
+    "test:e2e:ui": "bunx playwright test --ui",
+    "test:e2e:headed": "bunx playwright test --headed",
+    "test:all": "bun test tests/unit && bunx playwright test",
+    "check": "astro check",
+    "lint": "astro check && eslint src",
+    "lint:fix": "eslint src --fix",
+    "format": "prettier --write src",
+    "format:check": "prettier --check src",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{astro,ts,js,mjs}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.md": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.{css,json}": [
+      "prettier --write"
+    ]
+  },
+  "dependencies": {
+    "astro": "^5.0.0",
+    "@tailwindcss/vite": "^4.0.0",
+    "tailwindcss": "^4.0.0"
   },
   "devDependencies": {
-    "@babel/core": "7.23.9",
-    "@babel/preset-env": "7.23.9",
-    "@rollup/plugin-babel": "6.0.4",
-    "@rollup/plugin-terser": "0.4.4",
-    "axios": "1.13.5",
-    "cssnano": "6.0.3",
-    "glob": "10.5.0",
-    "html-minifier": "4.0.0",
-    "npm-run-all": "4.1.5",
-    "plop-logger": "3.1.7",
-    "postcss": "8.4.35",
-    "postcss-preset-env": "9.3.0",
-    "rimraf": "5.0.5",
-    "rollup": "4.22.4",
-    "sass": "1.70.0",
-    "sass-mq": "6.0.0",
-    "sharp": "0.33.2",
-    "terser": "5.27.0"
-  },
-  "engines": {
-    "node": "20.18.1"
-  },
-  "packageManager": "yarn@4.0.2"
+    "@astrojs/check": "^0.9.6",
+    "@astrojs/sitemap": "^3.0.0",
+    "@eslint/markdown": "^7.5.1",
+    "@nuasite/llm-enhancements": "^0.9.3",
+    "@playwright/test": "^1.58.2",
+    "@types/bun": "^1.3.9",
+    "@typescript-eslint/eslint-plugin": "^8.56.0",
+    "@typescript-eslint/parser": "^8.56.0",
+    "eslint": "^10.0.1",
+    "eslint-plugin-astro": "^1.6.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
+    "prettier": "^3.8.1",
+    "prettier-plugin-astro": "^0.14.1",
+    "prettier-plugin-tailwindcss": "^0.7.2",
+    "typescript": "^5.9.3"
+  }
 }

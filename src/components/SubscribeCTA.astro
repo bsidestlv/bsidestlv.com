@@ -1,0 +1,59 @@
+---
+import site from '../data/site.json';
+---
+
+<section class="py-20">
+  <div class="section-container">
+    <div
+      class="border-brand-900/50 from-brand-950/80 relative overflow-hidden rounded-2xl border bg-linear-to-br to-gray-950"
+    >
+      <!-- Background glow -->
+      <div
+        class="from-brand-900/20 absolute inset-0 bg-linear-to-br to-transparent"
+        aria-hidden="true"
+      >
+      </div>
+
+      <div class="relative px-8 py-14 text-center">
+        <div
+          class="border-brand-800 bg-brand-950/60 text-brand-300 mb-6 inline-flex items-center gap-2 rounded-full border px-3 py-1 text-xs font-semibold tracking-widest uppercase"
+        >
+          Stay Updated
+        </div>
+
+        <h2 class="section-title mb-4 text-3xl sm:text-4xl">Don't miss BSidesTLV 2026</h2>
+
+        <p class="mx-auto mb-8 max-w-xl text-lg text-gray-400">
+          Get notified about speaker announcements, ticket releases, and important conference
+          updates.
+        </p>
+
+        <div class="flex flex-col justify-center gap-4 sm:flex-row">
+          <a
+            href={site.subscriptionUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-primary px-8 py-3.5 text-base"
+          >
+            Subscribe to updates
+            <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
+            </svg>
+          </a>
+          <a
+            href={site.slackUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-outline px-8 py-3.5 text-base"
+          >
+            Join our Slack
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

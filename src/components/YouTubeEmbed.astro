@@ -1,0 +1,45 @@
+---
+interface Props {
+  playlistId?: string;
+  videoId?: string;
+  title?: string;
+}
+
+const { playlistId, videoId, title = 'BSidesTLV Videos' } = Astro.props;
+
+const src = playlistId
+  ? `https://www.youtube.com/embed/videoseries?list=${playlistId}`
+  : `https://www.youtube.com/embed/${videoId}`;
+---
+
+<section class="py-20">
+  <div class="section-container">
+    <div class="mb-10 text-center">
+      <h2 class="section-title">{title}</h2>
+      <div class="bg-brand-600 mx-auto mt-2 h-1 w-16 rounded-full"></div>
+    </div>
+
+    <div class="mx-auto max-w-4xl">
+      <div
+        class="relative overflow-hidden rounded-2xl border border-gray-800 shadow-2xl"
+        style="padding-bottom: 56.25%;"
+      >
+        <iframe
+          data-src={src}
+          title={title}
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          class="absolute inset-0 h-full w-full bg-gray-900"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  // Lazy-load iframes on page load
+  window.addEventListener('load', () => {
+    document.querySelectorAll('iframe[data-src]').forEach((iframe) => {
+      (iframe as HTMLIFrameElement).src = iframe.getAttribute('data-src') || '';
+    });
+  });
+</script>

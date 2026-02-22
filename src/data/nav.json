@@ -1,0 +1,11 @@
+[
+  { "label": "Agenda", "path": "/agenda/" },
+  { "label": "Villages", "path": "/villages/" },
+  { "label": "Register", "path": "/register/" },
+  { "label": "Speakers", "path": "/speakers/" },
+  { "label": "CFP", "path": "/cfp/" },
+  { "label": "CTF", "path": "/ctf/" },
+  { "label": "Team", "path": "/team/" },
+  { "label": "Sponsors", "path": "/sponsors/" },
+  { "label": "FAQs", "path": "/faq/" }
+]

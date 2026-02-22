@@ -1,0 +1,3 @@
+[test]
+# Unit test directory (bun test runs these natively)
+root = "tests/unit"

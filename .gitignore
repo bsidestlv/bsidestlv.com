@@ -1,36 +1,30 @@
+# Environment
 .env
-# Hugo default output directory
-/public
-/resources
+.env.*
+!.env.example
 
-## OS Files
-# Windows
+# Build output
+dist/
+
+# Dependencies
+node_modules/
+
+# Astro
+.astro/
+
+# Playwright
+playwright-report/
+test-results/
+blob-report/
+.cache/
+
+# OS
+.DS_Store
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# OSX
-.DS_Store
-
-/resources/
-public/
-node_modules/
-.firebase/
+# Editor
 .idea/
-yarn-error.log
-
-
-static/theme.js
-static/icons.svg
-static/schedule/schedule*.pdf
-static/CNAME
-*-1140.jpg
-*-960.jpg
-*-720.jpg
-*-540.jpg
-
-/static/styles/*.css
-*.webp
 .vscode/settings.json
-.yarn/install-state.gz

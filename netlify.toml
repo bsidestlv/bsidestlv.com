@@ -1,12 +1,8 @@
 [build]
-publish = "public"
-command = "yarn run build"
+  publish = "dist"
+  command = "bun run build"
 
 [build.environment]
-HUGO_VERSION = "0.81.0"
-HUGO_ENABLEGITINFO = "true"
-# GOOGLE_MAPS_API_KEY should be set in Netlify's environment variables UI, not here
-
-[context.production.environment]
-HUGO_ENV = "production"
-NODE_ENV = "development"
+  NODE_VERSION = "24"
+  BUN_VERSION = "1.3.9"
+  NODE_ENV = "production"

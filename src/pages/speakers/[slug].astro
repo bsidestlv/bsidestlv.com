@@ -1,0 +1,131 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import SocialIcon from '../../components/SocialIcon.astro';
+import { getSpeakers, getAllSessions, slugify } from '../../lib/sessionize';
+
+export async function getStaticPaths() {
+  const speakers = await getSpeakers();
+  return speakers.map((speaker) => ({
+    params: { slug: slugify(speaker.fullName) },
+    props: { speaker },
+  }));
+}
+
+const { speaker } = Astro.props;
+const allSessions = await getAllSessions();
+const talks = allSessions.filter((s) => s.speakers.some((sp) => sp.id === speaker.id));
+---
+
+<BaseLayout title={speaker.fullName} description={speaker.tagLine}>
+  <PageHero title={speaker.fullName} tag="Speaker" />
+
+  <div class="section-container pb-24">
+    <div class="mx-auto max-w-3xl">
+      <div class="card p-8 sm:p-10">
+        <div class="mb-8 flex flex-col items-start gap-6 sm:flex-row">
+          <!-- Photo -->
+          <div
+            class="h-24 w-24 shrink-0 overflow-hidden rounded-full bg-gray-800 ring-2 ring-gray-700"
+          >
+            {
+              speaker.profilePicture ? (
+                <img
+                  src={speaker.profilePicture}
+                  alt={speaker.fullName}
+                  class="h-full w-full object-cover"
+                />
+              ) : (
+                <div class="font-display flex h-full w-full items-center justify-center text-3xl font-bold text-gray-500">
+                  {speaker.fullName[0]}
+                </div>
+              )
+            }
+          </div>
+
+          <!-- Info -->
+          <div class="flex-1">
+            <h1 class="font-display mb-1 text-2xl font-bold text-white">{speaker.fullName}</h1>
+            {speaker.tagLine && <p class="text-brand-400 mb-3 text-sm">{speaker.tagLine}</p>}
+
+            <!-- Social links -->
+            {
+              speaker.links && speaker.links.length > 0 && (
+                <div class="flex flex-wrap gap-2">
+                  {speaker.links.map((link) => (
+                    <a
+                      href={link.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="hover:text-brand-400 text-gray-500 transition-colors"
+                      aria-label={`${speaker.fullName} on ${link.title || link.linkType}`}
+                    >
+                      <SocialIcon name={link.linkType} class="h-4 w-4" />
+                    </a>
+                  ))}
+                </div>
+              )
+            }
+          </div>
+        </div>
+
+        <!-- Bio -->
+        {
+          speaker.bio && (
+            <div class="border-t border-gray-800 pt-6">
+              <h2 class="font-display mb-4 text-sm font-semibold tracking-widest text-gray-500 uppercase">
+                Bio
+              </h2>
+              <p class="leading-relaxed whitespace-pre-line text-gray-300">{speaker.bio}</p>
+            </div>
+          )
+        }
+
+        <!-- Talks -->
+        {
+          talks.length > 0 && (
+            <div class="mt-6 border-t border-gray-800 pt-6">
+              <h2 class="font-display mb-4 text-sm font-semibold tracking-widest text-gray-500 uppercase">
+                Sessions
+              </h2>
+              <div class="space-y-3">
+                {talks.map((talk) => (
+                  <a
+                    href={`/agenda/${talk.id}/`}
+                    class="card hover:border-brand-700 group block p-4 transition-colors"
+                  >
+                    <p class="group-hover:text-brand-300 font-semibold text-white transition-colors">
+                      {talk.title}
+                    </p>
+                    {talk.startsAt && (
+                      <p class="mt-1 text-sm text-gray-500">
+                        {new Date(talk.startsAt).toLocaleTimeString('en-IL', {
+                          hour: '2-digit',
+                          minute: '2-digit',
+                        })}
+                        {talk.room && ` · ${talk.room}`}
+                      </p>
+                    )}
+                  </a>
+                ))}
+              </div>
+            </div>
+          )
+        }
+      </div>
+
+      <div class="mt-6">
+        <a href="/speakers/" class="btn-outline">
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 19l-7-7 7-7"></path>
+          </svg>
+          All Speakers
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

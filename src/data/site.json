@@ -1,0 +1,31 @@
+{
+  "name": "BSidesTLV",
+  "title": "BSidesTLV 2026",
+  "year": 2026,
+  "date": "2026-06-25",
+  "dateDisplay": "June 25, 2026",
+  "location": "Tel Aviv",
+  "description": "BSidesTLV — Community-driven cybersecurity conference in Tel Aviv. June 25, 2026.",
+  "email": "info@bsidestlv.com",
+  "cfpUrl": "https://cfp.bsidestlv.com/",
+  "subscriptionUrl": "https://e.bsidestlv.com/subscription/lGCnPUft?locale=en-US",
+  "slackUrl": "https://slack.bsidestlv.com",
+  "volunteersFormUrl": "https://signup.com/go/XWAtoJV",
+  "volunteersEmail": "volunteer@bsidestlv.com",
+  "reportEmail": "report@bsidestlv.com",
+  "ctfEmail": "ctf@bsidestlv.com",
+  "ctfTwitter": "@bsidestlv_ctf",
+  "youtubeChannel": "UCKcGZg3NT3iPEXuiLk15nrQ",
+  "youtubePlaylist": "PLkNlAwTF5yEsxhdzTmwYCt2WJsq72U4zl",
+  "googleAnalytics": "UA-171723556-1",
+  "social": {
+    "twitter": "https://twitter.com/bsidestlv",
+    "facebook": "https://www.facebook.com/bsidestlv/",
+    "linkedin": "https://www.linkedin.com/company/bsidestlv/",
+    "youtube": "https://www.youtube.com/channel/UCKcGZg3NT3iPEXuiLk15nrQ"
+  },
+  "copyright": "We ❤️ TLV",
+  "ogImage": "/logo.svg",
+  "logo": "/logo.svg",
+  "logoColor": "/logo.svg"
+}

@@ -1,0 +1,104 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import ComingSoon from '../../components/ComingSoon.astro';
+import { getAllSessions, slugify } from '../../lib/sessionize';
+
+const sessions = await getAllSessions();
+
+// Sort by start time
+const sorted = sessions.sort((a, b) => {
+  if (!a.startsAt) return 1;
+  if (!b.startsAt) return -1;
+  return new Date(a.startsAt).getTime() - new Date(b.startsAt).getTime();
+});
+
+const hasSessions = sessions.length > 0;
+
+function formatTime(iso: string) {
+  return new Date(iso).toLocaleTimeString('en-IL', {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
+}
+---
+
+<BaseLayout title="Agenda">
+  <PageHero
+    title="Agenda"
+    subtitle="The full conference schedule for BSidesTLV 2026."
+    tag="BSidesTLV 2026"
+  />
+
+  <div class="section-container pb-24">
+    {
+      hasSessions ? (
+        <div class="mx-auto max-w-5xl">
+          <div class="overflow-x-auto rounded-xl border border-gray-800">
+            <table class="w-full text-sm">
+              <thead>
+                <tr class="border-b border-gray-800 bg-gray-900/60">
+                  <th class="font-display w-24 px-4 py-3 text-left text-xs font-semibold tracking-widest text-gray-500 uppercase">
+                    Time
+                  </th>
+                  <th class="font-display px-4 py-3 text-left text-xs font-semibold tracking-widest text-gray-500 uppercase">
+                    Session
+                  </th>
+                  <th class="font-display hidden px-4 py-3 text-left text-xs font-semibold tracking-widest text-gray-500 uppercase md:table-cell">
+                    Speaker(s)
+                  </th>
+                  <th class="font-display hidden px-4 py-3 text-left text-xs font-semibold tracking-widest text-gray-500 uppercase lg:table-cell">
+                    Room
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                {sorted.map((session, i) => (
+                  <tr
+                    class:list={[
+                      'border-b border-gray-800/50 transition-colors hover:bg-gray-900/40',
+                      i % 2 === 0 ? '' : 'bg-gray-900/20',
+                    ]}
+                  >
+                    <td class="px-4 py-3 font-mono text-xs whitespace-nowrap text-gray-500">
+                      {session.startsAt && formatTime(session.startsAt)}
+                    </td>
+                    <td class="px-4 py-3">
+                      <a
+                        href={`/agenda/${session.id}/`}
+                        class="hover:text-brand-300 font-medium text-white transition-colors"
+                      >
+                        {session.title}
+                      </a>
+                    </td>
+                    <td class="hidden px-4 py-3 md:table-cell">
+                      <div class="flex flex-col gap-1">
+                        {session.speakers.map((sp) => {
+                          const spSlug = slugify(sp.name);
+                          return (
+                            <a
+                              href={`/speakers/${spSlug}/`}
+                              class="text-brand-400 hover:text-brand-300 text-xs transition-colors"
+                            >
+                              {sp.name}
+                            </a>
+                          );
+                        })}
+                      </div>
+                    </td>
+                    <td class="hidden px-4 py-3 text-xs text-gray-500 lg:table-cell">
+                      {session.room}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      ) : (
+        <ComingSoon message="The 2026 agenda is coming soon! Follow us on social media or subscribe to our newsletter for updates." />
+      )
+    }
+  </div>
+</BaseLayout>

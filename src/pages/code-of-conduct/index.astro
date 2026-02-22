@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import site from '../../data/site.json';
+---
+
+<BaseLayout title="Code of Conduct">
+  <PageHero
+    title="Code of Conduct"
+    subtitle="BSidesTLV is dedicated to providing a safe and harassment-free experience for everyone."
+    tag="Community"
+  />
+
+  <div class="section-container pb-24">
+    <div class="prose-lg mx-auto max-w-3xl">
+      <div class="card space-y-8 p-8 leading-relaxed text-gray-300 sm:p-10">
+        <div>
+          <h2 class="font-display mb-4 text-2xl font-bold text-white">Our Commitment</h2>
+          <p>
+            BSidesTLV is dedicated to providing a safe and harassment-free conference experience for
+            everyone, regardless of gender, gender identity and expression, age, sexual orientation,
+            disability, physical appearance, body size, race, ethnicity, religion (or lack thereof),
+            or technology choices.
+          </p>
+          <p class="mt-4">
+            We do not tolerate harassment of conference participants in any form. Sexual language
+            and imagery is not appropriate for any conference venue, including talks, workshops,
+            parties, Twitter, and other online media.
+          </p>
+        </div>
+
+        <div>
+          <h2 class="font-display mb-4 text-2xl font-bold text-white">Photography Policy</h2>
+          <p>
+            Commercial photography of events, participants, or conference grounds requires prior
+            consent from all involved parties and approval from BSidesTLV management.
+          </p>
+          <p class="mt-4">Official BSidesTLV materials may be freely used by the community.</p>
+        </div>
+
+        <div>
+          <h2 class="font-display mb-4 text-2xl font-bold text-white">Enforcement</h2>
+          <p>
+            Conference participants violating these rules may be sanctioned or expelled from the
+            conference at the discretion of the organizers.
+          </p>
+          <p class="mt-4">
+            If you experience or witness harassment, please contact the conference staff
+            immediately.
+          </p>
+        </div>
+
+        <div class="border-t border-gray-800 pt-4">
+          <h2 class="font-display mb-4 text-xl font-bold text-white">Report a violation</h2>
+          <div class="flex flex-col gap-4 sm:flex-row">
+            <a href={`mailto:${site.reportEmail}`} class="btn-primary">
+              Email: {site.reportEmail}
+            </a>
+            <a
+              href="https://confcodeofconduct.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn-outline"
+            >
+              confcodeofconduct.com
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
