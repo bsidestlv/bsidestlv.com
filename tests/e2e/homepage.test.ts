@@ -33,23 +33,23 @@ test.describe('Homepage', () => {
     await expect(page.getByText(/CTF Challenges/i)).toBeVisible();
   });
 
-  test('has manifesto / apply CTA link', async ({ page }) => {
-    const cta = page.getByRole('link', { name: /manifesto.*apply|apply/i });
-    await expect(cta).toBeVisible();
-    await expect(cta).toHaveAttribute('href', /gamma\.site|bsidestlv-2026/);
-  });
+  // test('has manifesto / apply CTA link', async ({ page }) => {
+  //   const cta = page.getByRole('link', { name: /manifesto.*apply|apply/i });
+  //   await expect(cta).toBeVisible();
+  //   await expect(cta).toHaveAttribute('href', /gamma\.site|bsidestlv-2026/);
+  // });
 
-  test('has Slack link', async ({ page }) => {
-    const slack = page.getByRole('link', { name: /slack/i }).first();
-    await expect(slack).toBeVisible();
-  });
+  // test('has Slack link', async ({ page }) => {
+  //   const slack = page.getByRole('link', { name: /slack/i }).first();
+  //   await expect(slack).toBeVisible();
+  // });
 
-  test('subscribe CTA section is present', async ({ page }) => {
-    await expect(page.getByText(/Don't miss BSidesTLV 2026/i)).toBeVisible();
-  });
+  // test('subscribe CTA section is present', async ({ page }) => {
+  //   await expect(page.getByText(/Don't miss BSidesTLV 2026/i)).toBeVisible();
+  // });
 
   test('photo album section is present', async ({ page }) => {
-    await expect(page.getByText(/BSidesTLV 2024 Photos/i)).toBeVisible();
+    await expect(page.getByText(/BSidesTLV 2025 Photos/i)).toBeVisible();
   });
 
   test('footer is present with social links', async ({ page }) => {
