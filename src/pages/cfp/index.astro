@@ -35,14 +35,33 @@ import site from '../../data/site.json';
           engineering, hardware hacking, privacy, and anything in between. English is preferred to
           accommodate our international community.
         </p>
-
+        <br>
+        <br>
         <a
           href={site.cfpUrl}
           target="_blank"
           rel="noopener noreferrer"
           class="btn-primary px-8 py-3.5 text-base"
         >
-          Submit via CFP portal
+          Submit a Talk
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+            ></path>
+          </svg>
+        </a>
+        <br>
+        <br>
+        <a
+          href={site.cfpUrlforworkshops}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn-primary px-8 py-3.5 text-base"
+        >
+          Submit a Workshop
           <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path
               stroke-linecap="round"
@@ -59,7 +78,7 @@ import site from '../../data/site.json';
           [
             { title: 'Talk', desc: '20 or 40 minute presentations on any security topic' },
             { title: 'Workshop', desc: 'Hands-on technical workshops and training sessions' },
-            { title: 'Demo', desc: 'Live demonstrations of tools, techniques, or research' },
+            { title: 'Village', desc: 'Collaborative hubs for niche security topics' },
           ].map((item) => (
             <div class="card p-5 text-center">
               <h3 class="font-display mb-2 font-semibold text-white">{item.title}</h3>
