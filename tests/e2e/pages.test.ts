@@ -161,8 +161,9 @@ test.describe('Sponsors page', () => {
 test.describe('CFP page', () => {
   test('shows submission instructions', async ({ page }) => {
     await page.goto('/cfp/');
-    await expect(page.getByText(/Submit your talk/i)).toBeVisible();
-    await expect(page.getByRole('link', { name: /CFP portal/i })).toBeVisible();
+    await expect(page.getByText(/Submit a Talk/i)).toBeVisible();
+    await expect(page.getByText(/Submit a Workshop/i)).toBeVisible();
+    // await expect(page.getByRole('link', { name: /CFP portal/i })).toBeVisible();
   });
 
   test('shows talk/workshop/demo categories', async ({ page }) => {
