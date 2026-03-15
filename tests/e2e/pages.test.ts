@@ -169,7 +169,7 @@ test.describe('CFP page', () => {
     await page.goto('/cfp/');
     await expect(page.getByRole('heading', { name: 'Talk', exact: true })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'Workshop', exact: true })).toBeVisible();
-    await expect(page.getByRole('heading', { name: 'Demo', exact: true })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Village', exact: true })).toBeVisible();
   });
 });
 
