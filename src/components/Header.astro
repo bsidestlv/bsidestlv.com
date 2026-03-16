@@ -116,16 +116,22 @@ function isActive(path: string) {
 </style>
 
 <script>
-  const btn = document.getElementById('mobile-menu-btn');
-  const menu = document.getElementById('mobile-menu');
-  const menuIcon = document.getElementById('menu-icon');
-  const closeIcon = document.getElementById('close-icon');
+  // Runs only once when the layout first loads.
+  function initMobileMenu() {
+    const btn = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    const menuIcon = document.getElementById('menu-icon');
+    const closeIcon = document.getElementById('close-icon');
 
-  btn?.addEventListener('click', () => {
-    const isOpen = menu?.classList.contains('hidden') === false;
-    menu?.classList.toggle('hidden');
-    menuIcon?.classList.toggle('hidden');
-    closeIcon?.classList.toggle('hidden');
-    btn.setAttribute('aria-expanded', String(!isOpen));
-  });
+    btn?.addEventListener('click', () => {
+      const isOpen = menu?.classList.contains('hidden') === false;
+      menu?.classList.toggle('hidden');
+      menuIcon?.classList.toggle('hidden');
+      closeIcon?.classList.toggle('hidden');
+      btn.setAttribute('aria-expanded', String(!isOpen));
+    });
+  }
+
+  // Will load JS files also after switching pages.
+  document.addEventListener('astro:page-load', initMobileMenu);
 </script>
