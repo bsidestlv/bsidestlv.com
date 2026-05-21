@@ -23,7 +23,7 @@ test.describe('Homepage', () => {
   });
 
   test('shows event date', async ({ page }) => {
-    await expect(page.getByText(/June 25, 2026/)).toBeVisible();
+    await expect(page.getByText(/November 11, 2026/)).toBeVisible();
   });
 
   test('shows key stats', async ({ page }) => {
